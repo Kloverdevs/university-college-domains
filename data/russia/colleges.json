@@ -153,8 +153,8 @@
     "name": "Moscow College of Engineers of Waterways Transport",
     "country": "Russia",
     "state": "Russia",
-    "city": "",
-    "domain": "",
+    "city": "Novosibirsk",
+    "domain": "ssuwt.com",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -173,8 +173,8 @@
     "name": "Riga College of Radio Electronic Instrument Engineering",
     "country": "Russia",
     "state": "Russia",
-    "city": "",
-    "domain": "",
+    "city": "Novosibirsk",
+    "domain": "tdisie.nsc.ru",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -183,8 +183,8 @@
     "name": "Shakhty Higher Pedagogical Uchilishche (College)",
     "country": "Russia",
     "state": "Russia",
-    "city": "",
-    "domain": "",
+    "city": "Shakhty",
+    "domain": "siurgtu.ru",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -203,8 +203,8 @@
     "name": "Tbilisi National Medical College",
     "country": "Russia",
     "state": "Russia",
-    "city": "",
-    "domain": "",
+    "city": "Lovozero",
+    "domain": "lovsnk.ru",
     "aliases": [],
     "type": "University",
     "control": "Public"

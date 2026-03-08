@@ -13,8 +13,8 @@
     "name": "Hanoi Teacher Training College No. 1",
     "country": "Vietnam",
     "state": "Vietnam",
-    "city": "",
-    "domain": "",
+    "city": "Hanoi",
+    "domain": "english.hnue.edu.vn",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -33,8 +33,8 @@
     "name": "Melior International College",
     "country": "Vietnam",
     "state": "Vietnam",
-    "city": "",
-    "domain": "",
+    "city": "Ho Chi Minh City",
+    "domain": "psbcollege.edu.vn",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -43,8 +43,8 @@
     "name": "National Economic and Technical College",
     "country": "Vietnam",
     "state": "Vietnam",
-    "city": "",
-    "domain": "",
+    "city": "Hanoi",
+    "domain": "vumon.vn",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -63,8 +63,8 @@
     "name": "Saigon International College",
     "country": "Vietnam",
     "state": "Vietnam",
-    "city": "",
-    "domain": "",
+    "city": "Ho Chi Minh City",
+    "domain": "siu.edu.vn",
     "aliases": [],
     "type": "University",
     "control": "Public"

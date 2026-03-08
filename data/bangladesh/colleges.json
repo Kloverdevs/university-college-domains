@@ -1,10 +1,1380 @@
 [
   {
+    "name": "Adamjee Cantonment College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "acc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Adhyapak Abdul Majid College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "institute.alormela.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Adil Uddin College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "adiluddincollege.jessoreboard.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Agrabad Mohila College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "amc.bise-ctg.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Akhtar Hossain Choudhury Memorial Degree College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "ahcmc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Anwer Khan Modern Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Khulna",
+    "domain": "akmmc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Armed Forces Medical College (Bangladesh)",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "afmc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Army Medical College Cumilla",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "amccomilla.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Army Medical College, Chattogram",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "amcc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Atomic Energy Research Establishment School and College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "aeresc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Azam Khan Government Commerce College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "akcc.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "BAF Shaheen College Chattogram",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "bafsc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "BCIC College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "bciccollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "BIAM Model School and College, Bogura",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "biammodelbogra.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baithakata College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "barisalboard.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Banani Bidyaniketan School and College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "bbnsc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bangla College killing field",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "banglacollege.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bangladesh College of Physicians and Surgeons",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "bcps.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bangladesh Home Economics College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "bangladeshhomeeconomicscollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bangladesh Noubahini School and College Khulna",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Khulna",
+    "domain": "bncollegekhulna.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Barishal Cadet College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Barishal",
+    "domain": "bcc.army.mil.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bashundhara Ad-din Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Khulna",
+    "domain": "bashundharafoundation.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Begum Badrunnesa Government Girls' College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "bbggc.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Begumgonj Textile Engineering College, Noakhali",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "bu.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Belkuchi Bahumukhi Womens College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "bbwdc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Belkuchi College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "belkuchicollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bhandaria Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "bhandariagovtcollege.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bhatai Bazar Government Degree College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "bbgdc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bhawal Badre Alam Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "bbagc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bhola Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chuadanga",
+    "domain": "barisalpedia.net.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Birshrestha Noor Mohammad Public College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dinajpur",
+    "domain": "noormohammadcollege.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Brahmanbaria Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chuadanga",
+    "domain": "bgc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Brajalal College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "blcollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Brindaban Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "brindabancollege.hoststarnet.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "CARe Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "caremc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Central Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Khulna",
+    "domain": "cemec.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chandpur Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chandpur",
+    "domain": "chandpurcollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chittagong Cantonment Public College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "ccpc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chittagong College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "himalaya.socanth.cam.ac.uk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chittagong Government Model School and College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "cmsc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chittagong Government Women's College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "cgwc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chittagong Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "bigd.bracu.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chittagong Pali College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "bbsbd.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chowmuhani Government Saleh Ahmed College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "cgsacollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chuadanga Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chuadanga",
+    "domain": "bangladeshpost.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Comilla Government Women's College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Comilla",
+    "domain": "cumillagwc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Comilla Victoria Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Comilla",
+    "domain": "cvgc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Community Based Medical College Bangladesh",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "cbmcb.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cox's Bazar Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Cox’s Bāzār",
+    "domain": "cgc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cox's Bazar Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Cox’s Bāzār",
+    "domain": "coxmc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cumilla Cadet College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "acoc.group",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cumilla Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "cgcc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cumilla Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "cumc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daud Public School and College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "daudpublicschool.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dawlatpur Degree College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "daowlatpurdegreecollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dhaka City College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "dhakacitycollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dhaka Commerce College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "dcc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dhaka Dental College and Hospital",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "dhakadental.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dhaka Imperial College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "imperialcollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dhaka National Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "dnmc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dhaka Residential Model College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "drmc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dinajpur Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rangpur City",
+    "domain": "dgc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eden Mohila College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "emc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Faridpur Engineering College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "fec.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Faujdarhat Cadet College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "www1.umassd.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Feni Girls' Cadet College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Feni",
+    "domain": "nation.ittefaq.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Feni Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Feni",
+    "domain": "fgc.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gaibandha Govt. College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "ggc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gazi Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "gmc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gohira Degree College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "gohiracollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gole Afroz College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "gagc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gonoshasthaya Samaj Vittik Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Khulna",
+    "domain": "gonosvmc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gopaldi Nazrul Islam Babu College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "gnibcollege.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gopalganj Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "gbc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government Akbar Ali College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sirajganj",
+    "domain": "gaac.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government Ashek Mahmud College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "amc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government Azizul Haque College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "ahcollege.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government Bangla College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chuadanga",
+    "domain": "7college.du.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government Barisal College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Barishal",
+    "domain": "gbc.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government Birshestha Shahid Hamidur Rahman Degree College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "gbshrdc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government City College, Chattogram",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chuadanga",
+    "domain": "gccc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government College of Applied Human Science",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chuadanga",
+    "domain": "govhec.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government College of Commerce, Chittagong",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "gcom.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government Debendra College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "debendracollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government Haji Jamal Uddin Degree College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "ghjc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government Hazi Mohammad Mohsin College, Chittagong",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "mohsincollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government K. M. H. College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "govtkmhcollege.jessoreboard.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government Keshab Chandra College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chuadanga",
+    "domain": "kccollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government Majid Memorial City College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chuadanga",
+    "domain": "mmcitycollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government Maulana Mohammad Ali College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sirajganj",
+    "domain": "govmmalicollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government Mohammadpur Model School & College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "mmsc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government Prafulla Chandra College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "jessoreboard.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government Science College, Dhaka",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "gsctd.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government Shaheed Suhrawardy College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "gsscdhaka.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government Syed Hatem Ali College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sirajganj",
+    "domain": "gshac.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government Teachers' Training College, Comilla",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Comilla",
+    "domain": "ttccomilla.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government Teachers' Training College, Dhaka",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "ttcdhaka.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government Tolaram College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "tolaramcollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Govt. Edward College, Pabna",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Pabna",
+    "domain": "edwardcollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Govt. Shahid Smriti College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "gsscollege.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gunabati College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "comillaboard.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "Gurudayal Government College",
     "country": "Bangladesh",
     "state": "Bangladesh",
-    "city": "",
+    "city": "Sātkhira",
     "domain": "en.banglapedia.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Habibullah Bahar College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "hbc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Habiganj Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Habiganj",
+    "domain": "facilityregistry.dghs.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hamdard Public College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "hamdardpubliccollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hazera Taju Degree College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "hazerataju.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Holy Cross College, Dhaka",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "hcc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ibn Sina Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Khulna",
+    "domain": "ismc.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ideal College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "idealcollegedhanmondi.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ideal School and College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "idealschoolandcollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islami Bank Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "ibmcr.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ispahani Public School & College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "ipscctg.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jalalabad Ragib-Rabeya Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "jrrmc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jashore Government City College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chuadanga",
+    "domain": "nubd.info",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jhenaidah Cadet College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "tauquirahmed.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Joypurhat Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "jgcbd.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kabi Nazrul Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "dhakatribune.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kalaroa Govt. College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "kalaroagc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Keshabpur Govt. Degree College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "kgdc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khoksa Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chuadanga",
+    "domain": "kgck.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khulna Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Khulna",
+    "domain": "shed.portal.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khulna Govt. Girls College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Khulna",
+    "domain": "kgmc.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khulna Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Khulna",
+    "domain": "kmc.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kushtia Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chuadanga",
+    "domain": "kushtiagovcollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kushtia Islamia College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "kic.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kushtia Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Khulna",
+    "domain": "kumc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lakshmipur Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "laxmipurgovtcollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "List of Dhaka College alumni",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "princeton.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "List of medical colleges in Bangladesh",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "rangamatimc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "M. E. H. Arif College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rangpur City",
+    "domain": "arifcollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Madan Mohan College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "mmc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Madhupur College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "web01.grameen.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Magura Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Khulna",
+    "domain": "maguramc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mainamoti Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "mmmch.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Manikganj Government Women College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "moumaachi.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Medical College for Women and Hospital",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "univdhaka.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Michael Madhusudan College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "mmcollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Milestone College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "milestonecollege.edu.bd",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -20,11 +1390,431 @@
     "control": "Public"
   },
   {
+    "name": "Mirpur College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "mirpurcollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mirzapur Cadet College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "mcc.army.mil.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mohammadpur Preparatory School & College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "mpsc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "Moulvibazar Government College",
     "country": "Bangladesh",
     "state": "Bangladesh",
-    "city": "",
+    "city": "Sātkhira",
     "domain": "odhikar.news",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Muminunnisa Government Mohila College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "mugmc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Murari Chand College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "mccollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mymensingh Girls' Cadet College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Mymensingh",
+    "domain": "army.mil.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mymensingh Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Mymensingh",
+    "domain": "mmc.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Narail Victoria College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "ngvc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Narayanganj Government Mohila College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chuadanga",
+    "domain": "ngmc.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nasirabad College, Mymensingh",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Mymensingh",
+    "domain": "ncmym.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National College of Home Economics",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "admission.eis.du.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nawab Faizunnesa Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chuadanga",
+    "domain": "nfgc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "New Govt. Degree College, Rajshahi",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "ngdc-raj.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "New Model Degree College, Dhaka",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "yogsutra.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nilphamari Govt. College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chuadanga",
+    "domain": "ngc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Noakhali Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "noakhalicoll.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Noakhali Government Women's College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chuadanga",
+    "domain": "observerbd.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Noakhali Science and Commerce School and College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "glunis.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "North East Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sylhet",
+    "domain": "nemc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Northern International Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Khulna",
+    "domain": "newstoday.com.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Notre Dame College, Dhaka",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "ndc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Noubahini College, Dhaka",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "bncd.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pabna Cadet College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Pabna",
+    "domain": "pcc.army.mil.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pabna Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Pabna",
+    "domain": "pmc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pabna Textile Engineering College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Pabna",
+    "domain": "pabtec.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakundia Adarsha Mohila College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Khulna",
+    "domain": "bd-pratidin.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakutia Public School and College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "pakutiacollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Parkview Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Khulna",
+    "domain": "pmch.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Patuakhali Government Women's College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chuadanga",
+    "domain": "ajkerparibartan.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Perdana College of Malaysia",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "ucsi.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Police Staff College, Bangladesh",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "psc.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "RAJUK Uttara Model College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "rajukcollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rahmat Iqbal College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "dshe.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rajbari Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chuadanga",
+    "domain": "rajbarigovtcollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rajshahi Cadet College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "faculty.engineering.ucdavis.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rajshahi College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "rc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rajshahi Government City College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "rgcc.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rajshahi Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "mohfw.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rangpur Cadet College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rangpur City",
+    "domain": "ccr.army.mil.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rangpur Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rangpur City",
+    "domain": "rpmc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "SOS Hermann Gmeiner College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "soshgcdhaka.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Safiuddin Sarker Academy and College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "ssaac.edu.bd",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -33,7 +1823,7 @@
     "name": "Satkhira City College",
     "country": "Bangladesh",
     "state": "Bangladesh",
-    "city": "",
+    "city": "Sātkhira",
     "domain": "moedu.gov.bd",
     "aliases": [],
     "type": "University",
@@ -43,7 +1833,7 @@
     "name": "Satkhira Day-Night College",
     "country": "Bangladesh",
     "state": "Bangladesh",
-    "city": "",
+    "city": "Sātkhira",
     "domain": "sdncollege.org",
     "aliases": [],
     "type": "University",
@@ -53,8 +1843,108 @@
     "name": "Satkhira Government College",
     "country": "Bangladesh",
     "state": "Bangladesh",
-    "city": "",
+    "city": "Sātkhira",
     "domain": "satkhiragovtcollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Satkhira Government Mahila College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "geohack.toolforge.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahabuddin Degree College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "shahabuddincollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaheed Bir Uttam Lt. Anwar Girls College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "sagc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaheed M. Monsur Ali Medical College, Sirajganj",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "rmu.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaheed Ramiz Uddin Cantonment College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "srcc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaheed Suhrawardy Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "thefinancialexpress-bd.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaheed Tajuddin Ahmad Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "stamc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid A.H.M. Kamaruzzaman Govt. Degree College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sātkhira",
+    "domain": "skcr.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Syed Nazrul Islam College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "ssnic.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shailkupa Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chuadanga",
+    "domain": "shailkupagovtcollege.edu.bd",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -63,8 +1953,58 @@
     "name": "Shariatpur Government College",
     "country": "Bangladesh",
     "state": "Bangladesh",
-    "city": "",
+    "city": "Sātkhira",
     "domain": "sgc.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sher-e-Bangla Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "sbmc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sherpur Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chuadanga",
+    "domain": "sherpurgovtcollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sitakund Degree College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "sitakund.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Gregory's High School and College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "sghscdhaka.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sunamganj Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sunāmganj",
+    "domain": "bbmcs.edu.bd",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -77,6 +2017,156 @@
     "domain": "sec.ac.bd",
     "aliases": [],
     "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Sylhet Government Women's College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sylhet",
+    "domain": "sylhetwomenscollege.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sylhet MAG Osmani Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sylhet",
+    "domain": "magosmanimedical.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sylhet Women's Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sylhet",
+    "domain": "swmc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tairunnessa Memorial Medical College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "tmmch.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tangail Government Mohila College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chuadanga",
+    "domain": "gsfmmc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Teachers' Training College, Rangpur",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rangpur City",
+    "domain": "ttcrangpur.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical Teachers' Training College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "archive.thedailystar.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tejgaon College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "tejgaoncollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Textile Engineering College, Chittagong",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "ctec.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ullapara Science College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "digitalsirajganj.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universal Medical College and Hospital, Dhaka",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "umc-bd.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Urea Sar Karkhana School & College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "ureasarkarkhanacollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Uttar Bangla College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "ubc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Uttara Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "jjbbsmrgc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Women Teachers Training College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "banbeis.gov.bd",
+    "aliases": [],
+    "type": "University",
     "control": "Public"
   }
 ]

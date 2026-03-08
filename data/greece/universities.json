@@ -23,7 +23,7 @@
     "name": "Athens Graduate School of Management (AGSM)",
     "country": "Greece",
     "state": "Attica",
-    "city": "",
+    "city": "Tokyo",
     "domain": "agsm.gr",
     "aliases": [],
     "type": "University",
@@ -33,7 +33,7 @@
     "name": "Athens Laboratory of Business Administration (ALBA)",
     "country": "Greece",
     "state": "Attica",
-    "city": "",
+    "city": "Athens",
     "domain": "alba.edu.gr",
     "aliases": [
       "alba.acg.edu"
@@ -45,7 +45,7 @@
     "name": "Athens School of Fine Arts",
     "country": "Greece",
     "state": "Attica",
-    "city": "",
+    "city": "Athens",
     "domain": "asfa.gr",
     "aliases": [],
     "type": "University",
@@ -85,7 +85,7 @@
     "name": "Hellenic Army Academy",
     "country": "Greece",
     "state": "Attica",
-    "city": "",
+    "city": "Voula",
     "domain": "sse.army.gr",
     "aliases": [
       "sse.gr"
@@ -117,7 +117,7 @@
     "name": "School of Pedagogical and Technological Education - A.S.PAI.T.E.",
     "country": "Greece",
     "state": "Attica",
-    "city": "",
+    "city": "Marousi",
     "domain": "aspete.gr",
     "aliases": [],
     "type": "University",
@@ -287,7 +287,7 @@
     "name": "DEI Bachelor & Master Degrees",
     "country": "Greece",
     "state": "Macedonia",
-    "city": "",
+    "city": "Montauban",
     "domain": "dei.edu.gr",
     "aliases": [],
     "type": "University",

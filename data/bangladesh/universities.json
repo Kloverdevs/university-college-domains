@@ -1,5 +1,35 @@
 [
   {
+    "name": "Aeronautical Institute of Bangladesh",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "aib.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Agricultural University College, Mymensingh",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Mymensingh",
+    "domain": "aucm.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Agriculture Training Institute",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "atibn.jimdo.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "Ahsanullah University of Science & Technology",
     "country": "Bangladesh",
     "state": "Bangladesh",
@@ -20,11 +50,31 @@
     "control": "Public"
   },
   {
+    "name": "Army Institute of Business Administration, Sylhet",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sylhet",
+    "domain": "aibasylhet.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "Asa University Bangladesh",
     "country": "Bangladesh",
     "state": "Bangladesh",
     "city": "Asa",
     "domain": "asaub.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asian University for Women",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "asian-university.org",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -50,11 +100,41 @@
     "control": "Public"
   },
   {
+    "name": "Atish Dipankar University of Science and Technology",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "adust.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aviation and Aerospace University, Bangladesh",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Lalmonirhat",
+    "domain": "aaub.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "BGC Trust University, Bangladesh",
     "country": "Bangladesh",
     "state": "Bangladesh",
     "city": "BGC Trust",
     "domain": "bgctrustbd.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "BGMEA University of Fashion & Technology",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "buft.edu.bd",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -80,6 +160,16 @@
     "control": "Public"
   },
   {
+    "name": "Bangladesh Agricultural Research Institute",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "ci.nii.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "Bangladesh Agricultural University",
     "country": "Bangladesh",
     "state": "Bangladesh",
@@ -90,11 +180,141 @@
     "control": "Public"
   },
   {
+    "name": "Bangladesh Army International University of Science & Technology",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Comilla",
+    "domain": "baiust.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bangladesh Army University of Engineering & Technology",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "bauet.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bangladesh Army University of Science & Technology, Khulna",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Saidpur",
+    "domain": "baustkhulna.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bangladesh Army University of Science and Technology, Saidpur",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Saidpur",
+    "domain": "baust.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bangladesh Institute of Bank Management",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "bibm.org.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bangladesh Institute of Glass and Ceramics",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "thedailystar.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bangladesh Institute of Management",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "universiapolis.ma",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bangladesh Institute of Marine Technology",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "bimt.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bangladesh Institute of Peace Support Operation Training",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "bdnews24.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bangladesh Institute of Tropical and Infectious Diseases",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "app.dghs.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bangladesh Islami University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "biu.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bangladesh Maritime University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "bsmrmu.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "Bangladesh Open University",
     "country": "Bangladesh",
     "state": "Bangladesh",
     "city": "Bangladesh Open",
     "domain": "bou.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bangladesh Sweden Polytechnic Institute",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "bspi-alumni.com",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -125,6 +345,16 @@
     "state": "Bangladesh",
     "city": "Engineering and Technology",
     "domain": "buet.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bangladesh University of Health Sciences",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "buhs.ac.bd",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -170,11 +400,101 @@
     "control": "Public"
   },
   {
+    "name": "Brahmaputra International University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "universityworldnews.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Britannia University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Comilla",
+    "domain": "britannia.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "CCN University of Science & Technology",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Comilla",
+    "domain": "ccnust.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian University of Bangladesh",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "home.cub.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Central University of Science and Technology",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sylhet",
+    "domain": "cust.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Central Women's University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "cwu.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chandpur Science and Technology University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chandpur",
+    "domain": "cstu.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "Chittagong Independent University",
     "country": "Bangladesh",
     "state": "Bangladesh",
     "city": "Chittagong Independent",
     "domain": "ciu.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chittagong Medical University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "cmu.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chittagong Polytechnic Institute",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "chittagong.com",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -190,11 +510,41 @@
     "control": "Public"
   },
   {
+    "name": "Chittagong Veterinary and Animal Sciences University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "cvasu.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "City Polytechnic Institute Khulna",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Khulna",
+    "domain": "cpik.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "City University",
     "country": "Bangladesh",
     "state": "Bangladesh",
     "city": "City",
     "domain": "cityuniversity.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "City University (Bangladesh)",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "ittefaq.com.bd",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -210,11 +560,31 @@
     "control": "Public"
   },
   {
+    "name": "Command and Staff Training Institute",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "tbsnews.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "Daffodil International University",
     "country": "Bangladesh",
     "state": "Bangladesh",
     "city": "Daffodil International",
     "domain": "daffodilvarsity.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daffodil Polytechnic Institute",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "dpi.ac",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -235,6 +605,46 @@
     "state": "Bangladesh",
     "city": "Dhaka International",
     "domain": "diu.net.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dhaka Polytechnic Institute",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "techedu.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dhaka University Debating Society",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "prothom-alo.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dhaka University Film Society",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "khulnanews.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dhaka University metro station",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "dmtcl.gov.bd",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -280,11 +690,131 @@
     "control": "Public"
   },
   {
+    "name": "European University of Bangladesh",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "eub.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Exim Bank Agricultural University Bangladesh",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "ebaub.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Faculty of Veterinary Medicine, Jashore University of Science and Technology",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Jessore",
+    "domain": "theindependentbd.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fareast International University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "fiu.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Faridpur Polytechnic Institute",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "faridpurpolytechnic.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Feni University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Feni",
+    "domain": "feniuniversity.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "First Capital University of Bangladesh",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chuadanga",
+    "domain": "fcub.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "German University Bangladesh",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "gub.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Global University Bangladesh",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "globaluniversity.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gopalganj Science and Technology University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Gopālganj",
+    "domain": "bsmrstu.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Grameen University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "en.prothomalo.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "Green University of Bangladesh",
     "country": "Bangladesh",
     "state": "Bangladesh",
     "city": "Bangladesh",
     "domain": "green.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Habiganj Agricultural University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Habiganj",
+    "domain": "hau.ac.bd",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -303,7 +833,7 @@
     "name": "Hamdard University Bangladesh",
     "country": "Bangladesh",
     "state": "Bangladesh",
-    "city": "",
+    "city": "Dhaka",
     "domain": "hamdarduniversity.edu.bd",
     "aliases": [],
     "type": "University",
@@ -330,11 +860,81 @@
     "control": "Public"
   },
   {
+    "name": "Institute of Business Administration, University of Dhaka",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "iba-du.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Business Administration, University of Rajshahi",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "iba-ru.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Information Technology, University of Dhaka",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "iit.du.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Marine Sciences, University of Chittagong",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "imsfcu.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Science, Trade and Technology",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "istt.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Statistical Research and Training, University of Dhaka",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "isrt.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "International Culture University",
     "country": "Bangladesh",
     "state": "Bangladesh",
     "city": "International Culture",
     "domain": "icu-edu.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Islami University of Science and Technology Bangladesh",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "iiustb.ac.bd",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -360,6 +960,26 @@
     "control": "Public"
   },
   {
+    "name": "Ishakha International University, Bangladesh",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "ishakha.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Arabic University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "iau.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "Islamic University Kushtia",
     "country": "Bangladesh",
     "state": "Bangladesh",
@@ -375,6 +995,16 @@
     "state": "Bangladesh",
     "city": "Bangladesh",
     "domain": "iutoic-dhaka.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ispahani Islamia Eye Institute and Hospital",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "islamia.org.bd",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -400,11 +1030,71 @@
     "control": "Public"
   },
   {
+    "name": "Jamalpur Science and Technology University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Melandaha Upazila",
+    "domain": "bsfmstu.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jashore Polytechnic Institute",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Jessore",
+    "domain": "jpi.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jashore University of Science and Technology",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Jessore",
+    "domain": "just.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "Jatiya Kabi Kazi Nazrul Islam University",
     "country": "Bangladesh",
     "state": "Bangladesh",
     "city": "Bangladesh",
     "domain": "jkkniu.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khulna Agricultural University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Khulna",
+    "domain": "kau.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khulna Medical University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Khulna",
+    "domain": "kmu.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khulna Polytechnic Institute",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Khulna",
+    "domain": "kpi.edu.bd",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -430,11 +1120,61 @@
     "control": "Public"
   },
   {
+    "name": "Khwaja Yunus Ali University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chauhāli",
+    "domain": "kyau.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kurigram Agricultural University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sylhet",
+    "domain": "kuriau.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lakshmipur Science and Technology University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "ugc.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "Leading University",
     "country": "Bangladesh",
     "state": "Bangladesh",
     "city": "Leading",
     "domain": "lus.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "List of Bangladesh University of Engineering and Technology alumni",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "utdallas.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "List of affiliated colleges and institutions to the National University, Bangladesh",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "collegeportal.nu.ac.bd",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -460,11 +1200,141 @@
     "control": "Public"
   },
   {
+    "name": "Meherpur University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "mum.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "Metropolitan University",
     "country": "Bangladesh",
     "state": "Bangladesh",
     "city": "Metropolitan",
     "domain": "metrouni.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Microland University of Science and Technology",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sylhet",
+    "domain": "microlanduniversity.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mohammadpur Central University College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "mkc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Naogaon University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "jugantor.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Narayanganj Science and Technology University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "dailynayadiganta.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute of Advanced Nursing Education and Research",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "nianer.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute of Burn and Plastic Surgery",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "thefinancialexpress.com.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute of Cancer Research and Hospital",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "nicrh.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute of Kidney Diseases & Urology",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "archive.dhakatribune.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute of Neurosciences & Hospital",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "nins.com.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute of Technology (Bangladesh)",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "nitctg.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute of Textile Engineering and Research",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Savar Upazila",
+    "domain": "open.unido.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute of Traumatology and Orthopedic Rehabilitation",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "nitorbd.com",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -480,11 +1350,51 @@
     "control": "Public"
   },
   {
+    "name": "National University, Bangladesh",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "nu.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Netrokona University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Netrakona",
+    "domain": "neu.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Noakhali Science and Technology University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "eshs.nstu.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "Noakhali University of Science and Technology",
     "country": "Bangladesh",
     "state": "Bangladesh",
     "city": "Science and Technology",
     "domain": "nstu.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "North Bengal International University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "nbiu.edu.bd",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -510,6 +1420,16 @@
     "control": "Public"
   },
   {
+    "name": "North Western University, Bangladesh",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Mānikganj",
+    "domain": "nwu.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "Northern University Bangladesh",
     "country": "Bangladesh",
     "state": "Bangladesh",
@@ -520,11 +1440,41 @@
     "control": "Public"
   },
   {
+    "name": "Northern University of Business and Technology Khulna",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Khulna",
+    "domain": "nubtkhulna.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Notre Dame University Bangladesh",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "ndub.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "Pabna University of Science and Technology",
     "country": "Bangladesh",
     "state": "Bangladesh",
     "city": "Science and Technology",
     "domain": "pust.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pathshala South Asian Media Institute",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "dspace.bracu.ac.bd",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -550,6 +1500,26 @@
     "control": "Public"
   },
   {
+    "name": "Pirojpur Science and Technology University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Pirojpur",
+    "domain": "businesspostbd.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Port City International University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "portcity.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "Premier University",
     "country": "Bangladesh",
     "state": "Bangladesh",
@@ -570,11 +1540,81 @@
     "control": "Public"
   },
   {
+    "name": "Primeasia University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "primeasia.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pundra University of Science and Technology",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Bogra",
+    "domain": "pundrouniversity.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "Queens University",
     "country": "Bangladesh",
     "state": "Bangladesh",
     "city": "Queens",
     "domain": "queensuniversity.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Queens University (Bangladesh)",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "queensuniversity.ac",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "R. P. Shaha University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Kushtia",
+    "domain": "bbc.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rabindra University, Bangladesh",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sirajganj",
+    "domain": "rub.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rajshahi Polytechnic Institute",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "rpi.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rajshahi Science & Technology University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "rstu.edu.bd",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -593,8 +1633,18 @@
     "name": "Rangamati Science and Technology University",
     "country": "Bangladesh",
     "state": "Bangladesh",
-    "city": "",
+    "city": "Chittagong",
     "domain": "rmstu.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Satkhira University of Science and Technology",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sylhet",
+    "domain": "bdlaws.minlaw.gov.bd",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -610,11 +1660,61 @@
     "control": "Public"
   },
   {
+    "name": "Shanto-Mariam University of Creative Technology",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "smuct.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sher-e-Bangla Agricultural University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "sau.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shyamoli Ideal Polytechnic Institute",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "sipi.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sonargaon University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "su.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "Southeast University",
     "country": "Bangladesh",
     "state": "Bangladesh",
     "city": "Southeast",
     "domain": "seu.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Southeast University (Bangladesh)",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "lib.seu.ac.bd",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -643,7 +1743,7 @@
     "name": "Sunamganj Science and Technology University",
     "country": "Bangladesh",
     "state": "Bangladesh",
-    "city": "",
+    "city": "Sunāmganj",
     "domain": "prothomalo.com",
     "aliases": [],
     "type": "University",
@@ -670,11 +1770,51 @@
     "control": "Public"
   },
   {
+    "name": "Sylhet Medical University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sylhet",
+    "domain": "bsfmmu.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sylhet Polytechnic Institute",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sylhet",
+    "domain": "spi.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tagore University of Creative Arts",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "tuca.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "Teesta University",
     "country": "Bangladesh",
     "state": "Bangladesh",
-    "city": "",
+    "city": "Rangpur City",
     "domain": "ugc-universities.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Times University Bangladesh",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "timesuniversitybd.com",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -685,6 +1825,16 @@
     "state": "Bangladesh",
     "city": "United International",
     "domain": "uiu.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University Laboratory School and College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "dev.thedailystar.net",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -710,6 +1860,16 @@
     "control": "Public"
   },
   {
+    "name": "University of Creative Technology Chittagong",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "sai.uni-heidelberg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "University of Development Alternative",
     "country": "Bangladesh",
     "state": "Bangladesh",
@@ -725,6 +1885,16 @@
     "state": "Bangladesh",
     "city": "Dhaka",
     "domain": "du.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Global Village",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Barishal",
+    "domain": "ugv.edu.bd",
     "aliases": [],
     "type": "University",
     "control": "Public"
@@ -760,11 +1930,71 @@
     "control": "Public"
   },
   {
+    "name": "University of Scholars",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "ius.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "University of Science & Technology Chittagong",
     "country": "Bangladesh",
     "state": "Bangladesh",
     "city": "Science & Technology Chittagong",
     "domain": "ustc.ac.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Science and Technology Chittagong",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "ustc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Uttar Kattoli Alhaz Mostafa Hakim University College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Chittagong",
+    "domain": "ukamhdc.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Uttara University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "uttarauniversity.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Varendra University",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Rajshahi",
+    "domain": "vu.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Victoria University of Bangladesh",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Dhaka",
+    "domain": "vub.edu.bd",
     "aliases": [],
     "type": "University",
     "control": "Public"

@@ -120,6 +120,26 @@
     "control": "Public"
   },
   {
+    "name": "2017年夏季世界大學運動會",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "fun.taipei.gov.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "2017年夏季世界大學運動會棒球比賽",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "taipei2017.com.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "Aletheia University",
     "country": "Taiwan",
     "state": "Taiwan",
@@ -570,6 +590,56 @@
     "control": "Public"
   },
   {
+    "name": "Template:台灣基督宗教大學校院聯盟",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "",
+    "domain": "taicuca.fju.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Template:國立雲林科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "",
+    "domain": "umap.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Template:東吳大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "",
+    "domain": "www-ch.scu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Template:耶穌會東亞4大學全球領導力課程",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "",
+    "domain": "nikkeivi.co.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Template:輔仁大學學校財團法人",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "",
+    "domain": "trust.fju.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
     "name": "Tunghai University",
     "country": "Taiwan",
     "state": "Taiwan",
@@ -585,6 +655,2226 @@
     "state": "Taiwan",
     "city": "Yuan Ze",
     "domain": "yzu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "一貫道崇德學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "iktcds.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "中信科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Yuanlin",
+    "domain": "udb.moe.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "中原大學張靜愚紀念圖書館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "lib.cycu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "中國共產黨台灣大學工學院支部委員會",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hsinchu",
+    "domain": "aa.archives.gov.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "中國共產黨台灣師範學院支部委員會",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hsinchu",
+    "domain": "epochtimes.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "中國文化大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "csal.fcu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "中國文化大學情人坡",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "dailyview.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "中國文化大學系所列表",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "jongliang.stust.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "中國文化大學華岡博物館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "hkm.pccu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "中國科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "lib.cute.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "中國醫藥大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "cmu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "中國醫藥大學附設醫院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "cmuh.cmu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "中山醫學大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "csmu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "中山醫學大學附設醫院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "csh.org.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "中華福音神學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "ces.org.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "中華科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "am.hc.cust.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "中華醫事科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tainan City",
+    "domain": "hwai.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "亞東科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "aeust.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "亞洲大學現代美術館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "president.gov.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "佛光大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Yilan",
+    "domain": "fgu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "修平科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "hust.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "健行科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taoyuan",
+    "domain": "uch.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "健行科技大學籃球隊",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taoyuan",
+    "domain": "cna.com.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "僑光科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "ocu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "優久大學聯盟",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Dacun",
+    "domain": "u9.tku.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "元培醫事科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hsinchu",
+    "domain": "ypu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "南臺科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "stust.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "南臺科技大學華語中心",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "clc.stust.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "南開科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Nantou City",
+    "domain": "nkut.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "台北市立體育學院體育館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "tw.appledaily.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "台北海洋科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tainan City",
+    "domain": "tumt.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "台南應用科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tainan City",
+    "domain": "tut.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "台南神學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tainan City",
+    "domain": "ttcs.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "台灣神學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tainan City",
+    "domain": "tgst.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "台灣首府大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tainan City",
+    "domain": "tsu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "吳鳳科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Minxiong",
+    "domain": "wfu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "和春技術學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Kaohsiung",
+    "domain": "eradio.ner.gov.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "嘉南藥理大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "lib.cnu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "嘉南藥理大學人工濕地",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "ecocenter.cnu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立中央大學 (大陸時期)",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "dawww.nju.edu.cn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立中央大學圖書館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "lib.ncu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立中央大學太空及遙測研究中心",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "csrsr.ncu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立中央大學附屬中壢高級中學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "mag.udn.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立中山大學工學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "engn.nsysu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立中山大學文學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "la.nsysu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立中山大學海洋科學學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "marine.nsysu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立中山大學理學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "hs.nsysu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立中山大學社會科學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "news.nsysu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立中山大學附屬國光高級中學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "kksh.nsysu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立中興大學圖書館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "lib.nchu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立中興大學應用經濟學系",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "nchuae.nchu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立中興大學文學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "lc.nchu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立交通大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "www2.lib.nctu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立勤益科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Magong",
+    "domain": "pac.nctu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立嘉義大學附設實驗國民小學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Chiayi City",
+    "domain": "ncyes.ncyu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立宜蘭大學圖書資訊館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Yilan",
+    "domain": "lic.niu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立屏東大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Pingtung City",
+    "domain": "nptu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立屏東大學教育學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Pingtung City",
+    "domain": "cedu.nptu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立屏東科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Pingtung City",
+    "domain": "npuir-3d.npust.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立彰化師範大學工學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Changhua",
+    "domain": "webadmin.ncue.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立彰化師範大學社會科學暨體育學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Changhua",
+    "domain": "sspe.ncue.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立彰化師範大學科技學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Changhua",
+    "domain": "tech.ncue.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立彰化師範大學管理學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Changhua",
+    "domain": "management.im.ncue.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立彰化師範大學附屬高級工業職業學校",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Changhua",
+    "domain": "sivs.chc.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立成功大學南榕廣場命名爭議",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tainan City",
+    "domain": "news.secr.ncku.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立政治大學傳播學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taoyuan District",
+    "domain": "comm.nccu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立新竹教育大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "sec.web2.nhcue.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立暨南國際大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Puli",
+    "domain": "pshs.ntct.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立東華大學圖書館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hualien City",
+    "domain": "lib.ndhu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立東華大學花師教育學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hualien City",
+    "domain": "dehpd.ndhu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立清華大學圖書館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "archives.lib.nthu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立清華大學學習資源中心",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hualien City",
+    "domain": "lib.nthu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立清華大學文物館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hualien City",
+    "domain": "museum.site.nthu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立清華大學月涵堂",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hualien City",
+    "domain": "alumni.site.nthu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立清華大學附設實驗國民小學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hualien City",
+    "domain": "sctcps.hc.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立澎湖科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Magong",
+    "domain": "npu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立聯合大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hualien City",
+    "domain": "alumni.nuu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立聯合大學圖書館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "libsun.nuu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺中大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "nownews.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺中教育大學圖書館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "laumt.lib.cyut.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺中科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "nutc.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺北商業大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "ntub.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺北大學圖書館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "lib.ntpu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺北專業大學聯盟",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "ner.gov.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺北教育大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "r8.ntue.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺北教育大學附設實驗國民小學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "ntueees.tp.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺北科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "library.ntut.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺北藝術大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "w3.tnua.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺北護理健康大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "ntunhs.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺北護理健康大學城區部文教大樓",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "nchdb.boch.gov.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺南大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tainan City",
+    "domain": "www2.nutn.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺南大學附屬啟聰學校",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tainan City",
+    "domain": "academia.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺南大學附屬高級中學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tainan City",
+    "domain": "www2.tntcsh.tnc.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺南大學附設實驗國民小學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tainan City",
+    "domain": "pandora.ps.nutn.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺東大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "nttu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣大學人類學博物館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "homepage.ntu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣大學佛學數位圖書館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "buddhism.lib.ntu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣大學出版中心",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "press.ntu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣大學博物館群",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "museums.ntu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣大學圖書館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "ntucollections.lib.ntu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣大學學生會",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "ntusa.ntu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣大學工學博物館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "gallery.lib.ntu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣大學工會",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "uonline.nccu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣大學志鴻館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "cpaper-blog.blogspot.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣大學植物標本館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "tai.ntu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣大學系統",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "pr.ntnu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣大學綜合體育館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "ntusportscenter.ntu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣大學行政大樓",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "alum.ntu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣大學醫學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "mc.ntu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣大學體育館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "map.ntu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣師範大學圖書館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "lib.ntnu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣師範大學美術館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "artmuse.ntnu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣戲曲學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "tcpa.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣藝術大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "ntua.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣藝術大學圖書館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "lib.ntua.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣藝術大學有章藝術博物館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "museum.ntua.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣體育運動大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "depart.moe.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立臺灣體育運動大學田徑場",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "gis.rchss.sinica.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立花蓮教育大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "sciedu.ndhu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立金門大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Jincheng",
+    "domain": "nqu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立陽明交通大學交大校區圖書館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "lib.nctu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立陽明交通大學北門校區",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Jincheng",
+    "domain": "web2.cc.nctu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立陽明交通大學博愛校區",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hualien City",
+    "domain": "nycu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立陽明交通大學客家文化學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "hakka.nctu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立陽明交通大學產學創新研究學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Bitou",
+    "domain": "iais.nycu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立陽明交通大學青埔校區",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "csh.nctu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立體育大學綜合體育館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "appledaily.com.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立高雄師範大學附屬高級中學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Kaohsiung",
+    "domain": "uniform.wingzero.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立高雄海洋科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Kaohsiung",
+    "domain": "nkmu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立高雄科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Kaohsiung",
+    "domain": "sa.kuas.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立高雄科技大學建工校區",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Kaohsiung",
+    "domain": "nkust.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立高雄第一科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Kaohsiung",
+    "domain": "nkfust.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立高雄餐旅大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Kaohsiung",
+    "domain": "nkuht.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國立高雄餐旅大學附屬餐旅高級中等學校",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Kaohsiung",
+    "domain": "nkhhs.nkuht.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國防大學 (中華民國)",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "ndu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "國防醫學大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taoyuan",
+    "domain": "ndmctsgh.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "基督教台灣浸會神學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hsinchu",
+    "domain": "tbts.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "大同大學 (台灣)",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "topuniversities.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "大學入學考試中心",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "ceec.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "大漢技術學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hualien City",
+    "domain": "dahan.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "宏國德霖科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "hdut.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "實踐大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Dacun",
+    "domain": "kh.usc.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "崑山科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hsinchu",
+    "domain": "ocw.ksu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "康寧大學台南校區",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tainan City",
+    "domain": "tw.news.yahoo.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "康寧大學臺北校區",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tainan City",
+    "domain": "ukn.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "廣東公立法政大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Pingtung City",
+    "domain": "buaash.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "廣東省立勷勤大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hualien City",
+    "domain": "www2.scut.edu.cn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "弘光科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "hk.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "德明財經科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "takming.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "慈濟大學附屬高級中學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hualien City",
+    "domain": "tcsh.hlc.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "成功大學MP3事件",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tainan City",
+    "domain": "ifpi.org.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "敏實科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hsinchu",
+    "domain": "tust.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "文藻外語大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Kaohsiung",
+    "domain": "lib.wzu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "明志科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "mcut.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "明新科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hsinchu",
+    "domain": "admin.must.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "明新科技大學旅館事業管理系",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hsinchu",
+    "domain": "must.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "明道大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Bitou",
+    "domain": "mdu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "景文科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Xindian District",
+    "domain": "just.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "朝陽科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hsinchu",
+    "domain": "www1.lib.cyut.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "朝陽科技大學波錠紀念圖書館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "lib.cyut.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "東南科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "tnu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "東吳大學圖書館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "lib.scu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "東方設計大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Kaohsiung",
+    "domain": "news.ltn.com.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "東海大學 (台灣)",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "christian.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "東海大學圖書館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "lib.thu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "東海大學建築學系",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "thuir.thu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "東海大學附屬高級中等學校",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "hn.thu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "東海大學附屬高級中等學校小學部",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "estu.tc.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "梅花旗全國大學棒球錦標賽",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taoyuan",
+    "domain": "ctba.org.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "正修科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "csu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "永達技術學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hualien City",
+    "domain": "ytit.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "法鼓文理學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "ddbc.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "泛太平洋大學聯盟",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "bulletin2.niu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "淡江大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "foreign.tku.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "淡江大學學生會",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "spirit.tku.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "淡江大學海事博物館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "finearts.tku.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "淡江大學覺生紀念圖書館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "lib.tku.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "玄奘大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hsinchu",
+    "domain": "hhy.hcu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "環球科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Douliu",
+    "domain": "cc.ntut.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "環球科技大學丁東德先生紀念圖書館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Douliu",
+    "domain": "lib.twu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "稻江科技暨管理學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Keelung",
+    "domain": "toko.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "義守大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Chiayi City",
+    "domain": "sec.isu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "義守大學襲擊事件",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Chiayi City",
+    "domain": "globalnewstv.com.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "聖約翰科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "sju.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "育達科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Miaoli",
+    "domain": "yduweb.ydu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "致理科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "heartvj.chihlee.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "臺北城市科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "tpcu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "臺北城市科技大學棒球隊",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "home.yahoo.com.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "臺北基督學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "cct.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "臺北大學特定區",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "tm.ncl.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "臺北市立大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "sec.tpec.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "臺北市立大學博愛校區",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "dance.utaipei.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "臺北市立大學天母校區",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "cord.tpec.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "臺北帝國大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "lib.kobe-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "臺北帝國大學預科",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "stfb.ntl.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "臺北醫學大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "dcee.tmu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "臺灣-巴拉圭科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "uptp.edu.py",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "臺灣大學哲學系事件",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hualien City",
+    "domain": "thesis.lib.nccu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "臺灣教育大學系統",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tainan City",
+    "domain": "tue.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "臺灣省立法商學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hualien City",
+    "domain": "lib.ntu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "臺灣綜合大學系統",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tainan City",
+    "domain": "oia.nchu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "臺灣聯合大學系統",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tainan City",
+    "domain": "ust.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "臺灣觀光學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hualien City",
+    "domain": "udn.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "蘭陽技術學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hualien City",
+    "domain": "fit.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "輔仁大學天主教學術研究院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "mssrc.fju.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "輔仁大學學校財團法人",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "shsh.kl.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "輔仁聖博敏神學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tainan City",
+    "domain": "theology.catholic.org.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "輔英科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hsinchu",
+    "domain": "sa.fy.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "逢甲大學圖書館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "web.lib.fcu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "醒吾科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "linkou.ntpc.gov.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "銘傳大學足球隊",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taoyuan District",
+    "domain": "www1.mcu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "長庚科技大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hsinchu",
+    "domain": "cgust.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "長榮大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tainan City",
+    "domain": "cjcu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "開南大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taoyuan",
+    "domain": "knu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "靜宜大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "web.pu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "靜宜大學人文暨社會科學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "chinese.pu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "靜宜大學外語學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "english.pu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "靜宜大學蓋夏圖書館",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taichung",
+    "domain": "web2.lib.pu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "馬偕醫學大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "mmc.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "高雄醫學大學",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "kmu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "高鳳數位內容學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taipei",
+    "domain": "kfcdc.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "黎明技術學院",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "New Taipei",
+    "domain": "lit.edu.tw",
     "aliases": [],
     "type": "University",
     "control": "Public"
