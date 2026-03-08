@@ -1,0 +1,32 @@
+[
+  {
+    "name": "University of Trinidad and Tobago",
+    "country": "Trinidad Tobago",
+    "state": "Trinidad and Tobago",
+    "city": "Trinidad and Tobago",
+    "domain": "utt.edu.tt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of the Southern Caribbean",
+    "country": "Trinidad Tobago",
+    "state": "Trinidad and Tobago",
+    "city": "the Southern Caribbean",
+    "domain": "usc.edu.tt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of the West Indies St. Augustine",
+    "country": "Trinidad Tobago",
+    "state": "Trinidad and Tobago",
+    "city": "",
+    "domain": "uwi.tt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

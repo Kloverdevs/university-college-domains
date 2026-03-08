@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Al-baha University",
+    "country": "Saudi Arabia",
+    "state": "Abha",
+    "city": "Al-baha",
+    "domain": "bu.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "King Khaled University",
+    "country": "Saudi Arabia",
+    "state": "Abha",
+    "city": "King Khaled",
+    "domain": "kku.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Majmaah University",
+    "country": "Saudi Arabia",
+    "state": "Al Majma'ah",
+    "city": "Majmaah",
+    "domain": "mu.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "King Faisal University",
+    "country": "Saudi Arabia",
+    "state": "Al-Ahsa",
+    "city": "King Faisal",
+    "domain": "kfu.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alkharj University",
+    "country": "Saudi Arabia",
+    "state": "Al-kharj",
+    "city": "Alkharj",
+    "domain": "ku.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aljouf University",
+    "country": "Saudi Arabia",
+    "state": "Aljouf",
+    "city": "Aljouf",
+    "domain": "ju.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "King Abdullah University of Science and Technology",
+    "country": "Saudi Arabia",
+    "state": "Aljouf",
+    "city": "Science and Technology",
+    "domain": "kaust.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Northern Border University",
+    "country": "Saudi Arabia",
+    "state": "Arar",
+    "city": "Northern Border",
+    "domain": "nbu.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Dammam",
+    "country": "Saudi Arabia",
+    "state": "Dammam",
+    "city": "Dammam",
+    "domain": "ud.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "King Fahad University of Petroleum and Minerals",
+    "country": "Saudi Arabia",
+    "state": "Dhahran",
+    "city": "Petroleum and Minerals",
+    "domain": "kfupm.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Hail",
+    "country": "Saudi Arabia",
+    "state": "Hail",
+    "city": "Hail",
+    "domain": "uoh.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jazan University",
+    "country": "Saudi Arabia",
+    "state": "Jazan",
+    "city": "Jazan",
+    "domain": "jazanu.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "King Abdulaziz University",
+    "country": "Saudi Arabia",
+    "state": "Jeddah",
+    "city": "King Abdulaziz",
+    "domain": "kau.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jubail University College",
+    "country": "Saudi Arabia",
+    "state": "Jubail",
+    "city": "Jubail",
+    "domain": "ucj.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Prince Mohammad Bin Fahd University",
+    "country": "Saudi Arabia",
+    "state": "Khobar",
+    "city": "Prince Mohammad Bin Fahd",
+    "domain": "pmu.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Umm Al-Qura University",
+    "country": "Saudi Arabia",
+    "state": "Mecca",
+    "city": "Umm Al-Qura",
+    "domain": "uqu.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taibah University",
+    "country": "Saudi Arabia",
+    "state": "Medina",
+    "city": "Taibah",
+    "domain": "taibahu.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic University of Medinah",
+    "country": "Saudi Arabia",
+    "state": "Medinah",
+    "city": "Medinah",
+    "domain": "iu.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Najran University",
+    "country": "Saudi Arabia",
+    "state": "Najran",
+    "city": "Najran",
+    "domain": "nu.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Qassim University",
+    "country": "Saudi Arabia",
+    "state": "Qassim",
+    "city": "Qassim",
+    "domain": "qu.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Imam Mohamed Ibn Saud Islamic University",
+    "country": "Saudi Arabia",
+    "state": "Riyadh",
+    "city": "",
+    "domain": "imamu.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alfaisal University",
+    "country": "Saudi Arabia",
+    "state": "Riyadh",
+    "city": "Alfaisal",
+    "domain": "alfaisal.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arab Open University",
+    "country": "Saudi Arabia",
+    "state": "Riyadh",
+    "city": "Arab Open",
+    "domain": "arabou.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "King Saud University",
+    "country": "Saudi Arabia",
+    "state": "Riyadh",
+    "city": "King Saud",
+    "domain": "ksu.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "King Saud bin Abdulaziz University for Health Sciences",
+    "country": "Saudi Arabia",
+    "state": "Riyadh",
+    "city": "King Saud bin Abdulaziz",
+    "domain": "ksau-hs.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Knowledge International University",
+    "country": "Saudi Arabia",
+    "state": "Riyadh",
+    "city": "Knowledge International",
+    "domain": "almaarifah.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Naif Arab University for Security Sciences",
+    "country": "Saudi Arabia",
+    "state": "Riyadh",
+    "city": "Naif Arab",
+    "domain": "nauss.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Prince Sultan University",
+    "country": "Saudi Arabia",
+    "state": "Riyadh",
+    "city": "Prince Sultan",
+    "domain": "psu.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Princess Nora Bint Abdulrahman University",
+    "country": "Saudi Arabia",
+    "state": "Riyadh",
+    "city": "Princess Nora Bint Abdulrahman",
+    "domain": "rug.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Imam Abdulrahman Bin Faisal University",
+    "country": "Saudi Arabia",
+    "state": "Saudi Arabia",
+    "city": "Imam Abdulrahman Bin Faisal",
+    "domain": "iau.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saudi Electronic University",
+    "country": "Saudi Arabia",
+    "state": "Saudi Arabia",
+    "city": "Saudi Electronic",
+    "domain": "seu.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaqra University",
+    "country": "Saudi Arabia",
+    "state": "Shaqra",
+    "city": "Shaqra",
+    "domain": "su.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fahad Bin Sultan University",
+    "country": "Saudi Arabia",
+    "state": "Tabuk",
+    "city": "Fahad Bin Sultan",
+    "domain": "fbsc.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Tabuk",
+    "country": "Saudi Arabia",
+    "state": "Tabuk",
+    "city": "Tabuk",
+    "domain": "ut.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taif University",
+    "country": "Saudi Arabia",
+    "state": "Taif",
+    "city": "Taif",
+    "domain": "tu.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yanbu University College",
+    "country": "Saudi Arabia",
+    "state": "Yanbu",
+    "city": "Yanbu",
+    "domain": "yuc.edu.sa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

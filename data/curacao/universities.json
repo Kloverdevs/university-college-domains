@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Avalon University School of Medicine",
+    "country": "Curacao",
+    "state": "Curacao",
+    "city": "Willemstad",
+    "domain": "avalonu.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Caribbean International University",
+    "country": "Curacao",
+    "state": "Curacao",
+    "city": "Willemstad",
+    "domain": "ciucuracao.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "University of Curacao Dr. Moises da Costa Gomez",
+    "country": "Curacao",
+    "state": "Curacao",
+    "city": "Willemstad",
+    "domain": "uoc.cw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

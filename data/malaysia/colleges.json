@@ -1,0 +1,762 @@
+[
+  {
+    "name": "Institute of Teachers Education, Kota Bharu",
+    "country": "Malaysia",
+    "state": "Kelantan",
+    "city": "Kota Bharu",
+    "domain": "ipgkkb.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kota Bharu Polytechnic",
+    "country": "Malaysia",
+    "state": "Kelantan",
+    "city": "Kota Bharu",
+    "domain": "pkb.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Asia Pacific Institute of Information Technology (APIIT)",
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Asia Pacific",
+    "domain": "apiit.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Kuala Lumpur Malaysian Institute of Information Technology (MIIT)",
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "domain": "miit.unikl.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Advance Tertiary College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Advance Tertiary",
+    "domain": "atc2u.com",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Allianze College of Medical Sciences (ACMS)",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Allianze",
+    "domain": "acms.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Baitulmal Management Institute (IPB)",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Baitulmal Management",
+    "domain": "ipb.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Brickfields Asia College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Brickfields Asia",
+    "domain": "bac.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "British Malaysian Institute",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "British Malaysian",
+    "domain": "bmi.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Darul Hikmah Islamic College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Darul Hikmah Islamic",
+    "domain": "hikmah.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Darul Naim College of Technology",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Darul Naim",
+    "domain": "ktd.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Darul Takzim Institute of Technology",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Darul Takzim",
+    "domain": "instedt.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Darul Ulum Islamic College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Darul Ulum Islamic",
+    "domain": "kidu-darululum.blogspot.com",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Iact College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Iact",
+    "domain": "iact.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Batu Lintang",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "ipbl.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Darul Aman",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "ipda.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Dato' Razali Ismail",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "ipgmkdri.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Ilmu Khas",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "ipik.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Islamic Education",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "ipislam.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Keningau",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "ipks.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Kent",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "ipkent.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Malay Language",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "ipbmm.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Perlis",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "ipgperlis.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Raja Melewar",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "iprm.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Rajang",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "ipgkrajang.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Sarawak",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "ipsmiri.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Sultan Abdul Halim",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "ipsah.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Sultan Mizan",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "ipgmksm.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Tawau",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "ipgmtawau.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Technical Education",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "ipteknik.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Temenggong Ibrahim",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "ipgkti.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Tengku Ampuan Afzan",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "iptaa.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Tuanku Bainun",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "iptb.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Tun Hussein Onn",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "iptho.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "International Islamic College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "iic.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic College for Sciences and Technologies",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "kist.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Johore Bharu Primeir Polytechnic",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Johore Bharu Primeir",
+    "domain": "polijb.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "KBU International College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "KBU International",
+    "domain": "kbu.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "KDU College Sdn Bhd",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "KDU",
+    "domain": "kdu.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Mara Poly-Tech College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Mara Poly-Tech",
+    "domain": "kptm.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Merlimau Polytechnic",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Merlimau",
+    "domain": "pmm.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Muadzam Shah Polytechnic",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Muadzam Shah",
+    "domain": "polimuadzam.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Murni Nursing College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Murni Nursing",
+    "domain": "murni.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Olympia College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Olympia",
+    "domain": "olympia.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "PTPL College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "PTPL",
+    "domain": "ptpl.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Perak Islamic College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Perak Islamic",
+    "domain": "kiperak.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Perlis Islamic Higher Learning Institute",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Perlis Islamic Higher Learning",
+    "domain": "iptips.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Port Dickson Polytechnic",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Port Dickson",
+    "domain": "polipd.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Saito College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Saito",
+    "domain": "saito.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Seberang Perai Polytechnic",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Seberang Perai",
+    "domain": "psp.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Shahputra College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Shahputra",
+    "domain": "kolejshahputra.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Sultan Abdul Halim Muadzam Shah Polytechnic",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "polimas.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Sultan Ahmad Shah Islamic College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Sultan Ahmad Shah Islamic",
+    "domain": "kipsas.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Sultan Azlan Shah Polytechnic",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Sultan Azlan Shah",
+    "domain": "psas.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Sultan Haji Ahmad Shah Polytechnic",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Sultan Haji Ahmad Shah",
+    "domain": "polisas.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Sultan Idris Shah Polytechnic",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Sultan Idris Shah",
+    "domain": "psis.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Sultan Ismail Petra International Islamic College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "kias.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Sultan Mizan Zainal Abidin Polytechnic",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Sultan Mizan Zainal Abidin",
+    "domain": "psmza.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Sultan Salahuddin Abdul Aziz Shah Polytechnic",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "psa.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Sultanah Bahiyah Polytechnic",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Sultanah Bahiyah",
+    "domain": "ptsb.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "TPM College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "TPM",
+    "domain": "tpmcollege.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Taj International College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Taj International",
+    "domain": "taj.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Tunku Abdul Rahman Chinese College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Tunku Abdul Rahman Chinese",
+    "domain": "tarc.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Tunku Syed Sirajuddin Polytechnic",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Tunku Syed Sirajuddin",
+    "domain": "ptss.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Ungku Omar Premier Polytechnic",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Ungku Omar Premier",
+    "domain": "puo.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "West Minster International College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "West Minster International",
+    "domain": "westminster.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "YPC-iTWEB College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "YPC-iTWEB",
+    "domain": "kolejypc.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Melaka",
+    "country": "Malaysia",
+    "state": "Melaka",
+    "city": "Melaka",
+    "domain": "ippm.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Melaka City Polytechnic",
+    "country": "Malaysia",
+    "state": "Melaka",
+    "city": "Melaka City",
+    "domain": "polimelaka.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Penang",
+    "country": "Malaysia",
+    "state": "Penang",
+    "city": "Penang",
+    "domain": "i4p.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "International Islamic College of Penang",
+    "country": "Malaysia",
+    "state": "Penang",
+    "city": "Penang",
+    "domain": "kitab.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Penang International Dental College",
+    "country": "Malaysia",
+    "state": "Penang",
+    "city": "Penang International Dental",
+    "domain": "pidc.edu.my",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Teachers Education, Ipoh",
+    "country": "Malaysia",
+    "state": "Perak",
+    "city": "Ipoh",
+    "domain": "ipip.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kota Kinabalu Polytechnic",
+    "country": "Malaysia",
+    "state": "Sabah",
+    "city": "Kota Kinabalu",
+    "domain": "pkksabah.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kuching Polytechnic",
+    "country": "Malaysia",
+    "state": "Sarawak",
+    "city": "Kuching",
+    "domain": "poliku.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kuala Terengganu City Polytechnic",
+    "country": "Malaysia",
+    "state": "Terengganu",
+    "city": "Kuala Terengganu City",
+    "domain": "pkkt.edu.my",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

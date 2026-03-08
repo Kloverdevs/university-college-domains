@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Arthur C Clarke Institute of Modern Technologies",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Arthur C Clarke",
+    "domain": "accimt.ac.lk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Horizon College of Business and Technology",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Horizon",
+    "domain": "horizoncampus.edu.lk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Postgraduate Institute of Agriculture (PGIA)",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Postgraduate",
+    "domain": "pgia.ac.lk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Postgraduate Institute of Pali & Buddhist Studies (University of Kelaniya)",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Kelaniya)",
+    "domain": "kln.ac.lk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "South Asian Institute of Technology And Medicine (SAITM)",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "South Asian",
+    "domain": "saitm.edu.lk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Sri Lanka Institute of Advanced Technical Education",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Sri Lanka",
+    "domain": "sliate.net",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Sri Lanka Institute of Information Technology (SLIT)",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Sri Lanka",
+    "domain": "sliit.lk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

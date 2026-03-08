@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Americanos College",
+    "country": "Cyprus",
+    "state": "Cyprus",
+    "city": "Americanos",
+    "domain": "ac.ac.cy",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Cyprus College",
+    "country": "Cyprus",
+    "state": "Cyprus",
+    "city": "Cyprus",
+    "domain": "cycollege.ac.cy",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Cyprus International Institute of Management (CIIM)",
+    "country": "Cyprus",
+    "state": "Cyprus",
+    "city": "Cyprus International",
+    "domain": "ciim.ac.cy",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Intercollege",
+    "country": "Cyprus",
+    "state": "Cyprus",
+    "city": "Cyprus",
+    "domain": "intercollege.ac.cy",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "The CTL Eurocollege",
+    "country": "Cyprus",
+    "state": "Cyprus",
+    "city": "Cyprus",
+    "domain": "ctleuro.ac.cy",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

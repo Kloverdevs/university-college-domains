@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Danang College Of Technology",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Danang",
+    "domain": "dct.udn.vn",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Hanoi Teacher Training College No. 1",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Finance",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Vietnam",
+    "domain": "hvtc.edu.vn",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Melior International College",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Economic and Technical College",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Posts & Telecommunications Institute of Technology",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Posts & Telecommunications",
+    "domain": "ptit.edu.vn",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Saigon International College",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

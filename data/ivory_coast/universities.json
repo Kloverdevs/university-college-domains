@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Université d'Abobo-Adjamé",
+    "country": "Ivory Coast",
+    "state": "Ivory Coast",
+    "city": "Abobo",
+    "domain": "uabobo.ci",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Bouaké",
+    "country": "Ivory Coast",
+    "state": "Ivory Coast",
+    "city": "Bouaké",
+    "domain": "ubouake.ci",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Cocody",
+    "country": "Ivory Coast",
+    "state": "Ivory Coast",
+    "city": "Cocody",
+    "domain": "univ-cocody.ci",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

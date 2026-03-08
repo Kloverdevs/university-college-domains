@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Health sciences University of Mongolia",
+    "country": "Mongolia",
+    "state": "Mongolia",
+    "city": "Mongolia",
+    "domain": "hsum-ac.mn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mongolian National University",
+    "country": "Mongolia",
+    "state": "Mongolia",
+    "city": "Mongolian National",
+    "domain": "num.edu.mn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mongolian State University of Agriculture",
+    "country": "Mongolia",
+    "state": "Mongolia",
+    "city": "Agriculture",
+    "domain": "msua.edu.mn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mongolian State University of Arts and Culture",
+    "country": "Mongolia",
+    "state": "Mongolia",
+    "city": "Arts and Culture",
+    "domain": "msuac.edu.mn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mongolian State University of Education",
+    "country": "Mongolia",
+    "state": "Mongolia",
+    "city": "Mongolian State",
+    "domain": "msue.edu.mn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mongolian University of Science and Technology",
+    "country": "Mongolia",
+    "state": "Mongolia",
+    "city": "Science and Technology",
+    "domain": "must.edu.mn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Orkhon University",
+    "country": "Mongolia",
+    "state": "Mongolia",
+    "city": "Orkhon",
+    "domain": "orkhon.edu.mn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ulaanbaatar University",
+    "country": "Mongolia",
+    "state": "Mongolia",
+    "city": "Ulaanbaatar",
+    "domain": "ulaanbaatar.edu.mn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of the Humanities",
+    "country": "Mongolia",
+    "state": "Mongolia",
+    "city": "the Humanities",
+    "domain": "humanities.mn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

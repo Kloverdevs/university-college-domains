@@ -1,0 +1,692 @@
+[
+  {
+    "name": "Asia Pacific University of Technology & Innovation (APU)",
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Technology & Innovation",
+    "domain": "apu.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kuala Lumpur Infrastructure University College",
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur Infrastructure",
+    "domain": "kliuc.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kuala Lumpur Metropolitan University",
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur Metropolitan",
+    "domain": "klmu.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Kuala Lumpur",
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "domain": "unikl.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aimst University",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Aimst",
+    "domain": "aimst.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al Madinah International University",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Al Madinah International",
+    "domain": "mediu.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Bukhari International University",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Al-Bukhari International",
+    "domain": "aiu.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asia E University",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Asia E",
+    "domain": "aeu.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Binary University College of Managemant & Entrepreneurship",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Binary",
+    "domain": "binary.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "City University College of Science and Technology",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "City",
+    "domain": "city.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Curtin University of Technology, Sarawak Campus",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Curtin",
+    "domain": "curtin.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Darul Quran Islamic College University",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Darul Quran Islamic",
+    "domain": "kudqi.net.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "FTMS Global Academy",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "ftmsglobal.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Help University College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Help",
+    "domain": "help.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institut Prima Bestari - Pine Academy",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "pine.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Islamic University",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "iiu.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Medical University",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "imu.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International University College of Nursing (IUCN)",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "International University",
+    "domain": "iucn.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International University College of Technology Twintech (IUCTT)",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "International University",
+    "domain": "iuctt.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kolej Universiti Insaniah",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "kuin.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Limkokwing University College of Creative Technology",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Limkokwing",
+    "domain": "limkokwing.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Linton University College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Linton",
+    "domain": "linton.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mahsa University College for Health and Medical Science",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Mahsa",
+    "domain": "mahsa.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Malaysia University of Science and Technology (MUST)",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Science and Technology",
+    "domain": "must.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Management and Science University",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Management and Science",
+    "domain": "msu.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Monash University, Malaysia Campus",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Monash",
+    "domain": "monash.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Multimedia University",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Multimedia",
+    "domain": "mmu.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Newcastle University, Medicine Malaysia",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Newcastle",
+    "domain": "numed.ncl.ac.uk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Open University Malaysia",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "oum.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Perdana University",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Perdana",
+    "domain": "perdanauniversity.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Petronas Technology University",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Petronas Technology",
+    "domain": "utp.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Primier International University Perak",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Primier International",
+    "domain": "piup.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Raffles University",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Raffles",
+    "domain": "raffles-university.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Segi University College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Segi",
+    "domain": "segi.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Selangor Islamic University College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Selangor Islamic",
+    "domain": "kuis.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sunway University College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Sunway",
+    "domain": "sunway.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Swinburne University of Technology, Sarawak Campus",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Swinburne",
+    "domain": "swinburne.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taylor's University College",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Taylor's",
+    "domain": "taylors.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tunku Abdul Rahman University (Chinese University)",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Tunku Abdul Rahman",
+    "domain": "utar.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "UCSI University",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "UCSI",
+    "domain": "ucsi.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Darul Iman",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "udm.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Industri Selangor",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "unisel.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Kebangsaan Malaysia",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "ukm.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Malaya",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "um.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Malaysia Kelantan",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "umk.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Malaysia Perlis",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "unimap.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Malaysia Sabah",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "ums.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Malaysia Sarawak",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "unimas.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Malaysia Terengganu",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "umt.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Pendidikan Sultan Idris",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "upsi.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Putra Malaysia",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "upm.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Sains Malaysia",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "usm.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Sultan Zainal Abidin",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "unisza.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Teknologi Malaysia",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "utm.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Teknologi Mara",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "uitm.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Tenaga Nasional",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "uniten.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Tun Abdul Razak",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "unitar.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Tun Hussein Onn Malaysia",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "uthm.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Utara Malaysia",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "uum.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College of Technology & Innovation (UCTI)",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "University",
+    "domain": "ucti.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University Malaysia Pahang",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "ump.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University Tun Abdul Razak",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Malaysia",
+    "domain": "unirazak.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Management and Technology",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Management and Technology",
+    "domain": "umtech.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Nottingham, Malaysia Campus",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Nottingham",
+    "domain": "nottingham.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wawasan Open University",
+    "country": "Malaysia",
+    "state": "Malaysia",
+    "city": "Wawasan Open",
+    "domain": "wou.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Melaka Islamic University College",
+    "country": "Malaysia",
+    "state": "Melaka",
+    "city": "Melaka Islamic",
+    "domain": "kuim.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Teknikal Malaysia Melaka",
+    "country": "Malaysia",
+    "state": "Melaka",
+    "city": "Melaka",
+    "domain": "utem.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nilai University College",
+    "country": "Malaysia",
+    "state": "Negeri Sembilan",
+    "city": "Nilai",
+    "domain": "nilai.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cyberjaya University College of Medical Science",
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Cyberjaya",
+    "domain": "cybermed.edu.my",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Christchurch Polytechnic Institute of Technology",
+    "country": "New Zealand",
+    "state": "Canterbury",
+    "city": "Christchurch Polytechnic",
+    "domain": "cpit.ac.nz",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Nelson Marlborough Institute of Technology",
+    "country": "New Zealand",
+    "state": "Nelson",
+    "city": "Nelson Marlborough",
+    "domain": "nmit.ac.nz",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Ara Institute of Canterbury",
+    "country": "New Zealand",
+    "state": "New Zealand",
+    "city": "Ara",
+    "domain": "ara.ac.nz",
+    "aliases": [
+      "moodle.ara.ac.nz",
+      "myara.ara.ac.nz"
+    ],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Open Polytechnic",
+    "country": "New Zealand",
+    "state": "Wellington",
+    "city": "",
+    "domain": "openpolytechnic.ac.nz",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

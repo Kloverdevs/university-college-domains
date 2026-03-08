@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Bali Cruise Ship College",
+    "country": "Indonesia",
+    "state": "Indonesia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bandung Institute of Technology",
+    "country": "Indonesia",
+    "state": "Indonesia",
+    "city": "",
+    "domain": "wrks.itb.ac.id",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Christian college",
+    "country": "Indonesia",
+    "state": "Indonesia",
+    "city": "",
+    "domain": "ccbs.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Electronic Engineering Polytechnic Institute of Surabaya",
+    "country": "Indonesia",
+    "state": "Indonesia",
+    "city": "",
+    "domain": "pens.ac.id",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Harapan Bangsa Institute of Technology",
+    "country": "Indonesia",
+    "state": "Indonesia",
+    "city": "",
+    "domain": "ithb.ac.id",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Indonesia International Institute for Life Sciences",
+    "country": "Indonesia",
+    "state": "Indonesia",
+    "city": "",
+    "domain": "i3l.ac.id",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Indonesian Institute of the Arts, Surakarta",
+    "country": "Indonesia",
+    "state": "Indonesia",
+    "city": "",
+    "domain": "isi-ska.ac.id",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Indonesian State College of Accountancy",
+    "country": "Indonesia",
+    "state": "Indonesia",
+    "city": "",
+    "domain": "pknstan.ac.id",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jakarta International College",
+    "country": "Indonesia",
+    "state": "Indonesia",
+    "city": "",
+    "domain": "jic.ac.id",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kalimantan Institute of Technology",
+    "country": "Indonesia",
+    "state": "Indonesia",
+    "city": "",
+    "domain": "itk.ac.id",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "King's College London",
+    "country": "Indonesia",
+    "state": "Indonesia",
+    "city": "",
+    "domain": "kcl.ac.uk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "LaSalle College International Jakarta",
+    "country": "Indonesia",
+    "state": "Indonesia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "List of Indonesian agricultural universities and colleges",
+    "country": "Indonesia",
+    "state": "Indonesia",
+    "city": "",
+    "domain": "instiperjogja.ac.id",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nahdlatul Ulama Islamic Institute",
+    "country": "Indonesia",
+    "state": "Indonesia",
+    "city": "",
+    "domain": "v2.iainu-kebumen.ac.id",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute of Technology (Indonesia)",
+    "country": "Indonesia",
+    "state": "Indonesia",
+    "city": "",
+    "domain": "itenas.ac.id",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Perbanas Institute",
+    "country": "Indonesia",
+    "state": "Indonesia",
+    "city": "Perbanas",
+    "domain": "perbanas.id",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Sekolah Tinggi Ilmu Ekonomi Professional Manajemen College Indonesia",
+    "country": "Indonesia",
+    "state": "Indonesia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sepuluh Nopember Institute of Technology",
+    "country": "Indonesia",
+    "state": "Indonesia",
+    "city": "",
+    "domain": "uibk.ac.at",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Surabaya Shipbuilding State Polytechnic",
+    "country": "Indonesia",
+    "state": "Indonesia",
+    "city": "",
+    "domain": "ships.ppns.ac.id",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Trisakti Institute of Tourism",
+    "country": "Indonesia",
+    "state": "Indonesia",
+    "city": "Trisakti",
+    "domain": "stptrisakti.ac.id",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Abfi Institute Perbanas Jakarta",
+    "country": "Indonesia",
+    "state": "Jakarta",
+    "city": "Jakarta",
+    "domain": "perbanasinstitute.ac.id",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

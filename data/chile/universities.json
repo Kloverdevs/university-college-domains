@@ -1,0 +1,644 @@
+[
+  {
+    "name": "Escuela de Arquitectura y Diseño",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Chile",
+    "domain": "arquitecturaucv.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pontificia Universidad Catolica de Chile",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Catolica de Chile",
+    "domain": "uc.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad \"Adolfo Ibañez\"",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "\"Adolfo Ibañez\"",
+    "domain": "uai.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad \"Arturo Prat\"",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "\"Arturo Prat\"",
+    "domain": "unap.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Academia de Humanismo Cristiano",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Academia de Humanismo Cristiano",
+    "domain": "academia.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Adventista de Chile",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Adventista de Chile",
+    "domain": "unachile.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Universidad Alberto Hurtado",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Alberto Hurtado",
+    "domain": "uahurtado.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Arcis",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Arcis",
+    "domain": "universidadarcis.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Austral de Chile",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Austral de Chile",
+    "domain": "uach.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autonoma del Sur",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Autonoma del Sur",
+    "domain": "uas.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Bernardo O'Higgins",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Bernardo O'Higgins",
+    "domain": "ubohiggins.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Bolivariana",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Bolivariana",
+    "domain": "ubolivariana.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Catolica de La Santísima Concepción",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Chile",
+    "domain": "ucsc.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Catolica de Temuco",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Catolica de Temuco",
+    "domain": "uctem.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Catolica de Valparaiso",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Catolica de Valparaiso",
+    "domain": "ucv.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Catolica del Maule",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Catolica del Maule",
+    "domain": "ucm.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Catolica del Norte",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Catolica del Norte",
+    "domain": "ucn.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica Cardenal Raúl Silva Henríquez",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Chile",
+    "domain": "ucsh.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Central",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Chile",
+    "domain": "ucentral.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Chileno Britanica de Cultura",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Chileno Britanica de Cultura",
+    "domain": "ubritanica.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Diego Portales",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Diego Portales",
+    "domain": "udp.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Finis Terrae",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Finis Terrae",
+    "domain": "ufinis.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Francisco de Aguirre",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Francisco de Aguirre",
+    "domain": "unfa.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Gabriela Mistral",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Gabriela Mistral",
+    "domain": "ugm.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Iberoamericana de Ciencias y Tecnologia",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Chile",
+    "domain": "unicit.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad International SEK, Santiago",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "International SEK",
+    "domain": "uisek.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad José Santos Ossa",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "José Santos Ossa",
+    "domain": "ujso.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad La Republica",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "La Republica",
+    "domain": "ulare.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Mariano Egaña",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Mariano Egaña",
+    "domain": "ume.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Maritima de Chile",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Maritima de Chile",
+    "domain": "umaritima.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Mayor",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Mayor",
+    "domain": "umayor.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Metropolitana de Ciencias de la Educación",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Chile",
+    "domain": "umce.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Miguel de Cervantes",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Miguel de Cervantes",
+    "domain": "ucervantes.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Andrés Bello",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Nacional Andrés Bello",
+    "domain": "unab.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad San Sebastian",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "San Sebastian",
+    "domain": "uss.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Santo Tomás",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Santo Tomás",
+    "domain": "ust.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnologica \"Vicente Perez Rosales\"",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Tecnologica \"Vicente Perez Rosales\"",
+    "domain": "uvipro.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnológica Metropolitana",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Tecnológica Metropolitana",
+    "domain": "utem.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Técnica Federico Santa María",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Técnica Federico Santa María",
+    "domain": "usm.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Aconcagua",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Aconcagua",
+    "domain": "uaconcagua.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Antofagasta",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Antofagasta",
+    "domain": "uantof.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Artes, Ciencias y Comunicación",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Artes",
+    "domain": "uniacc.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Atacama",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Atacama",
+    "domain": "uda.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Aysen",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Aysen",
+    "domain": "uaysen.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Chile",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Chile",
+    "domain": "uchile.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Ciencias de la Informatica",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Ciencias de la Informatica",
+    "domain": "ucinf.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Concepcion",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Concepcion",
+    "domain": "udec.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de La Frontera",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "La Frontera",
+    "domain": "ufro.cl",
+    "aliases": [
+      "ufromail.cl"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de La Serena",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "La Serena",
+    "domain": "userena.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Las Américas",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Las Américas",
+    "domain": "uamericas.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Los Andes",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Los Andes",
+    "domain": "uandes.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Los Lagos",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Los Lagos",
+    "domain": "ulagos.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Magallanes",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Magallanes",
+    "domain": "umag.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Playa Ancha de Ciencias de la Educacion",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Chile",
+    "domain": "upa.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de San Andres",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "San Andres",
+    "domain": "usanandres.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Santiago de Chile",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Santiago de Chile",
+    "domain": "usach.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Talca",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Talca",
+    "domain": "utalca.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Tarapacá",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Tarapacá",
+    "domain": "uta.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Valparaiso",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Valparaiso",
+    "domain": "uv.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Viña del Mar",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Viña del Mar",
+    "domain": "uvm.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Bío-Bío",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Bío",
+    "domain": "ubiobio.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Desarrollo",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Desarrollo",
+    "domain": "udesarrollo.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Mar",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Mar",
+    "domain": "udelmar.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Pacífico",
+    "country": "Chile",
+    "state": "Chile",
+    "city": "Pacífico",
+    "domain": "upacifico.cl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

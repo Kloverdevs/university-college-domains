@@ -1,0 +1,52 @@
+[
+  {
+    "name": "American University of the Caribbean, School of Medicine",
+    "country": "Belize",
+    "state": "Belize",
+    "city": "the Caribbean",
+    "domain": "aucmed.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Central America Health Sciences University (Belize Medical College)",
+    "country": "Belize",
+    "state": "Belize",
+    "city": "Central America Health Sciences",
+    "domain": "cahsu.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Greenford International University",
+    "country": "Belize",
+    "state": "Belize",
+    "city": "Greenford International",
+    "domain": "giuedu.bz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Belize",
+    "country": "Belize",
+    "state": "Belize",
+    "city": "Belize",
+    "domain": "ub.edu.bz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "West Coast University (WCU)",
+    "country": "Belize",
+    "state": "Belize",
+    "city": "West Coast",
+    "domain": "westcoastuniversity.bz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

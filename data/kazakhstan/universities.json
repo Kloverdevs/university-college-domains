@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Abai State University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "Abai State",
+    "domain": "kaznpu.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abylai Khan University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "Abylai Khan",
+    "domain": "ablaikhan.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aktau State University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "Aktau State",
+    "domain": "aktsu.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Farabi Kazakh National University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "Al-Farabi Kazakh National",
+    "domain": "kaznu.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Atyrau State University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "Atyrau State",
+    "domain": "atgu.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "East Kazakhstan State University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "East Kazakhstan State",
+    "domain": "vkgu.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "East Kazakstan State Technical University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "East Kazakstan State Technical",
+    "domain": "ektu.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Kazakh-Turkish University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "International Kazakh-Turkish",
+    "domain": "turkistan.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Karaganda State Buketov University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "Karaganda State Buketov",
+    "domain": "ksu.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Karaganda State Technical University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "Karaganda State Technical",
+    "domain": "kstu.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kazak American University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "Kazak American",
+    "domain": "kau.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kazak National Technical University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "Kazak National Technical",
+    "domain": "kazntu.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kazak State University of Agriculture",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "Agriculture",
+    "domain": "agriun.almaty.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kazakh British Technical University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "Kazakh British Technical",
+    "domain": "kbtu.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kostanai State University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "Kostanai State",
+    "domain": "ksu.kst.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "L.N. Gumilyov Eurasian National University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "L.N. Gumilyov Eurasian National",
+    "domain": "enu.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "North Kazakhstan State University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "North Kazakhstan State",
+    "domain": "nkzu.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pavlodar University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "Pavlodar",
+    "domain": "psu.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Semey State Medical University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "Semey State Medical",
+    "domain": "sgma.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Semey State University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "Semey State",
+    "domain": "semgu.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Suleyman Demirel University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "Suleyman Demirel",
+    "domain": "sdu.edu.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Turar Ryskulov Kazakh Economic University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "Turar Ryskulov Kazakh Economic",
+    "domain": "kazeu.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of International Business",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "Kazakhstan",
+    "domain": "uib.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Western Kazakhstan Agricultural University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "Western Kazakhstan Agricultural",
+    "domain": "wkau.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zhetysu State University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "Zhetysu State",
+    "domain": "zhgu.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zhezkazgan Baikonurov University",
+    "country": "Kazakhstan",
+    "state": "Kazakhstan",
+    "city": "Zhezkazgan Baikonurov",
+    "domain": "zhezu.kz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

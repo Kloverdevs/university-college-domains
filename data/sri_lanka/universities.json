@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Buddhasravaka Bhikshu University",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Buddhasravaka Bhikshu",
+    "domain": "bbu.ac.lk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Buddhist and Pali University of Sri Lanka",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Sri Lanka",
+    "domain": "bpu.ac.lk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eastern University of Sri Lanka",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Sri Lanka",
+    "domain": "esn.ac.lk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kotelawala Defence University",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Kotelawala Defence",
+    "domain": "kdu.ac.lk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Open University of Sri Lanka",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Sri Lanka",
+    "domain": "ou.ac.lk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rajarata University of Sri Lanka",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Sri Lanka",
+    "domain": "rjt.ac.lk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sabaragamuwa University of Sri Lanka",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Sri Lanka",
+    "domain": "sab.ac.lk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "South Eastern University of Sri Lanka",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Sri Lanka",
+    "domain": "seu.ac.lk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Colombo",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Colombo",
+    "domain": "cmb.ac.lk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Jaffna",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Jaffna",
+    "domain": "jfn.ac.lk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Kelaniya",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Kelaniya",
+    "domain": "kln.ac.lk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Moratuwa",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Moratuwa",
+    "domain": "mrt.ac.lk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Peradeniya",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Peradeniya",
+    "domain": "pdn.ac.lk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Ruhuna",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Ruhuna",
+    "domain": "ruh.ac.lk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Sri Jayawardenapura",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Sri Jayawardenapura",
+    "domain": "sjp.ac.lk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of the Visual & Performing Arts",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Sri Lanka",
+    "domain": "vpa.ac.lk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Uva Wellassa University",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Uva Wellassa",
+    "domain": "uwu.ac.lk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wayamba University of Sri Lanka",
+    "country": "Sri Lanka",
+    "state": "Sri Lanka",
+    "city": "Sri Lanka",
+    "domain": "wyb.ac.lk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

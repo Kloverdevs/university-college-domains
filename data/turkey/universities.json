@@ -1,0 +1,1852 @@
+[
+  {
+    "name": "Afyon Kocatepe University",
+    "country": "Turkey",
+    "state": "Afyonkarahisar",
+    "city": "Afyon Kocatepe",
+    "domain": "aku.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ankara University",
+    "country": "Turkey",
+    "state": "Ankara",
+    "city": "Ankara",
+    "domain": "ankara.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gazi University Ankara",
+    "country": "Turkey",
+    "state": "Ankara",
+    "city": "Gazi",
+    "domain": "gazi.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gaziantep University",
+    "country": "Turkey",
+    "state": "Gaziantep",
+    "city": "Gaziantep",
+    "domain": "gantep.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Istanbul Arel University",
+    "country": "Turkey",
+    "state": "Istanbul",
+    "city": "Istanbul Arel",
+    "domain": "arel.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Istanbul Bilgi University",
+    "country": "Turkey",
+    "state": "Istanbul",
+    "city": "Istanbul Bilgi",
+    "domain": "ibun.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Istanbul Kultur University",
+    "country": "Turkey",
+    "state": "Istanbul",
+    "city": "Istanbul Kultur",
+    "domain": "iku.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Istanbul Technical University",
+    "country": "Turkey",
+    "state": "Istanbul",
+    "city": "Istanbul Technical",
+    "domain": "itu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Istanbul Ticaret University",
+    "country": "Turkey",
+    "state": "Istanbul",
+    "city": "Istanbul Ticaret",
+    "domain": "iticu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Istanbul University",
+    "country": "Turkey",
+    "state": "Istanbul",
+    "city": "Istanbul",
+    "domain": "istanbul.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Izmir Economic University",
+    "country": "Turkey",
+    "state": "Izmir",
+    "city": "Izmir Economic",
+    "domain": "izmirekonomi.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kirikkale University",
+    "country": "Turkey",
+    "state": "Kirikkale",
+    "city": "Kirikkale",
+    "domain": "kku.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Necmettin Erbakan University",
+    "country": "Turkey",
+    "state": "Konya",
+    "city": "Necmettin Erbakan",
+    "domain": "konya.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mersin University",
+    "country": "Turkey",
+    "state": "Mersin",
+    "city": "Mersin",
+    "domain": "mersin.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mugla University",
+    "country": "Turkey",
+    "state": "Mugla",
+    "city": "Mugla",
+    "domain": "mu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigde University",
+    "country": "Turkey",
+    "state": "Nigde",
+    "city": "Nigde",
+    "domain": "nigde.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sakarya University",
+    "country": "Turkey",
+    "state": "Sakarya",
+    "city": "Sakarya",
+    "domain": "sau.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ondokuz Mayis University Samsun",
+    "country": "Turkey",
+    "state": "Samsun",
+    "city": "Ondokuz Mayis",
+    "domain": "omu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abant Izzet Baysal University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Abant Izzet Baysal",
+    "domain": "ibu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abdullah Gül University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "topuniversities.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Adnan Menderes University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Adnan Menderes",
+    "domain": "adu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Adıyaman University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "adiyaman.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Afyonkarahisar Health Sciences University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "afsu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ahi Evran University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Ahi Evran",
+    "domain": "ahievran.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Akdeniz University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Akdeniz",
+    "domain": "akdeniz.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aksaray University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "aksaray.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alanya Alaaddin Keykubat University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "istatistik.yok.gov.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Altınbaş University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "altinbas.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Amasya University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "amasya.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Anadolu University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Anadolu",
+    "domain": "anadolu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ankara Hacı Bayram Veli University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "hacibayram.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ankara Music and Fine Arts University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "mgu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ardahan University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "ardahan.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Atatürk University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Atatürk",
+    "domain": "atauni.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Atilim University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Atilim",
+    "domain": "atilim.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Atılım University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "library.atilim.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Avrasya University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "avrasya.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ağrı İbrahim Çeçen University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "kunib.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bahcesehir University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Bahcesehir",
+    "domain": "bahcesehir.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Balikesir University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Balikesir",
+    "domain": "balikesir.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bandırma Onyedi Eylül University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "bandirma.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bartın University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "bartin.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baskent University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Baskent",
+    "domain": "baskent.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Batman University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "batman.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bayburt University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "bayburt.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Beykent University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Beykent",
+    "domain": "beykent.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Beykoz University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "beykoz.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bezmialem Vakıf University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "bezmialem.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bilecik University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Bilecik",
+    "domain": "bilecik.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bilkent University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Bilkent",
+    "domain": "bilkent.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bingöl University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "en.bingol.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bitlis Eren University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "bitliseren.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bogazici University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Bogazici",
+    "domain": "boun.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Boğaziçi University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "bumatek.boun.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Burdur Mehmet Akif Ersoy University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "mehmetakif.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bursa Technical University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "btu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cag University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Cag",
+    "domain": "cag.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canakkale (18th March) University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Canakkale",
+    "domain": "comu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cankaya University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Cankaya",
+    "domain": "cankaya.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Celal Bayar University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Celal Bayar",
+    "domain": "bayar.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Council of Higher Education (YÖK)",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "yok.gov.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cukurova University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Cukurova",
+    "domain": "cu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cumhuriyet (Republik) University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Cumhuriyet",
+    "domain": "cumhuriyet.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Demiroğlu Bilim University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "istanbulbilim.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dicle (Tirgris) University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Dicle",
+    "domain": "dicle.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dicle University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "international.dicle.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dogus University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Dogus",
+    "domain": "dogus.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dokuz Eylül University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Dokuz Eylül",
+    "domain": "deu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dumlupinar University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Dumlupinar",
+    "domain": "dumlupinar.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Düzce University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "duzce.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ege University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Ege",
+    "domain": "ege.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Erciyes University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Erciyes",
+    "domain": "erciyes.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Erzurum Technical University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "isni.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eskişehir Technical University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "hph.eskisehir.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fatih University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Fatih",
+    "domain": "fatih.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fenerbahçe University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "fbu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Firat (Euphrates) University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Firat",
+    "domain": "firat.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Galatasaray University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Galatasaray",
+    "domain": "gsu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gazi University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "lib.gazi.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gaziosmanpasa University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Gaziosmanpasa",
+    "domain": "gop.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gebze Technical University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "gtu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gediz University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Gediz",
+    "domain": "gediz.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gulhane Military Medical Academy",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Turkey",
+    "domain": "gata.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gümüşhane University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "gumushane.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hacettepe University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Hacettepe",
+    "domain": "hun.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hakkari University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "viaf.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Halic University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Halic",
+    "domain": "halic.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Harran University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Harran",
+    "domain": "harran.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hatay Mustafa Kemal University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "dib.mku.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iasar University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Iasar",
+    "domain": "yasar.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ibn Haldun University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "ihu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Inönü University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Inönü",
+    "domain": "inonu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Isik University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Isik",
+    "domain": "isikun.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iskenderun Technical University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "iste.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Istanbul Atlas University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "atlas.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Istanbul Aydın University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "aydin.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Istanbul Commerce University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "ticaret.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Istanbul Gelişim University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "gelisim.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Istanbul Medeniyet University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "medeniyet.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Istanbul Medipol University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "medipol.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Istanbul Sabahattin Zaim University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "iszu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Istanbul University-Cerrahpaşa",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "istanbulc.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Istanbul Yeni Yüzyıl University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "yeniyuzyil.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iğdır University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "igdir.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kadir Has University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Kadir Has",
+    "domain": "khas.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kafkas University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Kafkas",
+    "domain": "kafkas.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kahramanmaras Sütcü Imam University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Kahramanmaras Sütcü Imam",
+    "domain": "ksu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Karabük University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "karabuk.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Karadeniz Technical University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Karadeniz Technical",
+    "domain": "ktu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Karamanoğlu Mehmetbey University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "kmu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kastamonu University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "kastamonu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kayseri University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "kayseri.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kilis 7 Aralık University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Kilis 7 Aralık",
+    "domain": "kilis.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Koc University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Koc",
+    "domain": "ku.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kocaeli University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Kocaeli",
+    "domain": "kou.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Konya Food and Agriculture University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "gidatarim.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kütahya Dumlupınar University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "dpu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kırklareli University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "kirklareli.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kırıkkale University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "cesran.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "MEF University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "mef.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Malatya Turgut Özal University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "ozal.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Maltepe University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Maltepe",
+    "domain": "maltepe.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Manisa Celal Bayar University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "cbu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mardin Artuklu University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "artuklu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Marmara University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Marmara",
+    "domain": "marmara.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Middle East Technical University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Middle East Technical",
+    "domain": "odtu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mimar Sinan Fine Arts University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "msgsu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mimar Sinan University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Mimar Sinan",
+    "domain": "msu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Munzur University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "tunceli.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mustafa Kemal University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Mustafa Kemal",
+    "domain": "mku.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Muş Alparslan University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "alparslan.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Namik Kemal University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Namik Kemal",
+    "domain": "nku.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nuh Naci Yazgan University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "nny.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "OSTIM Technical University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "ostimteknik.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ondokuz Mayıs University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "oid.omu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osmangazi University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Osmangazi",
+    "domain": "ogu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osmaniye Korkut Ata University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "osmaniye.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ozyegin University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Ozyegin",
+    "domain": "ozyegin.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pamukkale University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Pamukkale",
+    "domain": "pamukkale.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Piri Reis University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "pirireis.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sabanci University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Sabanci",
+    "domain": "sabanciuniv.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sabancı University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "sabanciuniv.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sakarya University of Applied Sciences",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "muys.sakarya.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Samsun University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "samsun.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sanko University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "english.sanko.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Selcuk University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Selcuk",
+    "domain": "selcuk.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Siirt University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "agu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sinop University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "sinop.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sivas University of Science and Technology",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "sivas.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Study in Turkey",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "studyinturkey.gov.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Suleyman Demirel University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Suleyman Demirel",
+    "domain": "sdu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "TED University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "tedu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tarsus University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "tarsus.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Times Higher Education World University Rankings",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "universityworldnews.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tobb Economics and Technology University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Tobb Economics and Technology",
+    "domain": "etu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokat Gaziosmanpaşa University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "kddb.gop.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toros University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "toros.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Trabzon University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "trabzon.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Trakya University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Trakya",
+    "domain": "trakya.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Turkish Military Academy",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Turkey",
+    "domain": "kho.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Turkish Naval Academy",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Turkey",
+    "domain": "dho.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Türkisch-Deutsche Universität",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Turkey",
+    "domain": "tau.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ufuk University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Ufuk",
+    "domain": "ufuk.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Uludag University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Uludag",
+    "domain": "uludag.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Health Sciences (Turkey)",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "tip.sbu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Uşak University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "usak.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yalova University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Yalova",
+    "domain": "yalova.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yaşar University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "international.yasar.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yeditepe University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Yeditepe",
+    "domain": "yeditepe.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yildirim Beyazit University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Yildirim Beyazit",
+    "domain": "ybu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yildiz Technical University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Yildiz Technical",
+    "domain": "yildiz.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yozgat Bozok University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "bozok.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yüksek İhtisas University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "yuksekihtisasuniversitesi.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yüzüncü Yil (Centennial) University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Yüzüncü Yil",
+    "domain": "yyu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zonguldak Bülent Ecevit University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "eng.beun.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Çankırı Karatekin University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "international.karatekin.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Üsküdar University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "uskudar.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "İstanbul Şehir University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "İstanbul Şehir",
+    "domain": "sehir.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "İstinye University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "istinye.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "İzmir Bakırçay University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "bakircay.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "İzmir Democracy University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "tbmm.gov.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "İzmir Kâtip Çelebi University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "ikc.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "İzmir University of Economics",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "ieu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Şırnak University",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "sirnak.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zonguldak Karaelmas University",
+    "country": "Turkey",
+    "state": "Zonguldak",
+    "city": "Zonguldak Karaelmas",
+    "domain": "karaelmas.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

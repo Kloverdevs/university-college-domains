@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Bugema University",
+    "country": "Uganda",
+    "state": "Luweero",
+    "city": "Bugema",
+    "domain": "bugemauniv.ac.ug",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aga Khan University",
+    "country": "Uganda",
+    "state": "Sindh",
+    "city": "Aga Khan",
+    "domain": "aku.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Busitema University",
+    "country": "Uganda",
+    "state": "Uganda",
+    "city": "Busitema",
+    "domain": "busitema.ac.ug",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Busoga University",
+    "country": "Uganda",
+    "state": "Uganda",
+    "city": "Busoga",
+    "domain": "busogauniversity.ac.ug",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Central Buganda University",
+    "country": "Uganda",
+    "state": "Uganda",
+    "city": "Central Buganda",
+    "domain": "cbu2000.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gulu University",
+    "country": "Uganda",
+    "state": "Uganda",
+    "city": "Gulu",
+    "domain": "gu.ac.ug",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic University in Uganda",
+    "country": "Uganda",
+    "state": "Uganda",
+    "city": "Uganda",
+    "domain": "iuiu.ac.ug",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kampala International University",
+    "country": "Uganda",
+    "state": "Uganda",
+    "city": "Kampala International",
+    "domain": "kiu.ac.ug",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kampala University",
+    "country": "Uganda",
+    "state": "Uganda",
+    "city": "Kampala",
+    "domain": "ku.ac.ug",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyambogo University",
+    "country": "Uganda",
+    "state": "Uganda",
+    "city": "Kyambogo",
+    "domain": "kyu.ac.ug",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Makerere University",
+    "country": "Uganda",
+    "state": "Uganda",
+    "city": "Makerere",
+    "domain": "mak.ac.ug",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mbarara University of Science and Technology",
+    "country": "Uganda",
+    "state": "Uganda",
+    "city": "Science and Technology",
+    "domain": "must.ac.ug",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mountains of the Moon University",
+    "country": "Uganda",
+    "state": "Uganda",
+    "city": "Mountains of the Moon",
+    "domain": "mmu.ac.ug",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mutesa 1 Royal University",
+    "country": "Uganda",
+    "state": "Uganda",
+    "city": "Mutesa 1 Royal",
+    "domain": "mru.ac.ug",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ndejje University",
+    "country": "Uganda",
+    "state": "Uganda",
+    "city": "Ndejje",
+    "domain": "ndejjeuniversity.ac.ug",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nkumba University",
+    "country": "Uganda",
+    "state": "Uganda",
+    "city": "Nkumba",
+    "domain": "nkumbauniversity.ac.ug",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Augustine International University",
+    "country": "Uganda",
+    "state": "Uganda",
+    "city": "St. Augustine International",
+    "domain": "saiu.ac.ug",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Uganda Christian University",
+    "country": "Uganda",
+    "state": "Uganda",
+    "city": "Uganda Christian",
+    "domain": "ucu.ac.ug",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Uganda Martyr's University",
+    "country": "Uganda",
+    "state": "Uganda",
+    "city": "Uganda Martyr's",
+    "domain": "umu.ac.ug",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

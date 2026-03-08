@@ -1,0 +1,3627 @@
+[
+  {
+    "name": "Bow Valley College",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Calgary",
+    "domain": "bowvalleycollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "DeVry Institute of Technology",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "DeVry",
+    "domain": "cal.devry.ca",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Grande Prairie Regional College",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Grande Prairie",
+    "domain": "gprc.ab.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Lakeland College",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Vermilion",
+    "domain": "lakelandcollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Lethbridge College",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Lethbridge",
+    "domain": "lethbridgecollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Medicine Hat College",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Medicine Hat",
+    "domain": "mhc.ab.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "NorQuest College",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Edmonton",
+    "domain": "norquest.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Northern Alberta Institute of Technology",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Northern Alberta",
+    "domain": "nait.ca",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Red Deer Polytechnic",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Red Deer",
+    "domain": "rdpolytech.ca",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Southern Alberta Institute of Technology",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Southern Alberta",
+    "domain": "sait.ca",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Ashton College",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Ashton",
+    "domain": "ashtoncollege.com",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "British Columbia Institute of Technology",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Burnaby",
+    "domain": "bcit.ca",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Camosun College",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Victoria",
+    "domain": "camosun.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Capilano College",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Capilano",
+    "domain": "capcollege.bc.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Coast Mountain College",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Terrace",
+    "domain": "coastmountaincollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "College of New Caledonia",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Prince George",
+    "domain": "cnc.bc.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "College of the Rockies",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Cranbrook",
+    "domain": "cotr.bc.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Columbia College",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Columbia",
+    "domain": "columbiacollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Douglas College",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "New Westminster",
+    "domain": "douglascollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Emily Carr Institute of Art + Design",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Emily Carr",
+    "domain": "eciad.bc.ca",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Justice Institute of British Columbia",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "New Westminster",
+    "domain": "jibc.ca",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Langara College",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Vancouver",
+    "domain": "langara.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Nicola Valley Institute of Technology",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Merritt",
+    "domain": "nvit.ca",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "North Island College",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Courtenay",
+    "domain": "nic.bc.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Northern Lights College",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Dawson Creek",
+    "domain": "nlc.bc.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Okanagan College",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Kelowna",
+    "domain": "okanagan.bc.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Pacific International College",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Pacific International",
+    "domain": "picollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Regent College",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Regent",
+    "domain": "regent-college.edu",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Selkirk College",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Castlegar",
+    "domain": "selkirk.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Vancouver Community College",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Vancouver Community",
+    "domain": "vcc.ca",
+    "aliases": [],
+    "type": "Community College",
+    "control": "Public"
+  },
+  {
+    "name": "Alberta College of Art and Design",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alexander College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "gov.bc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Algonquin College of Applied Arts and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Anderson College of Health, Business and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arbutus College of Communication, Arts, Business and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aspire College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Association of Canadian Commercial Colleges",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Augustine College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "ottawacitizen.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baptist Bible College Canada and Theological Seminary",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cicic.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Bay River College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "feu.edu.ph",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Beth Jacob Teacher's College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bethany Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bethany College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bethany College (Saskatchewan)",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "bethany.sk.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Biztech College of Health Sciences, Business and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Briercrest College and Seminary",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "briercrest.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Brighton College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "farmington.ac.uk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "CDI College of Business, Technology and Health Care (ALBERTA)",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "CDI College of Business, Technology and Health Care (British Columbia)",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "CDI College of Business, Technology and Health Care (ONTARIO)",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "CDI College of Business, Technology and Health Care, Montréal",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cambrian College of Applied Arts and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Camrose Lutheran College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Can-National Business College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canada Christian College and School of Graduate Theological Studies",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canada Princeton College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian Business College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian College of Business, Science and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian College of Health, Science and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian College of Management and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian College of Naturopathic Medicine",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "ccnm.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian College of Performing Arts",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian Forces College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian Memorial Chiropractic College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cmcc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian Mennonite Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian Nazarene College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian Southern Baptist Seminary and College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian Union College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadore College of Applied Arts and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Carey Theological College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "carey-edu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Carlton Trail College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "aeei.gov.sk.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Carlton Trail Regional College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centennial College of Applied Arts and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Central College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Central Pentecostal College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Century College of Art and Business",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Champlain Regional College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "ceec.gouv.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Champlain Regional College, Lennoxville Campus",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Champlain Regional College, Main Campus",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Champlain Regional College, Saint Lambert Campus",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Champlain Regional College, St. Lawrence Campus",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Champlain Regional College, Torah and Vocational Institute",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Christ College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Christ For The Nations Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Clearwater College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College & Association of Registered Nurses of Alberta",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College Marguerite-Bourgeoys",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College O'Sullivan de Quebec Inc.",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College Stanislas",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College of International Holistic Studies",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College of Registered Nurses of Manitoba",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College of Registered Nurses of Nova Scotia",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College of Traditional Chinese Medicine and Pharmacology Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Columbia Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "columbiabc.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Columbia College Calgary, Alberta",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Columbia Science College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Compucollege School of Business",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Concordia College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Conestoga College Institute of Technology and Advanced Learning",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Confederation College of Applied Arts and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Coquitlam College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "www2.gov.bc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corpus Christi College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Covenant Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "covchurch.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Covenant Life College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cumberland Regional College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cypress Hills Regional College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Delta College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dominion Herbal College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "dominionherbalcollege.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dorset College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "plccourses.ie",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Durham College of Applied Arts and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eastern College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eastern Pentecostal Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Educacentre College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "macleans.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Emmanuel Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "emmanuelbiblecollege.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Eston College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "estoncollege.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Everest Colleges of Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Evergreen College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fairview College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "FaithWay Baptist College of Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fanshawe College of Applied Arts and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "First College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "princeton.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fraser International College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "peak.sfu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "George Brown College of Applied Arts and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Georgian College of Applied Arts and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Glendon College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "glendon.yorku.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Global Leadership College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Grant MacEwan Community College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Great Lakes Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "glbc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Great Plains College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "greatplainscollege.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Greystone College of Business and Technology, Vancouver",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Heritage College and Seminary",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Herzing College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hillcrest Christian College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "hillcrest.qld.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Homeopathic College of Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Humber College Institute of Technology and Advanced Learning",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Huron College of Management, Technology and Health Care",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "ILAC Canadian Tourism College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ican College of Computer Business and Healthcare, Ottawa",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Inter-Dec College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "oru.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "International College of Alternative Medicines",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International College of Manitoba - ICM",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International College of Traditional Chinese Medicine of Vancouver",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Keewatin Community College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Keyano College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "aet.alberta.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Keyin College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kootenay Columbia College of Integrative Health Sciences",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "LaSalle College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "lapresse.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "LaSalle College Vancouver",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "lasallecollegevancouver.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lakeland College (Alberta)",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "accc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lakeland College, Saskatchewan",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lambton College of Applied Arts and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lasalle College International Vancouver Inc.",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lethbridge Community College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lethbridge Polytechnic",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "ourfutureourpast.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "List of colleges in Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cic.gc.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Living Faith Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "London Baptist Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "London College of Osteopathy and Health Sciences",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Loyalist College of Applied Arts and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "MaKami College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "profitguide.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Macdonald College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Maimonides College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "jewishvirtuallibrary.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Manual Osteopathic College of Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Maritime Christian College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "mccpei.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Maritime College of Forest Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "mcft.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Master's College and Seminary",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "mcs.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Max the Mutt College of Animation, Art and Design",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "McKenzie College (New Brunswick)",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "mckenzie.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "McMaster Divinity College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Medix College of Healthcare",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Menno Simons College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "io.uwinnipeg.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Millar College of the Bible",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mohawk College of Applied Arts and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Montreal Diocesan Theological College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mount Carmel Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mount Royal College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "Mount Royal",
+    "domain": "mtroyal.ab.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "NPC College of Art and Design",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "New Brunswick College of Craft and Design",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "nbccd.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Newfoundland and Labrador College of Trades and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Newman Theological College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "newman.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Niagara College of Applied Arts and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nipawin Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "nipawin.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "North American Baptist College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "North American College of Information Technology, Toronto",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "North American College of Pharmaceutical Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "North West College (Saskatchewan)",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "northwestcollege.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "North West Regional College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "nwrc.ac.uk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Northeast Christian College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Northern College of Applied Arts and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Northern Lakes College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "northernlakescollege.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Northlands College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "viaf.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Northwest Baptist Theological College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Northwest Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Northwest Community College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Northwestern Polytechnic",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "alberta.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nova Scotia College of Early Childhood Education",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "nscece.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nova Scotia Teachers College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "lux.collections.yale.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Okanagan Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Okanagan Valley College of Massage Therapy",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Olds College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "oldscollege.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ongiara College of Acupuncture and Moxibustion",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ontario Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ontario College of Art",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ontario College of Homeopathic Medicine",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ontario College of Teachers",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "oct.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ontario College of Traditional Chinese Medicine",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ontario Institute for Studies in Education",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "tspace.library.utoronto.ca",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Oshawa Missionary College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Oshio College of Acupuncture and Herbology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ottawa Teacher's College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Oulton College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "oultoncollege.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Our Lady Seat of Wisdom College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Oxford College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Oxford College of Arts, Business and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "oxfordedu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "PCU College of Holistic Medicine",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pacific Life Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pacific Link College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pacific Rim College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Parkland Regional College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pharmaceutical Science College of Canada, Toronto",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Polytechnics Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "polytechnicscanada.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Portage College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "portagecollege.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Prairie Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Prairie College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "prairie.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Prairie West Regional College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Presbyterian College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "jsu.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Providence College and Theological Seminary",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Queen's College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Radio College of Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Red Crow Community College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "aihec.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Red Deer College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Red River College of Applied Arts, Science and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Reeves College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "reevescollege.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Reeves College, Calgary City Centre",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Regis College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rhodes Wellness College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Robertson College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "ltcam.mb.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Robinson College of Health Sciences",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rocky Mountain College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "rocky.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal College of Physicians and Surgeons of Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "citeseerx.ist.psu.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal Crown College of Business and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal Roads Military College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ruhani College of Health Business and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sacré-Cœur College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "biographi.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saskatchewan Indian Institute of Technologies",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "siit.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sault College of Applied Arts and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seneca College of Applied Arts and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sheridan College Institute of Technology and Advanced Learning",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sir Sandford Fleming College of Applied Arts and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Southeast College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "southeastcollege.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Southeast Regional College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Southern College British Columbia",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sprott Shaw College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "sec.gov",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sprott-Shaw Community College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Clair College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "St. Clair",
+    "domain": "stclairc.on.ca",
+    "aliases": [
+      "stclairconnect.ca",
+      "myscc.ca"
+    ],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "St. Clair College of Applied Arts and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Lawrence College of Applied Arts and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Mark's College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Stephen's College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Thomas More College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "stmcollege.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Stanstead College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "stansteadcollege.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Steinbach Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "sbcollege.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Stenberg College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Success CompuCollege",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Summit Pacific College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sundance College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "TAV College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "collegedecarie.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Talpiot College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taylor College and Seminary",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "kairos.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "The Chinese College of Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Theological College of the Canadian Reformed Churches",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toronto College of Dental Hygiene and Auxiliaries Inc.",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toronto College of Technology Inc.",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Trebas Institute",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "trebas.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Trillium College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "United Theological College of Montreal",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vancouver Beijing College of Chinese Medicine",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vancouver Career College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "scc-csc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vancouver College of Counsellor Training",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vancouver College of Dental Hygiene",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vancouver Premier College of Arts and Science",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vancouver Premier College of Hotel Management",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vanguard College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "ibolt.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Victory Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Visual College of Art and Design - VCAD",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Walton College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "West Coast College of Massage Therapy",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Western Christian College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "oldpaths.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Western Imperial College of Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Western Pentecostal Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Winnipeg Bible College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Winnipeg Technical College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "World Chinese Medicine and Acupuncture College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wycliffe College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yellowquill College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "yellowquill.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "triOS College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Assiniboine Community College",
+    "country": "Canada",
+    "state": "Manitoba",
+    "city": "Brandon",
+    "domain": "assiniboine.net",
+    "aliases": [],
+    "type": "Community College",
+    "control": "Public"
+  },
+  {
+    "name": "Red River College Polytechnic",
+    "country": "Canada",
+    "state": "Manitoba",
+    "city": "Winnipeg",
+    "domain": "rrc.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "University College of the North",
+    "country": "Canada",
+    "state": "Manitoba",
+    "city": "The Pas",
+    "domain": "ucn.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "William and Catherine Booth College",
+    "country": "Canada",
+    "state": "Manitoba",
+    "city": "William and Catherine Booth",
+    "domain": "boothcollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "New Brunswick Community College",
+    "country": "Canada",
+    "state": "New Brunswick",
+    "city": "Fredericton",
+    "domain": "nbcc.ca",
+    "aliases": [],
+    "type": "Community College",
+    "control": "Public"
+  },
+  {
+    "name": "College of the North Atlantic",
+    "country": "Canada",
+    "state": "Newfoundland and Labrador",
+    "city": "Stephenville",
+    "domain": "cna.nl.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Marine Institute",
+    "country": "Canada",
+    "state": "Newfoundland and Labrador",
+    "city": "St. John's",
+    "domain": "mi.mun.ca",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Aurora College",
+    "country": "Canada",
+    "state": "Northwest Territories",
+    "city": "Yellowknife",
+    "domain": "auroracollege.nt.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Nova Scotia Agricultural College",
+    "country": "Canada",
+    "state": "Nova Scotia",
+    "city": "Nova Scotia Agricultural",
+    "domain": "nsac.ns.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Nova Scotia College of Art and Design",
+    "country": "Canada",
+    "state": "Nova Scotia",
+    "city": "Nova Scotia",
+    "domain": "nscad.ns.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Nova Scotia Community College",
+    "country": "Canada",
+    "state": "Nova Scotia",
+    "city": "Halifax",
+    "domain": "nscc.ca",
+    "aliases": [],
+    "type": "Community College",
+    "control": "Public"
+  },
+  {
+    "name": "Nunavut Arctic College",
+    "country": "Canada",
+    "state": "Nunavut",
+    "city": "Iqaluit",
+    "domain": "arcticcollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Algonquin College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Ottawa",
+    "domain": "algonquincollege.com",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Boreal College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Sudbury",
+    "domain": "collegeboreal.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Brescia College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Brescia",
+    "domain": "uwo.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Cambrian College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Sudbury",
+    "domain": "cambriancollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian College of Business & Computers",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Canadian",
+    "domain": "ccbc.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Canadore College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "North Bay",
+    "domain": "canadorecollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Centennial College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "domain": "centennialcollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Conestoga College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Kitchener",
+    "domain": "conestogac.on.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Confederation College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Thunder Bay",
+    "domain": "confederationcollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Dominican College of Philosophy and Theology",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Dominican",
+    "domain": "op.org",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Durham College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Oshawa",
+    "domain": "durhamcollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Fanshawe College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "London",
+    "domain": "fanshawec.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Fleming College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Peterborough",
+    "domain": "flemingcollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "George Brown College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "domain": "georgebrown.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Georgian College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Barrie",
+    "domain": "georgiancollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Humber College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "domain": "humber.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Kingston College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Kingston",
+    "domain": "kingston.edu",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "La Cite College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Ottawa",
+    "domain": "collegelacite.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Lambton College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Sarnia",
+    "domain": "lambtoncollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Loyalist College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Belleville",
+    "domain": "loyalistcollege.com",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Mohawk College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Hamilton",
+    "domain": "mohawkcollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Niagara College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Welland",
+    "domain": "niagaracollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Northern College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Timmins",
+    "domain": "northernc.on.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Ontario College of Art and Design",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Ontario",
+    "domain": "ocad.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Redeemer College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Redeemer",
+    "domain": "redeemer.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Royal Military College of Canada",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "",
+    "domain": "rmc.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Ryerson Polytechnic University",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Ryerson Polytechnic",
+    "domain": "ryerson.ca",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Sault College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Sault Ste. Marie",
+    "domain": "saultcollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Seneca College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "domain": "senecapolytechnic.ca",
+    "aliases": [
+      "senecacollege.ca"
+    ],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Sheridan College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Oakville",
+    "domain": "sheridancollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "St. Lawrence College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Kingston",
+    "domain": "stlawrencecollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Toronto Baptist Seminary and Bible College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "",
+    "domain": "tbs.edu",
+    "aliases": [],
+    "type": "College",
+    "control": "Private"
+  },
+  {
+    "name": "University of Ontario Institute of Technology",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "University of Ontario",
+    "domain": "uoit.ca",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Holland College",
+    "country": "Canada",
+    "state": "Prince Edward Island",
+    "city": "Charlottetown",
+    "domain": "hollandcollege.com",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Cegep de Sainte-Foy",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Quebec City",
+    "domain": "cegep-ste-foy.qc.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Cegep du Vieux Montreal",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Montreal",
+    "domain": "cvm.qc.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Champlain College",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Sherbrooke",
+    "domain": "champlaincollege.qc.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "College of Bois-de-Boulogne",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "",
+    "domain": "bdeb.qc.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Dawson College",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Montreal",
+    "domain": "dawsoncollege.qc.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Heritage College",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Gatineau",
+    "domain": "cegep-heritage.qc.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "INRS",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Quebec City",
+    "domain": "inrs.ca",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "John Abbott College",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Sainte-Anne-de-Bellevue",
+    "domain": "johnabbott.qc.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Marianopolis College",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Montreal",
+    "domain": "marianopolis.edu",
+    "aliases": [],
+    "type": "College",
+    "control": "Private"
+  },
+  {
+    "name": "Polytechnique Montreal",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Montreal",
+    "domain": "polymtl.ca",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Vanier College",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Montreal",
+    "domain": "vaniercollege.qc.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Campion College",
+    "country": "Canada",
+    "state": "Saskatchewan",
+    "city": "Regina",
+    "domain": "campioncollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Gabriel Dumont Institute",
+    "country": "Canada",
+    "state": "Saskatchewan",
+    "city": "Saskatoon",
+    "domain": "gdins.org",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Luther College",
+    "country": "Canada",
+    "state": "Saskatchewan",
+    "city": "Regina",
+    "domain": "luthercollege.edu",
+    "aliases": [],
+    "type": "College",
+    "control": "Private"
+  },
+  {
+    "name": "Saskatchewan Indian Federated College",
+    "country": "Canada",
+    "state": "Saskatchewan",
+    "city": "Saskatchewan Indian Federated",
+    "domain": "sifc.edu",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Saskatchewan Polytechnic",
+    "country": "Canada",
+    "state": "Saskatchewan",
+    "city": "Saskatoon",
+    "domain": "saskpolytech.ca",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "St. Peter's College",
+    "country": "Canada",
+    "state": "Saskatchewan",
+    "city": "Muenster",
+    "domain": "stpeterscollege.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Private"
+  },
+  {
+    "name": "Yukon College",
+    "country": "Canada",
+    "state": "Yukon",
+    "city": "Yukon",
+    "domain": "yukoncollege.yk.ca",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

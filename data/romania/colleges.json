@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Institute of Architecture \"Ion Mincu\" Bucharest",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "iaim.ro",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Polytechnic University of Timisoara",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Timisoara",
+    "domain": "student.upt.ro",
+    "aliases": [
+      "upt.ro"
+    ],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

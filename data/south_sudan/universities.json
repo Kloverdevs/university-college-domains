@@ -1,0 +1,22 @@
+[
+  {
+    "name": "University of Juba",
+    "country": "South Sudan",
+    "state": "South Sudan",
+    "city": "Juba",
+    "domain": "juba.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Northern Bahr El-Ghazal",
+    "country": "South Sudan",
+    "state": "South Sudan",
+    "city": "Northern Bahr El",
+    "domain": "unbeg.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

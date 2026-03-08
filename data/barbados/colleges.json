@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Barbados Community College",
+    "country": "Barbados",
+    "state": "Barbados",
+    "city": "Bridgetown",
+    "domain": "bcc.edu.bb",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Erdiston Teachers' Training College",
+    "country": "Barbados",
+    "state": "Barbados",
+    "city": "Bridgetown",
+    "domain": "ettc.edu.bb",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Samuel Jackman Prescod Institute of Technology",
+    "country": "Barbados",
+    "state": "Barbados",
+    "city": "Bridgetown",
+    "domain": "sjpi.edu.bb",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

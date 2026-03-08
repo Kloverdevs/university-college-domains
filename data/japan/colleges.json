@@ -1,0 +1,1604 @@
+[
+  {
+    "name": "Nagoya College of Music",
+    "country": "Japan",
+    "state": "Aichi",
+    "city": "Nagoya",
+    "domain": "doho.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Nagoya Institute of Technology",
+    "country": "Japan",
+    "state": "Aichi",
+    "city": "Nagoya",
+    "domain": "nitech.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Chiba Institute of Technology",
+    "country": "Japan",
+    "state": "Chiba",
+    "city": "Chiba",
+    "domain": "it-chiba.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Fukuoka Dental College",
+    "country": "Japan",
+    "state": "Fukuoka",
+    "city": "Fukuoka Dental",
+    "domain": "fdcnet.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Fukuoka Institute of Technology",
+    "country": "Japan",
+    "state": "Fukuoka",
+    "city": "Fukuoka",
+    "domain": "fit.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Hiroshima Institute of Technology",
+    "country": "Japan",
+    "state": "Hiroshima",
+    "city": "Hiroshima",
+    "domain": "it-hiroshima.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kanazawa College of Art",
+    "country": "Japan",
+    "state": "Ishikawa",
+    "city": "Kanazawa",
+    "domain": "kanazawa-bidai.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Kanazawa College of Economics",
+    "country": "Japan",
+    "state": "Ishikawa",
+    "city": "Kanazawa",
+    "domain": "kanazawa-eco.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Kanazawa Institute of Technology",
+    "country": "Japan",
+    "state": "Ishikawa",
+    "city": "Kanazawa",
+    "domain": "kanazawa-it.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Advanced Institute of Industrial Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "aiit.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Aichi Institute of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Aichi",
+    "domain": "aitech.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Aichi Mizuho College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "amc.mizuho-c.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Aomori Public College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Aomori Public",
+    "domain": "nebuta.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Asahikawa Medical College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Asahikawa Medical",
+    "domain": "asahikawa-med.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Ashikaga Institute of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Ashikaga",
+    "domain": "ashitech.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Atomi College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Atomi",
+    "domain": "atomi.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Baika Women's College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Baika Women's",
+    "domain": "baika.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Baiko Women's College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Baiko Women's",
+    "domain": "baiko.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Biwako Seikei Sport College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "osaka-seikei.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Chiba Institute of Science",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "cis.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Chitose Institute of Science and Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "chitose.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "College of Healthcare Management",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "healthcare-m.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Daido Institute of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Daido",
+    "domain": "daido-it.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Daiichi College of Pharmaceutical Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Daiichi",
+    "domain": "daiichi-cps.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Doshisha Women's College of Liberal Arts",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Doshisha Women's",
+    "domain": "dwc.doshisha.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Fuji Women's College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Fuji Women's",
+    "domain": "fujijoshi.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Fukushima College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "fukushima-college.com",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Fukushima Medical College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Fukushima Medical",
+    "domain": "fmu.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Gakushuin Women's College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "gwc.gakushuin.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Gifu College of Nursing",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "viaf.org",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Graduate Institute for Entrepreneurial Studies",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "jigyo.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Gumma Paz College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "paz.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Gunma Prefectural College of Health Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "gchs.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Hachinohe Institute of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hachinohe",
+    "domain": "hi-tech.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Heisei College of Music",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "heisei-music.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Higashiosaka College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "higashiosaka.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Himeji Institute of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Himeji",
+    "domain": "himeji-tech.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Hokkaido Institute of Pharmaceutical Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hokkaido",
+    "domain": "hokuyakudai.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Hokkaido Institute of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hokkaido",
+    "domain": "hit.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Hyogo College of Medicine",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hyogo",
+    "domain": "hyo-med.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Ibaraki Christian College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Ibaraki Christian",
+    "domain": "icc.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Private"
+  },
+  {
+    "name": "Institute of Advanced Media Arts and Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "iamas.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Information Security",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "iisec.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Science Tokyo",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "isct.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Technologists",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "iot.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "International College for Postgraduate Buddhist Studies",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "icabs.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Japan Advanced Institute of Science and Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Japan Advanced",
+    "domain": "jaist.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Japan College of Social Work",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Japan",
+    "domain": "shakaijigyo.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Japan Institute of the Moving Image",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "eiga.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Japan Lutheran College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "luther.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Private"
+  },
+  {
+    "name": "Japan Women's College of Physical Education",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "jwcpe.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Japanese Red Cross College of Nursing",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Japanese Red Cross",
+    "domain": "redcross.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Japanese Red Cross Hokkaido College of Nursing",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "rchokkaido-cn.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Japanese Red Cross Tohoku College of Nursing",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "rcakita.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Japanese Red Cross Toyota College of Nursing",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "rctoyota.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Kagawa Institute of Nutrition",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kagawa",
+    "domain": "eiyo.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kagawa Prefectural College of Health Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kagawa-puhs.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Kamakura Women's College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kamakura Women's",
+    "domain": "kamakura-u.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Kameda College of Health Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kameda.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Kanagawa Dental College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kanagawa Dental",
+    "domain": "kdcnet.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Kanagawa Institute of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kanagawa",
+    "domain": "kanagawa-it.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Keisen Jogaku-en College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Keisen Jogaku-en",
+    "domain": "keisen.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Keiwa College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Keiwa",
+    "domain": "keiwa-c.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Kitami Institute of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kitami",
+    "domain": "kitami-it.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kobe City College of Nursing",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kobe-ccn.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Kobe Institute of Computing",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kobedenshi.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kobe Kaisei College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kaisei.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Koka Women's College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Koka Women's",
+    "domain": "koka.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Kunitachi College of Music",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kunitachi",
+    "domain": "kunitachi.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Kurume Institute of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kurume",
+    "domain": "kurume-it.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kwassui Women's College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kwassui Women's",
+    "domain": "kwassui.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Kyushu Dental College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kyushu Dental",
+    "domain": "kyu-dent.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Kyushu Institute of Design",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kyushu",
+    "domain": "kyushu-id.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kyushu Institute of Information Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kiis.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kyushu Institute of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kyushu",
+    "domain": "kyutech.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "List of junior colleges in Japan",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "tandai.or.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Maebashi Institute of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "maebashi-it.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Matsuyama Shinonome College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "shinonome.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Meiji College of Pharmacy",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Meiji",
+    "domain": "my-pharm.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Mie Prefectural College of Nursing",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "mcn.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Mimasaka Women's College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Mimasaka Women's",
+    "domain": "mimasaka.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Miyagi Gakuin Women's College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Miyagi Gakuin Women's",
+    "domain": "mgu.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Miyazaki International College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "mic.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Miyazaki Medical College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Miyazaki Medical",
+    "domain": "miyazaki-med.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Morioka College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Morioka",
+    "domain": "morioka-u.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Muroran Institute of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Muroran",
+    "domain": "muroran-it.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Musashi Institute of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Musashi",
+    "domain": "musashi-tech.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Nagahama Institute of Bio-Science and Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "nagahama-i-bio.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Nagano College of Nursing",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "nagano-nurs.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Nagaoka Institute of Design",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "nagaoka-id.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "National Defence Medical College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "National Defence Medical",
+    "domain": "ndmc.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "National Graduate Institute for Policy Studies",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "grips.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute of Fitness and Sports Kanoya",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Japan",
+    "domain": "nifs-k.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute of Technology, Asahikawa College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Japan",
+    "domain": "edu.asahikawa-nct.ac.jp",
+    "aliases": [
+      "asahikawa-nct.ac.jp"
+    ],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Nihon Institute of Medical Science",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "nims.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Niigata College of Nursing",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "niigata-cn.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Niigata Institute of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "niit.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Nippon Institute of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Nippon",
+    "domain": "nit.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Nishinippon Institute of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Nishinippon",
+    "domain": "nishitech.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Notre Dame Women's College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Notre Dame Women's",
+    "domain": "notredame.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Okinawa Prefectural College of Nursing",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "okinawa-nurs.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka Aoyama College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "www1.osaka-aoyama.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Polytechnic University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Polytechnic",
+    "domain": "uitec.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Saitama Institute of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Saitama",
+    "domain": "sit.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Saniku Gakuin College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "saniku.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Seisen Jogakuin College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "seisen-jc.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Seiwa College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Seiwa",
+    "domain": "seiwa-u.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Sendai Shirayuri Women's College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "sendai-shirayuri.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Senzoku Gakuen College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Senzoku Gakuen",
+    "domain": "senzoku.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Shibaura Institute of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Shibaura",
+    "domain": "shibaura-it.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Shikoku Christian College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Shikoku Christian",
+    "domain": "sg-u.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Private"
+  },
+  {
+    "name": "Shirayuri Women's College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Shirayuri Women's",
+    "domain": "shirayuri.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Shizuoka Institute of Science and Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "sist.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Shokei College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Shokei",
+    "domain": "shokei-gakuen.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Shonan Institute of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Shonan",
+    "domain": "shonan-it.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Showa College of Pharmaceutical Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Showa",
+    "domain": "shoyaku.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Shuchiin College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Shuchiin",
+    "domain": "shuchiin.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "St. Luke' s College of Nursing",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "St. Luke' s",
+    "domain": "slcn.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "St. Mary's College (Japan)",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "st-mary.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Sugino Fashion College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "sugino-fc.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Sugino Women's College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Sugino Women's",
+    "domain": "sugino.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Tama Institute of Management and Information Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tama",
+    "domain": "timis.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Tenshi College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "tenshi.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "The Kyoto College of Graduate Studies for Informatics",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kcg.edu",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Toho College of Music",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Toho",
+    "domain": "toho-music.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Tohoku College of Pharmacy",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tohoku",
+    "domain": "tohoku-pharm.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Tohoku Institute of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tohoku",
+    "domain": "tohtech.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Tohoku Seikatsu Bunka College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "mishima.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Tohoku Women's College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tohoku Women's",
+    "domain": "tojo.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Tokai Women's College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tokai Women's",
+    "domain": "tokaijoshi-u.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Seiei College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "tsc-05.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Toyohashi Sozo College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "sozo.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Toyota Technological Institute",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Toyota Technological",
+    "domain": "toyota-ti.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Tsuda College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tsuda",
+    "domain": "tsuda.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Ueno Gakuen College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Ueno Gakuen",
+    "domain": "uenogakuen.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Wakayama Medical College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Wakayama Medical",
+    "domain": "wakayama-med.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Women's College of Fine Arts",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Women's",
+    "domain": "joshibi.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Yamaguchi Gakugei College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "y-gakugei.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Yamanashi Eiwa College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "yamanashi-eiwa.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Yokohama College of Pharmacy",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "lux.collections.yale.edu",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Kagoshima Women's College",
+    "country": "Japan",
+    "state": "Kagoshima",
+    "city": "Kagoshima Women's",
+    "domain": "kwc-u.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Yokohama College of Commerce",
+    "country": "Japan",
+    "state": "Kanagawa",
+    "city": "Yokohama",
+    "domain": "shodai.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Kumamoto Institute of Technology",
+    "country": "Japan",
+    "state": "Kumamoto",
+    "city": "Kumamoto",
+    "domain": "knct.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoto Institute of Technology",
+    "country": "Japan",
+    "state": "Kyoto",
+    "city": "Kyoto",
+    "domain": "kit.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Nagasaki Institute of Applied Science",
+    "country": "Japan",
+    "state": "Nagasaki",
+    "city": "Nagasaki",
+    "domain": "nias.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Nara Institute of Science and Technology",
+    "country": "Japan",
+    "state": "Nara",
+    "city": "Nara",
+    "domain": "bs.naist.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Niigata College of Pharmacy",
+    "country": "Japan",
+    "state": "Niigata",
+    "city": "Niigata",
+    "domain": "niigata-pharm.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Okinawa Institute of Science and Technology",
+    "country": "Japan",
+    "state": "Okinawa",
+    "city": "Okinawa",
+    "domain": "oist.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka College of Music",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Osaka",
+    "domain": "daion.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka Institute of Technology",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Osaka",
+    "domain": "oit.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka Medical College",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Osaka Medical",
+    "domain": "osaka-med.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka Shoin Women's College",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Osaka Shoin Women's",
+    "domain": "osaka-shoin.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo College of Music",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo",
+    "domain": "tokyo-ondai.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Dental College",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo Dental",
+    "domain": "tdc.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Institute of Polytechnics",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo Institute of",
+    "domain": "t-kougei.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Institute of Technology",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo",
+    "domain": "titech.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Medical College",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo Medical",
+    "domain": "tokyo-med.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Metropolitan Institute of Technology",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo Metropolitan",
+    "domain": "tmit.ac.jp",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Women's College of Physical Education",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo Women's",
+    "domain": "twcpe.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Women's Medial College",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo Women's Medial",
+    "domain": "twmu.ac.jp",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

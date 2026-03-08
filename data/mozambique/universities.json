@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Instituto Superior Politécnico e Universitário",
+    "country": "Mozambique",
+    "state": "Mozambique",
+    "city": "Mozambique",
+    "domain": "ispu.ac.mz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Superior de Ciênicas e Tecnologia de Moçambique",
+    "country": "Mozambique",
+    "state": "Mozambique",
+    "city": "Mozambique",
+    "domain": "isctem.ac.mz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Superior de Relações Internacionais (ISRI)",
+    "country": "Mozambique",
+    "state": "Mozambique",
+    "city": "Mozambique",
+    "domain": "isri.ac.mz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade Católica de Moçambique",
+    "country": "Mozambique",
+    "state": "Mozambique",
+    "city": "Mozambique",
+    "domain": "ucm.ac.mz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade Eduardo Mondlane",
+    "country": "Mozambique",
+    "state": "Mozambique",
+    "city": "Mozambique",
+    "domain": "uem.mz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

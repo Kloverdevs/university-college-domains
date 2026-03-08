@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Institut Teknologi Brunei",
+    "country": "Brunei",
+    "state": "Brunei",
+    "city": "Bandar Seri Begawan",
+    "domain": "itb.edu.bn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiti Islam Sultan Sharif Ali",
+    "country": "Brunei",
+    "state": "Brunei",
+    "city": "Bandar Seri Begawan",
+    "domain": "unissa.edu.bn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Brunei Darussalam",
+    "country": "Brunei",
+    "state": "Brunei",
+    "city": "Brunei Darussalam",
+    "domain": "ubd.edu.bn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

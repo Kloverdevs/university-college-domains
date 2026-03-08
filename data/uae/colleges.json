@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Al Khawarizmi International College",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Al Khawarizmi International",
+    "domain": "khawarizmi.com",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "American College Of Dubai",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "UAE",
+    "domain": "acd.ac.ae",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Dubai Medical College for Girls",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Dubai Medical",
+    "domain": "dmcg.edu",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Dubai Pharmacy College",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Dubai Pharmacy",
+    "domain": "dpc.edu",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Higher Colleges of Technology",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "UAE",
+    "domain": "hct.ac.ae",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Rochester Institute of Technology, Dubai",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Rochester",
+    "domain": "dubai.rit.edu",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "The Petroleum Institute",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "The Petroleum",
+    "domain": "pi.ac.ae",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

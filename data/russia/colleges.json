@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Institute of Business and Politics",
+    "country": "Russia",
+    "state": "Moscow",
+    "city": "Moscow",
+    "domain": "ibp-moscow.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Moscow Institute of Physics and Technology",
+    "country": "Russia",
+    "state": "Moscow",
+    "city": "Moscow",
+    "domain": "mipt.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Moscow Power Engineering Institute (Technical University)",
+    "country": "Russia",
+    "state": "Moscow",
+    "city": "Moscow",
+    "domain": "mpei.ac.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Moscow State Institute of International Relations MFA Russia (MGIMO-University)",
+    "country": "Russia",
+    "state": "Moscow",
+    "city": "Moscow",
+    "domain": "mgimo.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Moscow State Institute of Radiotechnics, Electronics and Automation (Technical University)",
+    "country": "Russia",
+    "state": "Moscow",
+    "city": "Moscow",
+    "domain": "mirea.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Moscow State Institute of Steel and Alloys",
+    "country": "Russia",
+    "state": "Moscow",
+    "city": "Moscow",
+    "domain": "misis.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "NGO Vladikavkaz Institute of Economics, Management, and Law",
+    "country": "Russia",
+    "state": "North Ossetia",
+    "city": "Vladikavkaz",
+    "domain": "vieup.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Tomsk Polytechnic University",
+    "country": "Russia",
+    "state": "Omsk Oblast",
+    "city": "Tomsk Polytechnic",
+    "domain": "tpu.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Birsk State Pedagogical Institute",
+    "country": "Russia",
+    "state": "Russia",
+    "city": "Birsk State Pedagogical",
+    "domain": "bashedu.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Cheljabinsk State Institute of Teacher Training",
+    "country": "Russia",
+    "state": "Russia",
+    "city": "Cheljabinsk State",
+    "domain": "cspi.urc.ac.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "East-Siberian State Institute of Culture",
+    "country": "Russia",
+    "state": "Russia",
+    "city": "East-Siberian State",
+    "domain": "vsgaki.burnet.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute for the Economy in Transition",
+    "country": "Russia",
+    "state": "Russia",
+    "city": "Russia",
+    "domain": "iet.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Management and Economy",
+    "country": "Russia",
+    "state": "Russia",
+    "city": "Russia",
+    "domain": "ime.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Maxim Gorky Institute of Literature",
+    "country": "Russia",
+    "state": "Russia",
+    "city": "Maxim Gorky",
+    "domain": "filine.centro.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Modern Institute of Managament",
+    "country": "Russia",
+    "state": "Russia",
+    "city": "Russia",
+    "domain": "miom.org",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Moscow College of Engineers of Waterways Transport",
+    "country": "Russia",
+    "state": "Russia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nevsky Institute of Language and Culture",
+    "country": "Russia",
+    "state": "Russia",
+    "city": "Nevsky",
+    "domain": "nilc.spb.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Riga College of Radio Electronic Instrument Engineering",
+    "country": "Russia",
+    "state": "Russia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shakhty Higher Pedagogical Uchilishche (College)",
+    "country": "Russia",
+    "state": "Russia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taganrog State Pedagogical Institute",
+    "country": "Russia",
+    "state": "Russia",
+    "city": "Taganrog State Pedagogical",
+    "domain": "tgpi.ttn.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Tbilisi National Medical College",
+    "country": "Russia",
+    "state": "Russia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Banking Institute, St. Petersburg",
+    "country": "Russia",
+    "state": "Saint Petersburg",
+    "city": "St. Petersburg",
+    "domain": "ibi.spb.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "St. Petersburg Institute of Arts and Restoration",
+    "country": "Russia",
+    "state": "Saint Petersburg",
+    "city": "St. Petersburg",
+    "domain": "spbiir.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "St. Petersburg Institute of Sales Management and Economics",
+    "country": "Russia",
+    "state": "Saint Petersburg",
+    "city": "St. Petersburg",
+    "domain": "spbtei.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "St. Petersburg Repin State Academic Institute of Painting Sculpture and Achitecture",
+    "country": "Russia",
+    "state": "Saint Petersburg",
+    "city": "St. Petersburg",
+    "domain": "artacademy.spb.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "St. Petersburg State Institute of Technology (Technological University)",
+    "country": "Russia",
+    "state": "Saint Petersburg",
+    "city": "St. Petersburg State",
+    "domain": "gti.spb.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "St. Petersburg State Mining Institute (Technical University)",
+    "country": "Russia",
+    "state": "Saint Petersburg",
+    "city": "St. Petersburg",
+    "domain": "spmi.edu.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "St. Petersburg State Polytechnical University",
+    "country": "Russia",
+    "state": "Saint Petersburg",
+    "city": "St. Petersburg State",
+    "domain": "spbstu.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kazan State Finance and Economics Institute",
+    "country": "Russia",
+    "state": "Tatarstan",
+    "city": "Kazan",
+    "domain": "ksfei.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Yaroslavl State Theatre Institute",
+    "country": "Russia",
+    "state": "Yaroslavl Oblast",
+    "city": "Yaroslavl",
+    "domain": "theatrins-yar.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

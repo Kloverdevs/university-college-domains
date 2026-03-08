@@ -1,0 +1,667 @@
+[
+  {
+    "name": "Alexandria University",
+    "country": "Egypt",
+    "state": "Alexandria",
+    "city": "Alexandria",
+    "domain": "alex.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Assiut University",
+    "country": "Egypt",
+    "state": "Assiut",
+    "city": "Assiut",
+    "domain": "aun.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Beni Suef University",
+    "country": "Egypt",
+    "state": "Beni Suef",
+    "city": "Beni Suef",
+    "domain": "bsu.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ain Shams University",
+    "country": "Egypt",
+    "state": "Cairo",
+    "city": "Ain Shams",
+    "domain": "shams.edu.eg",
+    "aliases": [
+      "asu.edu.eg",
+      "eng.asu.edu.eg"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American University in Cairo",
+    "country": "Egypt",
+    "state": "Cairo",
+    "city": "Cairo",
+    "domain": "aucegypt.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Badr University in Cairo",
+    "country": "Egypt",
+    "state": "Cairo",
+    "city": "Badr",
+    "domain": "buc.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cairo University",
+    "country": "Egypt",
+    "state": "Cairo",
+    "city": "Cairo",
+    "domain": "cu.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "German University in Cairo",
+    "country": "Egypt",
+    "state": "Cairo",
+    "city": "German",
+    "domain": "guc.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Helwan University",
+    "country": "Egypt",
+    "state": "Cairo",
+    "city": "Helwan",
+    "domain": "helwan.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mansoura University",
+    "country": "Egypt",
+    "state": "Dakahlia",
+    "city": "Mansoura",
+    "domain": "mans.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Damietta University",
+    "country": "Egypt",
+    "state": "Damietta",
+    "city": "Damietta",
+    "domain": "du.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Akhbar El Yom Academy",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Egypt",
+    "domain": "akhbaracademy.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al Azhar University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Al Azhar",
+    "domain": "azhar.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alamein International University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "aiu.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alexandria Higher Institute of Engineering and Technology",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "ait.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arab Academy for Science & Technology",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Egypt",
+    "domain": "aast.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arab Open University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Arab Open",
+    "domain": "aou.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arish University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "aru.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aswan University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "aswu.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Borg El Arab Technological University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "manshurat.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Damanhour University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Damanhour",
+    "domain": "damanhour.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Delta University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Delta",
+    "domain": "deltauniv.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Egypt-Japan University of Science and Technology",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "ejust.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Egyptian Russian University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "eru.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Egyptian e-Learning University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "eelu.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "El Asher University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "geohack.toolforge.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "El Shorouk Academy",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Egypt",
+    "domain": "elshoroukacademy.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Faculty of Electronic Engineering, Menoufia University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "mu.menofia.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Future University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Future",
+    "domain": "futureuniversity.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Galala University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "gu.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "HICIT in Shorouk Academy",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "sha.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Higher Institute of Cinema",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "academyofarts.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Information Technology Institute",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "isni.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "King Salman International University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "ksiu.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lotus University in Minya",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "lum.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Luxor University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "luxor.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Menoufia University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Menoufia",
+    "domain": "menofia.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Misr International University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Misr International",
+    "domain": "miuegypt.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Misr University for Sience and Technology",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Misr",
+    "domain": "must.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Modern Acadmy",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Egypt",
+    "domain": "modern-academy.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Modern Sciences & Arts University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Modern Sciences & Arts",
+    "domain": "msa.eun.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Modern University For Technology and Information",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Egypt",
+    "domain": "mti.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nahda University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "nub.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "New Mansoura University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "nmu.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "New Valley University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "nv.aun.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nile University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Nile",
+    "domain": "nileu.edu.eg",
+    "aliases": [
+      "nu.edu.eg"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "October 6 university",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "October 6",
+    "domain": "o6u.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pharos International University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Pharos International",
+    "domain": "pua.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sadat Academy for Management Sciences",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Egypt",
+    "domain": "sadatacademy.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sinai University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Sinai",
+    "domain": "su.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "South Valley University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "South Valley",
+    "domain": "svu.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Suez University",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "suezuniv.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The British University in Egypt",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "bue.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Sadat City",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Sadat City",
+    "domain": "usc.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Française d'Égypte",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Egypt",
+    "domain": "ufe.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Senghor d'Alexandrie",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Egypt",
+    "domain": "usenghor-francophonie.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fayoum University",
+    "country": "Egypt",
+    "state": "Fayoum",
+    "city": "Fayoum",
+    "domain": "fayoum.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tanta University",
+    "country": "Egypt",
+    "state": "Gharbia",
+    "city": "Tanta",
+    "domain": "tanta.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kafr El-Sheikh University",
+    "country": "Egypt",
+    "state": "Kafr El Sheikh",
+    "city": "Kafr El-Sheikh",
+    "domain": "kfs.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Minia University",
+    "country": "Egypt",
+    "state": "Minya",
+    "city": "Minia",
+    "domain": "minia.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Deraya University",
+    "country": "Egypt",
+    "state": "New Minia",
+    "city": "Deraya",
+    "domain": "deraya.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Port Said University",
+    "country": "Egypt",
+    "state": "Port Said",
+    "city": "Port Said",
+    "domain": "psu.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Benha University",
+    "country": "Egypt",
+    "state": "Qalyubia",
+    "city": "Benha",
+    "domain": "bu.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zagazig University",
+    "country": "Egypt",
+    "state": "Sharqia",
+    "city": "Zagazig",
+    "domain": "zu.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sohag University",
+    "country": "Egypt",
+    "state": "Sohag",
+    "city": "Sohag",
+    "domain": "sohag-univ.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Suez Canal University",
+    "country": "Egypt",
+    "state": "Suez",
+    "city": "Suez Canal",
+    "domain": "suez.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

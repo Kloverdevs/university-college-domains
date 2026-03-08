@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Acdemic Center for Law and Business",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Israel",
+    "domain": "clb.ac.il",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ariel University Center of Samaria",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Ariel",
+    "domain": "ariel.ac.il",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bar-Ilan University",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Bar-Ilan",
+    "domain": "biu.ac.il",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ben-Gurion University of the Negev",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "the Negev",
+    "domain": "bgu.ac.il",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bezalel Academy of Art and Design",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Israel",
+    "domain": "bezalel.ac.il",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hebrew University of Jerusalem",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Jerusalem",
+    "domain": "huji.ac.il",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "JCT Lev Academic Center",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Israel",
+    "domain": "jct.ac.il",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jerusalem University College",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Jerusalem",
+    "domain": "juc.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Open University of Israel",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Israel",
+    "domain": "openu.ac.il",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shenkar School of Engineering & Design",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Israel",
+    "domain": "shenkar.ac.il",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tel Aviv University",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Tel Aviv",
+    "domain": "tau.ac.il",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Interdisciplinary Center Herzliya",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Israel",
+    "domain": "idc.ac.il",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Haifa",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Haifa",
+    "domain": "haifa.ac.il",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

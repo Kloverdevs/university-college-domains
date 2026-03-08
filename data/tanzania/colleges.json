@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Dares Salaam Institute of Technology",
+    "country": "Tanzania",
+    "state": "Tanzania",
+    "city": "Dares Salaam",
+    "domain": "dit.ac.tz",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Accountancy Arusha",
+    "country": "Tanzania",
+    "state": "Tanzania",
+    "city": "Tanzania",
+    "domain": "iaa.ac.tz",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Finance Management",
+    "country": "Tanzania",
+    "state": "Tanzania",
+    "city": "Tanzania",
+    "domain": "ifm.ac.tz",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kilimanjaro Christian Medical College",
+    "country": "Tanzania",
+    "state": "Tanzania",
+    "city": "Kilimanjaro Christian Medical",
+    "domain": "kcmc.ac.tz",
+    "aliases": [],
+    "type": "College",
+    "control": "Private"
+  },
+  {
+    "name": "St. Joseph Group of Institutes",
+    "country": "Tanzania",
+    "state": "Tanzania",
+    "city": "Tanzania",
+    "domain": "stjosephtanzania.com",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

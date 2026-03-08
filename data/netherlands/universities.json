@@ -1,0 +1,510 @@
+[
+  {
+    "name": "Aeres Hogeschool Almere",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Netherlands",
+    "domain": "aereshogeschool.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Christelijke Hogeschool Windesheim",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Netherlands",
+    "domain": "windesheim.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "De Haagse Hogeschool",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Netherlands",
+    "domain": "dehaagsehogeschool.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Delft University of Technology",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Delft",
+    "domain": "tudelft.nl",
+    "aliases": [
+      "student.tudelft.nl"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dutch Delta University",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Dutch Delta",
+    "domain": "ddu.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eindhoven University of Technology",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Eindhoven",
+    "domain": "tue.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Erasmus University Rotterdam",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Erasmus",
+    "domain": "eur.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "European Leadership University",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "European Leadership",
+    "domain": "amsterdam.tech",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "European Open University",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Netherlands",
+    "domain": "europeanopenuniversity.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fontys University of Applied Sciences",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Fontys",
+    "domain": "fontys.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Foundation University",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Foundation",
+    "domain": "foundationuniversity.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Free University Amsterdam",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Netherlands",
+    "domain": "vu.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "HAN University of Applied Sciences",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "HAN",
+    "domain": "hanuniversity.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanze University Groningen",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Hanze",
+    "domain": "hanze.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hogeschool Inholland",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Netherlands",
+    "domain": "inholland.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hogeschool Leiden",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Netherlands",
+    "domain": "hsleiden.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hogeschool Rotterdam",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Netherlands",
+    "domain": "hro.nl",
+    "aliases": [
+      "hr.nl"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hogeschool Utrecht",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Netherlands",
+    "domain": "hu.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hogeschool van Amsterdam",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Netherlands",
+    "domain": "hva.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hogeschool voor de Kunsten Utrecht (HKU)",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Netherlands",
+    "domain": "hku.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hotelschool The Hague",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Netherlands",
+    "domain": "hotelschool.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International University School of Medicine (IUSOM)",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Netherlands",
+    "domain": "internationaluniversity-schoolofmedicine.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic University of Rotterdam",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Rotterdam",
+    "domain": "islamicuniversity.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Leiden University",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Leiden",
+    "domain": "leidenuniv.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Maastricht University",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Maastricht",
+    "domain": "unimaas.nl",
+    "aliases": [
+      "student.maastrichtuniversity.nl"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "NHL University of Applied Sciences",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "NHL",
+    "domain": "nhl.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "NHTV Breda University of Professional Education",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "NHTV Breda",
+    "domain": "nhtv.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "NTI University",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "NTI",
+    "domain": "nti.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nyenrode Business University",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Nyenrode Business",
+    "domain": "nyenrode.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Open University of the Netherlands",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "the Netherlands",
+    "domain": "ou.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Radboud University",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Radboud",
+    "domain": "ru.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Roosevelt Academy University College",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Roosevelt Academy",
+    "domain": "roac.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rotterdam School of Management",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Netherlands",
+    "domain": "rsm.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saxion Universities",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Netherlands",
+    "domain": "saxion.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St.James's School of Medicine, Bonaire",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Netherlands",
+    "domain": "sjsm.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Stenden University",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Stenden",
+    "domain": "stenden.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tilburg University",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Tilburg",
+    "domain": "tilburguniversity.nl",
+    "aliases": [
+      "tilburguniversity.edu"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiteit Doesburg (UNDO)",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Netherlands",
+    "domain": "universiteitdoesburg.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiteit Leiden",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Netherlands",
+    "domain": "universiteitleiden.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University for Humanistics (UH)",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Netherlands",
+    "domain": "uvh.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Amsterdam",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Amsterdam",
+    "domain": "uva.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Groningen",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Groningen",
+    "domain": "rug.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Nijenrode",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Nijenrode",
+    "domain": "nijenrode.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Sint Eustatius School of Medicine",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Netherlands",
+    "domain": "eustatiusmed.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Twente",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Twente",
+    "domain": "utwente.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of the Netherlands Antilles, Curacao",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "the Netherlands Antilles",
+    "domain": "una.an",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Utrecht University",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Utrecht",
+    "domain": "uu.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wageningen University",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Wageningen",
+    "domain": "wageningenuniversity.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wittenborg University",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Wittenborg",
+    "domain": "wittenborg.eu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zuyd University",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Zuyd",
+    "domain": "zuyd.nl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

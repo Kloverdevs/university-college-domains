@@ -1,0 +1,102 @@
+[
+  {
+    "name": "L'Université de l'Entreprise",
+    "country": "Senegal",
+    "state": "Senegal",
+    "city": "l'Entreprise",
+    "domain": "afi-ue.sn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universite Amadou Hampaté Ba",
+    "country": "Senegal",
+    "state": "Senegal",
+    "city": "Senegal",
+    "domain": "uahb.sn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Alioune Diop de Bambey",
+    "country": "Senegal",
+    "state": "Senegal",
+    "city": "Senegal",
+    "domain": "bambey.univ.sn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Cheikh Anta Diop",
+    "country": "Senegal",
+    "state": "Senegal",
+    "city": "Senegal",
+    "domain": "ucad.sn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Dakar Bourguiba",
+    "country": "Senegal",
+    "state": "Senegal",
+    "city": "Senegal",
+    "domain": "udb.sn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Euro-Afrique",
+    "country": "Senegal",
+    "state": "Senegal",
+    "city": "Senegal",
+    "domain": "uea.edu.sn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Gaston Berger Saint-Louis",
+    "country": "Senegal",
+    "state": "Senegal",
+    "city": "Senegal",
+    "domain": "ugb.sn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Thiès",
+    "country": "Senegal",
+    "state": "Senegal",
+    "city": "Thiès",
+    "domain": "univ-thies.sn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Ziguinchor",
+    "country": "Senegal",
+    "state": "Senegal",
+    "city": "Ziguinchor",
+    "domain": "univ-zig.sn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université du Sahel",
+    "country": "Senegal",
+    "state": "Senegal",
+    "city": "Senegal",
+    "domain": "unis.sn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

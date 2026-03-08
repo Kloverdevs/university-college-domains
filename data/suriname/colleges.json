@@ -1,0 +1,22 @@
+[
+  {
+    "name": "FHR Lim A Po Institute for Higher Education",
+    "country": "Suriname",
+    "state": "Suriname",
+    "city": "Paramaribo",
+    "domain": "fhrinstitute.sr",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Private"
+  },
+  {
+    "name": "Polytechnic College Suriname",
+    "country": "Suriname",
+    "state": "Suriname",
+    "city": "Paramaribo",
+    "domain": "ptc.edu.sr",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

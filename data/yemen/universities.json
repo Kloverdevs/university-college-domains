@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Al-Eman University",
+    "country": "Yemen",
+    "state": "Yemen",
+    "city": "Al-Eman",
+    "domain": "jameataleman.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Nasser University",
+    "country": "Yemen",
+    "state": "Yemen",
+    "city": "Al-Nasser",
+    "domain": "al-edu.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alahgaff University",
+    "country": "Yemen",
+    "state": "Yemen",
+    "city": "Alahgaff",
+    "domain": "ahgaff.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hadhramout University of Science and Technology",
+    "country": "Yemen",
+    "state": "Yemen",
+    "city": "Science and Technology",
+    "domain": "hust.edu.ye",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hodeidah University",
+    "country": "Yemen",
+    "state": "Yemen",
+    "city": "Hodeidah",
+    "domain": "hoduniv.net.ye",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Queen Arwa University",
+    "country": "Yemen",
+    "state": "Yemen",
+    "city": "Queen Arwa",
+    "domain": "arwauniversity.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saba University",
+    "country": "Yemen",
+    "state": "Yemen",
+    "city": "Saba",
+    "domain": "sabauni.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sana'a University",
+    "country": "Yemen",
+    "state": "Yemen",
+    "city": "Sana'a",
+    "domain": "su.edu.ye",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taiz University",
+    "country": "Yemen",
+    "state": "Yemen",
+    "city": "Taiz",
+    "domain": "taiz.edu.ye",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Thamar University",
+    "country": "Yemen",
+    "state": "Yemen",
+    "city": "Thamar",
+    "domain": "thuniv.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Aden",
+    "country": "Yemen",
+    "state": "Yemen",
+    "city": "Aden",
+    "domain": "aden-univ.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Modern Sciences",
+    "country": "Yemen",
+    "state": "Yemen",
+    "city": "Yemen",
+    "domain": "ums-edu.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Science and Technology Sana'a",
+    "country": "Yemen",
+    "state": "Yemen",
+    "city": "Science and Technology Sana'a",
+    "domain": "ust.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yemenia University",
+    "country": "Yemen",
+    "state": "Yemen",
+    "city": "Yemenia",
+    "domain": "yuniv.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

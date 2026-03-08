@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Izmir Institute of Technology",
+    "country": "Turkey",
+    "state": "Izmir",
+    "city": "Izmir",
+    "domain": "iyte.edu.tr",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Gebze Institute of Technology",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "Gebze",
+    "domain": "gyte.edu.tr",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of technology",
+    "country": "Turkey",
+    "state": "Turkey",
+    "city": "",
+    "domain": "apu.ac.uk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

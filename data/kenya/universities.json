@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Adventist University of Africa",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Africa",
+    "domain": "aua.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Africa International University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Africa International",
+    "domain": "aiu.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Africa Nazarene University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Africa Nazarene",
+    "domain": "anu.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Catholic University of Eastern Africa",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Eastern Africa",
+    "domain": "cuea.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Chuka University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Chuka",
+    "domain": "chuka.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daystar University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Daystar",
+    "domain": "daystar.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dedan Kimathi University of Technology",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Dedan Kimathi",
+    "domain": "dkut.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Egerton University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Egerton",
+    "domain": "egerton.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Great Lakes University of Kisumu",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Kisumu",
+    "domain": "gluk.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gretsa Universtiy",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Kenya",
+    "domain": "gretsauniversity.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Inoorero University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Inoorero",
+    "domain": "iu.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jaramogi Oginga Odinga University of Science and Technology",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Science and Technology",
+    "domain": "jooust.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jomo Kenyatta University of Agriculture and Technology",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Agriculture and Technology",
+    "domain": "jkuat.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kabarak University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Kabarak",
+    "domain": "kabarak.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Karatina University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Karatina",
+    "domain": "karatinauniversity.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kenya Methodist University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Kenya Methodist",
+    "domain": "kemu.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Kenyatta University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Kenyatta",
+    "domain": "ku.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kiriri Womens University of Science and Technology",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Science and Technology",
+    "domain": "kwust.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kisii University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Kisii",
+    "domain": "kisiiuniversity.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Laikipia University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Laikipia",
+    "domain": "laikipia.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Maasai Mara University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Maasai Mara",
+    "domain": "mmarau.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Maseno University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Maseno",
+    "domain": "maseno.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Masinde Muliro University of Science and Technology",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Science and Technology",
+    "domain": "mmust.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Meru University of Science and Technology",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Science and Technology",
+    "domain": "must.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Moi University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Moi",
+    "domain": "mu.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mount Kenya University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Mount Kenya",
+    "domain": "mku.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Multimedia University of Kenya",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Kenya",
+    "domain": "mmu.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pan Africa Christian University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Pan Africa Christian",
+    "domain": "pacuniversity.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Pioneer International University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Pioneer International",
+    "domain": "piu.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Presbyterian University of East Africa",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "East Africa",
+    "domain": "puea.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pwani University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Pwani",
+    "domain": "pu.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Riara University School of Business and Law",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Riara",
+    "domain": "riarauniversity.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Scott Christian University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Scott Christian",
+    "domain": "scott.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "South Eastern Kenya University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "South Eastern Kenya",
+    "domain": "seku.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Pauls University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "St. Pauls",
+    "domain": "spu.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Strathmore University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Strathmore",
+    "domain": "strathmore.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical University of Kenya",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Kenya",
+    "domain": "tukenya.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical University of Mombasa",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Mombasa",
+    "domain": "tum.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "United States International University",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "United States International",
+    "domain": "usiu.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Eastern Africa, Baraton",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Eastern Africa",
+    "domain": "ueab.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Eldoret",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Eldoret",
+    "domain": "uoeld.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Kabianga",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Kabianga",
+    "domain": "kabianga.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Nairobi",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Nairobi",
+    "domain": "uonbi.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Uzima University College",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Uzima",
+    "domain": "uzimauniversity.ac.ke",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aga Khan University",
+    "country": "Kenya",
+    "state": "Sindh",
+    "city": "Aga Khan",
+    "domain": "aku.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Angkor University",
+    "country": "Cambodia",
+    "state": "Cambodia",
+    "city": "Angkor",
+    "domain": "angkor.edu.kh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asia Europe University",
+    "country": "Cambodia",
+    "state": "Cambodia",
+    "city": "Asia Europe",
+    "domain": "aeu.edu.kh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Build Bright University",
+    "country": "Cambodia",
+    "state": "Cambodia",
+    "city": "Build Bright",
+    "domain": "bbu.edu.kh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cambodia University of Specialties",
+    "country": "Cambodia",
+    "state": "Cambodia",
+    "city": "Specialties",
+    "domain": "cus.edu.kh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cambodian Mekong University",
+    "country": "Cambodia",
+    "state": "Cambodia",
+    "city": "Cambodian Mekong",
+    "domain": "mekong.edu.kh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chamreun University of Poly Technology",
+    "country": "Cambodia",
+    "state": "Cambodia",
+    "city": "Poly Technology",
+    "domain": "cup.edu.kh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International University",
+    "country": "Cambodia",
+    "state": "Cambodia",
+    "city": "Cambodia",
+    "domain": "iu.edu.kh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Management",
+    "country": "Cambodia",
+    "state": "Cambodia",
+    "city": "Cambodia",
+    "domain": "num.edu.kh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Norton University",
+    "country": "Cambodia",
+    "state": "Cambodia",
+    "city": "Norton",
+    "domain": "norton.edu.kh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pannnasatra University of Cambodia",
+    "country": "Cambodia",
+    "state": "Cambodia",
+    "city": "Cambodia",
+    "domain": "puc.edu.kh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal University of Agriculture",
+    "country": "Cambodia",
+    "state": "Cambodia",
+    "city": "Agriculture",
+    "domain": "rua.edu.kh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal University of Fine Arts",
+    "country": "Cambodia",
+    "state": "Cambodia",
+    "city": "Fine Arts",
+    "domain": "rufa.edu.kh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal University of Law and Economics",
+    "country": "Cambodia",
+    "state": "Cambodia",
+    "city": "Law and Economics",
+    "domain": "rule.edu.kh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal University of Phnom Penh",
+    "country": "Cambodia",
+    "state": "Cambodia",
+    "city": "Phnom Penh",
+    "domain": "rupp.edu.kh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Svey Reong University",
+    "country": "Cambodia",
+    "state": "Cambodia",
+    "city": "Svey Reong",
+    "domain": "sru.edu.kh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Cambodia",
+    "country": "Cambodia",
+    "state": "Cambodia",
+    "city": "Cambodia",
+    "domain": "uc.edu.kh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Health and Science",
+    "country": "Cambodia",
+    "state": "Cambodia",
+    "city": "Health and Science",
+    "domain": "univ-sante.edu.kh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Technology Phnom Penh",
+    "country": "Cambodia",
+    "state": "Cambodia",
+    "city": "Technology Phnom Penh",
+    "domain": "utpp.edu.kh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Western University",
+    "country": "Cambodia",
+    "state": "Cambodia",
+    "city": "Cambodia",
+    "domain": "western.edu.kh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zaman University",
+    "country": "Cambodia",
+    "state": "Cambodia",
+    "city": "Zaman",
+    "domain": "zamanuniversity.edu.kh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

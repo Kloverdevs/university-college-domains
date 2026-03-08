@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Chu Hai College",
+    "country": "Hong Kong",
+    "state": "Hong Kong",
+    "city": "Chu Hai",
+    "domain": "chuhai.edu.hk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Hong Kong Institute of Education",
+    "country": "Hong Kong",
+    "state": "Hong Kong",
+    "city": "Hong Kong",
+    "domain": "ied.edu.hk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Hong Kong Polytechnic University",
+    "country": "Hong Kong",
+    "state": "Hong Kong",
+    "city": "Hong Kong Polytechnic",
+    "domain": "polyu.edu.hk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Hong Kong Shue Yan College",
+    "country": "Hong Kong",
+    "state": "Hong Kong",
+    "city": "Hong Kong",
+    "domain": "hksyc.edu",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

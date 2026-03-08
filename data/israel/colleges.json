@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Afeka Tel Aviv Academic College of Engineering",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Israel",
+    "domain": "afeka.ac.il",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Ashkelon Academic College",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Ashkelon Academic",
+    "domain": "ash-college.ac.il",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "College of Management",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Israel",
+    "domain": "colman.ac.il",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Emeq Yizrael College",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Emeq Yizrael",
+    "domain": "yvc.ac.il",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Galillee College",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Galillee",
+    "domain": "galilcol.ac.il",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Gordon Academic College",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Gordon Academic",
+    "domain": "gordon.ac.il",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Russell Berrie Nanotechnology Institute",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Russell Berrie Nanotechnology",
+    "domain": "rbni.technion.ac.il",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Sami Shamoon College of Engineering",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Sami Shamoon",
+    "domain": "sce.ac.il",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Technion - Israel Institute of Technology",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Technion - Israel",
+    "domain": "technion.ac.il",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Weizmann Institute of Science",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Weizmann",
+    "domain": "weizmann.ac.il",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Western Galilee College",
+    "country": "Israel",
+    "state": "Israel",
+    "city": "Western Galilee",
+    "domain": "wgalil.ac.il",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

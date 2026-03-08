@@ -1,0 +1,72 @@
+[
+  {
+    "name": "IMEP - Paris College of Music",
+    "country": "France",
+    "state": "France",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "List of universities and colleges in France",
+    "country": "France",
+    "state": "France",
+    "city": "",
+    "domain": "aup.edu",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Paris College of Art",
+    "country": "France",
+    "state": "France",
+    "city": "",
+    "domain": "paris.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Paris College of International Education",
+    "country": "France",
+    "state": "France",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "British Institute in Paris, University of London",
+    "country": "France",
+    "state": "Ile-de-France",
+    "city": "London",
+    "domain": "bip.lon.ac.uk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute Français de la Mode",
+    "country": "France",
+    "state": "Ile-de-France",
+    "city": "Paris",
+    "domain": "ifmparis.fr",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute of Applied Sciences of Toulouse",
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Toulouse",
+    "domain": "insa-toulouse.fr",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Estonian Academy of Arts",
+    "country": "Estonia",
+    "state": "Estonia",
+    "city": "Estonia",
+    "domain": "artun.ee",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Estonian Academy of Music and Theatre",
+    "country": "Estonia",
+    "state": "Estonia",
+    "city": "Estonia",
+    "domain": "ema.edu.ee",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Estonian Academy of Security Sciences",
+    "country": "Estonia",
+    "state": "Estonia",
+    "city": "Estonia",
+    "domain": "sisekaitse.ee",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Estonian Business School",
+    "country": "Estonia",
+    "state": "Estonia",
+    "city": "Estonia",
+    "domain": "ebs.ee",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Estonian University of Life Sciences",
+    "country": "Estonia",
+    "state": "Estonia",
+    "city": "Life Sciences",
+    "domain": "emu.ee",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tallinn University",
+    "country": "Estonia",
+    "state": "Estonia",
+    "city": "Tallinn",
+    "domain": "tlu.ee",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tallinn University of Technology",
+    "country": "Estonia",
+    "state": "Estonia",
+    "city": "Tallinn",
+    "domain": "ttu.ee",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Applied Sciences",
+    "country": "Estonia",
+    "state": "Estonia",
+    "city": "Estonia",
+    "domain": "tktk.ee",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Tartu",
+    "country": "Estonia",
+    "state": "Estonia",
+    "city": "Tartu",
+    "domain": "ut.ee",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

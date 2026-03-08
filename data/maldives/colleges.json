@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Cyryx College",
+    "country": "Maldives",
+    "state": "Maldives",
+    "city": "Cyryx",
+    "domain": "cyryxcollege.edu.mv",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Mandhu College",
+    "country": "Maldives",
+    "state": "Maldives",
+    "city": "Mandhu",
+    "domain": "mandhu.com",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

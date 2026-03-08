@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Drzavni Univerzitet u Novom Pazaru",
+    "country": "Serbia",
+    "state": "Serbia",
+    "city": "Serbia",
+    "domain": "np.ac.rs",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "European University",
+    "country": "Serbia",
+    "state": "Serbia",
+    "city": "Serbia",
+    "domain": "eu.ac.rs",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International University of Novi Pazar",
+    "country": "Serbia",
+    "state": "Serbia",
+    "city": "Novi Pazar",
+    "domain": "uninp.edu.rs",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Megatrend University of Applied Sciences",
+    "country": "Serbia",
+    "state": "Serbia",
+    "city": "Megatrend",
+    "domain": "megatrend-edu.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Metropolitan University",
+    "country": "Serbia",
+    "state": "Serbia",
+    "city": "Metropolitan",
+    "domain": "metropolitan.edu.rs",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Privredna Akademija (Business Academy)",
+    "country": "Serbia",
+    "state": "Serbia",
+    "city": "Serbia",
+    "domain": "privrednaakademija.edu.rs",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Singidunum University",
+    "country": "Serbia",
+    "state": "Serbia",
+    "city": "Singidunum",
+    "domain": "singidunum.edu.rs",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Belgrade",
+    "country": "Serbia",
+    "state": "Serbia",
+    "city": "Belgrade",
+    "domain": "bg.ac.rs",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Fine Arts Belgrade",
+    "country": "Serbia",
+    "state": "Serbia",
+    "city": "Fine Arts Belgrade",
+    "domain": "arts.bg.ac.rs",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Kragujevac",
+    "country": "Serbia",
+    "state": "Serbia",
+    "city": "Kragujevac",
+    "domain": "kg.ac.rs",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Nis",
+    "country": "Serbia",
+    "state": "Serbia",
+    "city": "Nis",
+    "domain": "ni.ac.rs",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Novi Sad",
+    "country": "Serbia",
+    "state": "Serbia",
+    "city": "Novi Sad",
+    "domain": "uns.ac.rs",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Priština",
+    "country": "Serbia",
+    "state": "Serbia",
+    "city": "Priština",
+    "domain": "pr.ac.rs",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

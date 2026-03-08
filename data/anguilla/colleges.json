@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Anguilla Community College",
+    "country": "Anguilla",
+    "state": "Anguilla",
+    "city": "Long Path",
+    "domain": "acc.edu.ai",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Design Studies Institute",
+    "country": "Anguilla",
+    "state": "Anguilla",
+    "city": "Anguilla",
+    "domain": "dsi.edu.ai",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Private"
+  }
+]

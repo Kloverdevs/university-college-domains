@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Baghdad College of Pharmacy",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Baghdad",
+    "domain": "bpc.edu.iq",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Sulaimani Polytechnic University",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Sulaimani Polytechnic",
+    "domain": "spu.edu.iq",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

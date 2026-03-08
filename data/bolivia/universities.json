@@ -1,0 +1,312 @@
+[
+  {
+    "name": "Escuela Militar de Ingeniería",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Bolivia",
+    "domain": "emi.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Adventista de Bolivia",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Adventista de Bolivia",
+    "domain": "uab.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Universidad Amazonica de Pando",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Amazonica de Pando",
+    "domain": "uapnet.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Andina Simón Bolivar",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Andina Simón Bolivar",
+    "domain": "uasb.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autónoma Gabriel René Moreno",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Autónoma Gabriel René Moreno",
+    "domain": "uagrm.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autónoma Juan Misael Saracho",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Autónoma Juan Misael Saracho",
+    "domain": "uajms.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autónoma Tomás Frías",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Autónoma Tomás Frías",
+    "domain": "uatf.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autónoma del Beni \"José Ballivián\"",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Bolivia",
+    "domain": "uabjb.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica Boliviana, Cochabamba",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Católica Boliviana",
+    "domain": "ucbcba.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica Boliviana, La Paz",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Católica Boliviana",
+    "domain": "ucb.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica Boliviana, Santa Cruz",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Católica Boliviana",
+    "domain": "ucbscz.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica Boliviana, Tarija",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Católica Boliviana",
+    "domain": "ucbtja.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Central",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Bolivia",
+    "domain": "unicen.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Domingo Savio",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Domingo Savio",
+    "domain": "upds.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Empresarial Mateo Kuljis",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Empresarial Mateo Kuljis",
+    "domain": "unikuljis.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Los Andes",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Los Andes",
+    "domain": "udelosandes.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Mayor de San Andrés",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Mayor de San Andrés",
+    "domain": "umsanet.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Mayor de San Simón",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Mayor de San Simón",
+    "domain": "umss.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad NUR",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "NUR",
+    "domain": "nur.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Siglo XX Llallagua",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Nacional Siglo XX Llallagua",
+    "domain": "unsxx.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nuestra Senora de La Paz",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Bolivia",
+    "domain": "unslp.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Privada Abierta Latinoamericana",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Privada Abierta Latinoamericana",
+    "domain": "upal.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Privada Boliviana",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Privada Boliviana",
+    "domain": "upb.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Privada Franz Tamayo (UNIFRANZ)",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Privada Franz Tamayo",
+    "domain": "unifranz.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Privada de Santa Cruz de la Sierra",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Bolivia",
+    "domain": "upsa.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Privada del Valle",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Privada del Valle",
+    "domain": "univalle.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Salesiana de Bolivia",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Salesiana de Bolivia",
+    "domain": "usalesiana.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad San Francisco Xavier",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "San Francisco Xavier",
+    "domain": "usfx.info",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad San Francisco Xavier de Chuquisaca",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Bolivia",
+    "domain": "usfx.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Técnica de Oruro",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Técnica de Oruro",
+    "domain": "uto.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Aquino Bolivia",
+    "country": "Bolivia",
+    "state": "Bolivia",
+    "city": "Aquino Bolivia",
+    "domain": "udabol.edu.bo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "name": "College of Technology at Abha",
+    "country": "Saudi Arabia",
+    "state": "Abha",
+    "city": "",
+    "domain": "act.gotevot.edu.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "College of Technology at Kharj",
+    "country": "Saudi Arabia",
+    "state": "Al-Kharj",
+    "city": "",
+    "domain": "kct.gotevot.edu.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Saad College of Nursing and Allied Health Sciences",
+    "country": "Saudi Arabia",
+    "state": "Al-Khobar",
+    "city": "Saad",
+    "domain": "saadcollege.com",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Prince Sultan College for Tourism and Hotel Scinces",
+    "country": "Saudi Arabia",
+    "state": "Asir",
+    "city": "Prince Sultan",
+    "domain": "pscabha.edu.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Buraydah College for Applied Medical Sciences",
+    "country": "Saudi Arabia",
+    "state": "Buraidah",
+    "city": "Buraydah",
+    "domain": "bpc.edu.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "College of Technology at Dammam",
+    "country": "Saudi Arabia",
+    "state": "Dammam",
+    "city": "",
+    "domain": "dct.gotevot.edu.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Dammam Community College",
+    "country": "Saudi Arabia",
+    "state": "Dammam",
+    "city": "Dammam Community",
+    "domain": "dcc.edu.sa",
+    "aliases": [],
+    "type": "Community College",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Public Administration",
+    "country": "Saudi Arabia",
+    "state": "Dammam",
+    "city": "",
+    "domain": "ipa.edu.sa",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "College of Technology at Jazan",
+    "country": "Saudi Arabia",
+    "state": "Jazan",
+    "city": "",
+    "domain": "tnmeyah.net",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Batterjee Medical College",
+    "country": "Saudi Arabia",
+    "state": "Jeddah",
+    "city": "Batterjee Medical",
+    "domain": "bmc.edu.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "College of Busniess Admnistration",
+    "country": "Saudi Arabia",
+    "state": "Jeddah",
+    "city": "",
+    "domain": "cba.edu.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "College of Technology at Jeddah",
+    "country": "Saudi Arabia",
+    "state": "Jeddah",
+    "city": "",
+    "domain": "jct.edu.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Dar al Hekma College",
+    "country": "Saudi Arabia",
+    "state": "Jeddah",
+    "city": "Dar al Hekma",
+    "domain": "dah.edu.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Effat College",
+    "country": "Saudi Arabia",
+    "state": "Jeddah",
+    "city": "Effat",
+    "domain": "effatcollege.edu.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Ibn Sina National College for Medical Studies",
+    "country": "Saudi Arabia",
+    "state": "Jeddah",
+    "city": "Ibn Sina National",
+    "domain": "ibnsina.edu.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Jubail Industrial College",
+    "country": "Saudi Arabia",
+    "state": "Jubail",
+    "city": "Jubail Industrial",
+    "domain": "jic.edu.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Qassim Private College",
+    "country": "Saudi Arabia",
+    "state": "Qassim",
+    "city": "Qassim Private",
+    "domain": "qc.edu.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Private"
+  },
+  {
+    "name": "Al-Yamamah College",
+    "country": "Saudi Arabia",
+    "state": "Riyadh",
+    "city": "Al-Yamamah",
+    "domain": "alyamamah.edu.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "College of Nursing and Allied Health Scinces",
+    "country": "Saudi Arabia",
+    "state": "Riyadh",
+    "city": "",
+    "domain": "ngha.med.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "College of Technology at Riyadh",
+    "country": "Saudi Arabia",
+    "state": "Riyadh",
+    "city": "",
+    "domain": "rct.edu.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "College of Telecommunication & Information",
+    "country": "Saudi Arabia",
+    "state": "Riyadh",
+    "city": "",
+    "domain": "cti.edu.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Dar Al-Uloom Colleges",
+    "country": "Saudi Arabia",
+    "state": "Riyadh",
+    "city": "",
+    "domain": "dau.edu.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "King Fahd Security College",
+    "country": "Saudi Arabia",
+    "state": "Riyadh",
+    "city": "King Fahd Security",
+    "domain": "kfsc.edu.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Knowledge College for Science and Technology",
+    "country": "Saudi Arabia",
+    "state": "Riyadh",
+    "city": "Knowledge",
+    "domain": "mcst.edu.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Private College of Dentistry and Pharmacy",
+    "country": "Saudi Arabia",
+    "state": "Riyadh",
+    "city": "Private",
+    "domain": "pcdp.edu.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Private"
+  },
+  {
+    "name": "Riyadh College of Dentistry and Pharmacy",
+    "country": "Saudi Arabia",
+    "state": "Riyadh",
+    "city": "Riyadh",
+    "domain": "riyadh.edu.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Batterjee Medical College",
+    "country": "Saudi Arabia",
+    "state": "Saudi Arabia",
+    "city": "Al-Batterjee Medical",
+    "domain": "bmcmedcollege.com",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Yanbu Industrial College",
+    "country": "Saudi Arabia",
+    "state": "Yanbu",
+    "city": "Yanbu Industrial",
+    "domain": "yic.edu.sa",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Yanbu Technical Institute",
+    "country": "Saudi Arabia",
+    "state": "Yanbu",
+    "city": "Yanbu Technical",
+    "domain": "yti.edu.sa",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Ferghana Politechnical Institute",
+    "country": "Uzbekistan",
+    "state": "Uzbekistan",
+    "city": "Ferghana Politechnical",
+    "domain": "ferpi.dem.ru",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kokand State Pedagogical Institute",
+    "country": "Uzbekistan",
+    "state": "Uzbekistan",
+    "city": "Kokand State Pedagogical",
+    "domain": "qdpi.uz",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Management Development Institute of Singapore, Tashkent",
+    "country": "Uzbekistan",
+    "state": "Uzbekistan",
+    "city": "Management Development",
+    "domain": "mdis.uz",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Nukus State Teachers Training Institute",
+    "country": "Uzbekistan",
+    "state": "Uzbekistan",
+    "city": "Nukus State Teachers Training",
+    "domain": "ndpi.uz",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Tashkent Automobile and Roads Institute",
+    "country": "Uzbekistan",
+    "state": "Uzbekistan",
+    "city": "Tashkent Automobile and Roads",
+    "domain": "tayi.uz",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Tashkent Institute of Irrigation and Melioration",
+    "country": "Uzbekistan",
+    "state": "Uzbekistan",
+    "city": "Tashkent",
+    "domain": "tiim.uz",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Tashkent Pharmaceutical Institute",
+    "country": "Uzbekistan",
+    "state": "Uzbekistan",
+    "city": "Tashkent Pharmaceutical",
+    "domain": "pharmi.uz",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Turin Polytechnic University In Tashkent",
+    "country": "Uzbekistan",
+    "state": "Uzbekistan",
+    "city": "Turin Polytechnic",
+    "domain": "polito.uz",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

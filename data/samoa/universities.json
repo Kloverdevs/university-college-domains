@@ -1,0 +1,22 @@
+[
+  {
+    "name": "National University of Samoa",
+    "country": "Samoa",
+    "state": "Samoa",
+    "city": "Samoa",
+    "domain": "nus.edu.ws",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of the South Pacific School of Agriculture",
+    "country": "Samoa",
+    "state": "Samoa",
+    "city": "Samoa",
+    "domain": "usp.ac.fj",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

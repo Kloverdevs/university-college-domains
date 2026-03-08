@@ -1,0 +1,504 @@
+[
+  {
+    "name": "Australian National University",
+    "country": "Australia",
+    "state": "ACT",
+    "city": "Canberra",
+    "domain": "anu.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Canberra",
+    "country": "Australia",
+    "state": "ACT",
+    "city": "Canberra",
+    "domain": "canberra.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Australian Correspondence Schools",
+    "country": "Australia",
+    "state": "Australia",
+    "city": "Australia",
+    "domain": "acs.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "SP Jain School of Global Management",
+    "country": "Australia",
+    "state": "Australia",
+    "city": "Australia",
+    "domain": "spjain.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. George's University (Australia)",
+    "country": "Australia",
+    "state": "Australia",
+    "city": "St. George's",
+    "domain": "stgc.uwa.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Australian Defence Force Academy",
+    "country": "Australia",
+    "state": "Australian Capital Territory",
+    "city": "",
+    "domain": "adfa.oz.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Avondale University",
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Avondale",
+    "domain": "avondale.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Blue Mountains Hotel School",
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "",
+    "domain": "hotelschool.com.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Charles Sturt University",
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Bathurst",
+    "domain": "csu.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Linuwel School",
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "",
+    "domain": "linuwel.nsw.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Macquarie University",
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Sydney",
+    "domain": "mq.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Southern Cross University",
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Lismore",
+    "domain": "scu.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of New England",
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Armidale",
+    "domain": "une.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of New South Wales",
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Sydney",
+    "domain": "unsw.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Newcastle",
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Newcastle",
+    "domain": "newcastle.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Sydney",
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Sydney",
+    "domain": "sydney.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Technology Sydney",
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Sydney",
+    "domain": "uts.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Western Sydney",
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Western Sydney",
+    "domain": "uws.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Wollongong",
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Wollongong",
+    "domain": "uow.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Western Sydney University",
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Sydney",
+    "domain": "westernsydney.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Charles Darwin University",
+    "country": "Australia",
+    "state": "Northern Territory",
+    "city": "Darwin",
+    "domain": "cdu.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bond University",
+    "country": "Australia",
+    "state": "Queensland",
+    "city": "Gold Coast",
+    "domain": "bond.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Central Queensland University",
+    "country": "Australia",
+    "state": "Queensland",
+    "city": "Central Queensland",
+    "domain": "cqu.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Griffith University",
+    "country": "Australia",
+    "state": "Queensland",
+    "city": "Brisbane",
+    "domain": "griffith.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "James Cook University of North Queensland",
+    "country": "Australia",
+    "state": "Queensland",
+    "city": "North Queensland",
+    "domain": "jcu.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Queensland University of Technology",
+    "country": "Australia",
+    "state": "Queensland",
+    "city": "Brisbane",
+    "domain": "qut.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Queensland",
+    "country": "Australia",
+    "state": "Queensland",
+    "city": "Brisbane",
+    "domain": "uq.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Southern Queensland",
+    "country": "Australia",
+    "state": "Queensland",
+    "city": "Toowoomba",
+    "domain": "usq.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of the Sunshine Coast",
+    "country": "Australia",
+    "state": "Queensland",
+    "city": "Sippy Downs",
+    "domain": "usc.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Flinders University of South Australia",
+    "country": "Australia",
+    "state": "South Australia",
+    "city": "South Australia",
+    "domain": "flinders.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Torrens University Australia",
+    "country": "Australia",
+    "state": "South Australia",
+    "city": "Adelaide",
+    "domain": "torrens.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "University of Adelaide",
+    "country": "Australia",
+    "state": "South Australia",
+    "city": "Adelaide",
+    "domain": "adelaide.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of South Australia",
+    "country": "Australia",
+    "state": "South Australia",
+    "city": "Adelaide",
+    "domain": "unisa.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Tasmania",
+    "country": "Australia",
+    "state": "Tasmania",
+    "city": "Hobart",
+    "domain": "utas.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Australian Catholic University",
+    "country": "Australia",
+    "state": "Victoria",
+    "city": "Melbourne",
+    "domain": "acu.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Deakin University",
+    "country": "Australia",
+    "state": "Victoria",
+    "city": "Geelong",
+    "domain": "deakin.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federation University Australia",
+    "country": "Australia",
+    "state": "Victoria",
+    "city": "Ballarat",
+    "domain": "federation.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "La Trobe University",
+    "country": "Australia",
+    "state": "Victoria",
+    "city": "Melbourne",
+    "domain": "latrobe.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Monash University",
+    "country": "Australia",
+    "state": "Victoria",
+    "city": "Melbourne",
+    "domain": "monash.edu",
+    "aliases": [
+      "monash.edu.au"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "RMIT University",
+    "country": "Australia",
+    "state": "Victoria",
+    "city": "Melbourne",
+    "domain": "rmit.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Swinburne University of Technology",
+    "country": "Australia",
+    "state": "Victoria",
+    "city": "Melbourne",
+    "domain": "swinburne.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Ballarat",
+    "country": "Australia",
+    "state": "Victoria",
+    "city": "Ballarat",
+    "domain": "ballarat.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Divinity",
+    "country": "Australia",
+    "state": "Victoria",
+    "city": "Melbourne",
+    "domain": "divinity.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "University of Melbourne",
+    "country": "Australia",
+    "state": "Victoria",
+    "city": "Melbourne",
+    "domain": "unimelb.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Victoria University",
+    "country": "Australia",
+    "state": "Victoria",
+    "city": "Melbourne",
+    "domain": "vu.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Curtin University of Technology",
+    "country": "Australia",
+    "state": "Western Australia",
+    "city": "Curtin",
+    "domain": "curtin.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Edith Cowan University",
+    "country": "Australia",
+    "state": "Western Australia",
+    "city": "Perth",
+    "domain": "ecu.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Murdoch University",
+    "country": "Australia",
+    "state": "Western Australia",
+    "city": "Perth",
+    "domain": "murdoch.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Notre Dame Australia",
+    "country": "Australia",
+    "state": "Western Australia",
+    "city": "Fremantle",
+    "domain": "notredame.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "University of Western Australia",
+    "country": "Australia",
+    "state": "Western Australia",
+    "city": "Perth",
+    "domain": "uwa.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

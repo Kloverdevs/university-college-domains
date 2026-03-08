@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Amoud University",
+    "country": "Somalia",
+    "state": "Somalia",
+    "city": "Amoud",
+    "domain": "amouduniversity.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Benadir University",
+    "country": "Somalia",
+    "state": "Somalia",
+    "city": "Benadir",
+    "domain": "benadiruniversity.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "East Africa University Bosaso",
+    "country": "Somalia",
+    "state": "Somalia",
+    "city": "East Africa",
+    "domain": "eastafricauniversity.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "East Somalia University",
+    "country": "Somalia",
+    "state": "Somalia",
+    "city": "East Somalia",
+    "domain": "eastsomaliauniversity.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eelo American University",
+    "country": "Somalia",
+    "state": "Somalia",
+    "city": "Eelo American",
+    "domain": "eelouniversity.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gollis University",
+    "country": "Somalia",
+    "state": "Somalia",
+    "city": "Gollis",
+    "domain": "gollisuniversity.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hiiraan University",
+    "country": "Somalia",
+    "state": "Somalia",
+    "city": "Hiiraan",
+    "domain": "hiiraanuniversity.info",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Maakhir University",
+    "country": "Somalia",
+    "state": "Somalia",
+    "city": "Maakhir",
+    "domain": "maakhiruniversity.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mogadishu University",
+    "country": "Somalia",
+    "state": "Somalia",
+    "city": "Mogadishu",
+    "domain": "mogadishuuniversity.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nugaal University",
+    "country": "Somalia",
+    "state": "Somalia",
+    "city": "Nugaal",
+    "domain": "nugaaluniversity.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Puntland State University",
+    "country": "Somalia",
+    "state": "Somalia",
+    "city": "Puntland State",
+    "domain": "puntlandstateuniversity.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sanaag University of Science and Technology",
+    "country": "Somalia",
+    "state": "Somalia",
+    "city": "Science and Technology",
+    "domain": "sanaaguniversity.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Somaliland University of Technology",
+    "country": "Somalia",
+    "state": "Somalia",
+    "city": "Somaliland",
+    "domain": "somtech.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Burao",
+    "country": "Somalia",
+    "state": "Somalia",
+    "city": "Burao",
+    "domain": "buraouniversity.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Hargeisa",
+    "country": "Somalia",
+    "state": "Somalia",
+    "city": "Hargeisa",
+    "domain": "hargeisauniversity.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Somalia",
+    "country": "Somalia",
+    "state": "Somalia",
+    "city": "Somalia",
+    "domain": "universityofsomalia.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "American International University West Africa",
+    "country": "Gambia",
+    "state": "Gambia",
+    "city": "Gambia",
+    "domain": "aiu.edu.gm",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "EUCLID University",
+    "country": "Gambia",
+    "state": "Gambia",
+    "city": "EUCLID",
+    "domain": "euclid.int",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of the Gambia",
+    "country": "Gambia",
+    "state": "Gambia",
+    "city": "the Gambia",
+    "domain": "utg.edu.gm",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "name": "Universidad Bicentenaria de Aragua",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Bicentenaria de Aragua",
+    "domain": "uba.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Bolivariana de Venezuela",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Bolivariana de Venezuela",
+    "domain": "ubv.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica Andres Bello",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Católica Andres Bello",
+    "domain": "ucab.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica Cecilio Acosta",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Católica Cecilio Acosta",
+    "domain": "unica.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica del Táchira",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Católica del Táchira",
+    "domain": "ucat.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Central de Venezuela",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Central de Venezuela",
+    "domain": "ucv.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Centro Occidental Lisandro Alvarado",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Centro Occidental Lisandro Alvarado",
+    "domain": "ucla.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Dr. Rafael Belloso Chacín",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Dr. Rafael Belloso Chacín",
+    "domain": "urbe.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Fermin Toro",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Fermin Toro",
+    "domain": "uft.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Gran Mariscal de Ayacucho",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Gran Mariscal de Ayacucho",
+    "domain": "ugma.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad José Antonio Páez",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "José Antonio Páez",
+    "domain": "ujap.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad José Maria Vargas",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "José Maria Vargas",
+    "domain": "ujmv.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Metropolitana",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Metropolitana",
+    "domain": "unimet.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Monteávila",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Monteávila",
+    "domain": "universidad-monteavila.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Abierta",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Nacional Abierta",
+    "domain": "una.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Experimental \"Francisco de Miranda\"",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Venezuela",
+    "domain": "unefm.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Experimental \"Rafael Maria Baralt\"",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Venezuela",
+    "domain": "unermb.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Experimental \"Simón Rodriguez\"",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Nacional Experimental \"Simón Rodriguez\"",
+    "domain": "unesr.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Experimental Politécnica \"Antonio José de Sucre\"",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Venezuela",
+    "domain": "unexpo.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Experimental Romulo Gallegos",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Nacional Experimental Romulo Gallegos",
+    "domain": "unerg.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Experimental Sur del Lago \"Jesús Maria Semprum\"",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Venezuela",
+    "domain": "unesur.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Experimental de Guayana",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Nacional Experimental de Guayana",
+    "domain": "uneg.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Experimental de la Fuerza Armada",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Venezuela",
+    "domain": "unefa.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Experimental de los Llanos Occidentales \"Ezequiel Zamora\"",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Venezuela",
+    "domain": "unellez.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Experimental del Táchira",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Nacional Experimental del Táchira",
+    "domain": "unet.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nueva Esparta",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Nueva Esparta",
+    "domain": "une.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Pedagógica Experimental Libertador",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Pedagógica Experimental Libertador",
+    "domain": "upel.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Rafael Urdaneta",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Rafael Urdaneta",
+    "domain": "uru.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Santa Maria Caracas",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Santa Maria Caracas",
+    "domain": "usm.trompo.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Simón Bolivar",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Simón Bolivar",
+    "domain": "usb.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnológica del Centro",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Tecnológica del Centro",
+    "domain": "unitec.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Valle del Momboy",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Valle del Momboy",
+    "domain": "uvm.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Yacambu",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Yacambu",
+    "domain": "yacambu.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Carabobo",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Carabobo",
+    "domain": "uc.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Los Andes",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Los Andes",
+    "domain": "ula.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Oriente",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Oriente",
+    "domain": "udo.edu.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Zulia",
+    "country": "Venezuela",
+    "state": "Venezuela",
+    "city": "Zulia",
+    "domain": "luz.ve",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

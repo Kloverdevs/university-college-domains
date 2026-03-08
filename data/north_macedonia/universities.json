@@ -1,0 +1,72 @@
+[
+  {
+    "name": "FON University",
+    "country": "North Macedonia",
+    "state": "North Macedonia",
+    "city": "FON",
+    "domain": "fon.edu.mk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "South East European University",
+    "country": "North Macedonia",
+    "state": "North Macedonia",
+    "city": "South East European",
+    "domain": "seeu.edu.mk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St.Cyril and Methodius University",
+    "country": "North Macedonia",
+    "state": "North Macedonia",
+    "city": "St.Cyril and Methodius",
+    "domain": "ukim.edu.mk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St.Kliment Ohridski University",
+    "country": "North Macedonia",
+    "state": "North Macedonia",
+    "city": "St.Kliment Ohridski",
+    "domain": "uklo.edu.mk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "State University of Tetova",
+    "country": "North Macedonia",
+    "state": "North Macedonia",
+    "city": "Tetova",
+    "domain": "unite.edu.mk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University Goce Delcev",
+    "country": "North Macedonia",
+    "state": "North Macedonia",
+    "city": "North Macedonia",
+    "domain": "ugd.edu.mk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University for Information Science and Technology  \"St. Paul The Apostle\"",
+    "country": "North Macedonia",
+    "state": "North Macedonia",
+    "city": "North Macedonia",
+    "domain": "uist.edu.mk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

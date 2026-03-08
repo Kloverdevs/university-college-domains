@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Academy of Arts",
+    "country": "Albania",
+    "state": "Albania",
+    "city": "Albania",
+    "domain": "akademiaearteve.edu.al",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Academy of Sports and Physical Training",
+    "country": "Albania",
+    "state": "Albania",
+    "city": "Albania",
+    "domain": "aefs.edu.al",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Agricultural University of Tirane",
+    "country": "Albania",
+    "state": "Albania",
+    "city": "Tirane",
+    "domain": "ubt.edu.al",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American University of Tirana",
+    "country": "Albania",
+    "state": "Albania",
+    "city": "Tirana",
+    "domain": "uat.edu.al",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Beder University",
+    "country": "Albania",
+    "state": "Albania",
+    "city": "Beder",
+    "domain": "beder.edu.al",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Epoka University",
+    "country": "Albania",
+    "state": "Albania",
+    "city": "Epoka",
+    "domain": "epoka.edu.al",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Elbasan \"Aleksander Xhuvani\"",
+    "country": "Albania",
+    "state": "Albania",
+    "city": "Elbasan \"Aleksander Xhuvani\"",
+    "domain": "uniel.edu.al",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Gjirokstra \"Eqerem Cabej\"",
+    "country": "Albania",
+    "state": "Albania",
+    "city": "Gjirokstra \"Eqerem Cabej\"",
+    "domain": "uogj.edu.al",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Korca \"Fan Noli\"",
+    "country": "Albania",
+    "state": "Albania",
+    "city": "Korca \"Fan Noli\"",
+    "domain": "unkorce.edu.al",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of New York Tirana",
+    "country": "Albania",
+    "state": "Albania",
+    "city": "New York Tirana",
+    "domain": "unyt.edu.al",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Shkodra \"Luigj Gurakuqi\"",
+    "country": "Albania",
+    "state": "Albania",
+    "city": "Shkodra \"Luigj Gurakuqi\"",
+    "domain": "unishk.edu.al",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Tirana",
+    "country": "Albania",
+    "state": "Albania",
+    "city": "Tirana",
+    "domain": "unitir.edu.al",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Vlora \"Ismail Qemali\"",
+    "country": "Albania",
+    "state": "Albania",
+    "city": "Vlora \"Ismail Qemali\"",
+    "domain": "univlora.edu.al",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University “Pavaresia” Vlore",
+    "country": "Albania",
+    "state": "Albania",
+    "city": "Albania",
+    "domain": "unipavaresia.edu.al",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

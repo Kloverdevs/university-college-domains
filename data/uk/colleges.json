@@ -1,0 +1,426 @@
+[
+  {
+    "name": "Trinity College Bristol",
+    "country": "UK",
+    "state": "Bristol",
+    "city": "Trinity",
+    "domain": "trinitycollegebristol.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Birkbeck, University of London",
+    "country": "UK",
+    "state": "England",
+    "city": "London",
+    "domain": "bbk.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Bridgwater & Taunton College",
+    "country": "UK",
+    "state": "England",
+    "city": "Bridgwater & Taunton",
+    "domain": "btc.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "British College of Osteopathic Medicine",
+    "country": "UK",
+    "state": "England",
+    "city": "",
+    "domain": "bcom.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Camberwell College of Arts",
+    "country": "UK",
+    "state": "England",
+    "city": "Camberwell",
+    "domain": "camb.linst.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Central Saint Martins College of Art & Design",
+    "country": "UK",
+    "state": "England",
+    "city": "Central Saint Martins",
+    "domain": "csm.linst.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Chelsea College of Art and Design",
+    "country": "UK",
+    "state": "England",
+    "city": "Chelsea",
+    "domain": "chelsea.linst.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Conservatoire for Dance and Drama",
+    "country": "UK",
+    "state": "England",
+    "city": "London",
+    "domain": "cdd.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Courtauld Institute of Art, University of London",
+    "country": "UK",
+    "state": "England",
+    "city": "London",
+    "domain": "courtauld.ac.uk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "East Coast College",
+    "country": "UK",
+    "state": "England",
+    "city": "East Coast",
+    "domain": "eastcoast.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Hartpury University and Hartpury College",
+    "country": "UK",
+    "state": "England",
+    "city": "Gloucester",
+    "domain": "hartpury.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Imperial College Business School",
+    "country": "UK",
+    "state": "England",
+    "city": "London",
+    "domain": "imperial.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Imperial College School of Medicine",
+    "country": "UK",
+    "state": "England",
+    "city": "",
+    "domain": "med.ic.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Advanced Legal Studies, University of London",
+    "country": "UK",
+    "state": "England",
+    "city": "London",
+    "domain": "sas.ac.uk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Cancer Research",
+    "country": "UK",
+    "state": "England",
+    "city": "London",
+    "domain": "icr.ac.uk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Commonwealth Studies, University of London",
+    "country": "UK",
+    "state": "England",
+    "city": "London",
+    "domain": "ihr.sas.ac.uk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Education, University of London",
+    "country": "UK",
+    "state": "England",
+    "city": "London",
+    "domain": "ioe.ac.uk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Liverpool Institute for Performing Arts",
+    "country": "UK",
+    "state": "England",
+    "city": "Liverpool",
+    "domain": "lipa.ac.uk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Private"
+  },
+  {
+    "name": "London College of Science & Technology",
+    "country": "UK",
+    "state": "England",
+    "city": "London",
+    "domain": "lcst.ac",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "London Institute of Management and Technology",
+    "country": "UK",
+    "state": "England",
+    "city": "London",
+    "domain": "limt.co.uk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "London School of Hygiene and Tropical Medicine",
+    "country": "UK",
+    "state": "England",
+    "city": "London",
+    "domain": "lshtm.ac.uk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Middlesbrough College",
+    "country": "UK",
+    "state": "England",
+    "city": "Middlesbrough",
+    "domain": "middlesbro.ac.uk",
+    "aliases": [
+      "mbro.ac.uk"
+    ],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "New College Swindon",
+    "country": "UK",
+    "state": "England",
+    "city": "",
+    "domain": "newcollege.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Newcastle College",
+    "country": "UK",
+    "state": "England",
+    "city": "Newcastle",
+    "domain": "ncl-coll.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Northern School of Contemporary Dance",
+    "country": "UK",
+    "state": "England",
+    "city": "Leeds",
+    "domain": "nscd.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Royal Holloway and Bedford New College",
+    "country": "UK",
+    "state": "England",
+    "city": "",
+    "domain": "rhbnc.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Runshaw College",
+    "country": "UK",
+    "state": "England",
+    "city": "Runshaw",
+    "domain": "runshaw.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "SAE Institute",
+    "country": "UK",
+    "state": "England",
+    "city": "London",
+    "domain": "sae.edu",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Private"
+  },
+  {
+    "name": "Sotheby´s Institute of Art - London",
+    "country": "UK",
+    "state": "England",
+    "city": "Sotheby´s",
+    "domain": "sothebysinstitutelondon.com",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "St.Patrick's International College, London",
+    "country": "UK",
+    "state": "England",
+    "city": "",
+    "domain": "st-patricks.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Stratford College London",
+    "country": "UK",
+    "state": "England",
+    "city": "Stratford",
+    "domain": "sclondon.ac",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Trinity College Carmarthen",
+    "country": "UK",
+    "state": "England",
+    "city": "Trinity",
+    "domain": "trinity-cm.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Trinity College of Music",
+    "country": "UK",
+    "state": "England",
+    "city": "Trinity",
+    "domain": "tcm.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Wakefield College",
+    "country": "UK",
+    "state": "England",
+    "city": "Wakefield",
+    "domain": "wakefield.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "West Herts College",
+    "country": "UK",
+    "state": "England",
+    "city": "West Herts",
+    "domain": "student.westherts.ac.uk",
+    "aliases": [
+      "westherts.ac.uk"
+    ],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "West Suffolk College",
+    "country": "UK",
+    "state": "England",
+    "city": "West Suffolk",
+    "domain": "wsc.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Scotland's Rural College (SRUC)",
+    "country": "UK",
+    "state": "Scotland",
+    "city": "Scotland's Rural",
+    "domain": "sruc.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Harlaxton College",
+    "country": "UK",
+    "state": "UK",
+    "city": "Harlaxton",
+    "domain": "college.harlaxton.co.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "International Colleges of Islamic Science",
+    "country": "UK",
+    "state": "UK",
+    "city": "UK",
+    "domain": "islamiccolleges.com",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "William Gilbert College",
+    "country": "UK",
+    "state": "UK",
+    "city": "William Gilbert",
+    "domain": "williamgilbert.co.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Cardiff and Vale College",
+    "country": "UK",
+    "state": "Wales",
+    "city": "Cardiff and Vale",
+    "domain": "cavc.ac.uk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "University of Wales Institute, Cardiff",
+    "country": "UK",
+    "state": "Wales",
+    "city": "Wales Institute",
+    "domain": "uwic.ac.uk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "College of Europe",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "coleurope.eu",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "United Business Institute",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "United Business",
+    "domain": "ubi.edu",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Vesalius College",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Vesalius",
+    "domain": "vesalius.edu",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

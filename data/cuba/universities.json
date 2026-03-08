@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Instituto Superior Minero Metalúrgico \"Dr. Antonio Núñez Jiménez\"",
+    "country": "Cuba",
+    "state": "Cuba",
+    "city": "Cuba",
+    "domain": "ismm.edu.cu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Superior Politécnico José Antonio Echeverría",
+    "country": "Cuba",
+    "state": "Cuba",
+    "city": "Cuba",
+    "domain": "cujae.edu.cu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Central de Las Villas",
+    "country": "Cuba",
+    "state": "Cuba",
+    "city": "Central de Las Villas",
+    "domain": "uclv.edu.cu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Pedagógica \"José Martí\", Camagüey",
+    "country": "Cuba",
+    "state": "Cuba",
+    "city": "Pedagógica \"José Martí\"",
+    "domain": "ispcmw.rimed.cu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Camagüey",
+    "country": "Cuba",
+    "state": "Cuba",
+    "city": "Camagüey",
+    "domain": "reduc.edu.cu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Ciego de Avila",
+    "country": "Cuba",
+    "state": "Cuba",
+    "city": "Ciego de Avila",
+    "domain": "unica.cu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Cienfuegos",
+    "country": "Cuba",
+    "state": "Cuba",
+    "city": "Cienfuegos",
+    "domain": "ucf.edu.cu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Granma",
+    "country": "Cuba",
+    "state": "Cuba",
+    "city": "Granma",
+    "domain": "udg.co.cu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Holguín",
+    "country": "Cuba",
+    "state": "Cuba",
+    "city": "Holguín",
+    "domain": "uho.edu.cu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de La Habana",
+    "country": "Cuba",
+    "state": "Cuba",
+    "city": "La Habana",
+    "domain": "uh.cu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Matanzas Camilo Cienfuegos",
+    "country": "Cuba",
+    "state": "Cuba",
+    "city": "Matanzas Camilo Cienfuegos",
+    "domain": "umcc.cu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Oriente",
+    "country": "Cuba",
+    "state": "Cuba",
+    "city": "Oriente",
+    "domain": "uo.edu.cu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Pinar del Río",
+    "country": "Cuba",
+    "state": "Cuba",
+    "city": "Pinar del Río",
+    "domain": "upr.edu.cu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

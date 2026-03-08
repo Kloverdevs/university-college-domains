@@ -1,0 +1,142 @@
+[
+  {
+    "name": "International Business School Kelajak ILMI",
+    "country": "Uzbekistan",
+    "state": "Uzbekistan",
+    "city": "Uzbekistan",
+    "domain": "ibs.uz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Uzbekistan",
+    "country": "Uzbekistan",
+    "state": "Uzbekistan",
+    "city": "Uzbekistan",
+    "domain": "nuu.uz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Samarkand State University",
+    "country": "Uzbekistan",
+    "state": "Uzbekistan",
+    "city": "Samarkand State",
+    "domain": "samdu.uz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tashkent Islam University",
+    "country": "Uzbekistan",
+    "state": "Uzbekistan",
+    "city": "Tashkent Islam",
+    "domain": "tiu.uz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tashkent Medical Academy",
+    "country": "Uzbekistan",
+    "state": "Uzbekistan",
+    "city": "Uzbekistan",
+    "domain": "tma.uz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tashkent School of Finance",
+    "country": "Uzbekistan",
+    "state": "Uzbekistan",
+    "city": "Uzbekistan",
+    "domain": "tfi.uz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tashkent State Agrarian University",
+    "country": "Uzbekistan",
+    "state": "Uzbekistan",
+    "city": "Tashkent State Agrarian",
+    "domain": "agrar.uz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tashkent State Technical University",
+    "country": "Uzbekistan",
+    "state": "Uzbekistan",
+    "city": "Tashkent State Technical",
+    "domain": "tdtu.uz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tashkent State University of Economics",
+    "country": "Uzbekistan",
+    "state": "Uzbekistan",
+    "city": "Economics",
+    "domain": "tdiu.uz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tashkent State University of Oriental Studies",
+    "country": "Uzbekistan",
+    "state": "Uzbekistan",
+    "city": "Oriental Studies",
+    "domain": "tashgiv.uz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tashkent University of Information Technologies",
+    "country": "Uzbekistan",
+    "state": "Uzbekistan",
+    "city": "Information Technologies",
+    "domain": "tuit.uz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of World Economy and Diplomacy",
+    "country": "Uzbekistan",
+    "state": "Uzbekistan",
+    "city": "World Economy and Diplomacy",
+    "domain": "uwed.uz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Uzbek State World Languages University",
+    "country": "Uzbekistan",
+    "state": "Uzbekistan",
+    "city": "Uzbek State World Languages",
+    "domain": "uzswlu.uz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Westminster International University in Tashkent",
+    "country": "Uzbekistan",
+    "state": "Uzbekistan",
+    "city": "Westminster International",
+    "domain": "wiut.uz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

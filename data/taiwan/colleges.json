@@ -1,0 +1,252 @@
+[
+  {
+    "name": "National Hualien Teachers College",
+    "country": "Taiwan",
+    "state": "Hualien",
+    "city": "National Hualien Teachers",
+    "domain": "nhltc.edu.tw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Kaohsiung Medical College",
+    "country": "Taiwan",
+    "state": "Kaohsiung",
+    "city": "Kaohsiung Medical",
+    "domain": "kmc.edu.tw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "National Pingtung Teachers College",
+    "country": "Taiwan",
+    "state": "Pingtung",
+    "city": "National Pingtung Teachers",
+    "domain": "npttc.edu.tw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "National Taichung Teachers College",
+    "country": "Taiwan",
+    "state": "Taichung",
+    "city": "National Taichung Teachers",
+    "domain": "ntctc.edu.tw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "National Tainan Teachers College",
+    "country": "Taiwan",
+    "state": "Tainan",
+    "city": "National Tainan Teachers",
+    "domain": "ntntc.edu.tw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Tainan National College of the Arts",
+    "country": "Taiwan",
+    "state": "Tainan",
+    "city": "Tainan National",
+    "domain": "tnca.edu.tw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "National Taipei College of Nursing",
+    "country": "Taiwan",
+    "state": "Taipei",
+    "city": "National Taipei",
+    "domain": "ntcn.edu.tw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "National Taipei Teachers College",
+    "country": "Taiwan",
+    "state": "Taipei",
+    "city": "National Taipei Teachers",
+    "domain": "ntptc.edu.tw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Taipei Medical College",
+    "country": "Taiwan",
+    "state": "Taipei",
+    "city": "Taipei Medical",
+    "domain": "tmc.edu.tw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Taipei Municipal Teachers College",
+    "country": "Taiwan",
+    "state": "Taipei",
+    "city": "Taipei Municipal Teachers",
+    "domain": "tmtc.edu.tw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Taipei Physical Education College",
+    "country": "Taiwan",
+    "state": "Taipei",
+    "city": "Taipei Physical Education",
+    "domain": "tpec.edu.tw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "National Taitung Teachers College",
+    "country": "Taiwan",
+    "state": "Taitung",
+    "city": "National Taitung Teachers",
+    "domain": "ntttc.edu.tw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Chia Nana College of Pharmacy and Science",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Chia Nana",
+    "domain": "chna.edu.tw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "China Medical College",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "China Medical",
+    "domain": "cmc.edu.tw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Chung Shan Medical and Dental College",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taiwan",
+    "domain": "csmc.edu.tw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Kung Shan Institute of Technology",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Kung Shan",
+    "domain": "ksit.edu.tw",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "National College of Physical Education and Sports",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taiwan",
+    "domain": "ncpes.edu.tw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "National Hsin-Chu Teachers College",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "National Hsin-Chu Teachers",
+    "domain": "nhctc.edu.tw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute of the Arts",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taiwan",
+    "domain": "nia.edu.tw",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "National Taiwan College of Arts",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "National Taiwan",
+    "domain": "ntca.edu.tw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "National Taiwan College of Physical Education and Sports",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "National Taiwan",
+    "domain": "ntcpe.edu.tw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "National Yang Ming Medical College",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "National Yang Ming Medical",
+    "domain": "ym.edu.tw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "St. John's & St. Mary's Institute of Technology",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taiwan",
+    "domain": "sjsmit.edu.tw",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Tatung Institute of Technology",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tatung",
+    "domain": "ttit.edu.tw",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Tzu Chi College of Medicine and Humanities",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tzu Chi",
+    "domain": "tcu.edu.tw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

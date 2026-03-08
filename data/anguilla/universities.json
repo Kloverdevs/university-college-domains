@@ -1,0 +1,32 @@
+[
+  {
+    "name": "American University of Anguilla",
+    "country": "Anguilla",
+    "state": "Anguilla",
+    "city": "The Valley",
+    "domain": "aua.ai",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Global Humanistic University",
+    "country": "Anguilla",
+    "state": "Anguilla",
+    "city": "The Valley",
+    "domain": "ghu.edu.ai",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "New Anglia University",
+    "country": "Anguilla",
+    "state": "Anguilla",
+    "city": "George Hill",
+    "domain": "newanglia.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  }
+]

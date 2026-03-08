@@ -1,0 +1,312 @@
+[
+  {
+    "name": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
+    "country": "UAE",
+    "state": "Abu Dhabi",
+    "city": "Artificial Intelligence",
+    "domain": "mbzuai.ac.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abu Dhabi University",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Abu Dhabi",
+    "domain": "adu.ac.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ajman University",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Ajman",
+    "domain": "ajman.ac.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al Ghurair University",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Al Ghurair",
+    "domain": "agu.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alain University of Science and Technology",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Science and Technology",
+    "domain": "alainuniversity.ac.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alhosn University",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Alhosn",
+    "domain": "alhosnu.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American University in Dubai",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "UAE",
+    "domain": "aud.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American University in the Emirates",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "UAE",
+    "domain": "aue.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American University of Sharjah",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Sharjah",
+    "domain": "aus.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "British University in Dubai",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "British",
+    "domain": "buid.ac.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Etisalat University College",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Etisalat",
+    "domain": "ece.ac.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gulf Medical University",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Gulf Medical",
+    "domain": "gmu.ac.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hamdan Bin Mohammed e-University",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "UAE",
+    "domain": "hbmeu.ac.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ittihad University",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Ittihad",
+    "domain": "ittihad.ac.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jumeira University",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Jumeira",
+    "domain": "ju.ac.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khalifa University",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Khalifa",
+    "domain": "kustar.ac.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khalifa University of Science, Technology and Research",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Khalifa",
+    "domain": "ku.ac.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Masdar University Of Science And Technology",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Science And Technology",
+    "domain": "masdar.ac.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "New York University, Abu Dhabi",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "New York",
+    "domain": "nyuad.nyu.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Paris-Sorbonne University Abu Dhabi",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Paris-Sorbonne",
+    "domain": "sorbonne.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rak Medical & Health Sciences University",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "UAE",
+    "domain": "rakmhsu.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Scholars International Academy",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "UAE",
+    "domain": "sia.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Skyline University College, Sharjah",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Skyline",
+    "domain": "skylineuniversity.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Synergy University, Dubai Campus",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Synergy",
+    "domain": "synergydubai.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Emirates Academy of Hotel Managment",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "UAE",
+    "domain": "emiratesacademy.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "United Arab Emirates University",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "United Arab Emirates",
+    "domain": "uaeu.ac.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University Of Dubai",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Dubai",
+    "domain": "ud.ac.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Jazeera",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Jazeera",
+    "domain": "uojazeera.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Sharjah",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Sharjah",
+    "domain": "sharjah.ac.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Wollongong - Dubai Campus",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Wollongong",
+    "domain": "uowdubai.ac.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zayed University",
+    "country": "UAE",
+    "state": "UAE",
+    "city": "Zayed",
+    "domain": "zu.ac.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

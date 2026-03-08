@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Université Gamal Abdel Nasser de Conakry",
+    "country": "Guinea",
+    "state": "Guinea",
+    "city": "Guinea",
+    "domain": "uganc.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Julius Nyerere Kankan",
+    "country": "Guinea",
+    "state": "Guinea",
+    "city": "Guinea",
+    "domain": "ujnk.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Kofi Annan",
+    "country": "Guinea",
+    "state": "Guinea",
+    "city": "Guinea",
+    "domain": "univ-kag.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Thierno Amadou Diallo",
+    "country": "Guinea",
+    "state": "Guinea",
+    "city": "Guinea",
+    "domain": "utad-petel-edu.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

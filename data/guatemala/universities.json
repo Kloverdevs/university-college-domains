@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Centro Universitario Ciudad Vieja",
+    "country": "Guatemala",
+    "state": "Guatemala",
+    "city": "Guatemala",
+    "domain": "cucv.edu.gt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centro Universitario de Occidente",
+    "country": "Guatemala",
+    "state": "Guatemala",
+    "city": "Guatemala",
+    "domain": "cunoc.edu.gt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Francisco Marroquín",
+    "country": "Guatemala",
+    "state": "Guatemala",
+    "city": "Francisco Marroquín",
+    "domain": "ufm.edu.gt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Galileo",
+    "country": "Guatemala",
+    "state": "Guatemala",
+    "city": "Galileo",
+    "domain": "galileo.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Mariano Gálvez",
+    "country": "Guatemala",
+    "state": "Guatemala",
+    "city": "Mariano Gálvez",
+    "domain": "umg.edu.gt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Panamericana",
+    "country": "Guatemala",
+    "state": "Guatemala",
+    "city": "Panamericana",
+    "domain": "upana.edu.gt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Rafael Landívar",
+    "country": "Guatemala",
+    "state": "Guatemala",
+    "city": "Rafael Landívar",
+    "domain": "url.edu.gt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Rural de Guatemala",
+    "country": "Guatemala",
+    "state": "Guatemala",
+    "city": "Rural de Guatemala",
+    "domain": "urural.edu.gt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de San Carlos de Guatemala",
+    "country": "Guatemala",
+    "state": "Guatemala",
+    "city": "San Carlos de Guatemala",
+    "domain": "usac.edu.gt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Istmo",
+    "country": "Guatemala",
+    "state": "Guatemala",
+    "city": "Istmo",
+    "domain": "unis.edu.gt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Valle de Guatemala",
+    "country": "Guatemala",
+    "state": "Guatemala",
+    "city": "Valle de Guatemala",
+    "domain": "uvg.edu.gt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

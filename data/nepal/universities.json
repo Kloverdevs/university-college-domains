@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Agriculture and Forestry University",
+    "country": "Nepal",
+    "state": "Nepal",
+    "city": "Agriculture and Forestry",
+    "domain": "afu.edu.np",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kathmandu University",
+    "country": "Nepal",
+    "state": "Nepal",
+    "city": "Kathmandu",
+    "domain": "ku.edu.np",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lumbini Buddhist University",
+    "country": "Nepal",
+    "state": "Nepal",
+    "city": "Lumbini Buddhist",
+    "domain": "lbu.edu.np",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nepal Sanskrit University",
+    "country": "Nepal",
+    "state": "Nepal",
+    "city": "Nepal Sanskrit",
+    "domain": "nsu.edu.np",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pokhara University",
+    "country": "Nepal",
+    "state": "Nepal",
+    "city": "Pokhara",
+    "domain": "pu.edu.np",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Purbanchal University",
+    "country": "Nepal",
+    "state": "Nepal",
+    "city": "Purbanchal",
+    "domain": "purbuniv.edu.np",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tribhuvan University Kathmandu",
+    "country": "Nepal",
+    "state": "Nepal",
+    "city": "Tribhuvan",
+    "domain": "tribhuvan-university.edu.np",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

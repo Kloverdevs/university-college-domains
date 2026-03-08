@@ -1,0 +1,52 @@
+[
+  {
+    "name": "International University for Graduate Studies",
+    "country": "Saint Kitts",
+    "state": "Saint Kitts and Nevis",
+    "city": "",
+    "domain": "iugrad.edu.kn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ross University Caribbean School of Veterinary Medicine",
+    "country": "Saint Kitts",
+    "state": "Saint Kitts and Nevis",
+    "city": "Ross",
+    "domain": "rossu.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St Theresa's Medical University",
+    "country": "Saint Kitts",
+    "state": "Saint Kitts and Nevis",
+    "city": "St Theresa's Medical",
+    "domain": "stmu.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Silvaner",
+    "country": "Saint Kitts",
+    "state": "Saint Kitts and Nevis",
+    "city": "Silvaner",
+    "domain": "unisilvaner.info",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Windsor University School of Medicine",
+    "country": "Saint Kitts",
+    "state": "Saint Kitts and Nevis",
+    "city": "Windsor",
+    "domain": "windsor.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "European Institute of Education",
+    "country": "Malta",
+    "state": "Malta",
+    "city": "Msida",
+    "domain": "eieonline.com",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "International Tourism Institute",
+    "country": "Malta",
+    "state": "Malta",
+    "city": "Msida",
+    "domain": "itismalta.com",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,1204 @@
+[
+  {
+    "name": "Second University of Naples",
+    "country": "Italy",
+    "state": "Campania",
+    "city": "Naples",
+    "domain": "unina2.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Naples Federico II",
+    "country": "Italy",
+    "state": "Campania",
+    "city": "Naples Federico II",
+    "domain": "unina.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Salerno",
+    "country": "Italy",
+    "state": "Campania",
+    "city": "Salerno",
+    "domain": "unisa.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Johns Hopkins University, SAIS Bologna Center",
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Bologna",
+    "domain": "jhubc.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Bologna",
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Bologna",
+    "domain": "unibo.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Ferrara",
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Ferrara",
+    "domain": "unife.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Modena",
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Modena",
+    "domain": "casa.unimo.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Parma",
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Parma",
+    "domain": "unipr.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abdus Salam international centre for theoretical physics",
+    "country": "Italy",
+    "state": "Friuli Venezia Giulia",
+    "city": "Trieste",
+    "domain": "ictp.trieste.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Higher School for Advanced Studies Trieste",
+    "country": "Italy",
+    "state": "Friuli Venezia Giulia",
+    "city": "Trieste",
+    "domain": "sissa.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Trieste",
+    "country": "Italy",
+    "state": "Friuli Venezia Giulia",
+    "city": "Trieste",
+    "domain": "units.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Udine",
+    "country": "Italy",
+    "state": "Friuli Venezia Giulia",
+    "city": "Udine",
+    "domain": "uniud.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Basilicata University Potenza",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Basilicata",
+    "domain": "unibas.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bocconi University",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Bocconi",
+    "domain": "unibocconi.it",
+    "aliases": [
+      "studbocconi.it"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ca' Foscari University of Venice",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "cercauniversita.cineca.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Catholic University of the Sacred Heart",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "the Sacred Heart",
+    "domain": "unicatt.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Comitato regionale di coordinamento delle Università",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "web.units.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Conferenza dei rettori delle università italiane",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "andu-universita.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Discussione:Lista delle università in Italia",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "uniro.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "European School of Economics",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Italy",
+    "domain": "uniese.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "European University of Rome",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "lastampa.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fondazione Sacro Cuore",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Italy",
+    "domain": "sacrocuore.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Free International University of Social Studies",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Social Studies",
+    "domain": "luiss.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Free University \"Maria Santissima Assunta\"",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Italy",
+    "domain": "lumsa.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Free University of Bozen",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Bozen",
+    "domain": "unibz.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Guglielmo Marconi University",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "unimarconi.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Humanitas University",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "hunimed.eu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "IPE - Istituto per ricerche ed attività educative",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "collegiuniversitari.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International School for Advanced Studies",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "ci.nii.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International University College of Turin",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "bepress.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Istituto nazionale di documentazione innovazione e ricerca educativa",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "indire.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Istituto superiore di educazione fisica",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "iseftorino.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Istituto superiore per le industrie artistiche",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "isia.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "John Cabot University",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "John Cabot",
+    "domain": "johncabot.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kore University of Enna",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "unikore.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Libera Università Mediterranea",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "lum.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Libera docenza",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "treccani.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Link Campus University of Malta",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Malta",
+    "domain": "unilink.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ministero dell'università e della ricerca",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "miur.gov.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Online university",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "coedu.usf.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Parthenope University of Naples",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "uniparthenope.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pontifica Università Gregoriana",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Italy",
+    "domain": "unigre.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pontificia Università Lateranense",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Italy",
+    "domain": "pul.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pontificia Università S. Tommaso",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Italy",
+    "domain": "angelicum.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pontificia Università della Santa Croce",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Italy",
+    "domain": "pusc.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pontificio Ateneo Antonianum",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Italy",
+    "domain": "antonianum.ofm.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pontificio Istituto Orientale",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Italy",
+    "domain": "pio.urbe.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "QS World University Rankings",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "universityworldnews.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rettore (università)",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "d-nb.info",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saint Camillus International University of Health and Medical Sciences",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "unicamillus.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Team Lingue International House",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Italy",
+    "domain": "ihteamlingue.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Unitre - Università della Terza Età",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "unitretorino.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University Carlo Cattaneo",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "isc.hbs.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Aquila",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Aquila",
+    "domain": "univaq.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Calabria",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Calabria",
+    "domain": "unical.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Cassino",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Cassino",
+    "domain": "unicas.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Chieti",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Chieti",
+    "domain": "unich.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Eastern Piedmont",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "uniupo.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Foggia",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Foggia",
+    "domain": "unifg.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Gastronomic Sciences",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Gastronomic Sciences",
+    "domain": "unisg.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Insubria",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Insubria",
+    "domain": "uninsubria.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Macerata",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Macerata",
+    "domain": "unimc.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Modena and Reggio Emilia",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "unimore.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Molise",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Molise",
+    "domain": "unimol.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Reggio Calabria",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Reggio Calabria",
+    "domain": "unirc.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Rome Tor Vergata",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "uniroma2.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Salento",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "international.unisalento.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Sannio",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Sannio",
+    "domain": "unisannio.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Teramo",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Teramo",
+    "domain": "unite.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Urbino",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Urbino",
+    "domain": "uniurb.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Università \"Italian University Line\"",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "iuline.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Università Bocconi",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Italy",
+    "domain": "uni-bocconi.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Università Cattolica del Sacro Cuore",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "milano.unicatt.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Università Iuav di Venezia",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "topuniversities.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Università Leonardo da Vinci",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "unidav.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Università Pontificia Salesiana",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Italy",
+    "domain": "unisal.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Università degli Studi Niccolò Cusano",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "unicusano.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Università degli Studi Pegaso",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "unipegaso.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Università degli Studi di Padova",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "cisui.unibo.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Università eCampus",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Italy",
+    "domain": "uniecampus.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Università per stranieri \"Dante Alighieri\" di Reggio Calabria",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "unistrada.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Università telematica internazionale Uninettuno",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "uninettunouniversity.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vita-Salute San Raffaele University",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "unisr.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Viterbo State University",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Viterbo State",
+    "domain": "unitus.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American University of Rome",
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Rome",
+    "domain": "aur.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Campus Bio-Medico University of Rome",
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Rome",
+    "domain": "unicampus.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Third University of Rome",
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Rome",
+    "domain": "uniroma3.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Roma \"La Sapienza\"",
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Roma \"La Sapienza\"",
+    "domain": "uniroma1.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Roma \"Tor Vergata\"",
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Roma \"Tor Vergata\"",
+    "domain": "uniroma2.eu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Genoa",
+    "country": "Italy",
+    "state": "Liguria",
+    "city": "Genoa",
+    "domain": "unige.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Istituto Universitario di Studi Superiori",
+    "country": "Italy",
+    "state": "Lombardia",
+    "city": "Pavia",
+    "domain": "iusspavia.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "NABA - Nuova Accademia di Belle Arti, Milan",
+    "country": "Italy",
+    "state": "Lombardia",
+    "city": "Milan",
+    "domain": "naba.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Bergamo",
+    "country": "Italy",
+    "state": "Lombardia",
+    "city": "Bergamo",
+    "domain": "unibg.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Brescia",
+    "country": "Italy",
+    "state": "Lombardia",
+    "city": "Brescia",
+    "domain": "unibs.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Milan",
+    "country": "Italy",
+    "state": "Lombardia",
+    "city": "Milan",
+    "domain": "unimi.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Milan - Bicocca",
+    "country": "Italy",
+    "state": "Lombardia",
+    "city": "Milan",
+    "domain": "unimib.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Pavia",
+    "country": "Italy",
+    "state": "Lombardia",
+    "city": "Pavia",
+    "domain": "unipv.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yorker International University, Milano",
+    "country": "Italy",
+    "state": "Lombardia",
+    "city": "Milano",
+    "domain": "nyuniversity.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Ancona",
+    "country": "Italy",
+    "state": "Marche",
+    "city": "Ancona",
+    "domain": "unian.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Camerino",
+    "country": "Italy",
+    "state": "Marche",
+    "city": "Camerino",
+    "domain": "unicam.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Turin",
+    "country": "Italy",
+    "state": "Piemonte",
+    "city": "Turin",
+    "domain": "unito.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Bari",
+    "country": "Italy",
+    "state": "Puglia",
+    "city": "Bari",
+    "domain": "uniba.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Lecce",
+    "country": "Italy",
+    "state": "Puglia",
+    "city": "Lecce",
+    "domain": "unile.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Cagliari",
+    "country": "Italy",
+    "state": "Sardegna",
+    "city": "Cagliari",
+    "domain": "unica.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Sassari",
+    "country": "Italy",
+    "state": "Sardegna",
+    "city": "Sassari",
+    "domain": "uniss.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Catania",
+    "country": "Italy",
+    "state": "Sicilia",
+    "city": "Catania",
+    "domain": "unict.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Messina",
+    "country": "Italy",
+    "state": "Sicilia",
+    "city": "Messina",
+    "domain": "unime.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Palermo",
+    "country": "Italy",
+    "state": "Sicilia",
+    "city": "Palermo",
+    "domain": "unipa.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Higher School of University and Advanced Studies Pisa",
+    "country": "Italy",
+    "state": "Toscana",
+    "city": "Higher School of",
+    "domain": "sssup.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Education Pisa",
+    "country": "Italy",
+    "state": "Toscana",
+    "city": "Pisa",
+    "domain": "sns.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Florence",
+    "country": "Italy",
+    "state": "Toscana",
+    "city": "Florence",
+    "domain": "unifi.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Italian Studies for Foreigners of Siena",
+    "country": "Italy",
+    "state": "Toscana",
+    "city": "Siena",
+    "domain": "unistrasi.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Pisa",
+    "country": "Italy",
+    "state": "Toscana",
+    "city": "Pisa",
+    "domain": "unipi.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Siena",
+    "country": "Italy",
+    "state": "Toscana",
+    "city": "Siena",
+    "domain": "unisi.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Trento",
+    "country": "Italy",
+    "state": "Trentino-Alto Adige",
+    "city": "Trento",
+    "domain": "unitn.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Italian Studies for Foreigners of Perugia",
+    "country": "Italy",
+    "state": "Umbria",
+    "city": "Perugia",
+    "domain": "unistrapg.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Perugia",
+    "country": "Italy",
+    "state": "Umbria",
+    "city": "Perugia",
+    "domain": "unipg.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Padua",
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Padua",
+    "domain": "unipd.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Venice",
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Venice",
+    "domain": "unive.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Verona",
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Verona",
+    "domain": "univr.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

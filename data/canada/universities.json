@@ -1,0 +1,5228 @@
+[
+  {
+    "name": "Ambrose University",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Calgary",
+    "domain": "ambrose.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Athabasca University",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Athabasca",
+    "domain": "athabascau.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Augustana University College",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Augustana",
+    "domain": "augustana.ab.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Burman University",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Lacombe",
+    "domain": "burmanu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Concordia University College of Alberta",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Concordia",
+    "domain": "concordia.ab.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "King's University",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Edmonton",
+    "domain": "kingsu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "King's University College",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "King's",
+    "domain": "kingsu.ab.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "MacEwan University",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Edmonton",
+    "domain": "macewan.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mount Royal University",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Calgary",
+    "domain": "mtroyal.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Mary's University Calgary",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Calgary",
+    "domain": "stmu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "University of Alberta",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Edmonton",
+    "domain": "ualberta.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Calgary",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Calgary",
+    "domain": "ucalgary.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Lethbridge",
+    "country": "Canada",
+    "state": "Alberta",
+    "city": "Lethbridge",
+    "domain": "ulethbridge.ca",
+    "aliases": [
+      "uleth.ca"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "British Columbia Open University",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "British Columbia Open",
+    "domain": "bcou.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Capilano University",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "North Vancouver",
+    "domain": "capilanou.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Emily Carr University of Art and Design",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Vancouver",
+    "domain": "ecuad.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kwantleen University College",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Kwantleen",
+    "domain": "kwantlen.bc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kwantlen Polytechnic University",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Surrey",
+    "domain": "kpu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Malaspina University College",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Malaspina",
+    "domain": "mala.bc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Okanagan University College",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Okanagan",
+    "domain": "okanagan.bc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Quest University",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Quest",
+    "domain": "questu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal Roads University",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Victoria",
+    "domain": "royalroads.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sauder School of Business",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "",
+    "domain": "sauder.ubc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Simon Fraser University",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Burnaby",
+    "domain": "sfu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Thompson Rivers University",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Kamloops",
+    "domain": "tru.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Trinity Western University",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Trinity Western",
+    "domain": "twu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University Canada West",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "",
+    "domain": "universitycanadawest.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College of the Cariboo",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "University",
+    "domain": "cariboo.bc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of British Columbia",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Vancouver",
+    "domain": "ubc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Northern British Columbia",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Prince George",
+    "domain": "unbc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Victoria",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Victoria",
+    "domain": "uvic.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of the Fraser Valley",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Abbotsford",
+    "domain": "ufv.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vancouver Island University",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Nanaimo",
+    "domain": "viu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "A Plus Institute, Toronto",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aberdeen Hospital School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Academy of Applied Pharmaceutical Sciences",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "aaps.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Academy of Learning",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "encyklopedia.pwn.pl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Académie Internationale du Design et de la Technologie",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Académie des Arts et du Design",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Acsenda School of Management",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "acsenda.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Adler Graduate Professional School",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al Huda Institute Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al Khalil Academy",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alberta Association of Registered Nurses",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alberta Education",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alberta Educational Centre",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alberta Health Services",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "albertahealthservices.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alberta University of the Arts",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "acad.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Algoma University College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Algonquin Careers Academy",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ambrose University College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aplus Institute",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Art Institute of Vancouver",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Association of Registered Nurses of Newfoundland",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Atlantic Baptist University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Banff Centre for Continuing Education",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bible University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Blanche Macdonald Centre",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Booth University College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "web2.gov.mb.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Boucher Institute of Naturopathic Medicine",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Brandon General Hospital School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Brandon Regional Health Authority",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Branson Hospital School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Brantford General Hospital School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Brescia University College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "brescia.uwo.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Brixton University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "CEGEP Montmorency",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cambridge Institute of Science and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Campus Notre-Dame-de-Foy",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canada International Education Center - CIEC",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canada's National Ballet School",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "theglobeandmail.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian Academy of Dental Health and Community Sciences",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian Academy of Dental Hygiene",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian Aesthetic Academy",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian Association of Medical Radiation Technologists",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian Health Care Academy",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian Institute of Chartered Accountants",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian Institute of Dental Hygiene, Inc",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian Institute of Management and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian Institute of Traffic and Transportation",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "citt.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian Mennonite University - CMU",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian Montessori Teacher Education Institute",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian National Institute of Health Inc., Ottawa",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian School of Natural Nutrition - CSNN",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian Securities Institute - CSI",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian University College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centre Collegial de Formation a Distance",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centre for Arts and Technology, Halifax",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centre for Distance Education",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centre for Nursing Studies",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centre québécois de formation aéronautique, Cégep de Chicoutimi",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Certified General Accountants Association of British Columbia",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Certified General Accountants of Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Certified General Accountants of Manitoba",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Certified General Accountants of Ontario",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "citizenship.gov.on.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chartered Professional Accountants Western School of Business",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chartered Professional Accountants of Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chaya Mushka Seminary",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "CinéCours",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège Ahuntsic",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "speca.ca.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège André-Grasset",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "grasset.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège April-Fortier",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège Bart",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "bart.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège Centennial, Québec",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège Dominicain de Philosophie et de Théologie",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège Ellis",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège Français",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège François-Xavier-Garneau",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège Gérald-Godin",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cgodin.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège Herzing de Montréal",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège Inter-Dec",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège International Marie-de-France",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège International des Marcellines",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège Jean-de-Brébeuf",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "ui.adsabs.harvard.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège LaFlèche",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège LaSalle",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège Lionel-Groulx",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "clg.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège Militaire Royal de Saint-Jean",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège Montmorency",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cmontmorency.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège Mérici",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "merici.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège O'Sullivan de Montréal Inc.",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège Préuniversitaire Nouvelles Frontières",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège Stanislas (Quebec)",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "stanislas.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège Supérieur de Montréal (CSM) Inc.",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège Technique de Montréal",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège Universel",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège Universitaire de Saint-Boniface",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège communautaire du Nouveau-Brunswick",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "ccnb.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège d'Alma",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "collegealma.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège d'Arts Appliqués et de Technologie - La Cité Collégiale",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège de Lévis",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège de Maisonneuve",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cmaisonneuve.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège de Rosemont",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège de Shawinigan",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège de Valleyfield",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "colval.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège de l'Immobilier du Quebec",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège de l'Île",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "theguardian.pe.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège des Technologies de l’information de Montréal",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège international Sainte-Anne",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège nordique francophone",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cnordique.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Concordia Lutheran Seminary",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Concordia University of Edmonton",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "qp.alberta.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Conservatoire Lassalle 1964 inc.",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Conservatoire de Musique de Montreal",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Conservatoire de Musique et d'Art Dramatique du Québec",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Credit Institute of Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "creditedu.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep André-Laurendeau",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "bilan.usherb.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep Beauce-Appalaches",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cegepba.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep Limoilou",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "climoilou.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep Marie-Victorin",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep Saint-Jean-sur-Richelieu",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep d'Alma",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Baie-Comeau",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cegep-baie-comeau.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Bois-de-Boulogne",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Chicoutimi",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cegepsquebec.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Drummondville",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Granby-Haute-Yamaska",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Jonquière",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cegepjonquiere.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de La Pocatière",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "isni.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Limoilou",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Lévis-Lauzon",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Matane",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cegep-matane.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Rimouski",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cegep-rimouski.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Rivière-du-Loup",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cegep-rdl.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Saint-Félicien",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cegepstfe.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Saint-Hyacinthe",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cegepsth.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Saint-Laurent",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "spcsl.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Sainte-Foy",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "vieuxquebec.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Sept-Îles",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Sherbrooke",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "catalogue.bnf.fr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Sorel-Tracy",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cegepst.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Thetford",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cegepthetford.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Trois-Rivières",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "deepl.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Valleyfield",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Victoriaville",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cyberpresse.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de l'Abitibi-Témiscamingue",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cegepat.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de l'Outaouais",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cegepoutaouais.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de la Gaspésie et des Îles",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "ici.radio-canada.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de la Région de l'Amiante",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep du Vieux Montréal",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep régional de Lanaudière",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cegep-lanaudiere.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep Édouard-Montpetit",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cegepmontpetit.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep@distance",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "DeVry Institute of Technology, Calgary",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "DeVry University, Calgary",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "DeVry University, North York Campus",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Distance Learning University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dominican University College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dumont Technical Institute",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "ENOSI Centre d'Ostéopathie",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eastern Ontario School of X-Ray Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ecole Nationale d'Administration Publique - ENAP",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ecole Nationale de Cirque",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ecole Nationale de Théâtre du Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ecole Technique et Professionnelle - ETP",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ecole d'Enseignement Supérieur de Naturopathie du Québec",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ecole d'Infirmières de Bathurst",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ecole de Musique Vincent D'Indy",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ecole de Technologie Supérieure - ETS",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ecole du Barreau du Québec",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Edison Institute of Nutrition",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eight Branches Academy of Eastern Medicine",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Emmanuel College of Victoria University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Foothills Hospital School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Generale University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "George Washington University Inc",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Grace General Hospital School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Grant MacEwan University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Granton Institute of Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "HEC Montréal (École des Hautes Études Commerciales de Montréal)",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Halifax Infirmary School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Health Sciences Centre",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Information University of America, Hawaii",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institut Biblique du Québec",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institut Demers",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institut Descartes",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institut National de la Recherche Scientifique (INRS)",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institut Superieur d'Electronique",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institut Superieur d'Informatique",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institut Teccart",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institut Teccart (2003)",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institut Trébas Québec Inc.",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institut d'Informatique de Québec Inc.",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institut de Formation Théologique de Montréal",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institut de Technologie Agroalimentaire, Campus de Saint-Hyacinthe",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institut de Théologie pour la Francophonie",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institut de Tourisme et d'Hôtellerie du Québec",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institut deTechnologie Agroalimentaire, Campus de La Pocatière",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute for Advanced Judaic Study",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute for Christian Studies",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "icscanada.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Institute for Human Services Education, Truro",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Chartered Accountants of Alberta",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Chartered Accountants of British Columbia",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Chartered Accountants of Ontario",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Chartered Secretaries and Administrators",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Holistic Nutrition",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Law Clerks of Ontario",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Traditional Medicine",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Academic Correspondence Incorporated",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Academy of Design and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "iadt.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Career School Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Institute of Travel",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kelsey Institute of Applied Arts and Sciences",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kennedy Open University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kingston Learning Center",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kingswood University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "kingswood.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kutenai Art Therapy Institute - KATI",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kwantlen University College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Laurentian University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "canadian-universities.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Law Society of Upper Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Le Petit Seminaire de Québec",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "List of law schools in Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "droitcanadien.uottawa.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "List of medical schools in Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cbc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lost Boys Studios - School of Visual Effects",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Maclean's University Rankings",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "education.macleans.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Maimonides School for Jewish Studies",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Manhattan University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "manhattan.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Manitoba Department of Education",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Manitoba Institute of Trade and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Map of all Canadian universities",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "campustour.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Marine Institute of Memorial University of Newfoundland",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Maritime School of Paramedicine",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Medavie HealthEd",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Meritus University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "oncampus.macleans.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Merlion International University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ministry of Education, British Columbia",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ministry of Education, Saskatchewan",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ministère de l'Éducation, Québec",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Misericordia General Hospital School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Misericordia Health Centre",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "misericordia.mb.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Miss A.J. MacMaster School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mission Institute of Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mission Institute of Distance Education",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mothercraft, Toronto",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mount Saint Vincent University, Nova Scotia",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mulgrave School",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "ibo.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Academy of Osteopathy",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Coaching Institute - BC",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nazarene University College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ner Israel Joseph Tanenbaum Yeshiva of Toronto",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Neurontology University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "New Brunswick Bible Institute",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "nbbi.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "New Brunswick Department of Education",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "New Brunswick Department of Education and Early Childhood Development",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Newfoundland and Labrador Department of Education and Early Childhood Development",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Newfoundland and Labrador Department of Education and Training",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nimbus School of Recording Arts",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "North American Montessori Center",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Northland Open University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Northwest Baptist Seminary",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Northwest Territories Department of Education, Culture and Employment",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Notre Dame Secretarial School",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nova Scotia Department of Education and Early Childhood Development",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "nslegislature.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nunavut Department of Education",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nurses Association of New Brunswick",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ontario Christian Seminary",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ontario College of Art and Design University - OCAD",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ontario Institute of Audio Recording Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "geohack.toolforge.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ontario Ministry of Education",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ontario School of Osteopathy and Alternative Medicine",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ontario Theological Seminary",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Our Lady Seat of Wisdom Academy",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pacific Rim Early Childhood Institute Inc.",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pacific Torah Institute",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Peace River Bible Institute",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "prbi.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Prairie Bible Institute",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Prairie School of Mission Aviation",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Prince Edward Island Department of Education",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Providence Health Care",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Providence Theological Seminary",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Providence University College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Providence University College and Theological Seminary",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "prov.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Queen's University at Kingston",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "presidency.ucsb.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "RCC Institute of Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "rccit.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Recording Arts Canada - Institut d'Enregistrement du Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Redeemer University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Redeemer University College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Regency Dental Hygiene Academy, Inc., Toronto",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Regina General Hospital School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Richard Robinson Academy of Fashion Design",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Robetech Institute",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal Alexandra Hospital School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal Architectural Institute of Canada (RAIC)",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal Conservatory of Music",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rutherford University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "rutherford.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ryerson Polytechnical Institute",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saint John School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saint Michael University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saint Paul University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saint-Vincent Hospital Nursing School",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saskatchewan Institute of Applied Science and Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saskatchewan Learning",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of the Spirit",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seminary of Christ the King",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seneca Polytechnic",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "goreto.edu.np",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shiloh Bible Institute and Seminary",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Six Nations Polytechnic",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "snpolytechnic.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Society of Management Accountants - CMA",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Southern Alberta Institute of Technology - SAIT",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Southwestern Medix School",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Andrew's Hall",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Anne University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "St. Anne",
+    "domain": "ustanne.ednet.ns.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Boniface General Hospital School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Clare's Mercy Hospital School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Jerome's University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. John's General Hospital School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Martha's Hospital School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Mary's University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "St. Mary's",
+    "domain": "stmarys.ca",
+    "aliases": [
+      "smu.ca"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Mary's University College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Paul University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "St. Paul",
+    "domain": "ustpaul.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Paul's Hospital School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Philips Seminary",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Stanton University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "stanton.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Stratford Career Institute",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "scitraining.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Student Financial Services, New Brunswick",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sutherland-Chan School and Teaching Clinic",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sydney City Hospital School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Séminaire de Sherbrooke",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "seminaire-sherbrooke.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "TESOL Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taylor University College and Seminary",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical University of Nova Scotia",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Argyle Institute",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Art Institute of Toronto",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Create Institute",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Distance University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The King's University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The King's University College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Michener Institute of Education at UHN",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The National Academy of Health and Business",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Open University of America",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Thomson Education Direct",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Times Higher Education Canadian University rankings",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "timeshighereducation.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toronto Art Therapy Institute",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toronto Film School",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "narcity.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toronto Institute of Medical Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toronto Institute of Pharmaceutical Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "tipt.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toronto Metropolitan University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "univcan.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toronto Montessori Institute",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toronto Montessori Teacher Training Institute",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toronto School of Business",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toronto School of Management",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toronto School of Music",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toronto School of Traditional Chinese Medicine",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Transport Canada Marine Safety - AMSP",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tyndale University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "ats.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tyndale University College and Seminary",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Télé-université - TELUQ",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University Canada West - UCW",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College of the Fraser Valley",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "University",
+    "domain": "ucfv.bc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University Consortium International Inc.",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Alberta Hospital School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Fredericton",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "ufred.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Niagara Falls Canada",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "universityaffairs.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of NorthWest",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "unw.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Northern Washington",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of St. Jerome's College",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "St. Jerome's College",
+    "domain": "usjc.uwaterloo.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Toronto",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "tst.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Sainte-Anne",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Moncton",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "atlanticuniversities.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Saint-Boniface",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université du Québec - UQ",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université du Québec en Abitibi-Témiscamingue - UQAT",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université du Québec en Outaouais - UQO",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université du Québec à Chicoutimi - UQAC",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université du Québec à Montréal - UQAM",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université du Québec à Rimouski - UQAR",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université du Québec à Trois-Rivières - UQTR",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vancouver Art Therapy Institute",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vancouver Film School",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "multimedia.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vancouver General Hospital School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vancouver Institute of Media Arts",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vancouver School of Theology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "vst.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vancouver University Worldwide",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vicars School of Massage Therapy",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Victoria General Hospital School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Victoria General Hospital, School of Radiological Technology",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Victoria University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wascana Institute of Applied Arts and Sciences",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Washington College & University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Waterloo Lutheran University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "West Nipissing General Hospital",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Western Regional School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Weston Reserve University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Willowbank School",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Windsor Education Academy, Inc.",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yarmouth Regional Hospital School of Nursing",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yorkville University",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "vancourier.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yukon Department of Education",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yukon School of Visual Arts",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "yukonsova.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "École Polytechnique à Montréal",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "École de technologie supérieure",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "cemf.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "École nationale d'administration publique",
+    "country": "Canada",
+    "state": "Canada",
+    "city": "",
+    "domain": "www2.publicationsduquebec.gouv.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Brandon University",
+    "country": "Canada",
+    "state": "Manitoba",
+    "city": "Brandon",
+    "domain": "brandonu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian Mennonite University",
+    "country": "Canada",
+    "state": "Manitoba",
+    "city": "Winnipeg",
+    "domain": "cmu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Universite de Saint-Boniface",
+    "country": "Canada",
+    "state": "Manitoba",
+    "city": "Winnipeg",
+    "domain": "ustboniface.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College of Saint-Boniface",
+    "country": "Canada",
+    "state": "Manitoba",
+    "city": "University",
+    "domain": "ustboniface.mb.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Manitoba",
+    "country": "Canada",
+    "state": "Manitoba",
+    "city": "Winnipeg",
+    "domain": "umanitoba.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Winnipeg",
+    "country": "Canada",
+    "state": "Manitoba",
+    "city": "Winnipeg",
+    "domain": "uwinnipeg.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Crandall University",
+    "country": "Canada",
+    "state": "New Brunswick",
+    "city": "Moncton",
+    "domain": "crandallu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Lansbridge University",
+    "country": "Canada",
+    "state": "New Brunswick",
+    "city": "Lansbridge",
+    "domain": "lansbridge.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mount Allison University",
+    "country": "Canada",
+    "state": "New Brunswick",
+    "city": "Sackville",
+    "domain": "mta.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Stephen's University",
+    "country": "Canada",
+    "state": "New Brunswick",
+    "city": "St. Stephen",
+    "domain": "ssu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "St. Thomas University",
+    "country": "Canada",
+    "state": "New Brunswick",
+    "city": "Fredericton",
+    "domain": "stu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Universite de Moncton Edmundston",
+    "country": "Canada",
+    "state": "New Brunswick",
+    "city": "Edmundston",
+    "domain": "umce.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Moncton",
+    "country": "Canada",
+    "state": "New Brunswick",
+    "city": "Moncton",
+    "domain": "umoncton.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Moncton, Edmundston",
+    "country": "Canada",
+    "state": "New Brunswick",
+    "city": "Moncton",
+    "domain": "cuslm.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Moncton, Shippagan",
+    "country": "Canada",
+    "state": "New Brunswick",
+    "city": "Moncton",
+    "domain": "cus.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of New Brunswick",
+    "country": "Canada",
+    "state": "New Brunswick",
+    "city": "Fredericton",
+    "domain": "unb.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of New Brunswick, Saint John",
+    "country": "Canada",
+    "state": "New Brunswick",
+    "city": "New Brunswick",
+    "domain": "unbsj.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Memorial University of Newfoundland",
+    "country": "Canada",
+    "state": "Newfoundland and Labrador",
+    "city": "St. John's",
+    "domain": "mun.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Acadia University",
+    "country": "Canada",
+    "state": "Nova Scotia",
+    "city": "Wolfville",
+    "domain": "acadiau.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Atlantic School of Theology",
+    "country": "Canada",
+    "state": "Nova Scotia",
+    "city": "Halifax",
+    "domain": "astheology.ns.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Cape Breton University",
+    "country": "Canada",
+    "state": "Nova Scotia",
+    "city": "Sydney",
+    "domain": "cbu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dalhousie University",
+    "country": "Canada",
+    "state": "Nova Scotia",
+    "city": "Halifax",
+    "domain": "dal.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mount Saint Vincent University",
+    "country": "Canada",
+    "state": "Nova Scotia",
+    "city": "Halifax",
+    "domain": "msvu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "NSCAD University",
+    "country": "Canada",
+    "state": "Nova Scotia",
+    "city": "Halifax",
+    "domain": "nscad.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saint Mary's University",
+    "country": "Canada",
+    "state": "Nova Scotia",
+    "city": "Halifax",
+    "domain": "smu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Francis Xavier University",
+    "country": "Canada",
+    "state": "Nova Scotia",
+    "city": "Antigonish",
+    "domain": "stfx.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universite Sainte-Anne",
+    "country": "Canada",
+    "state": "Nova Scotia",
+    "city": "Church Point",
+    "domain": "usainteanne.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College of Cape Breton",
+    "country": "Canada",
+    "state": "Nova Scotia",
+    "city": "University",
+    "domain": "uccb.ns.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of King's College",
+    "country": "Canada",
+    "state": "Nova Scotia",
+    "city": "Halifax",
+    "domain": "ukings.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Algoma University",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Sault Ste. Marie",
+    "domain": "algomau.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Assumption University",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Assumption",
+    "domain": "assumptionu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Brock University",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "St. Catharines",
+    "domain": "brocku.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Carleton University",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Ottawa",
+    "domain": "carleton.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège Boréal",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "",
+    "domain": "borealc.on.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Huron University College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Huron",
+    "domain": "huronuc.on.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lakehead University",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Thunder Bay",
+    "domain": "lakeheadu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Laurentian University of Sudbury",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Sudbury",
+    "domain": "laurentian.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "McMaster University",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Hamilton",
+    "domain": "mcmaster.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nipissing University",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "North Bay",
+    "domain": "nipissingu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "OCAD University",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "domain": "ocadu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ontario Tech University",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Oshawa",
+    "domain": "ontariotechu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Queen's University",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Kingston",
+    "domain": "queensu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ryerson University",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "domain": "torontomu.ca",
+    "aliases": [
+      "ryerson.ca"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Trent University",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Peterborough",
+    "domain": "trentu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Guelph",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Guelph",
+    "domain": "uoguelph.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Ottawa",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Ottawa",
+    "domain": "uottawa.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of St. Michael's College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "St. Michael's College",
+    "domain": "utoronto.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Sudbury",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Sudbury",
+    "domain": "usudbury.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Toronto Mississauga",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Mississauga",
+    "domain": "utm.utoronto.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Toronto Scarborough",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Scarborough",
+    "domain": "utsc.utoronto.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Trinity College",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Trinity College",
+    "domain": "trinity.utoronto.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Waterloo",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Waterloo",
+    "domain": "uwaterloo.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Western Ontario",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Western Ontario",
+    "domain": "uwo.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Windsor",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Windsor",
+    "domain": "uwindsor.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Victoria University Toronto, University of Toronto",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "domain": "vicu.utoronto.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wilfrid Laurier University",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Waterloo",
+    "domain": "wlu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "York University",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "domain": "yorku.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Prince Edward Island",
+    "country": "Canada",
+    "state": "Prince Edward Island",
+    "city": "Charlottetown",
+    "domain": "upei.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bishop's University",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Sherbrooke",
+    "domain": "ubishops.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Collège Universel Gatineau",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "",
+    "domain": "collegeuniversel.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Concordia University",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Montreal",
+    "domain": "concordia.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cégep de Saint-Jérôme",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "",
+    "domain": "cstj.qc.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "ENAP",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Quebec City",
+    "domain": "enap.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institut Armand-Frappier, Université du Québec",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "",
+    "domain": "iaf.inrs.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institut National de la Recherche Scientifique, Université du Québec",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "",
+    "domain": "inrs.uquebec.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "McGill University",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Montreal",
+    "domain": "mcgill.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sherbrooke University",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Sherbrooke",
+    "domain": "usherbrooke.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "TELUQ",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Quebec City",
+    "domain": "teluq.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Télé-université, Université du Québec",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "",
+    "domain": "teluq.uquebec.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "UQAR",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Rimouski",
+    "domain": "uqar.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "UQAT",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Rouyn-Noranda",
+    "domain": "uqat.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "UQTR",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Trois-Rivieres",
+    "domain": "uqtr.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Québec",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Québec",
+    "domain": "uquebec.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Laval",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "",
+    "domain": "ulaval.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Montréal",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Montréal",
+    "domain": "umontreal.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Sherbrooke",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Sherbrooke",
+    "domain": "usherb.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université du Québec en Abitibi-Témiscamingue",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "",
+    "domain": "uqat.uquebec.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université du Québec en Outaouais",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "",
+    "domain": "uqo.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université du Québec à Chicoutimi",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "",
+    "domain": "uqac.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université du Québec à Montréal",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "",
+    "domain": "uqam.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université du Québec à Rimouski",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "",
+    "domain": "uqar.uquebec.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université du Québec à Trois-Rivières",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "",
+    "domain": "uqtr.uquebec.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "École Polytechnique de Montréal, Université de Montréal",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "Montréal",
+    "domain": "polymtl.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "École de technologie supérieure, Université du Québec",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "",
+    "domain": "etsmtl.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "École des Hautes Études Commerciales",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "",
+    "domain": "hec.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "École nationale d'administration publique, Université du Québec",
+    "country": "Canada",
+    "state": "Quebec",
+    "city": "",
+    "domain": "enap.uquebec.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "First Nations University of Canada",
+    "country": "Canada",
+    "state": "Saskatchewan",
+    "city": "Regina",
+    "domain": "fnuniv.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Regina",
+    "country": "Canada",
+    "state": "Saskatchewan",
+    "city": "Regina",
+    "domain": "uregina.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Saskatchewan",
+    "country": "Canada",
+    "state": "Saskatchewan",
+    "city": "Saskatoon",
+    "domain": "usask.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yukon University",
+    "country": "Canada",
+    "state": "Yukon",
+    "city": "Whitehorse",
+    "domain": "yukonu.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

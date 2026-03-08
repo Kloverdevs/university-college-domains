@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Jordan Academy of Music / Higher Institute of Music",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Jordan",
+    "domain": "jam.edu.jo",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "New York Institute of Technology",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "New York",
+    "domain": "nyit.edu.jo",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

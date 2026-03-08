@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Aalborg Business College",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Aalborg Business",
+    "domain": "ah.dk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Aarhus Technical College",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Aarhus Technical",
+    "domain": "ats.dk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Engineering College of Aarhus",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Denmark",
+    "domain": "iha.dk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Engineering College of Copenhagen",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Denmark",
+    "domain": "ihk.dk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "International People's College",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "International People's",
+    "domain": "ipc.dk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Kalø Økologisk Agricultural College",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Kalø Økologisk Agricultural",
+    "domain": "videndjurs.dk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Tietgen Business College",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Tietgen Business",
+    "domain": "tietgen.dk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

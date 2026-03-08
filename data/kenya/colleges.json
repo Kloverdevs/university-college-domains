@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Kenya College of Accountancy",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Kenya",
+    "domain": "kca.ac.ke",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Kenya Medical Training College",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Kenya Medical Training",
+    "domain": "kmtc.ac.ke",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Nairobi Institute of Business Studies",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Nairobi",
+    "domain": "nibs.ac.ke",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Nairobi Technical Training Institute",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Nairobi Technical Training",
+    "domain": "ntti.ac.ke",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Zetech College",
+    "country": "Kenya",
+    "state": "Kenya",
+    "city": "Zetech",
+    "domain": "zetechcollege.com",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

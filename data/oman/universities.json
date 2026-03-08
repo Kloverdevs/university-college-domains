@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Al-Buraimi University College",
+    "country": "Oman",
+    "state": "Oman",
+    "city": "Al-Buraimi",
+    "domain": "buc.edu.om",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arab Open University",
+    "country": "Oman",
+    "state": "Oman",
+    "city": "Arab Open",
+    "domain": "aou.edu.om",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dhofar University",
+    "country": "Oman",
+    "state": "Oman",
+    "city": "Dhofar",
+    "domain": "du.edu.om",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Majan University College",
+    "country": "Oman",
+    "state": "Oman",
+    "city": "Majan",
+    "domain": "majancollege.edu.om",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sohar University",
+    "country": "Oman",
+    "state": "Oman",
+    "city": "Sohar",
+    "domain": "soharuni.edu.om",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sultan Qaboos University",
+    "country": "Oman",
+    "state": "Oman",
+    "city": "Sultan Qaboos",
+    "domain": "squ.edu.om",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sur University College",
+    "country": "Oman",
+    "state": "Oman",
+    "city": "Sur",
+    "domain": "suc.edu.om",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Nizwa",
+    "country": "Oman",
+    "state": "Oman",
+    "city": "Nizwa",
+    "domain": "unizwa.edu.om",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

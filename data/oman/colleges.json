@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ibra College of Technology",
+    "country": "Oman",
+    "state": "Oman",
+    "city": "Ibra",
+    "domain": "ict.edu.om",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Muscat College",
+    "country": "Oman",
+    "state": "Oman",
+    "city": "Muscat",
+    "domain": "muscatcollege.edu.om",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Oman College Of Management & Technology",
+    "country": "Oman",
+    "state": "Oman",
+    "city": "Oman",
+    "domain": "omancollege.edu.om",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

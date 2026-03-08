@@ -1,0 +1,7972 @@
+[
+  {
+    "name": "Islamic Azad University, Karaj",
+    "country": "Iran",
+    "state": "Alborz",
+    "city": "Islamic Azad",
+    "domain": "iaukb.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ardabil University of Medical Sciences",
+    "country": "Iran",
+    "state": "Ardabil",
+    "city": "Ardabil",
+    "domain": "arums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Ardabil",
+    "country": "Iran",
+    "state": "Ardabil",
+    "city": "Islamic Azad",
+    "domain": "iauardabil.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Mohaghegh",
+    "country": "Iran",
+    "state": "Ardabili",
+    "city": "Mohaghegh",
+    "domain": "uma.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bushehr University of Medical Sciences",
+    "country": "Iran",
+    "state": "Bushehr",
+    "city": "Bushehr",
+    "domain": "bpums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Persian Gulf University",
+    "country": "Iran",
+    "state": "Bushehr",
+    "city": "Persian Gulf",
+    "domain": "pgu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahrekord University",
+    "country": "Iran",
+    "state": "Chaharmahal and Bakhtiari",
+    "city": "Shahrekord",
+    "domain": "sku.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahrekord University of Medical Sciences",
+    "country": "Iran",
+    "state": "Chaharmahal and Bakhtiari",
+    "city": "Shahrekord",
+    "domain": "skums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Ahar",
+    "country": "Iran",
+    "state": "East Azerbaijan",
+    "city": "Islamic Azad",
+    "domain": "iau-ahar.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Bostanabad",
+    "country": "Iran",
+    "state": "East Azerbaijan",
+    "city": "Islamic Azad",
+    "domain": "iaubos.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Shabestar",
+    "country": "Iran",
+    "state": "East Azerbaijan",
+    "city": "Islamic Azad",
+    "domain": "iaushab.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Tabriz",
+    "country": "Iran",
+    "state": "East Azerbaijan",
+    "city": "Islamic Azad",
+    "domain": "iaut.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Malekan Payame Nour University",
+    "country": "Iran",
+    "state": "East Azerbaijan",
+    "city": "Malekan Payame Nour",
+    "domain": "malekanpnu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sahand University of Technology",
+    "country": "Iran",
+    "state": "East Azerbaijan",
+    "city": "Sahand",
+    "domain": "sut.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tabriz Islamic Art University",
+    "country": "Iran",
+    "state": "East Azerbaijan",
+    "city": "Tabriz Islamic Art",
+    "domain": "tabriziau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tabriz University",
+    "country": "Iran",
+    "state": "East Azerbaijan",
+    "city": "Tabriz",
+    "domain": "tabrizu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tabriz University of Medical Sciences",
+    "country": "Iran",
+    "state": "East Azerbaijan",
+    "city": "Tabriz",
+    "domain": "tbzmed.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College of Nabi Akram",
+    "country": "Iran",
+    "state": "East Azerbaijan",
+    "city": "University",
+    "domain": "ucna.info",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fasa Faculty of Medical Sciences",
+    "country": "Iran",
+    "state": "Fars",
+    "city": "",
+    "domain": "fums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Fars Science & Research Branch",
+    "country": "Iran",
+    "state": "Fars",
+    "city": "Islamic Azad",
+    "domain": "fsriau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Kazeron",
+    "country": "Iran",
+    "state": "Fars",
+    "city": "Islamic Azad",
+    "domain": "kau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Shiraz",
+    "country": "Iran",
+    "state": "Fars",
+    "city": "Islamic Azad",
+    "domain": "iaushiraz.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jahrom University of Medical Sciences",
+    "country": "Iran",
+    "state": "Fars",
+    "city": "Jahrom",
+    "domain": "jums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mamasani University of Technology",
+    "country": "Iran",
+    "state": "Fars",
+    "city": "Mamasani",
+    "domain": "mamasaniiau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shiraz Payamnoor University",
+    "country": "Iran",
+    "state": "Fars",
+    "city": "Shiraz Payamnoor",
+    "domain": "spnu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shiraz University",
+    "country": "Iran",
+    "state": "Fars",
+    "city": "Shiraz",
+    "domain": "shirazu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shiraz University of Medical Sciences",
+    "country": "Iran",
+    "state": "Fars",
+    "city": "Shiraz",
+    "domain": "sums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shiraz University of Technology",
+    "country": "Iran",
+    "state": "Fars",
+    "city": "Shiraz",
+    "domain": "sutech.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Guilan University",
+    "country": "Iran",
+    "state": "Gilan",
+    "city": "Guilan",
+    "domain": "guilan.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Guilan University of Medical Sciences",
+    "country": "Iran",
+    "state": "Gilan",
+    "city": "Guilan",
+    "domain": "gums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Lahijan",
+    "country": "Iran",
+    "state": "Gilan",
+    "city": "Islamic Azad",
+    "domain": "iau-lahijan.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Sowmesara",
+    "country": "Iran",
+    "state": "Gilan",
+    "city": "Islamic Azad",
+    "domain": "sowmesaraiau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Golestan University of Medical Sciences",
+    "country": "Iran",
+    "state": "Golestan",
+    "city": "Golestan",
+    "domain": "goums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gorgan University of Agricultural Sciences and Natural Resources",
+    "country": "Iran",
+    "state": "Golestan",
+    "city": "Gorgan",
+    "domain": "gau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Gorgan",
+    "country": "Iran",
+    "state": "Golestan",
+    "city": "Islamic Azad",
+    "domain": "gorganiau.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hamadan University of Medical Sciences",
+    "country": "Iran",
+    "state": "Hamadan",
+    "city": "Hamadan",
+    "domain": "umsha.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Malayer University",
+    "country": "Iran",
+    "state": "Hamadan",
+    "city": "Malayer",
+    "domain": "malayeru.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bu Ali Sina University",
+    "country": "Iran",
+    "state": "Hamedan",
+    "city": "Bu Ali Sina",
+    "domain": "basu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Hamedan",
+    "country": "Iran",
+    "state": "Hamedan",
+    "city": "Islamic Azad",
+    "domain": "iauh.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hormozgan University of Medical Sciences",
+    "country": "Iran",
+    "state": "Hormozgan",
+    "city": "Hormozgan",
+    "domain": "hums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Bandar Abbas",
+    "country": "Iran",
+    "state": "Hormozgan",
+    "city": "Islamic Azad",
+    "domain": "iauba.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Janah",
+    "country": "Iran",
+    "state": "Hormozgan",
+    "city": "Islamic Azad",
+    "domain": "janahiau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sharif University of Technology, Kish Campus",
+    "country": "Iran",
+    "state": "Hormozgan",
+    "city": "Sharif",
+    "domain": "kish.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Hormozgan",
+    "country": "Iran",
+    "state": "Hormozgan",
+    "city": "Hormozgan",
+    "domain": "hormozgan.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ilam University",
+    "country": "Iran",
+    "state": "Ilam",
+    "city": "Ilam",
+    "domain": "ilam.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ilam University of Medical Sciences",
+    "country": "Iran",
+    "state": "Ilam",
+    "city": "Ilam",
+    "domain": "medilam.hbi.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "AJA University of Military Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aba Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abadan Institute of Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abadeh Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abdolrahman Sufi Razi Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abrar Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Adiban Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aeen Kamal Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aerospace Research Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "ari.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Afagh Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Afarinesh Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aghigh Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "AhlulBayt International University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ahrar Institute of Technology and Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ahvaz Jundishapur University of Medical Sciences (AJUMS)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al Ghadir Zanjan Technical and Vocational School",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Mustafa International University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "en.miu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alaodoleh Semnani (Gharmsar) Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alborz Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alborz University of Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "education.abzums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ale-Taha Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alghadir Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Allameh Amini Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Allameh Dehkhoda Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Allameh Feyz Kashani Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Allameh Ghotbe Ravandi Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Allameh Helli Higher Education Institute of Chalous",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Allameh Jafari Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Allameh Majlesi Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Allameh Mohaddes Noori Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Allameh Mohaddes Nouri University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "mohaddes.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Allameh Naeini Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Allameh Qazvini Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Allameh Rafiei Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Allameh Tabarsi Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Allameh Tabatabai University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Almahdi Mehr Isfahan Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Almustafa Open University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "Almustafa Open",
+    "domain": "almustafaou.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alvand Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alzahra University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "alzahra.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Amin Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Amin Police University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Amirkabir University of Technology - Tehran Polytechnic",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Amol Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Amol University of Special Modern Technologies",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Andisheh Jahrom Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Andisheh Sazan Basic Sciences Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Andishmand Lahijan Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Apadana Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arak Machine Manufacturing Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aras Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ardakan University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aria Higher Institute of Sciences and Sustainability",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Army University of Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Art University of Isfahan",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arvand Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arvandan Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aryan Institute of Science and Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asia Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asrar Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Astaneh Ashrafiyeh Technical and Vocational University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Astarabad Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aston University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "aston.ac.uk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Atrak Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Attar Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ayandegan Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Azarbaijan Shahid Madani University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "en.azaruniv.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Azarbaijan University of Tarbiat Moallem",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Azerbaijan Accounting and Management Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Azzahra University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "Azzahra",
+    "domain": "azzahra.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baft Boys Technical and Vocational School",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baghiatollah University of Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baha'i Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bahar Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baharan Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bahmanyar Instiute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bakhtaran University of Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baqir Al-Olum University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Barkhat Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Basir Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Behbahan Khatam Alanbia University of Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Behesht Pars Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Besat Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Binaloud Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Birjand Technical and Vocational Institution (Sepideh Kashani)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Birjand University of Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Blood Transfusion Research Center",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bonyan Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Boys Technical and Vocational School in Tabas (Imam Ali)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bozorg Mehr Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Buein Zahra Higher Education Center of Engineering and Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Building and Housing Research Center and Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Business Training Center",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Caspian Higher Education Institution",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chabahar Maritime University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chemistry and Chemical Engineering Research Center of Iran",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cultural Heritage Center for Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Damghan University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "en.du.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Damghan University of Basic Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "Basic Sciences",
+    "domain": "dubs.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Damoon Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Danesh Alborz University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daneshestan Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daneshpajoohan Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daneshpajoohan Pishro Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daneshvaran Higher Education Institute of Tabriz",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Darolfonoon Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Data Processing Iran Company",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dehkhoda Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dezful University of Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "dums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ekbatan Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Endocrine & Metabolism Research Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "emri.tums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Energy Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eqbal Lahoori Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eram Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Erfan Private Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ershad Damavand Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Esfarayen University of Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eshragh Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Estahban Higher Education Center",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eyvanekey Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Faculty of Humanities and Art of Hazrat-e Masoumeh",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Faculty of Law and Political Science at University of Tehran",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "lawpol.ut.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fakhruddin As'ad Gorgani Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fanpardazan Higher Education Institution",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Farabi Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Faran Mehrdanesh Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Faraz Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Farhangian University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "cfu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Farhikhtegan Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Farvardin Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Farzanegan Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fasa University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "fasau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fasa University of Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fatemeh Technical and Vocational Institute for Girls - Ardabil",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fatemieh Higher Education Institute of Shiraz",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fatemieh University of Medical Sciences, Qom",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fatemiye University of Medical Sciences, Qom",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "viaf.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fazilat Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Feiz Ol-Islam Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ferdows Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Firoozabad Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Foulad Institute of Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gam Andishe Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ganjnameh Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Garmsar University of Technology and Engineering",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gerash University of Medical Sciences and Health Services",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ghadir Higher Education Institute Langerud",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ghaem Technology Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ghazali Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ghiaseddin Jamshid Kashani Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ghiaseddin Jamshid Kashani University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ghodsiyeh Technical and Vocational Institute of Sari (Girls)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Golestan Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Golestan University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "gu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Golpayegan University of Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gonbad Kavous University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "gonbad.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gorgan University of Agriculture and Natural Resources",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Graduate University of Advanced Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hadaf Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hakim Jorjani Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hakim Nezami Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hakim Sabzevari University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "hsu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hakim Toos Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hakiman Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hamedan University of Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "jrhs.umsha.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hamedan University of Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Haraz Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hasht Behesht Esfahan Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hatef Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hazrat-e Masoumeh University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hekmat Institute of Higher Edutcation",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hekmat Razavi Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "High Institute for Research and Education in Transfusion Medicine",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Higher Education Institute of Allameh Bahrololoom",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Higher Education Institute of Management and Technology - MTI",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hircania Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hormozgan University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Howzeh Elmiyeh - Qom",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoze Honari",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "IRISL Maritime Training Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Imam Ali Physical Education Institute of Safadasht",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Imam Hossein University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "ihu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Imam Javad University College",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Imam Khomeini Naval University of Noshahr",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "aja.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Imam Khomeini Technical and Vocational Higher Education Institute (Sabzevar)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Imam Khomeini Technical and Vocational Higher Education Institute - Ali abad Katool",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Imam Khomeini Technical and Vocational Higher Education Institute - Meybod",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Imam Mohammad Bagher Technical and Vocational Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Imam Reza International University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Industrial Management Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Industrial Research Center of Iran",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Industrial Research Institute of Isfahan (IRICO)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instittute of Higher Education Shams Ghonbad",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institut Pasteur",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute For International Energy Studies",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute For Management and Planning Studies - IMPS",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute for Advanced Studies in Basic Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute for Cognitive Sciences Studies",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute for Higher Education ACECR Khuzestan",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute for Research in Fundamental Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "ipm.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute for Technical and Vocational of Qazvin (Baghiatollahelazam)-Girls",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Applied Science of Post and Telecommunication",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Color Science and Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Higher Education Arman",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Higher Education Fakhr Razi",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Higher Education Hafez Shiraz",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Higher Education Kumesh",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Higher Education Marlik (No Shahr)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Higher Education Mehrpouyan",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Higher Education Nahavand",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Higher Education Omid Nahavand",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Higher Education Parto",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Higher Education Payame Golpayeghan",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Higher Education Ragheb Esfahani",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Higher Education Roshd Danesh",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Higher Education Science and Technology - Urmia",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Higher Education Seraj",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Higher Education of Kerman",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Humanities and Cultural Studies (IHCS)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Management Research and Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Surveying and Mapping",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Technology of Mashhad (Al Zahra)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Training, Research and Operational Consultancy for Tourism",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Institute of Earthquake Engineering and Seismology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "iiees.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International University of Chabahar",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "iuc.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iran Air Force School of Nursing",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iran Banking Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "ibi.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iran Broadcasting University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "irib.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iran Industries Research Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iran Institute of Informatics",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iran Maritime Training and Research Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iran Polymer and Petrochemical Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iran Technical and Vocational Training Organization",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "eps.journals.umz.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iran University of Industries and Mines",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iran University of Medical Sciences and Health Services",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iran University of Science and Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iranian Academy of Persian Language and Literature",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "Iran",
+    "domain": "persianacademy.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iranian Crescent Institute of Higher Education for Applied Science",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iranian Electronic Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iranian Psychological Association",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iranian Research Institute of Philosophy",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "irip.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iranian Research Organization for Science and Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "lux.collections.yale.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Isfahan Higher Education and Research Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Isfahan Technical and Vocational Institute (for Girls)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Isfahan University of Art",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "aui.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "iau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Ahvaz Branch",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "ethics.research.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Aliabad",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "Islamic Azad",
+    "domain": "aliabadiau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Astara Branch",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "iau-astara.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Birjand Branch",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "iaubir.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Bojnourd",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "Islamic Azad",
+    "domain": "bojnourdiau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Damavand Branch",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "damavandiau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Dehaghan",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "Islamic Azad",
+    "domain": "dehaghan.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Gorgan Branch",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "ucsb.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Jahrom Branch",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "uniref.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Khomeyni Shahr Branch",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "iaukhsh.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Masjed Soleyman Branch",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "iaumis.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, North Tehran Branch",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "en.iau-tnb.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Qazvin",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "Islamic Azad",
+    "domain": "qazviniau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Rasht Branch",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "iaurasht.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Region One",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "Islamic Azad",
+    "domain": "iauro.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Sabzevar Branch",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "iaus.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Sanandaj Branch",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "isni.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Science and Research Branch, Tehran",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "food.srbiau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Shahinshahr Branch",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "iaushsh.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Shahr-e-Qods Branch",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "qodsiau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, UAE Branch",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "intl.iau.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, West Tehran Branch",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "wtiau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Zanjan Branch",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "iauz.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic World Science Citation Database",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "libraryconnect.elsevier.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ivanaki Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jabir Bin Hayyan Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jahad Daneshgahi",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jahrom University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "jahromu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jami Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Javid Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jiroft University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "ujiroft.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jiroft University of Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jundi Shapur University of Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kabir-e Gharb Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kadous Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kallaghan-e-Javan Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kamalolmolk Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kar Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Karoon Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kashan Mahd-e-Alam Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kashan Technical and Vocational Higher Education Institute - (Girls)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kasra Ramsar Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kavian Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kavosh Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kazerun Technical and Vocational Institute (for Girls)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kerman Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kermanshah Higher Education Institute of Shahid Rezaei",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khaje Nasir Toosi University of Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kharazmi Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kharazmi University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "khu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khatam Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khatam University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "khatam.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khavaran Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khayyam Higher Educational Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khayyam University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khazar Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kherad Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kheradgarayan Motahar Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khorasan Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khorramshahr University of Marine Science and Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khoy Technical and Vocational Institute (for Girls)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khuzestan University of Agricultural Sciences and Natural Resources",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khuzestan University of Medical Sciences and Health Services",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kish Higher Education Institution",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kooshyar Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kosar University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kowsar Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kumesh Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lahijan Technical and Vocational School, Shahid Rajaei",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lamei Gorgani Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lamerd Higher Education Center",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Larestan Technical and Vocational Institute for Boys",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Larestan University of Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lian Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Loghman-e Hakim Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Maad Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mafakher Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mahallat Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mahan Business School",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Malek-Ashtar University of Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "cns.miis.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Management Development Institute of Tehran",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Maragheh University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Maragheh University of Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Marvdasht Technical and Vocational Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Materials and Biomaterials Research Center",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Materials and Energy Research Center - MERC",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mazandaran Higher Education Institute -Adib",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mazandaran Institute of Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mazandaran University of Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mazandaran University of Science and Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "en.ustmb.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mazandaran University of Science and Technology - Behshahr",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mazandaran University of Sciences and Technology - Babol",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Maziar Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mehr Alborz Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mehr Arak Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mehr Ayin Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mehrarvand Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mehrastan Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mehrgan Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Meybod University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Miaad Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ministry of Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ministry of Health and Medical Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "gis.emro.who.int",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ministry of Science, Research and Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mir Emad Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mirdamad Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Misagh Rafsanjan Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mizan Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Moghadas Ardebili Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Moghan Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mohandesan Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Molana Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Molavi Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mowj Private Higher Education Institute of Bandar Anzali",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "NIIT - National Institute of Information Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Naghsh-e-Jahan Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nahavand Technical and Vocational University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Najaf Abad Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Najand Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "nazhand.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Naser Khosro Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nasibeh Teachers Training University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute of Genetic Engineering and Biotechnology - NIGEB",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Research Institute for Science Policy - NRISP",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Iran",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Skill",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "it.tvu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Negareh Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Negin Jiroft Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Neyshabour University of Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nima Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Noor Touba Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "North Khorasan University of Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "nkums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "NourDanesh Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nuclear Science and Technology Research Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ooj Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osveh Moaser Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Parandak Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pardis Iranian Institute of Education and Research",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pardisan Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pars Mer Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pars University of Art and Architecture",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Parsa Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Parsian Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pasargad Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Payambar e Azam Higher Education Center",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pishtazan Institute of Higher Education (Shiraz)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pooyesh Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pouyandegan Danesh Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pouyesh Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Power and Water University of Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "pwut.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Power and Water University of Technology, Abbaspour - PWUT",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Private university",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "ugc.ac.in",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Professional and Technical University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Qazvin Islamic Azad University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "qiau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Qom University of Medical Sciences and Health Services",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Quchan University of Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "qiet.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "RCD International School of Insurance",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rab-e- Rashid Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rahbord Shomal Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rahedanesh Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rahian Noor Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rahman Higher Education Institute of Ramsar",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Raja Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Raja University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "raja.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ramin University of Agriculture and Natural Resources",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rasam Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Razavi Islamic Sciences University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Razi Technical and Vocational Institute in Ardebil",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Razi Vaccine and Serum Research Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "rvsri.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Refah Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Research Institute for Islamic Culture and Thought",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "qabasat.iict.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Research Institute of Earth Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Research Institute of Food Science and Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Research Institute of Petroleum Industry",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "profile.shirazu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Research Institute of Planning and Management",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Roshdiyeh Higher Education Center",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rostam Abad (Seyed-Al Shohada) Technical and Vocational Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Roudaki Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rouzbahan Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rouzbeh Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royan Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rural Development & Habitation Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saba Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sabalan Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sabz Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sabzevar University of Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sabzevar University of New Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "sunt.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sadjad Institute of Higher Education, Mashhad",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sadjad University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sadra Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saeb Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saee Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Safahan Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Safir Danesh Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Salehan Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Salman Farsi University of Kazerun",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "kazerunsfu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Salman Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Samangan Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sana Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sanabad Golbahar Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sanaei Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sanandaj Technical and Vocational Institute (Girls)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saravan Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saravan University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sardar Janghali Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sari Agricultural Sciences and Natural Resources University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sariyan Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saroyeh Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saveh Fano Danesh Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saveh University of Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Economic Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "Iran",
+    "domain": "ses.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Industrial Safety and Occupational Health",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of International Relations",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "sir.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sepahan Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sepehr Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seyyed Jamaleddin Asadabadi University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shafagh Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahab Danesh University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaheed Chamran University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "Shaheed Chamran",
+    "domain": "cua.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaheed Rajaie Cardiovascular Medical and Research Center",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Ashrafi Esfahani Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Ashrafi Esfahani University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Beheshti Technical and Vocational Institute of Urmia #2",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Beheshti University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "en.sbu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Beheshti University of Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Chamran University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Mohajer Technical Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Motahari University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "motahari.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Rajaee Teacher Training University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Rajai Technical Vocational University, Lahijan",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Rajaie Cardiovascular Medical and Research Center",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Sadoughi University of Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "web.ssu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Sadoughi University of Medical Sciences and Health Services",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Sattari Aviation University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Shamsipour Technical and Vocational University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahrekord Technical and Vocational Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahreza Higher Education Center",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahrood Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahroud University of Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahryar Higher Education Institute, Astara",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shakhes Pajouh Research Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shandiz Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shiraz Art Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shiraz University of Arts",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "shirazartu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shomal Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shoushtar University of Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sialk Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Simaye Danesh Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sina Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sirjan University of Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sirjan University of Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "sirjantech.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sobh e Sadegh Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sobhan Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Social Security Fund",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Social Security Organization",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "ilo.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sohrevardi Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Somayeh Girls Technical and Vocational Institute, Najafabad",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Soore University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Soureh Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Soureh International University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "en.soore.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sports Sciences Research Institute of Iran",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ta'ali Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tabaran Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tabarestan Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tabarestan University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "tabarestan.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tabnak Higher Education Institution",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tafresh University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "tafreshu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taftan Non-Profit University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tajan Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Takestan Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tarbiat Moallem University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tarbiat Moallem University of Sabzevar",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tarjoman Oloum Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Teacher Training Faculty of Someehsara",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Teachers' Training Center",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical Agricultural Institute of Kerman",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical Institute of Geomatics",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical Vocational Institute of Karaj (Girls)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical Vocational Institute of Neyshaboor (Boys)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical Vocational Institute of Neyshaboor (Girls)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Faculty of Quchan",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Higher Education Institution of Khorram Abad (Boys)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Higher Education Institution of Khorram Abad (Girls)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Higher Institute- Imam Sadegh- Babol",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute - Enghelab Islami (No 1 Tehran)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute Boys Ardakan (Shahid Beheshti)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute Valiasr for Girls",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute for Boys Shahreza (Kharazmi)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute for Girls Shahreza",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Bojnourd (Darolfonoon)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Bojnourd for Girls - Enghelab Islami",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Eqlid (Girls)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Estahban (Imam Hossein)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Gorgan (Maedeh)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Hamedan # 2 (Shahid Jabarian)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Hamedan (Zaynab Kobra- Girls)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Higher Education Yasuj (Boys)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Isfahan (#2, Soroush Center)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Jajarm (for Men)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Kerman (Hazrat Fatemeh)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Kordkuy - Imam Ali",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Mahmoudabad",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Mashhad # 2 Samen",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Mashhad for Girls - Alzahra",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Meybod (Boys)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Meybod (for Women)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Qom (Boys)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Qom (Girls)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Rasht (Dr. Moein)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Sabzevar (Girls)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Semnan (Boys)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Semnan for Girls",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Tabriz (Girls- Alzahra)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Yazd",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Yazd #2 Imam Ali",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Institute of Yazd (# 1 Shahid Sadooghi)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational School of Saveh",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Training Center of Abadeh (Imam Khomeini)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tehran Aviation Industry Center",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tehran Business School",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tehran Institute of Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tehran Virtual University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The University of Quran and Hadith",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tohid Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tolouemehr University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tooran Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toos Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Torbat Heydarieh University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Torbat Heydariyeh University of Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Torbat Jam Faculty of Agriculture and Animal Science",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Torbat Jam Higher Education Complex",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Training Center of Industry and Mine House of Khorassan Razavi Province",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College of Azarabadegan",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "uca.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College of Azarabadeghan",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College of Nabi Akram - UCNA",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College of Omran and Toseeh (UCOT)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University Ranking by Academic Performance",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "ii.metu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Art",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Ayatollah Ozma Boroujerdi",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Birjand",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Bojnord",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "ub.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Bonab",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "en.bonabu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Economic Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Edalat",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Environment",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Eyvanekey",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Guilan",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Isfahan",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Jiroft",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Judicial Sciences and Administrative Services",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "fjs.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Kashan",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Lavasanat Pnu",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "Lavasanat Pnu",
+    "domain": "lavasanpnu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Maragheh",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "maragheh.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Mazandaran",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Mohaghegh Ardabili",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of New South Wales",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "unsw.edu.au",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Neyshabur",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "neyshabur.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Qom",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "topuniversities.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Quranic Studies and Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Religions and Denominations",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "urd.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Science and Art",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Sistan and Baluchestan",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Social Welfare and Rehabilitation Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Tabriz",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Tafresh",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Wales",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "bangor.ac.uk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Westminster",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "westminster.ac.uk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Zabol",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University system",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "upr.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Urmia Graduate Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Urmia Technical and Vocational Institute for Girls",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vali-e-Asr University of Rafsanjan",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Varastegan Institute for Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Velayat University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yasouj University",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "en.yu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zabol University of Medical Sciences",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "zbmu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zabol University of Medical Sciences and Health Services",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zagros Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zarandieh Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zobdegan Open Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Isfahan University",
+    "country": "Iran",
+    "state": "Isfahan",
+    "city": "Isfahan",
+    "domain": "ui.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Isfahan University of Medical Sciences",
+    "country": "Iran",
+    "state": "Isfahan",
+    "city": "Isfahan",
+    "domain": "mui.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Isfahan University of Technology",
+    "country": "Iran",
+    "state": "Isfahan",
+    "city": "Isfahan",
+    "domain": "iut.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Falavarjan",
+    "country": "Iran",
+    "state": "Isfahan",
+    "city": "Islamic Azad",
+    "domain": "falavarjan.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Khorasgan",
+    "country": "Iran",
+    "state": "Isfahan",
+    "city": "Islamic Azad",
+    "domain": "khuisf.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Majlesi",
+    "country": "Iran",
+    "state": "Isfahan",
+    "city": "Islamic Azad",
+    "domain": "iaumajlesi.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Mobarakeh",
+    "country": "Iran",
+    "state": "Isfahan",
+    "city": "Islamic Azad",
+    "domain": "mau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Najaf Abad",
+    "country": "Iran",
+    "state": "Isfahan",
+    "city": "Islamic Azad",
+    "domain": "iaun.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kashan University",
+    "country": "Iran",
+    "state": "Isfahan",
+    "city": "Kashan",
+    "domain": "kashanu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kashan University of Medical Sciences",
+    "country": "Iran",
+    "state": "Isfahan",
+    "city": "Kashan",
+    "domain": "kaums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khomeinishahr Payame Noor University",
+    "country": "Iran",
+    "state": "Isfahan",
+    "city": "Khomeinishahr Payame Noor",
+    "domain": "km.isfpnu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Najaf Abad University of Applied Science and Technology",
+    "country": "Iran",
+    "state": "Isfahan",
+    "city": "Najaf Abad",
+    "domain": "najafabad-uast.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Raghebe Esfahani University",
+    "country": "Iran",
+    "state": "Isfahan",
+    "city": "Raghebe Esfahani",
+    "domain": "raghebisf.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sheikhbahaee University",
+    "country": "Iran",
+    "state": "Isfahan",
+    "city": "Sheikhbahaee",
+    "domain": "shbu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Kerman",
+    "country": "Iran",
+    "state": "Kerman",
+    "city": "Islamic Azad",
+    "domain": "iauk.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kerman Graduate University of Technology",
+    "country": "Iran",
+    "state": "Kerman",
+    "city": "Kerman Graduate",
+    "domain": "kgut.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kerman University of Medical Sciences",
+    "country": "Iran",
+    "state": "Kerman",
+    "city": "Kerman",
+    "domain": "kmu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rafsanjan University of Medical Sciences",
+    "country": "Iran",
+    "state": "Kerman",
+    "city": "Rafsanjan",
+    "domain": "rums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Bahonar University of Kerman",
+    "country": "Iran",
+    "state": "Kerman",
+    "city": "Kerman",
+    "domain": "uk.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vali-e-Asr University",
+    "country": "Iran",
+    "state": "Kerman",
+    "city": "Vali-e-Asr",
+    "domain": "vru.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kermanshah University of Medical Sciences",
+    "country": "Iran",
+    "state": "Kermanshah",
+    "city": "Kermanshah",
+    "domain": "kums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kermanshah University of Technology",
+    "country": "Iran",
+    "state": "Kermanshah",
+    "city": "Kermanshah",
+    "domain": "kut.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Razi University",
+    "country": "Iran",
+    "state": "Kermanshah",
+    "city": "Razi",
+    "domain": "razi.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ahvaz University of Medical Sciences",
+    "country": "Iran",
+    "state": "Khuzestan",
+    "city": "Ahvaz",
+    "domain": "aums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ahwaz Jondishapour University of Medical Sciences",
+    "country": "Iran",
+    "state": "Khuzestan",
+    "city": "Ahwaz Jondishapour",
+    "domain": "ajums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Mahshar",
+    "country": "Iran",
+    "state": "Khuzestan",
+    "city": "Islamic Azad",
+    "domain": "mahshahriau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Petroleum University of Technology",
+    "country": "Iran",
+    "state": "Khuzestan",
+    "city": "Petroleum",
+    "domain": "put.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yasuj University",
+    "country": "Iran",
+    "state": "Kohgiluyeh and Boyer-Ahmad",
+    "city": "Yasuj",
+    "domain": "yu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yasuj University of Medical Sciences",
+    "country": "Iran",
+    "state": "Kohgiluyeh and Boyer-Ahmad",
+    "city": "Yasuj",
+    "domain": "yums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Sanandaj",
+    "country": "Iran",
+    "state": "Kurdistan",
+    "city": "Islamic Azad",
+    "domain": "iausdj.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kurdistan University of Medical Sciences",
+    "country": "Iran",
+    "state": "Kurdistan",
+    "city": "Kurdistan",
+    "domain": "muk.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Kurdistan",
+    "country": "Iran",
+    "state": "Kurdistan",
+    "city": "Kurdistan",
+    "domain": "uok.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lorestan University",
+    "country": "Iran",
+    "state": "Lorestan",
+    "city": "Lorestan",
+    "domain": "lu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lorestan University of Medical Sciences",
+    "country": "Iran",
+    "state": "Lorestan",
+    "city": "Lorestan",
+    "domain": "lums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arak University",
+    "country": "Iran",
+    "state": "Markazi",
+    "city": "Arak",
+    "domain": "araku.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arak University of Medical Sciences",
+    "country": "Iran",
+    "state": "Markazi",
+    "city": "Arak",
+    "domain": "arakmu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arak University of Technology",
+    "country": "Iran",
+    "state": "Markazi",
+    "city": "Arak",
+    "domain": "arakut.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Delijan Payame Noor University",
+    "country": "Iran",
+    "state": "Markazi",
+    "city": "Delijan Payame Noor",
+    "domain": "delijanpnu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Arak",
+    "country": "Iran",
+    "state": "Markazi",
+    "city": "Islamic Azad",
+    "domain": "iau-arak.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Saveh",
+    "country": "Iran",
+    "state": "Markazi",
+    "city": "Islamic Azad",
+    "domain": "iau-saveh.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Tafresh",
+    "country": "Iran",
+    "state": "Markazi",
+    "city": "Islamic Azad",
+    "domain": "iautb.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Payame Noor University, Tafresh",
+    "country": "Iran",
+    "state": "Markazi",
+    "city": "Payame Noor",
+    "domain": "pnut.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Babol Noshirvani University of Technology",
+    "country": "Iran",
+    "state": "Mazandaran",
+    "city": "Babol Noshirvani",
+    "domain": "nit.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Babol University of Medical Sciences",
+    "country": "Iran",
+    "state": "Mazandaran",
+    "city": "Babol",
+    "domain": "mubabol.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mazandaran University of Iran",
+    "country": "Iran",
+    "state": "Mazandaran",
+    "city": "Iran",
+    "domain": "umz.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mazandaran University of Medical Science",
+    "country": "Iran",
+    "state": "Mazandaran",
+    "city": "Mazandaran",
+    "domain": "mazums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mazandaran University of Science & Technology",
+    "country": "Iran",
+    "state": "Mazandaran",
+    "city": "Science & Technology",
+    "domain": "ustmb.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shomal University",
+    "country": "Iran",
+    "state": "Mazandaran",
+    "city": "Shomal",
+    "domain": "shomal.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Shirvan",
+    "country": "Iran",
+    "state": "North Khorasan",
+    "city": "Islamic Azad",
+    "domain": "iau-shirvan.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Imam Khomeini International University",
+    "country": "Iran",
+    "state": "Qazvin",
+    "city": "Imam Khomeini International",
+    "domain": "ikiu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kar University",
+    "country": "Iran",
+    "state": "Qazvin",
+    "city": "Kar",
+    "domain": "karuniversity.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Qazvin University of Medical Sciences",
+    "country": "Iran",
+    "state": "Qazvin",
+    "city": "Qazvin",
+    "domain": "qums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Takestan Islamic Azad University",
+    "country": "Iran",
+    "state": "Qazvin",
+    "city": "Takestan Islamic Azad",
+    "domain": "tiau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Qom",
+    "country": "Iran",
+    "state": "Qom",
+    "city": "Islamic Azad",
+    "domain": "qom-iau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mofid University",
+    "country": "Iran",
+    "state": "Qom",
+    "city": "Mofid",
+    "domain": "mofidu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mustafa International University",
+    "country": "Iran",
+    "state": "Qom",
+    "city": "Mustafa International",
+    "domain": "miu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Qom University",
+    "country": "Iran",
+    "state": "Qom",
+    "city": "Qom",
+    "domain": "qom.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Qom University of Medical Sciences",
+    "country": "Iran",
+    "state": "Qom",
+    "city": "Qom",
+    "domain": "muq.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Qom University of Technology",
+    "country": "Iran",
+    "state": "Qom",
+    "city": "Qom",
+    "domain": "qut.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ferdowsi University of Mashhad",
+    "country": "Iran",
+    "state": "Razavi Khorasan",
+    "city": "Mashhad",
+    "domain": "um.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gonabad University of Medical Sciences",
+    "country": "Iran",
+    "state": "Razavi Khorasan",
+    "city": "Gonabad",
+    "domain": "gmu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Imam Reza University",
+    "country": "Iran",
+    "state": "Razavi Khorasan",
+    "city": "Imam Reza",
+    "domain": "imamreza.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Mashhad",
+    "country": "Iran",
+    "state": "Razavi Khorasan",
+    "city": "Islamic Azad",
+    "domain": "mshdiau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Quchan",
+    "country": "Iran",
+    "state": "Razavi Khorasan",
+    "city": "Islamic Azad",
+    "domain": "iauq.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mashhad University of Medical Sciences",
+    "country": "Iran",
+    "state": "Razavi Khorasan",
+    "city": "Mashhad",
+    "domain": "mums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sabzevar School of Medical Sciences",
+    "country": "Iran",
+    "state": "Razavi Khorasan",
+    "city": "",
+    "domain": "medsab.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sabzevar Teacher Training University",
+    "country": "Iran",
+    "state": "Razavi Khorasan",
+    "city": "Sabzevar Teacher Training",
+    "domain": "sttu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Torbat Heydarieh University of Medical Sciences",
+    "country": "Iran",
+    "state": "Razavi Khorasan",
+    "city": "Torbat Heydarieh",
+    "domain": "thums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Mashhad Pnu",
+    "country": "Iran",
+    "state": "Razavi Khorasan",
+    "city": "Mashhad Pnu",
+    "domain": "pnum.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Adiban Higher Education Institue",
+    "country": "Iran",
+    "state": "Semnan",
+    "city": "",
+    "domain": "adiban.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Garmsar",
+    "country": "Iran",
+    "state": "Semnan",
+    "city": "Islamic Azad",
+    "domain": "iau-garmsar.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Semnan",
+    "country": "Iran",
+    "state": "Semnan",
+    "city": "Islamic Azad",
+    "domain": "semnaniau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Shahrood",
+    "country": "Iran",
+    "state": "Semnan",
+    "city": "Islamic Azad",
+    "domain": "iau-shahrood.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Semnan University",
+    "country": "Iran",
+    "state": "Semnan",
+    "city": "Semnan",
+    "domain": "semnan.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Semnan University of Medical Sciences",
+    "country": "Iran",
+    "state": "Semnan",
+    "city": "Semnan",
+    "domain": "sem-ums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahrood University of Medical Sciences",
+    "country": "Iran",
+    "state": "Semnan",
+    "city": "Shahrood",
+    "domain": "shmu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahrood University of Technology",
+    "country": "Iran",
+    "state": "Semnan",
+    "city": "Shahrood",
+    "domain": "shahroodut.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sistan & Balouchestan University",
+    "country": "Iran",
+    "state": "Sistan and Baluchestan",
+    "city": "Sistan & Balouchestan",
+    "domain": "usb.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zabol University",
+    "country": "Iran",
+    "state": "Sistan and Baluchestan",
+    "city": "Zabol",
+    "domain": "uoz.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zahedan University of Medical Sciences",
+    "country": "Iran",
+    "state": "Sistan and Baluchestan",
+    "city": "Zahedan",
+    "domain": "zdmu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Birjand University",
+    "country": "Iran",
+    "state": "South Khorasan",
+    "city": "Birjand",
+    "domain": "birjand.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Birjand University of Medical Sciences",
+    "country": "Iran",
+    "state": "South Khorasan",
+    "city": "Birjand",
+    "domain": "bums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Allameh Tabatabaie University",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Allameh Tabatabaie",
+    "domain": "atu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Amirkabir University of Technology",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Amirkabir",
+    "domain": "aut.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Art University",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Art",
+    "domain": "art.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baghyatoolah Medical Sciences University",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Baghyatoolah Medical Sciences",
+    "domain": "bmsu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Imam Sadiq University",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Imam Sadiq",
+    "domain": "isu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iran University of Medical Sciences",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Iran",
+    "domain": "iums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iran University of Science and Technology Tehran",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Iran",
+    "domain": "iust.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Central Tehran Branch",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Islamic Azad",
+    "domain": "iauctb.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, North Tehran",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Islamic Azad",
+    "domain": "iau-tnb.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Parand",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Islamic Azad",
+    "domain": "piau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Roodehen",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Islamic Azad",
+    "domain": "riau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Shahr-e-rey Branch",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Islamic Azad",
+    "domain": "iausr.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Shahryar",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Islamic Azad",
+    "domain": "shahryariau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Tehran Science & Research Branch",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Islamic Azad",
+    "domain": "srbiau.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Tehran South",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Tehran",
+    "domain": "azad.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Varamin",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Islamic Azad",
+    "domain": "iauvaramin.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "K.N.Toosi University of Technology",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "K.N.Toosi",
+    "domain": "kntu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Payame Noor University",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Payame Noor",
+    "domain": "pnu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sadra University",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Sadra",
+    "domain": "sadra.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahed University",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Shahed",
+    "domain": "shahed.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaheed Beheshti University",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Shaheed Beheshti",
+    "domain": "sbu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaheed Beheshti University of Medical Sciences",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Shaheed Beheshti",
+    "domain": "sbmu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaheed Rajaei Teacher Training University",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Shaheed Rajaei Teacher Training",
+    "domain": "srttu.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sharif University of Technology",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Sharif",
+    "domain": "sharif.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tarbiat Modares University",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Tarbiat Modares",
+    "domain": "modares.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tehran University of Medical Sciences",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Tehran",
+    "domain": "tums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tehran University of Teacher Training",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Teacher Training",
+    "domain": "tmu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Applied Science and Technology",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Applied Science and Technology",
+    "domain": "uast.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Science and Culture",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Science and Culture",
+    "domain": "usc.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Social Welfare and Rehabilitation Scinences",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "",
+    "domain": "uswr.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Tehran",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Tehran",
+    "domain": "ut.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Tehran Medical",
+    "country": "Iran",
+    "state": "Theran",
+    "city": "Islamic Azad",
+    "domain": "iautmu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Urmia University of Medical Sciences",
+    "country": "Iran",
+    "state": "West Azarbaijan",
+    "city": "Urmia",
+    "domain": "umsu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Boukan",
+    "country": "Iran",
+    "state": "West Azerbaijan",
+    "city": "Islamic Azad",
+    "domain": "iau-boukan.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Urmia University",
+    "country": "Iran",
+    "state": "West Azerbaijan",
+    "city": "Urmia",
+    "domain": "urmia.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Urmia University of Technology",
+    "country": "Iran",
+    "state": "West Azerbaijan",
+    "city": "Urmia",
+    "domain": "uut.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Maybod",
+    "country": "Iran",
+    "state": "Yazd",
+    "city": "Islamic Azad",
+    "domain": "maybod.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Mehriz",
+    "country": "Iran",
+    "state": "Yazd",
+    "city": "Islamic Azad",
+    "domain": "iaumehriz.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic Azad University, Yazd",
+    "country": "Iran",
+    "state": "Yazd",
+    "city": "Islamic Azad",
+    "domain": "iauyazd.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yazd Medical University",
+    "country": "Iran",
+    "state": "Yazd",
+    "city": "Yazd Medical",
+    "domain": "ssu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yazd University",
+    "country": "Iran",
+    "state": "Yazd",
+    "city": "Yazd",
+    "domain": "yazduni.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zanjan University",
+    "country": "Iran",
+    "state": "Zanjan",
+    "city": "Zanjan",
+    "domain": "znu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zanjan University of Medical Sciences",
+    "country": "Iran",
+    "state": "Zanjan",
+    "city": "Zanjan",
+    "domain": "zums.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

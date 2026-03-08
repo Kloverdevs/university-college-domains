@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Auckland University of Technology",
+    "country": "New Zealand",
+    "state": "Auckland",
+    "city": "Auckland",
+    "domain": "aut.ac.nz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Auckland",
+    "country": "New Zealand",
+    "state": "Auckland",
+    "city": "Auckland",
+    "domain": "auckland.ac.nz",
+    "aliases": [
+      "aucklanduni.ac.nz"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lincoln University",
+    "country": "New Zealand",
+    "state": "Canterbury",
+    "city": "Lincoln",
+    "domain": "lincoln.ac.nz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Canterbury",
+    "country": "New Zealand",
+    "state": "Canterbury",
+    "city": "Canterbury",
+    "domain": "canterbury.ac.nz",
+    "aliases": [
+      "uclive.ac.nz"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Otago",
+    "country": "New Zealand",
+    "state": "Otago",
+    "city": "Otago",
+    "domain": "otago.ac.nz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Waikato",
+    "country": "New Zealand",
+    "state": "Waikato",
+    "city": "Waikato",
+    "domain": "waikato.ac.nz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Massey University",
+    "country": "New Zealand",
+    "state": "Wellington",
+    "city": "Massey",
+    "domain": "massey.ac.nz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Victoria University of Wellington",
+    "country": "New Zealand",
+    "state": "Wellington",
+    "city": "Wellington",
+    "domain": "vuw.ac.nz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

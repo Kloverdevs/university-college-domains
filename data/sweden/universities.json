@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Chalmers University of Technology",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Chalmers",
+    "domain": "chalmers.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dalarna University College",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Dalarna",
+    "domain": "du.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Free University Stockholm",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Sweden",
+    "domain": "stockholm-fu.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gotland University College",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Gotland",
+    "domain": "hgo.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Göteborg University",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Göteborg",
+    "domain": "gu.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Halmstad University College",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Halmstad",
+    "domain": "hh.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jönköping University College",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Jönköping",
+    "domain": "hj.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kalmar University College",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Kalmar",
+    "domain": "hik.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Karlstad University",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Karlstad",
+    "domain": "kau.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Linköping University",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Linköping",
+    "domain": "liu.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lulea University of Technology",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Lulea",
+    "domain": "luth.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lund University",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Lund",
+    "domain": "lu.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Malmö University College",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Malmö",
+    "domain": "mah.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mid-Sweden University",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Mid-Sweden",
+    "domain": "miun.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mälardalen University",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Mälardalen",
+    "domain": "mdh.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nordic School of Public Health",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Sweden",
+    "domain": "nhv.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal lnstitute of Technology",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Sweden",
+    "domain": "kth.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Design and Crafts",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Sweden",
+    "domain": "hdk.gu.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Stockholm School of Economics",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Sweden",
+    "domain": "hhs.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Stockholm University",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Stockholm",
+    "domain": "su.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Swedish University of Agricultural Sciences",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Swedish",
+    "domain": "slu.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Södertörn University College",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Södertörn",
+    "domain": "sh.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Umea University",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Umea",
+    "domain": "umu.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College of Arts, Crafts and Design",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "University",
+    "domain": "konstfack.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College of Borås",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "University",
+    "domain": "hb.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College of Gävle",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "University",
+    "domain": "hig.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College of Kristianstad",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "University",
+    "domain": "hkr.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College of Skövde",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "University",
+    "domain": "his.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College of Trollhättan/Uddevalla",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "University",
+    "domain": "htu.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Uppsala University",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Uppsala",
+    "domain": "uu.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Växjö University",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Växjö",
+    "domain": "vxu.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "World Maritime University",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "World Maritime",
+    "domain": "wmu.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Örebro University",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Örebro",
+    "domain": "oru.se",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

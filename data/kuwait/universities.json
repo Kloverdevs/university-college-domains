@@ -1,0 +1,72 @@
+[
+  {
+    "name": "American University of Kuwait",
+    "country": "Kuwait",
+    "state": "Kuwait",
+    "city": "Kuwait",
+    "domain": "auk.edu.kw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American University of Middle East",
+    "country": "Kuwait",
+    "state": "Kuwait",
+    "city": "Middle East",
+    "domain": "aum.edu.kw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arab Open University, Kuwait Branch",
+    "country": "Kuwait",
+    "state": "Kuwait",
+    "city": "Arab Open",
+    "domain": "aou.edu.kw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gulf University for Science and Technology",
+    "country": "Kuwait",
+    "state": "Kuwait",
+    "city": "Gulf",
+    "domain": "gust.edu.kw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kuwait International Law School",
+    "country": "Kuwait",
+    "state": "Kuwait",
+    "city": "Kuwait",
+    "domain": "kilaw.edu.kw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kuwait Maastricht Business School",
+    "country": "Kuwait",
+    "state": "Kuwait",
+    "city": "Kuwait",
+    "domain": "kmbs.edu.kw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kuwait University",
+    "country": "Kuwait",
+    "state": "Kuwait",
+    "city": "Kuwait",
+    "domain": "kuniv.edu.kw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

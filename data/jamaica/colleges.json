@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Brown's Town Community College",
+    "country": "Jamaica",
+    "state": "Jamaica",
+    "city": "Brown's Town",
+    "domain": "btcc.edu.jm",
+    "aliases": [],
+    "type": "Community College",
+    "control": "Public"
+  },
+  {
+    "name": "College of Agriculture, Science and Education",
+    "country": "Jamaica",
+    "state": "Jamaica",
+    "city": "Port Antonio",
+    "domain": "case.edu.jm",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Edna Manley College of the Visual and Performing Arts",
+    "country": "Jamaica",
+    "state": "Jamaica",
+    "city": "Kingston",
+    "domain": "emc.edu.jm",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Excelsior Community College",
+    "country": "Jamaica",
+    "state": "Jamaica",
+    "city": "Kingston",
+    "domain": "ecc.edu.jm",
+    "aliases": [],
+    "type": "Community College",
+    "control": "Public"
+  },
+  {
+    "name": "Knox Community College",
+    "country": "Jamaica",
+    "state": "Jamaica",
+    "city": "Spaldings",
+    "domain": "kcc.edu.jm",
+    "aliases": [],
+    "type": "Community College",
+    "control": "Public"
+  },
+  {
+    "name": "Montego Bay Community College",
+    "country": "Jamaica",
+    "state": "Jamaica",
+    "city": "Montego Bay",
+    "domain": "mbcc.edu.jm",
+    "aliases": [],
+    "type": "Community College",
+    "control": "Public"
+  },
+  {
+    "name": "Sam Sharpe Teachers' College",
+    "country": "Jamaica",
+    "state": "Jamaica",
+    "city": "Granville",
+    "domain": "sstc.edu.jm",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Shortwood Teachers' College",
+    "country": "Jamaica",
+    "state": "Jamaica",
+    "city": "Kingston",
+    "domain": "shortwood.edu.jm",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "The Mico University College",
+    "country": "Jamaica",
+    "state": "Jamaica",
+    "city": "Kingston",
+    "domain": "themico.edu.jm",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

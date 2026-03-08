@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Baltic International Academy",
+    "country": "Latvia",
+    "state": "Latvia",
+    "city": "Latvia",
+    "domain": "bsa.edu.lv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daugavpils University",
+    "country": "Latvia",
+    "state": "Latvia",
+    "city": "Daugavpils",
+    "domain": "dau.lv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Higher School of Psychology",
+    "country": "Latvia",
+    "state": "Latvia",
+    "city": "Latvia",
+    "domain": "psy.lv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Latvian Academy of Arts",
+    "country": "Latvia",
+    "state": "Latvia",
+    "city": "Latvia",
+    "domain": "lma.lv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Latvian Academy of Culture",
+    "country": "Latvia",
+    "state": "Latvia",
+    "city": "Latvia",
+    "domain": "lka.edu.lv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Latvian Academy of Music",
+    "country": "Latvia",
+    "state": "Latvia",
+    "city": "Latvia",
+    "domain": "lmuza.lv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Latvian Academy of Sports Education",
+    "country": "Latvia",
+    "state": "Latvia",
+    "city": "Latvia",
+    "domain": "lspa.lanet.lv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Latvian Maritime Academy",
+    "country": "Latvia",
+    "state": "Latvia",
+    "city": "Latvia",
+    "domain": "lama.lv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Latvian University of Agriculture",
+    "country": "Latvia",
+    "state": "Latvia",
+    "city": "Agriculture",
+    "domain": "llu.lv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Liepaja Pedagogical Higher School",
+    "country": "Latvia",
+    "state": "Latvia",
+    "city": "Latvia",
+    "domain": "cs.lpu.lv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Medical Academy of Latvia",
+    "country": "Latvia",
+    "state": "Latvia",
+    "city": "Latvia",
+    "domain": "aml.lv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Defence Academy of Latvia",
+    "country": "Latvia",
+    "state": "Latvia",
+    "city": "Latvia",
+    "domain": "mil.lv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Police Academy of Latvia",
+    "country": "Latvia",
+    "state": "Latvia",
+    "city": "Latvia",
+    "domain": "polak.edu.lv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rezekne Higher School",
+    "country": "Latvia",
+    "state": "Latvia",
+    "city": "Latvia",
+    "domain": "ru.lv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Riga Aviation University",
+    "country": "Latvia",
+    "state": "Latvia",
+    "city": "Riga Aviation",
+    "domain": "rau.lv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Riga Teacher Training and Educational Management Academy",
+    "country": "Latvia",
+    "state": "Latvia",
+    "city": "Latvia",
+    "domain": "rpiva.lv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Riga Technical University",
+    "country": "Latvia",
+    "state": "Latvia",
+    "city": "Riga Technical",
+    "domain": "rtu.lv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Business and Finance",
+    "country": "Latvia",
+    "state": "Latvia",
+    "city": "Latvia",
+    "domain": "ba.lv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Stockholm School of Economics in Riga",
+    "country": "Latvia",
+    "state": "Latvia",
+    "city": "Latvia",
+    "domain": "sseriga.edu.lv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Latvia",
+    "country": "Latvia",
+    "state": "Latvia",
+    "city": "Latvia",
+    "domain": "lu.lv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vidzeme University College",
+    "country": "Latvia",
+    "state": "Latvia",
+    "city": "Vidzeme",
+    "domain": "va.lv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

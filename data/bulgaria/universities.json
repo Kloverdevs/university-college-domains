@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Academy of Economics \"Dimitur A. Tscenov\"",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Bulgaria",
+    "domain": "uni-svishtov.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Academy of Music, Dance and Fine Arts",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Bulgaria",
+    "domain": "amti.hit.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Agricultural University of Plovdiv",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Plovdiv",
+    "domain": "au-plovdiv.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American University in Bulgaria",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Bulgaria",
+    "domain": "aubg.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bourgas Free University",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Bourgas Free",
+    "domain": "bfu.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bourgas University \"Prof. Assen Zlatarov\"",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Bourgas",
+    "domain": "btu.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "City University Programs in Bulgaria",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "City",
+    "domain": "cityu.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International University College",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "International University",
+    "domain": "vumk.eu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Medical University Pleven",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Bulgaria",
+    "domain": "mu-pleven.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Medical University Plovdiv",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Bulgaria",
+    "domain": "meduniversity-plovdiv.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Medical University Varna",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Bulgaria",
+    "domain": "mu-varna.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Medical University of Sofia",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Sofia",
+    "domain": "mu-sofia.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Military University Shoumen",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Bulgaria",
+    "domain": "pv-ma.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Academy for Theatre and Film Arts \"Krustju Sarafov\"",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Bulgaria",
+    "domain": "natfiz.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Academy of Arts",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Bulgaria",
+    "domain": "nha-bg.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Academy of Music \"Pantcho Vladigerov\"",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Bulgaria",
+    "domain": "nma.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Sports Academy Sofia",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Bulgaria",
+    "domain": "nsa.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "New Bulgarian University",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "New Bulgarian",
+    "domain": "nbu.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shoumen University \"Konstantin Preslavski\"",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Shoumen",
+    "domain": "shu-bg.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sofia University \"St. Kliment Ohridski\"",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Sofia",
+    "domain": "uni-sofia.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "South-West University \"Neofit Rilski\"",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "South-West",
+    "domain": "swu.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical University of Gabrovo",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Gabrovo",
+    "domain": "tugab.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical University of Sofia",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Sofia",
+    "domain": "tu-sofia.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical University of Varna",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Varna",
+    "domain": "tu-varna.acad.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Trakia University Stara Zagora",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Trakia",
+    "domain": "uni-sz.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Architecture, Civil Engineering and Geodesy",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Architecture",
+    "domain": "uacg.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Chemical Technology and Metallurgy",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Chemical Technology and Metallurgy",
+    "domain": "uctm.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Economics Varna",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Economics Varna",
+    "domain": "ue-varna.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Food Technology",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Food Technology",
+    "domain": "uft-plovdiv.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Forestry Sofia",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Forestry Sofia",
+    "domain": "ltu.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Mining and Geology \"St. Ivan Rils\"",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Bulgaria",
+    "domain": "mgu.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of National and World Economy",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "National and World Economy",
+    "domain": "unwe.acad.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Plovdiv",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Plovdiv",
+    "domain": "uni-plovdiv.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Rousse",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Rousse",
+    "domain": "ru.acad.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Varna Free University",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Varna Free",
+    "domain": "vfu.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Veliko Turnovo University \"Cyril and Methodius\"",
+    "country": "Bulgaria",
+    "state": "Bulgaria",
+    "city": "Veliko Turnovo",
+    "domain": "uni-vt.bg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

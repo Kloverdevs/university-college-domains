@@ -1,0 +1,8312 @@
+[
+  {
+    "name": "Federal University of Technology, Yola",
+    "country": "Nigeria",
+    "state": "Adamawa",
+    "city": "Yola",
+    "domain": "futy.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Uyo",
+    "country": "Nigeria",
+    "state": "Akwa Ibom",
+    "city": "Uyo",
+    "domain": "uniuyo.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bauchi State University, Gadau",
+    "country": "Nigeria",
+    "state": "Bauchi",
+    "city": "Bauchi",
+    "domain": "basug.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Agriculture Makurdi",
+    "country": "Nigeria",
+    "state": "Benue",
+    "city": "Agriculture Makurdi",
+    "domain": "uam.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Maiduguri",
+    "country": "Nigeria",
+    "state": "Borno",
+    "city": "Maiduguri",
+    "domain": "unimaid.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Calabar",
+    "country": "Nigeria",
+    "state": "Cross River",
+    "city": "Calabar",
+    "domain": "unical.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Benin",
+    "country": "Nigeria",
+    "state": "Edo",
+    "city": "Benin",
+    "domain": "uniben.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Enugu State University of Science and Technology",
+    "country": "Nigeria",
+    "state": "Enugu",
+    "city": "Science and Technology",
+    "domain": "esut.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "African University of Science and Technology",
+    "country": "Nigeria",
+    "state": "FCT",
+    "city": "Science and Technology",
+    "domain": "aust-abuja.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baze University Abuja",
+    "country": "Nigeria",
+    "state": "FCT",
+    "city": "Baze",
+    "domain": "bazeuniversity.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Abuja",
+    "country": "Nigeria",
+    "state": "FCT",
+    "city": "Abuja",
+    "domain": "unibuja.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University of Technology, Owerri",
+    "country": "Nigeria",
+    "state": "Imo",
+    "city": "Owerri",
+    "domain": "futo.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kaduna State University",
+    "country": "Nigeria",
+    "state": "Kaduna",
+    "city": "Kaduna State",
+    "domain": "kasuportal.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bayero University Kano",
+    "country": "Nigeria",
+    "state": "Kano",
+    "city": "Bayero",
+    "domain": "buk.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kano State University of Technology Wudil",
+    "country": "Nigeria",
+    "state": "Kano",
+    "city": "Technology Wudil",
+    "domain": "kustwudil.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Ilorin",
+    "country": "Nigeria",
+    "state": "Kwara",
+    "city": "Ilorin",
+    "domain": "unilorin.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lagos State University",
+    "country": "Nigeria",
+    "state": "Lagos",
+    "city": "Lagos State",
+    "domain": "lasunigeria.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Lagos",
+    "country": "Nigeria",
+    "state": "Lagos",
+    "city": "Lagos",
+    "domain": "unilag.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University of Technology, Minna",
+    "country": "Nigeria",
+    "state": "Niger",
+    "city": "Minna",
+    "domain": "futminna.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "ABTI American University of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Nigeria",
+    "domain": "aun.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abdu Gusau Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "agpmafara.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abia State School System Girls' Secondary School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abia State University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Abia State",
+    "domain": "absu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abiola Ajimobi Technical University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "tech-u.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abraham Adesanya Polytechnic, Ijebu Igbo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abubakar Tafawa Balewa University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Abubakar Tafawa Balewa",
+    "domain": "atbu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abubakar Tatari Ali Polytechnic, Bauchi",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abuja School of Accountancy and Computer Studies",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Achievers University, Owo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Adaigbo Senior Secondary School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Adamawa State Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "adamawapoly.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Adamawa State University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Adamawa State",
+    "domain": "adsu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Adekunle Ajasin University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Adekunle Ajasin",
+    "domain": "aaua.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Adeleke University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Adeleke",
+    "domain": "adelekeuniversity.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Adeseun Ogundoyin Polytechnic, Eruwa",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "aope.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Admiralty University of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "adun.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Adventist Seminary of West Africa",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Advertising Practitioners Council of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aeroconsult",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aerofly Institute of Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Afe Babalola International Study Centre",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Afe Babalola University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Afe Babalola",
+    "domain": "abuad.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Afe Babalola University, Ado-Ekiti",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "AfriHUB ICT Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Africa Theological Education Network",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "African Institute of Science and Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "African Regional Centre for Space Science and Technology Education in English - ARCSSTE-E",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "African School of Social Work and Health Care Management, Ado-Ekiti",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "African University of Science & Technology, Abuja",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ahmadu Bello University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Ahmadu Bello",
+    "domain": "abu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ahmadu Bello University Teaching Hospital - ABUTH",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Air Force Institute of Technology, Kaduna",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ajangbadi Senior High School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ajayi Crowther University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Ajayi Crowther",
+    "domain": "acu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ajayi Crowther University, Oyo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Akwa Ibom State Polytechnic, Ikot-Osurua",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Akwa Ibom State University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "aksu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Akwa Ibom State University of Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Akwa Ibom State",
+    "domain": "akutech.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Hikmah University, Ilorin",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Jannat Institute of Arabic and Islamic Studies",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Qalam University, Katsina",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-hikmah University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Al-hikmah",
+    "domain": "alhikmah.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alex Ekwueme Federal University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "All Nations for Christ Bible Institute International",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Allover Central Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ambrose Alli University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Ambrose Alli",
+    "domain": "aauekpoma.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American International School of Abuja",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "aisabuja.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American International School of Lagos",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "aislagos.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American University of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Anambra State Polytechnic, Oko",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Anambra State School of Midwifery, Nkpor",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Anambra State School of Nursing and Midwifery",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Anambra State University of Science and Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Science and Technology",
+    "domain": "ansu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Anambra State University of Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Anambra State University, Uli",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Anchor University, Lagos",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Angelic Healthcare",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Annunciation Specialist Hospital",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aptech Computer Education",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arthur Jarvis University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "arthurjarvisuniversity.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Assemblies of God Divinity School of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Association of Economists and Statisticians of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Association of National Accountants of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "At-Tanzeel School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Atiba University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Atlantic Hall",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "atlantic-hall.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Audu Bako School of Agriculture, Danbatta",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Augustine University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Avi-Cenna International School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "internations.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Babcock University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Babcock",
+    "domain": "babcockuni.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Babcock University High School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Babington Macaulay Junior Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "thisdayonline.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Bamidele Olumilua University of Education, Science and Technology, Ikere-Ekiti",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baptist High School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "geohack.toolforge.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Baptist Theological Seminary, Eku",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baptist Theological Seminary, Kaduna",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bayelsa State Polytechnic, Aleibiri",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bayero University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baze University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Beeches Graduate School of Business",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bells University of Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Bells",
+    "domain": "bellsuniversity.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bendel State University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Benson Idahosa School of Basic and Applied Studies",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Benson Idahosa University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Benson Idahosa",
+    "domain": "biu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Benue State Examinations Board",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Benue State Polytechnic, Ugbokolo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Benue State University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Benue State",
+    "domain": "bsum.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bethel Institute of Theology and Biblical Research",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bethel Theological Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bigard Memorial Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bingham University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Bingham",
+    "domain": "binghamuni.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Blessed Iwene Tansi Major Seminary Onitsha",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bowen University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Bowen",
+    "domain": "bowenuniversity-edu.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "British International School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "British Nigerian Academy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bronnum Lutheran Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bukar Abba Ibrahim University, Damaturu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "CETEP City University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "COCIN Theological Education by Extension",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Caleb University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Caleb",
+    "domain": "calebuniversity.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Caleb University, Lagos",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Capital Science Academy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cardoso Senior High School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Caritas University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Caritas",
+    "domain": "caritasuni.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Catholic Diocese of Nsukka",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Catholic Institute of West Africa",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "ciwa.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Central School of Nursing and Midwifery",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centre Régional de Formation aux Techniques des Levés Aérospatiaux - RECTAS",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centre for Computer Engineering",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centre for Management and Information Technology, Ibadan",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Certified Institute of Shipping of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Certified Institute of Treasury and Financial Management",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chartered Institute of Administration",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chartered Institute of Bankers of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "cibng.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chartered Institute of Commerce of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chartered Institute of Cost Managers of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chartered Institute of Customer Relationship Management",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chartered Institute of Finance and Control of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chartered Institute of Human Resources Management",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chartered Institute of Loan and Risk Management of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chartered Institute of Personnel Management of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chartered Institute of Purchasing and Supply Management of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chartered Institute of Social Work Practitioners of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chartered Institute of Stockbrokers",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chartered Institute of Supply Chain Management",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chartered Institute of Warehouse and Materials Management",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chartered Insurance Institute of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chrisland High School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chrisland University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Christ Apostolic Church Theological Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Christian Institute, Jos",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Christian Theological Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "cts.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Christopher University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chukwuemeka Odumegwu Ojukwu University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cifman Institute of Technology and Management",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cita High School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Citi Polytechnic, Abuja",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Claretian Institute of Philosophy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cleno Health Ultrasound Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Clifford University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "clifforduni.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Coal City University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "ccu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Community Health Practitioners Registration Board of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Community Secondary School Agbudu Awgu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Community Secondary School, Ichi",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Complete Computers and Technology Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Continental Bible University College",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cornerstone Theological Seminary of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corona Secondary School Agbara",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Council of Legal Education",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Covenant Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Covenant University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Covenant",
+    "domain": "covenantuniversity.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Crawford University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Crawford",
+    "domain": "crawforduniversity.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Crescent Hall International School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Crescent University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Crescent",
+    "domain": "crescent-university.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cross River Institute of Technology and Management, Ugep",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cross River University of Science and Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Science and Technology",
+    "domain": "crutech.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cross River University of Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Crown Polytechnic, Ado-Ekiti",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Crowther Graduate Theological Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Culinary Academy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "D.S. Adegbenro ICT Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "dsadegbenropoly.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dalewares Institute of Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dansol High School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Deeper Life High School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Delta State Polytechnic, Ogwashi-Uku",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "mydspg.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Delta State Polytechnic, Otefe-Oghara",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Delta State Polytechnic, Ozoro",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Delta State School of Health Technology, Ofuoma- Ughelli",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Delta State School of Marine Technology, Burutu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Delta State University of Science and Technology, Ozoro",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Delta State University, Abraka",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "delsu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Distinct Polytechnic, Ekosin",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Divino Amore Vocational Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dof Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dokia Institute of Management and Health Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dominican Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dominion University, Ibadan",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Don Bosco Institute of Philosophy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Don Bosco Technical Institute, Onitsha",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Don Bosco Training Center",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dorben Polytechnic, Abuja",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "ECWA Theological Seminary, Billiri",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "ECWA Theological Seminary, Igbaja",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "ECWA Theological Seminary, Jos",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "ECWA Theological Seminary, Kagoro",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "ERCC Theological Seminary, Fadan Ayu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eastern Polytechnic, Port Harcourt",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "nbte.gov.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ebonyi State University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Ebonyi State",
+    "domain": "ebsu-edu.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Edo State Institute of Technology and Management - USEN",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Edo State Ministry of Health",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Edo State Polytechnic, Usen",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Edo State University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Edo State University Uzairue",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Edo University, Iyamho",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "edouniversity.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eduserve Consult",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Edwin Clark University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "edwinclarkuniversity.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ekcela International School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ekiti State University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Ekiti State",
+    "domain": "eksu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ekiti State University, Ado-Ekiti",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eko University of Medicine and Health Sciences",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ekpan Secondary School, Ekpan",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ekwenugo Okeke Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Elizade University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Emerald High School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "sfchronicle.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Emmanuel Alayande University of Education",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Enugu State University of Science and Technology, Gboko",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Estate Surveyors and Valuers Registration Board of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Evangel Theological Seminary, Jos",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Evangel University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "evangel.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "FCT School of Nursing, Gwagwalada",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Faith Academy, Canaanland",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Ministry of Education",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Ministry of Health",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Ministry of Labour and Employment",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Ministry of Labour and Productivity",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Office of Statistics",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Polytechnic, Ado-Ekiti",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "fedpolyado.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Polytechnic, Bali",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "sunnewsonline.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Polytechnic, Bauchi",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Polytechnic, Bida",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Polytechnic, Damaturu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Polytechnic, Ede",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "federalpolyede.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Polytechnic, Idah",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "federalpolyidah.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Polytechnic, Ilaro",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "federalpolyilaro.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Polytechnic, Ile-Oluji, Ondo State",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Polytechnic, Kaura Namoda",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Polytechnic, Mubi",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "federalpolytechnicmubi.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Polytechnic, Nasarawa",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Polytechnic, Nekede, Owerri",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Polytechnic, Offa",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "fpo.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Polytechnic, Oko",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "federalpolyoko.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Polytechnic, Unwana-Afikpo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal School of Dental Technology and Therapy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal School of Medical Laboratory Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal School of Occupational Therapy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal School of Statistics, Ibadan",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal School of Statistics, Manchok",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal School of Surveying",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Training Centre, Calabar",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Training Centre, Enugu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Training Centre, Ilorin",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Training Centre, Kaduna",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Training Centre, Maiduguri",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University Dutse",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "fud.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University Dutsin-MA",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University Lafia",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University Ndufu-Alike Ikwo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University of Agriculture, Abeokuta",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University of Agriculture, Makurdi",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University of Agriculture, Umudike",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University of Agriculture, Zuru",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "fuaz.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University of Allied Health Sciences, Enugu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University of Education, Pankshin",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University of Petroleum Resources",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Petroleum Resources",
+    "domain": "fupre.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University of Petroleum Resources, Effurun",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University of Technology, Abeokuta",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University of Technology, Bauchi",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University of Technology, Makurdi",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University, Birnin Kebbi",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "fubk.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University, Gashua",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "fugashua.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University, Gusau",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "fugusau.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University, Kashere",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University, Lokoja",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "fulokoja.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University, Otuoke",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "fuotuoke.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University, Oye-Ekiti",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University, Wukari",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "fuwukari.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fidei Polytechnic, Gboko",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Filfom University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "First Technical University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Flora Schools",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fountain Heights Secondary School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fountain University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Fountain",
+    "domain": "fountainuniversity.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fountain University, Osogbo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Freedom University and Theological Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gateway Industrial and Petro-Gas Institute, Oni",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gateway Polytechnic, Igbesa",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gindiri Theological Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Global Business School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Global Maritime Academy, Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Glorious Vision University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "gvu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Godfrey Okoye University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Godfrey Okoye",
+    "domain": "gouni.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Goldsprings High School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gombe State University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Gombe State",
+    "domain": "gsu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Good Shepherd Major Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Grace Institute of Secretarial and Management Studies",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Grace Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Grace Theological Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Grace and Mercy Hotel and Catering Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Graceland International School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Grajos Institute of Mass Communication",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Greenoak International School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "touchph.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Greensprings Montessori Centre (GMC)",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Greensprings School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "greenspringsschool.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gregory University, Uturu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Grenville Schools",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hallmark University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "hallmarkuniversity.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hassan Usman Katsina Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "hukpoly.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Havenpoint High School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Health Records Officers Registration Board of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Heritage House Montessori Center",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Heritage Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "heritagepoly.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hezekiah University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hillcrest School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Homat Academy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hugh Goldie Lay/Theological Training Institution, Arochukwu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hussaini Adamu Federal Polytechnic, Kazaure",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "IFE Business School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "IMFI ICT Academy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ibadan City Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ibrahim Babangida University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Ibrahim Babangida",
+    "domain": "ibbu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ibrahim Badamasi Babangida University, Lapai",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Igbajo Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Igbinedion Education Centre",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Igbinedion University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Igbinedion",
+    "domain": "iuokada.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Igbinedion University Teaching Hospital, School of Nursing",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ignatius Ajuru University of Education",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "alluniversitynews.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Imo State Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "imopoly.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Imo State University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Imo State",
+    "domain": "imsu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Imo State University, Okigwe",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Imo State University, Owerri",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Imperial Schools",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Infant Jesus Academy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Information Technology Business School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institut Régional Africain des Sciences et Technologies de l'Information Géospatiale (AFRIGIST)",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute for Industrial Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "iit.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Advanced Entrepreneurship Research and Development",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Arts Management and Professional Studies",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Basic Remedial and Human Management",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Chartered Accountants of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "yashuaib.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Chartered Economists of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Chartered Mediators and Conciliators of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Computer Science and Management Studies",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Credit and Risk Management of Nigeria-ICRM",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Data Processing Management of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Ecumenical Education, Enugu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Management and Technology, Enugu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "imt.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Medical Laboratory Science and Technology of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Medical Laboratory Technology of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Social Work of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Strategic Management, Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Transport and Management Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Interim Joint Matriculation Board",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Interlink Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Academy of Management Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Christian University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "icu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "International Community School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Institute of Journalism",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Institute of Pastoral Education and Chaplaincy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Strategic Management Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Isa Mustapha Agwai I Polytechnic Lafia",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "JBC Seminary Inc. (Wukari Jubilee University), Kaduna",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jigawa State Polytechnic, Dutse",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "jigpoly.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "John Bosco Institute of Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Joint Universities Preliminary Examinations Board",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jokan Institute of Catering and Hotel Management",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jonathan Ekong Memorial Lutheran Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jos University Teaching Hospital",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Joseph Sarwuan Tarka University, Makurdi",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Juilliard Academy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kaduna Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "kadunapolytechnic.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kaduna State Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kaduna State University, Kaduna",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kano State Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "kanopoly.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kano University of Science and Technology, Wudil",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Katsina Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Katsina State University, Katsina",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Katsina University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Katsina",
+    "domain": "kuk.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Katsina University, Katsina",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kebbi State University of Science and Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Science and Technology",
+    "domain": "ksusta.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kenule Beeson Saro-Wiwa Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "alluniversity.com.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kings International Theological Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kings Polytechnic, Ubiaja",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kings University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "kingsuniversity.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kogi State Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "kogistatepolytechnic.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kogi State University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Kogi State",
+    "domain": "ksuportal.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kogi State University, Anyigba",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "KolaDaisi University, Ibadan",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kwara State Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "kwarastatepolytechnic.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kwara State Polytecnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Nigeria",
+    "domain": "kwarapoly.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kwara State University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Kwara State",
+    "domain": "kwasu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kwara State University, Ilorin",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kwara State University, Malete",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kwararafa University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Kwararafa",
+    "domain": "kwararafauniversity.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kwararafa University, Wukari",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "LIFE Theological Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ladoke Akintola University of Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Ladoke Akintola",
+    "domain": "lautech.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lagoon Secondary School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lagos Anglican Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lagos Aviation and Maritime Business Academy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lagos Aviation and Maritime Business School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lagos Preparatory and Secondary School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lagos State Government Health Service Commission",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lagos State School of Health Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lagos State School of Nursing",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lagos State School of Nursing Complex, Igando",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lagos State School of Public Health Nursing",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lagos State University of Education",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lagos State University of Science and Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "lasustech.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lagos State University, Ojo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lagos University Teaching Hospital",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "sites.sph.harvard.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Landmark Academy of Hospitality Management",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Landmark University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Landmark",
+    "domain": "lmu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Laser Petroleum Geosciences Centre",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lawna Theological Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lead British International School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lead City University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Legacy University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lekki British Senior School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lens Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Levites Christian University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lighthouse Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Louisville Girls High School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Louisville Girls Secondary School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Madonna University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Madonna",
+    "domain": "madonnauniversity.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Marist Brothers Juniorate, Uturu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Maritime Academy of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "allafrica.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mastercare International School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Maurid Institute of Management and Technology, Mbiaso",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "McPherson University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "mcu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Medical Laboratory Science Council of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Merchant Navy Maritime Academy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Merchant Seaman Academy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mercy Medical University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Metallurgical Training Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Methodist Theological Institute, Sagamu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Methodist Theological Institute, Umuahia",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Michael Okpara University of Agriculture",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Agriculture",
+    "domain": "mouau.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Michael Okpara University of Agriculture, Umudike",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Michael and Cecilia Ibru University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "mciu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ministry of Adult, Technical and Vocational Education, Ondo State",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ministry of Community Development and Co-operatives",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ministry of Education",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ministry of Education and Human Capital Development, Kwara State",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ministry of Education, Anambra State",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ministry of Education, Edo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ministry of Education, Edo State",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ministry of Education, Osun State",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ministry of Education, Oyo State",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ministry of Education, Science and Technology, Abeokuta",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Miva Open University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Miva Open",
+    "domain": "miva.university",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Modibbo Adama University of Technology, Yola",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Modibbo Adama University, Yola",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Moshood Abiola Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "mapoly.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mountain Top University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "mtu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Multimedia Academy African School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Muson School of Music",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "NIIT - National Institute of Information Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "NIPEM Professional Education Management International",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "NOGAK Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nacabs Polytechnic, Akwanga",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nasarawa State Polytechnic, Lafia",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nasarawa State University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nasarawa State University Keffi",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Nasarawa State",
+    "domain": "nsuk.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Board for Technical Education",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "businessdayonline.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Business and Technical Examinations Board",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "guardian.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Centre for Technology Management",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Centre for Women Development",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Community Health Practice Board",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Examinations Council",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Film Institute, Jos",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Hospital, Abuja",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "nationalhospitalabuja.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute For Cultural Orientation",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute for Educational Planning and Administration",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute for Hospitality and Tourism",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute for Nigerian Languages, Aba",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute for Sports",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute of Construction Technology and Management",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute of Marketing of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute of Moral and Religious Education, Akoka",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Mathematical Centre",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Missionary Seminary of St. Paul",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Open University of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Nigeria",
+    "domain": "nou.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Orthopaedic Hospital, School of Post Basic Nursing Studies",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Polytechnic, Otuo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Root Crops Research Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Teachers Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "britain-nigeria.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Universities Commission",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "nuc.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Water Resources Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "nwrikd.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "New Dimension Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "New Hall International School, Lekki",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Niger Delta University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Niger Delta",
+    "domain": "ndu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Niger Delta University, Yenagoa",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Niger State Polytechnic, Zungeru",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Niger State Science and Technical Schools Board",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigeria Maritime University, Okerenkoko",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigeria Opportunities Industrialization Centres",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigeria Police Academy, Wudil",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Advanced School of Theology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Army Institute of Technology and Environmental Studies",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Army Medical Corps and Schools, Ojo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Army School of Education, Ilorin",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Army School of Finance, Administration, Apapa",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Army School of Medical Sciences, Ojo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Army School of Nursing and Midwifery",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Army University, Biu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Baptist Theological Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Christian Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Defence Academy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Nigeria",
+    "domain": "nda.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Institute of Advanced Legal Studies",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Institute of Journalism",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "nij.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Institute of Leather and Science Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Institute of Management",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Institute of Marketing",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Institute of Public Relations",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Institute of Science Laboratory Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Institute of Science Technology - NIST",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Institute of Town Planners",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "punchng.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Institute of Transport Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Institution of Estate Surveyors and Valuers",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "niesv.org.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Law School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "nigerianlawschool.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Meteorological Agency",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "nimet.gov.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Navy Technical Training Centre",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Turkish Nile University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Nigerian Turkish Nile",
+    "domain": "ntnu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian Turkish Nile University, Abuja",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nigerian University of Technology and Management",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "nutm.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nile University of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "nileuniversity.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nnamdi Azikiwe University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Nnamdi Azikiwe",
+    "domain": "unizik.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nnamdi Azikiwe University Teaching Hospital",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "nauth.org.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Novena University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Novena",
+    "domain": "novenauniversity.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Novena University, Ogume",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nspire School of Management and Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nuhu Bamalli Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "nubapoly.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nursing and Midwifery Council of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "kcl.ac.uk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Obafemi Awolowo University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Obafemi Awolowo University Teaching Hospitals Complex",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Obong University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Obong",
+    "domain": "obonguniversity.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Obong University, Obong Ntak",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Oduduwa University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Oduduwa",
+    "domain": "oduduwauniversity.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Oduduwa University, Ipetumodu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ogun State Institute of Technology, Igbesa",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ogun State Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ogun State University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ojaja University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Olabisi Onabanjo University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Olabisi Onabanjo",
+    "domain": "oouagoiwoye.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Olashore International School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "thisdaylive.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Olubi Memorial Grammar School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Olusegun Agagu University of Science and Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Omeko Institute of Catering Hotel Management and Entrepreneurship Studies",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ondo State Polytechnic, Owo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ondo State Public Service Training Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ondo State School of Health Technology, Akure",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ondo State University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ondo State University of Science and Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Science and Technology",
+    "domain": "osustech.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ondo State University of Science and Technology, Okitipupa",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Opencast Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osun State Board of Technical and Vocational Education",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osun State Polytechnic, Iree",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osun State University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Osun State",
+    "domain": "uniosun.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osun State University, Osogbo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Our Saviour Institute of Science, Agriculture and Technology, Enugu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Overcomers Bible Institute and Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Oyo State School of Nursing and Midwifery",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Oyo State University of Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "PAMO University of Medical Sciences",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "new.pums.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "PEFTI Film Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pan African Christian Theological University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pan African University, Lagos",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pan-African University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Pan-African",
+    "domain": "pau.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pan-African University, Ibadan - PAULESI",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pan-Atlantic University, Lagos",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Paul University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Paul",
+    "domain": "pauluniversity.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pentecostal Theological Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "ats.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Perioperative Nursing School, University College Hospital Ibadan",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Petroleum Training Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Plateau School of Accountancy and Management Studies",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Plateau State Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "plapoly.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Plateau State University, Bokkos",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pope John Paul II Major Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Port Harcourt Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Postgraduate School of Credit and Financial Management",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Precious Cornerstone University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "pcu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pregift Academy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Premier International Secondary School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Premiere Academy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Preston International School, Akure",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Prime Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Prince Abubakar Audu University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "ksu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Prince Charles International School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Prospect High School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Public Health Science and Technology Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "RSA Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Radiographers Registration Board of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ramat Polytechnic, Maiduguri",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Redeemer's International Leadership Academy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Redeemer's International Secondary School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Redeemers University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Redeemers",
+    "domain": "run.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Renaissance University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Renaissance",
+    "domain": "rnu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Renaissance University, Enugu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Reuben George Theological Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rev. Fr. Moses Orshio Adasu University, Makurdi",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rhema Bible Traning Centre",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rhema University, Obeama-Asa",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ritman University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "ritmanuniversity.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Riverford Business School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rivers State Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rivers State School of Health",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rivers State University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rivers State University of Education",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rivers State University of Science and Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Science and Technology",
+    "domain": "ust.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rocana Institute of Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Roemichs international school",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ronik Polytechnic, Lagos",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rosegabriel Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal Girls Academy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal Institute of Health Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rufus Giwa Polytechnic, Owo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saint Augustine's Seminary Ezzamgbo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Salem University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Salem",
+    "domain": "salemuniversity.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Salem University, Lokoja",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Samuel Adegboyega University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sanctus Lumen Christi Schools",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Accountancy and Business Studies, Uyo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Dental Health Sciences",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Health Information Management, Nnamdi Azikiwe University Teaching Hospital",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Health Information Management, University of Calabar Teaching Hospital",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Health Technology, Aba",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Health Technology, Akure",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Health Technology, Edo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Health Technology, Etinan",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Health Technology, Ijero-Ekiti",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Health Technology, Ilesa",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Health Technology, Kano",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Health Technology, Oji River",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Health Technology, Okporo-Orlu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Hygiene, Eleyele, Ibadan",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Hygiene, Kano",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Information and Media Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Medical Laboratory Technicians",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Medical Laboratory Technicians, Ihiala",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Medical Laboratory Technology, Baptist Medical Centre, Saki",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Medical Laboratory Technology, Ibadan",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Midwifery, Abia State University Teaching Hospital",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Midwifery, Aboh Mbaise",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Midwifery, Chukwuemeka Odumegwu Ojukwu University Teaching Hospital",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Midwifery, Holy Rosary Hospital",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Midwifery, Ola Catholic Hospital",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Midwifery, St. Philomena's Catholic Hospital",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Midwifery, Umuahia",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Midwifery, University College Hospital, Ibadan",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Midwifery, University of Nigeria Teaching Hospital, Enugu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing Ijebu - Ode",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing and Midwifery, Iyi-Enu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, Abeokuta",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, Abia State University Teaching Hospital",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, Ado - Ekiti",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, Agbor - Delta State",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, Amachara",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, Bowen University Teaching Hospital, Ogbomosho",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, Chukwuemeka Odumegwu Ojukwu University Teaching Hospital",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, ESUT Teaching Hospital",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, Federal Teaching Hospital, Ido- Ekiti",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, Holy Rosary Hospital, Emekuku",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, Ihiala",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, Iyi Enu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, Joint Hospital Mbano",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, Mater Misericordaie Hospital",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, Mkar",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, Osogbo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, Our Lady of Mercy Hospital",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, Owerri",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, Port Harcourt",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, Sacred Heart Hospital",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, St. Mary's Joint Hospital",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, Umuahia",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Nursing, Vom",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Orthopedic Cast Technology, National Orthopedic Hospital, Enugu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Post-Basic Ear, Nose and Throat Nursing",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Psychiatric Nursing, Federal Neuropsychiatric Hospital, Kware",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Psychiatric Nursing, Neuropsychiatric Hospital, Abeokuta",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Salesmanship",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seat of Wisdom Seminary, Owerri",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seminary of All Saints",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seminary of SS. Peter and Paul",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seventh-Day Adventist Hospital School of Nursing",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaka Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "shakapoly.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Skyline University Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Social Development Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Southwest Advanced School of Theology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Southwestern University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "southwestern.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Spiritan International School of Theology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Spiritan School of Philosophy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St Albert Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St Brigid's Social Centre, Sabo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Anthony's Catholic High School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Augustine's Major Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Joseph Major Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Luke's Anglican Hospital",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Saviour's High School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Thomas Aquinas Major Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Winifred Innovation Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Stars Maritime Academy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Startimes Medical Center",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Starville School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "State School of Nursing, Eku, Delta State",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Stella Maris School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "stellamarisschool.co.uk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Summit University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tai Solarin University of Education",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Tai Solarin",
+    "domain": "tasued.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tai Solarin University of Education, Ijagun, Ogun State",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tansian University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Tansian",
+    "domain": "tansianuniversity.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tansian University, Umunya",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taraba State Polytechnic, Suntai",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taraba State University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Taraba State",
+    "domain": "tsuniversity.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taraba State University, Jalingo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Teachers Registration Council of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technological Skills Acquisition Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Temple Gate Polytechnic, Aba",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Temple Secondary School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Achievers University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "The Achievers",
+    "domain": "achievers.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The American Academy of Project Management",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Apostolic Church Theological Seminary, Amumara",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Association of Accountancy Bodies in West Africa",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Bells Comprehensive Secondary School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Chartered Institute of Taxation of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Gateway ICT Polytechnic Saapade",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Hillside School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Ibarapa Polytechnic, Eruwa",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Institute of Certified Public Accountants of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Institute of Chartered Secretaries and Administrators of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Institute of Cost and Management Accountants",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Institute of Export of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Institute of Transport Administration of Nigeria - IOTA",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Nigeria French Language Village",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Nigerian Institute of Architects",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Nigerian Institute of Building",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Nigerian Institute of Quantity Surveyors",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Nigerian Institute of Shipping",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Nigerian Institution of Mechanical Engineers",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Oke-Ogun Polytechnic, Saki",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Pan-African University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Polytechnic Igbo-Owu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Polytechnic of Sokoto State, Birnin Kebbi",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Polytechnic of Sokoto State, Sokoto",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Polytechnic, Birnin Kebbi",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Polytechnic, Calabar",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Polytechnic, Ibadan",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Polytechnic, Ijebu Igbo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Polytechnic, Ile-Ife",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "thepolytechnicife.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Polytechnic, Imesi-Ile",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Polytechnic, Nekede, Owerri",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Regent Secondary School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Royal Master's Montessori Centre",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Theological Seminary of Northern Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Times Journalism Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Topfaith International Secondary School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tower Polytechnic, Ibadan",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Trinity Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Trinity University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "trinity.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truth and Light Bible School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Umaru Ali Shinkafi Polytechnic, Sokoto",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Umaru Musa Yar'Adua University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Umaru Musa Yar'Adua",
+    "domain": "umyu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Umaru Musa Yar'Adua University Katsina",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "United Bible University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universal School of Aviation",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College Hospital, Ibadan",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "com.ui.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University Preparatory Secondary School and Children's Academy",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Ado-Ekiti",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Africa, Toru Orua",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Benin Teaching Hospital",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "mbbs87uniben.blogspot.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Cross River State",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "universitiesinnigeria.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Delta, Agbor",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Education, Ikere Ekiti",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Ibadan Consultancy Services",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Ife",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Ilesa",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Ilorin Teaching Hospital, Ilorin",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Maiduguri Teaching Hospital",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "tribuneonlineng.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Medical Sciences, Ondo State",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Mkar",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Mkar",
+    "domain": "unimkar.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Mkar, Mkar",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Nigeria",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Nigeria",
+    "domain": "unn.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Nigeria Teaching Hospital, Enugu",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Portharcourt",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Portharcourt",
+    "domain": "uniport.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Sokoto",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Uptonville Oil and Gas Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Usmanu Danfodiyo University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Usmanu Danfodiyo University Teaching Hospital, School of Health Information Management",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Uyo City Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Veritas University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Veritas",
+    "domain": "veritas.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Victory Institute of Catering and Hotel Management",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Waziri Umaru Federal Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Waziri Umaru Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wellspring University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Wellspring",
+    "domain": "wellspringuniversity.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wesley International Theological Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wesley University of Science and Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Science and Technology",
+    "domain": "wustoportal.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wesley University of Science and Technology, Ondo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wesley University, Ondo",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "West Africa Health Examinations Board",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "West Africa Theological Seminary",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "West African Advanced School of Theology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "West African Examinations Council",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "academia.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "West African Union University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "westafricanuniversity.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Western Delta University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "Western Delta",
+    "domain": "wdu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Western Delta University, Oghara",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Whitesands School",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Winifred School of Management and Technology",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wolex Polytechnic",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Word of Faith Bible Institute",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "World Vision Theological Seminary, Inc",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yetkem Institute of Catering and Hotel Management",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yobe State University",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "ysu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yusuf Maitama Sule University, Kano",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zolani Schools",
+    "country": "Nigeria",
+    "state": "Nigeria",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Agriculture Abeokuta",
+    "country": "Nigeria",
+    "state": "Ogun",
+    "city": "Agriculture Abeokuta",
+    "domain": "unaab.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal University of Technology, Akure",
+    "country": "Nigeria",
+    "state": "Ondo",
+    "city": "Akure",
+    "domain": "futa.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Obafemi Awolowo University Ile-Ife",
+    "country": "Nigeria",
+    "state": "Osun",
+    "city": "Obafemi Awolowo",
+    "domain": "oauife.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lead City University of Ibadan",
+    "country": "Nigeria",
+    "state": "Oyo",
+    "city": "Ibadan",
+    "domain": "lcu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Ibadan",
+    "country": "Nigeria",
+    "state": "Oyo",
+    "city": "Ibadan",
+    "domain": "ui.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Joseph Ayo Babalola University",
+    "country": "Nigeria",
+    "state": "Plateau",
+    "city": "Joseph Ayo Babalola",
+    "domain": "jabu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Jos",
+    "country": "Nigeria",
+    "state": "Plateau",
+    "city": "Jos",
+    "domain": "unijos.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sokoto State University",
+    "country": "Nigeria",
+    "state": "Sokoto",
+    "city": "Sokoto State",
+    "domain": "ssu.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Usmanu Danfodiyo University Sokoto",
+    "country": "Nigeria",
+    "state": "Sokoto",
+    "city": "Usmanu Danfodiyo",
+    "domain": "udusok.edu.ng",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

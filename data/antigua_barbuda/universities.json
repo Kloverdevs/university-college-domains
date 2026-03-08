@@ -1,0 +1,22 @@
+[
+  {
+    "name": "American University of Antigua",
+    "country": "Antigua Barbuda",
+    "state": "Antigua and Barbuda",
+    "city": "Antigua",
+    "domain": "auamed.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Health Sciences Antigua",
+    "country": "Antigua Barbuda",
+    "state": "Antigua and Barbuda",
+    "city": "Health Sciences Antigua",
+    "domain": "uhsa.ag",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

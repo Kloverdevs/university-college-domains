@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Al-Aqsa University",
+    "country": "Palestine",
+    "state": "Palestine",
+    "city": "Al-Aqsa",
+    "domain": "alaqsa.edu.ps",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Azhar University of Gaza",
+    "country": "Palestine",
+    "state": "Palestine",
+    "city": "Gaza",
+    "domain": "alazhar.edu.ps",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Quds Open University",
+    "country": "Palestine",
+    "state": "Palestine",
+    "city": "Al-Quds Open",
+    "domain": "qou.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Quds University - The Arab University in Jerusalem",
+    "country": "Palestine",
+    "state": "Palestine",
+    "city": "Al-Quds",
+    "domain": "alquds.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "An-Najah National University",
+    "country": "Palestine",
+    "state": "Palestine",
+    "city": "An-Najah National",
+    "domain": "najah.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arab American University - Jenin",
+    "country": "Palestine",
+    "state": "Palestine",
+    "city": "Arab American",
+    "domain": "aauj.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bethlehem University",
+    "country": "Palestine",
+    "state": "Palestine",
+    "city": "Bethlehem",
+    "domain": "bethlehem.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Birzeit University",
+    "country": "Palestine",
+    "state": "Palestine",
+    "city": "Birzeit",
+    "domain": "birzeit.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hebron University",
+    "country": "Palestine",
+    "state": "Palestine",
+    "city": "Hebron",
+    "domain": "hebron.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic University of Gaza",
+    "country": "Palestine",
+    "state": "Palestine",
+    "city": "Gaza",
+    "domain": "iugaza.edu.ps",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Palestine Technical University - Kadoorie",
+    "country": "Palestine",
+    "state": "Palestine",
+    "city": "Palestine Technical",
+    "domain": "ptuk.edu.ps",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ummah University",
+    "country": "Palestine",
+    "state": "Palestine",
+    "city": "Ummah",
+    "domain": "uou.edu.ps",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College of Applied Sciences",
+    "country": "Palestine",
+    "state": "Palestine",
+    "city": "University",
+    "domain": "ucas.edu.ps",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Palestine",
+    "country": "Palestine",
+    "state": "Palestine",
+    "city": "Palestine",
+    "domain": "up.edu.ps",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Federal Institute of Education",
+    "country": "Brazil",
+    "state": "Brazil",
+    "city": "Brazil",
+    "domain": "aluno.ifsp.edu.br",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Polytechnic University of Pernambuco",
+    "country": "Brazil",
+    "state": "Brazil",
+    "city": "Pernambuco",
+    "domain": "upe.poli.br",
+    "aliases": [
+      "ecomp.poli.br",
+      "poli.br"
+    ],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "São Paulo State Technological Colleges",
+    "country": "Brazil",
+    "state": "Brazil",
+    "city": "",
+    "domain": "universia.com.br",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

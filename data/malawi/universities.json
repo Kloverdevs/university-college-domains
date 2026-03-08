@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Catholic University of Malawi",
+    "country": "Malawi",
+    "state": "Malawi",
+    "city": "Malawi",
+    "domain": "cunima.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Mzuzu University",
+    "country": "Malawi",
+    "state": "Malawi",
+    "city": "Mzuzu",
+    "domain": "mzuni.ac.mw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Livingstonia",
+    "country": "Malawi",
+    "state": "Malawi",
+    "city": "Livingstonia",
+    "domain": "ulivingstonia.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Malawi",
+    "country": "Malawi",
+    "state": "Malawi",
+    "city": "Malawi",
+    "domain": "unima.mw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

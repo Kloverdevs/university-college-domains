@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Higher Institute of Agriculture and Animal Husbandry",
+    "country": "Rwanda",
+    "state": "Rwanda",
+    "city": "Rwanda",
+    "domain": "isae.ac.rw",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kigali Health Institute",
+    "country": "Rwanda",
+    "state": "Rwanda",
+    "city": "Kigali Health",
+    "domain": "khi.ac.rw",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kigali Institute of Education",
+    "country": "Rwanda",
+    "state": "Rwanda",
+    "city": "Kigali",
+    "domain": "kie.ac.rw",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kigali Institute of Science & Technology",
+    "country": "Rwanda",
+    "state": "Rwanda",
+    "city": "Kigali",
+    "domain": "kist.ac.rw",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Umutara Polytechnic",
+    "country": "Rwanda",
+    "state": "Rwanda",
+    "city": "Umutara",
+    "domain": "umutarapolytech.ac.rw",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

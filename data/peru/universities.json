@@ -1,0 +1,662 @@
+[
+  {
+    "name": "Universidad Los Angeles de Chimbote",
+    "country": "Peru",
+    "state": "Ancash",
+    "city": "Chimbote",
+    "domain": "uladech.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de Santa - Chimbote",
+    "country": "Peru",
+    "state": "Ancash",
+    "city": "Chimbote",
+    "domain": "uns.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de Cajamarca",
+    "country": "Peru",
+    "state": "Cajamarca",
+    "city": "Cajamarca",
+    "domain": "unc.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Andina del Cusco",
+    "country": "Peru",
+    "state": "Cusco",
+    "city": "Cusco",
+    "domain": "uandina.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pontificia Universidad Católica del Perú",
+    "country": "Peru",
+    "state": "Ica",
+    "city": "Ica",
+    "domain": "pucp.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica Santo Toribio de Mogrovejo",
+    "country": "Peru",
+    "state": "Ica",
+    "city": "Ica",
+    "domain": "usat.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica de Santa María",
+    "country": "Peru",
+    "state": "Ica",
+    "city": "Ica",
+    "domain": "ucsm.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Cientifica del Sur",
+    "country": "Peru",
+    "state": "Ica",
+    "city": "Ica",
+    "domain": "ucsur.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional San Luis Gonzaga",
+    "country": "Peru",
+    "state": "Ica",
+    "city": "Ica",
+    "domain": "unica.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Peruana de Ciencias Aplicadas",
+    "country": "Peru",
+    "state": "Ica",
+    "city": "Ica",
+    "domain": "upc.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Peruana de Ciencias e Informática",
+    "country": "Peru",
+    "state": "Ica",
+    "city": "Ica",
+    "domain": "upci.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Ricardo Palma",
+    "country": "Peru",
+    "state": "Ica",
+    "city": "Ica",
+    "domain": "urp.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnológica de los Andes de Apurímac",
+    "country": "Peru",
+    "state": "Ica",
+    "city": "Ica",
+    "domain": "utea.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnológica del Peru",
+    "country": "Peru",
+    "state": "Ica",
+    "city": "Ica",
+    "domain": "utp.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de La Libertad, Trujillo",
+    "country": "Peru",
+    "state": "La Libertad",
+    "city": "Trujillo",
+    "domain": "unitru.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Chiclayo",
+    "country": "Peru",
+    "state": "Lambayeque",
+    "city": "Chiclayo",
+    "domain": "udch.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Lima",
+    "country": "Peru",
+    "state": "Lima",
+    "city": "Lima",
+    "domain": "ulima.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de la Amazonía Peruana",
+    "country": "Peru",
+    "state": "Loreto",
+    "city": "Iquitos",
+    "domain": "unapiquitos.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Alas Peruanas",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Alas Peruanas",
+    "domain": "uap.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Andina Nestor Caceares Velasquez",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Andina Nestor Caceares Velasquez",
+    "domain": "uancv.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad César Vallejo",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "César Vallejo",
+    "domain": "ucv.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Femenina del Sagrado Corazón",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Femenina del Sagrado Corazón",
+    "domain": "unife.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Marcelino Champagnat",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Marcelino Champagnat",
+    "domain": "champagnat.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Agraria La Molina",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Nacional Agraria La Molina",
+    "domain": "lamolina.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Agraria de la Selva",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Peru",
+    "domain": "unas.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Daniel Alcides Carrion",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Nacional Daniel Alcides Carrion",
+    "domain": "undac.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Federico Villarreal",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Nacional Federico Villarreal",
+    "domain": "unfv.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Hermilio Valdizan",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Nacional Hermilio Valdizan",
+    "domain": "unheval.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Jorge Basadre Grohmann",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Nacional Jorge Basadre Grohmann",
+    "domain": "unjbg.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional José Faustino Sánchez Carrión",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Peru",
+    "domain": "unjfsc.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Mayor de San Marcos",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Peru",
+    "domain": "unmsm.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Pedro Ruíz Gallo",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Nacional Pedro Ruíz Gallo",
+    "domain": "unprg.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Santiago Antúnez de Mayolo",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Peru",
+    "domain": "unasam.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de Educación Enrique Guzmán y Valle",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Peru",
+    "domain": "une.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de Ingeniería",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Nacional de Ingeniería",
+    "domain": "uni.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de San Agustin",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Nacional de San Agustin",
+    "domain": "unsa.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de San Antonio Abad",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Peru",
+    "domain": "unsaac.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de San Cristóbal de Huamanga",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Peru",
+    "domain": "unsch.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de San Martín",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Nacional de San Martín",
+    "domain": "unsm.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de Tumbes",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Nacional de Tumbes",
+    "domain": "untumbes.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de Ucayali",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Nacional de Ucayali",
+    "domain": "unu.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional del Altiplano",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Nacional del Altiplano",
+    "domain": "unap.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional del Callao",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Nacional del Callao",
+    "domain": "unac.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional del Centro del Perú",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Peru",
+    "domain": "uncp.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Norbert Wiener",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Norbert Wiener",
+    "domain": "uwiener.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Particular Inca Garcilaso de la Vega",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Peru",
+    "domain": "uigv.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Peruana Cayetano Heredia",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Peruana Cayetano Heredia",
+    "domain": "upch.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Peruana Union",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Peruana Union",
+    "domain": "upeu.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Privada Antenor Orrego",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Privada Antenor Orrego",
+    "domain": "upao.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Privada Juan Mejía Baca",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Privada Juan Mejía Baca",
+    "domain": "umb.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Privada Los Andes",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Privada Los Andes",
+    "domain": "upla.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Privada San Juan Bautista",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Privada San Juan Bautista",
+    "domain": "upsjb.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Privada San Pedro",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Privada San Pedro",
+    "domain": "usanpedro.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Privada Sergio Bernales",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Privada Sergio Bernales",
+    "domain": "upsb.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Privada del Norte",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Privada del Norte",
+    "domain": "upnorte.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad San Ignacio de Loyola",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "San Ignacio de Loyola",
+    "domain": "sil.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad San Martin de Porres",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "San Martin de Porres",
+    "domain": "usmp.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad San Pablo",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "San Pablo",
+    "domain": "usp.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Señor de Sipán",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Señor de Sipán",
+    "domain": "uss.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Ciencias y Humanidades",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Ciencias y Humanidades",
+    "domain": "uch.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Huánuco",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Huánuco",
+    "domain": "udh.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Lambayeque",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Lambayeque",
+    "domain": "udl.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Pacifico",
+    "country": "Peru",
+    "state": "Peru",
+    "city": "Pacifico",
+    "domain": "up.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de Piura",
+    "country": "Peru",
+    "state": "Piura",
+    "city": "Piura",
+    "domain": "unp.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Piura",
+    "country": "Peru",
+    "state": "Piura",
+    "city": "Piura",
+    "domain": "udep.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Privada de Tacna",
+    "country": "Peru",
+    "state": "Tacna",
+    "city": "Tacna",
+    "domain": "upt.edu.pe",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

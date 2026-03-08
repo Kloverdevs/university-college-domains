@@ -1,0 +1,462 @@
+[
+  {
+    "name": "Ahlulbait International University",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Ahlulbait International",
+    "domain": "ahlulbaitonline.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al Maarif University College",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Al Maarif",
+    "domain": "auc-edu.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al Mamon University College",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Al Mamon",
+    "domain": "almamonuc.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al Mansour University College",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Al Mansour",
+    "domain": "muc.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al Muthanna University",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Al Muthanna",
+    "domain": "uoalmuthana.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al Nahrain University",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Al Nahrain",
+    "domain": "nahrainuniv.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al Rafidain University College",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Al Rafidain",
+    "domain": "coalrafidain.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al Rasheed University College",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Al Rasheed",
+    "domain": "alrasheed-uc.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al Turath University College",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Al Turath",
+    "domain": "turathun.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al Yarmouk University College",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Al Yarmouk",
+    "domain": "yu.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alsadrain University",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Alsadrain",
+    "domain": "alsadrain.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American University of Iraq, Sulaimani (Kurdistan Region)",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Iraq",
+    "domain": "auis.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baghdad College of Economic Sciences University",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Baghdad",
+    "domain": "baghdadcollege.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "British Royal University",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "British Royal",
+    "domain": "broyalu.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cihan University",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Cihan",
+    "domain": "cihanuniversity.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College of Science, Baghdad University",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "College of Science, Baghdad",
+    "domain": "scbaghdad.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dijla University College",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Dijla",
+    "domain": "duc.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Diyala University",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Diyala",
+    "domain": "uodiyala.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hawler Medical University",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Hawler Medical",
+    "domain": "hawlermu.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iraq University College",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Iraq",
+    "domain": "iraquniversity.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ishik University",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Ishik",
+    "domain": "iu.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kerbala University",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Kerbala",
+    "domain": "uokerbala.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Komar University of Science and Technology",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Science and Technology",
+    "domain": "komar.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Koya University (Kurdistan Region)",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Koya",
+    "domain": "koyauniversity.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Madenat Alelem University College",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Madenat Alelem",
+    "domain": "madenatalelem.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Misan University",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Misan",
+    "domain": "uomisan.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nawroz University",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Nawroz",
+    "domain": "nawrozuniversity.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Salahddin University (Kurdistan Region)",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Salahddin",
+    "domain": "suh-edu.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Soran University",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Soran",
+    "domain": "soran.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Thi Qar University",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Thi Qar",
+    "domain": "thiqaruni.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tikrit University",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Tikrit",
+    "domain": "tu.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Uinversity of Babylon",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Iraq",
+    "domain": "uobabylon.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Al-Qadisiyah",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Al",
+    "domain": "qu.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Anbar",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Anbar",
+    "domain": "uoanbar.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Baghdad",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Baghdad",
+    "domain": "uobaghdad.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Basrah",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Basrah",
+    "domain": "uobasrah.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Dohuk (Kurdistan Region)",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Dohuk",
+    "domain": "uod.ac",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Human Development (Kurdistan Region)",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Human Development",
+    "domain": "uhd.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Kirkuk",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Kirkuk",
+    "domain": "uokirkuk.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Kufa",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Kufa",
+    "domain": "uokufa.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Kurdistan - Hawler",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Kurdistan",
+    "domain": "ukh.ac",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Mosul",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Mosul",
+    "domain": "uomosul.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Mustansiriyah",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Mustansiriyah",
+    "domain": "uomustansiriyah.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Sulaimania (Kurdistan Region)",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Sulaimania",
+    "domain": "univsul.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Technology - Iraq",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Iraq",
+    "domain": "uotechnology.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Wassit",
+    "country": "Iraq",
+    "state": "Iraq",
+    "city": "Wassit",
+    "domain": "uowasit.edu.iq",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Lithuania Christian College",
+    "country": "Lithuania",
+    "state": "Lithuania",
+    "city": "Lithuania Christian",
+    "domain": "lcc.lt",
+    "aliases": [],
+    "type": "College",
+    "control": "Private"
+  },
+  {
+    "name": "Lithunian Institute of Physical Education",
+    "country": "Lithuania",
+    "state": "Lithuania",
+    "city": "Lithunian",
+    "domain": "lkka.lt",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

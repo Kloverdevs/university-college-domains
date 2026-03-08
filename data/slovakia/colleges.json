@@ -1,0 +1,32 @@
+[
+  {
+    "name": "College in Sládkovičovo",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Slovakia",
+    "domain": "vssladkovicovo.sk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "St. Elizabeth’s College of Health and Social Sciences in Bratislava",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "St. Elizabeth’s",
+    "domain": "vssvalzbety.sk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Technical Institute of Dubnica in Dubnica nad Váhom",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Slovakia",
+    "domain": "dti.sk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

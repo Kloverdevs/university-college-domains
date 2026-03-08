@@ -1,0 +1,504 @@
+[
+  {
+    "name": "Brexgata University Academy",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Brexgata",
+    "domain": "brexgata.eu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Brussels Management School (ICHEC)",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "ichec.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Brussels School of International Studies",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "ukc.ac.uk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Continental Theological Seminary",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "ctsem.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "ECAM - Institut Supérieur Industriel",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "ecam.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "EHSAL - Europese Hogeschool Brussel",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "ehsal.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Erasmushogeschool Brussel",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "ehb.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "European Carolus Magnus University",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "European Carolus Magnus",
+    "domain": "carolus-magnus-university.eu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "European International University",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "europeaniu.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Evangelische Theologische Faculteit, Leuven",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "etf.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Faculté Polytechnique de Mons",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "fpms.ac.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Faculté Universitaire des Sciences Agronomiques de Gembloux",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "fsagx.ac.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Facultés Universitaires Catholiques de Mons",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "fucam.ac.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Facultés Universitaires Notre-Dame de la Paix",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "fundp.ac.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Facultés Universitaires Saint-Louis",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "fusl.ac.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fondation Universitaire Luxembourgeoise",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "ful.ac.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hasselt University",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Hasselt",
+    "domain": "uhasselt.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hogere Zeevaartschool - Maritime Academy",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "hzs.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hogeschool Antwerpen",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "ha.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hogeschool Gent",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "hogent.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hogeschool West-Vlaanderen (TU)",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "howest.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hogeschool voor Wetenschap & Kunst",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "wenk.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hogeschool voor Wetenschap en Kunst (VLEKHO), Brussel",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "vlekho.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Karel De Grote Hogeschool",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "kdg.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Katholieke Hogeschool Kempen",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "khk.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Katholieke Hogeschool Leuven",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "khleuven.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Katholieke Hogeschool Limburg",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "khlim.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Katholieke Universiteit Brussel",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "kubrussel.ac.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Katholieke Universiteit Leuven, Campus Kortrijk",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "kulak.kuleuven.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Louvain School of Management",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "uclouvain.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal Military Academy",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "rma.ac.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Solvay Brussels School Economics & Management",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "exed.solvay.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Thierry Graduate School of Leadership",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "thierryschool.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Thomas More Hogeschool",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "thomasmore.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiteit Antwerpen",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "ua.ac.be",
+    "aliases": [
+      "uantwerpen.be"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiteit Antwerpen Management School",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "uams.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiteit Antwerpen, UFSIA",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "ufsia.ac.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universiteit Gent",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "ugent.be",
+    "aliases": [
+      "rug.ac.be"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College Odisee",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "University",
+    "domain": "odisee.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Liège",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Liège",
+    "domain": "student.uliege.be",
+    "aliases": [
+      "helpnet.uliege.be",
+      "ddi.uliege.be",
+      "uliege.be"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Catholique de Louvain",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "ucl.ac.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Libre de Bruxelles",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "ulb.be",
+    "aliases": [
+      "ulb.ac.be"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Liège",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Liège",
+    "domain": "ulg.ac.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Mons-Hainaut",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Mons",
+    "domain": "umh.ac.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vlerick Brussels Campus",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "vlerick.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vlerick Leuven Gent Management School",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "vlerick.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vrije Universiteit Brussel",
+    "country": "Belgium",
+    "state": "Belgium",
+    "city": "Belgium",
+    "domain": "vub.ac.be",
+    "aliases": [
+      "vub.be"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "KU Leuven",
+    "country": "Belgium",
+    "state": "Leuven",
+    "city": "",
+    "domain": "student.kuleuven.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Katholieke Universiteit Leuven",
+    "country": "Belgium",
+    "state": "Leuven",
+    "city": "",
+    "domain": "kuleuven.be",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

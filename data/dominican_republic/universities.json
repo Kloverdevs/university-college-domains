@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Instituto Tecnológico de Santo Domingo",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Dominican Republic",
+    "domain": "intec.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pontificia Universidad Católica Madre y Maestra (PUCMM)",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Católica Madre y Maestra",
+    "domain": "pucmm.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad APEC",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "APEC",
+    "domain": "unapec.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Abierta Para Adultos",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Abierta Para Adultos",
+    "domain": "uapa.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Adventista Dominicana",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Adventista Dominicana",
+    "domain": "unad.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Universidad Agroforestal Fernando A.Meriño",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Agroforestal Fernando A.Meriño",
+    "domain": "uafam.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autónoma de Santo Domingo",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Santo Domingo",
+    "domain": "uasd.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica Nordestana",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Católica Nordestana",
+    "domain": "ucne.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica Tecnológica del Cibao",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Católica Tecnológica del Cibao",
+    "domain": "ucateci.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica de Santo Domingo",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Católica de Santo Domingo",
+    "domain": "ucsd.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Central del Este",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Central del Este",
+    "domain": "uce.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Dominicana O&M",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Dominicana O&M",
+    "domain": "udoym.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Dominico-Americana",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Dominico",
+    "domain": "icda.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Eugenio Maria de Hostos",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Eugenio Maria de Hostos",
+    "domain": "uniremhos.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Experimental Felix Adam",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Experimental Felix Adam",
+    "domain": "unefa.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Federico Henríquez y Carvajal",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Federico Henríquez y Carvajal",
+    "domain": "ufhec.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Iberoamericana",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Iberoamericana",
+    "domain": "unibe.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Interamericana",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Interamericana",
+    "domain": "unica.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Evangélica",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Nacional Evangélica",
+    "domain": "unev-rd.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Pedro Henríquez Ureña",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Nacional Pedro Henríquez Ureña",
+    "domain": "unphu.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Odontológica Dominicana",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Odontológica Dominicana",
+    "domain": "uod.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnológica de Santiago",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Tecnológica de Santiago",
+    "domain": "utesa.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnológica del Sur",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Tecnológica del Sur",
+    "domain": "utesur.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de la Tercera Edad",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "la Tercera Edad",
+    "domain": "ute.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Caribe",
+    "country": "Dominican Republic",
+    "state": "Dominican Republic",
+    "city": "Caribe",
+    "domain": "unicaribe.edu.do",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

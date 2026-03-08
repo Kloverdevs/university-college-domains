@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Athenaeum Pontificium Regina Apostolorum",
+    "country": "Vatican",
+    "state": "Vatican City",
+    "city": "Vatican City",
+    "domain": "upra.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pontifcia Universitas Lateranensis",
+    "country": "Vatican",
+    "state": "Vatican City",
+    "city": "Vatican City",
+    "domain": "pul.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pontifcia Universitas a S.Thomas Aquinate in Urbe",
+    "country": "Vatican",
+    "state": "Vatican City",
+    "city": "Vatican City",
+    "domain": "pust.urbe.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pontifcia Università Gregoriana",
+    "country": "Vatican",
+    "state": "Vatican City",
+    "city": "Vatican City",
+    "domain": "unigre.urbe.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pontifcia Università Urbaniana",
+    "country": "Vatican",
+    "state": "Vatican City",
+    "city": "Vatican City",
+    "domain": "urbaniana.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Università Pontifcia Salesiana",
+    "country": "Vatican",
+    "state": "Vatican City",
+    "city": "Vatican City",
+    "domain": "ups.urbe.it",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

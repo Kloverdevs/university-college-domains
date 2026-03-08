@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Botswana Accountancy College",
+    "country": "Botswana",
+    "state": "Botswana",
+    "city": "Botswana Accountancy",
+    "domain": "bac.ac.bw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Botswana College of Agriculture",
+    "country": "Botswana",
+    "state": "Botswana",
+    "city": "Botswana",
+    "domain": "bca.bw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Gaborone Universal College of Law",
+    "country": "Botswana",
+    "state": "Botswana",
+    "city": "Gaborone Universal",
+    "domain": "guc.co.bw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "New Era College of Arts, Science & Technology",
+    "country": "Botswana",
+    "state": "Botswana",
+    "city": "New Era",
+    "domain": "neweracollege.ac.bw",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

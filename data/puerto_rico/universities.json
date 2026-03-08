@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Caribbean University",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Caribbean",
+    "domain": "caribbean.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centro de Estudios Avanzados de Puerto Rico y el Caribe",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Puerto Rico",
+    "domain": "ceaprc.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pontificia Universidad Catolica de Puerto Rico",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Catolica de Puerto Rico",
+    "domain": "pucpr.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "San Juan Bautista School of Medicine",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Puerto Rico",
+    "domain": "sanjuanbautista.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sistema Universitario Ana G. Méndez",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Puerto Rico",
+    "domain": "suagm.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Central de Bayamón",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Central de Bayamón",
+    "domain": "ucb.edu.pr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Central del Caribe",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Central del Caribe",
+    "domain": "uccaribe.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Interamericana de Puerto Rico",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Interamericana de Puerto Rico",
+    "domain": "inter.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Interamericana de Puerto Rico, Bayamón",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Interamericana de Puerto Rico",
+    "domain": "bc.inter.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Interamericana de Puerto Rico, San Germán",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Interamericana de Puerto Rico",
+    "domain": "sg.inter.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Politecnica de Puerto Rico",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Politecnica de Puerto Rico",
+    "domain": "pupr.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Puerto Rico",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Puerto Rico",
+    "domain": "upr.clu.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Puerto Rico, Aguadilla",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Puerto Rico",
+    "domain": "uprag.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Puerto Rico, Arecibo",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Puerto Rico",
+    "domain": "upra.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Puerto Rico, Bayamon",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Puerto Rico",
+    "domain": "uprb.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Puerto Rico, Carolina",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Puerto Rico",
+    "domain": "uprc.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Puerto Rico, Cayey",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Puerto Rico",
+    "domain": "cayey.upr.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Puerto Rico, Ciencias Medicas",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Puerto Rico",
+    "domain": "rcm.upr.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Puerto Rico, Humacao",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Puerto Rico",
+    "domain": "cuhwww.upr.clu.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Puerto Rico, Mayaguez",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Puerto Rico",
+    "domain": "uprm.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Puerto Rico, Ponce",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Puerto Rico",
+    "domain": "upr-ponce.upr.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Puerto Rico, Rio Pedras",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Puerto Rico",
+    "domain": "uprrp.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Puerto Rico, Utuado",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Puerto Rico",
+    "domain": "uprutuado.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Sagrado Corazon",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Sagrado Corazon",
+    "domain": "sagrado.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Turabo",
+    "country": "Puerto Rico",
+    "state": "Puerto Rico",
+    "city": "Turabo",
+    "domain": "ut.pr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

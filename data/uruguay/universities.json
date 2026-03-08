@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Insituto Universitario - Centro Latinoamericano de Economia Humana - IU Claeh",
+    "country": "Uruguay",
+    "state": "Uruguay",
+    "city": "Uruguay",
+    "domain": "claeh.edu.uy",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica del Uruguay",
+    "country": "Uruguay",
+    "state": "Uruguay",
+    "city": "Católica del Uruguay",
+    "domain": "ucu.edu.uy",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad ORT Uruguay",
+    "country": "Uruguay",
+    "state": "Uruguay",
+    "city": "ORT Uruguay",
+    "domain": "ort.edu.uy",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Montevideo",
+    "country": "Uruguay",
+    "state": "Uruguay",
+    "city": "Montevideo",
+    "domain": "um.edu.uy",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de la Empresa (UDE)",
+    "country": "Uruguay",
+    "state": "Uruguay",
+    "city": "la Empresa",
+    "domain": "ude.edu.uy",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de la República",
+    "country": "Uruguay",
+    "state": "Uruguay",
+    "city": "la República",
+    "domain": "universidad.edu.uy",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

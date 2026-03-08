@@ -1,0 +1,754 @@
+[
+  {
+    "name": "Assumption University of Thailand",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "Thailand",
+    "domain": "au.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bangkok University",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "Bangkok",
+    "domain": "bu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chulalongkorn University",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "Chulalongkorn",
+    "domain": "chula.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dhurakijpundit University",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "Dhurakijpundit",
+    "domain": "dpu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kasem Bundit University",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "Kasem Bundit",
+    "domain": "kbu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kasetsart University",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "Kasetsart",
+    "domain": "ku.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "King Mongkut's University of Technology Ladkrabang",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "Technology Ladkrabang",
+    "domain": "kmitl.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "King Mongkut's University of Technology North Bangkok",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "Technology North Bangkok",
+    "domain": "kmutnb.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "King Mongkut's University of Technology Thonburi",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "Technology Thonburi",
+    "domain": "kmutt.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Krirk University",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "Krirk",
+    "domain": "krirk.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mahachulalongkorn Buddhist University",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "Mahachulalongkorn Buddhist",
+    "domain": "mcu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mahanakorn University of Technology",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "Mahanakorn",
+    "domain": "mut.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rajamangala University of Technology, Phra Nakhon",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "Rajamangala",
+    "domain": "rmutp.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ramkhamhaeng University",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "Ramkhamhaeng",
+    "domain": "ru.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Siam University",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "Siam",
+    "domain": "siam.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Silpakorn University",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "Silpakorn",
+    "domain": "su.ac.th",
+    "aliases": [
+      "silpakorn.edu"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "South-East Asia University",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "South-East Asia",
+    "domain": "sau.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Srinakharinwirot University",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "Srinakharinwirot",
+    "domain": "swu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sripatum University",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "Sripatum",
+    "domain": "spu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. John's University",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "St. John's",
+    "domain": "stjohn.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Stamford International University",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "Stamford International",
+    "domain": "stamford.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Suan Dusit Rajabhat University",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "Suan Dusit Rajabhat",
+    "domain": "dusit.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Thammasat University",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "Thammasat",
+    "domain": "tu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of the Thai Chamber of Commerce",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "",
+    "domain": "utcc.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chiang Mai Rajabhat University",
+    "country": "Thailand",
+    "state": "Chiang Mai",
+    "city": "Chiang Mai Rajabhat",
+    "domain": "cmru.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chiang Mai University",
+    "country": "Thailand",
+    "state": "Chiang Mai",
+    "city": "Chiang Mai",
+    "domain": "cmu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Maejo University",
+    "country": "Thailand",
+    "state": "Chiang Mai",
+    "city": "Maejo",
+    "domain": "mju.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Payap University Chaiang Mai",
+    "country": "Thailand",
+    "state": "Chiang Mai",
+    "city": "Payap",
+    "domain": "payap.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mae Fah Luang University",
+    "country": "Thailand",
+    "state": "Chiang Rai",
+    "city": "Mae Fah Luang",
+    "domain": "mfu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rajamangala University of Technology, Lanna Chiang Rai",
+    "country": "Thailand",
+    "state": "Chiang Rai",
+    "city": "Rajamangala",
+    "domain": "chiangraicampus.rmutl.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asian University of Science and Technology",
+    "country": "Thailand",
+    "state": "Chon Buri",
+    "city": "Science and Technology",
+    "domain": "asianust.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Burapha University",
+    "country": "Thailand",
+    "state": "Chon Buri",
+    "city": "Burapha",
+    "domain": "buu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Engineering Faculty of Asian University",
+    "country": "Thailand",
+    "state": "Chon Buri",
+    "city": "Engineering Faculty of Asian",
+    "domain": "efau.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khon Kaen University",
+    "country": "Thailand",
+    "state": "Khon Kaen",
+    "city": "Khon Kaen",
+    "domain": "kku.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lampang Rajabhat University",
+    "country": "Thailand",
+    "state": "Lampang",
+    "city": "Lampang Rajabhat",
+    "domain": "lpru.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nation University",
+    "country": "Thailand",
+    "state": "Lampang",
+    "city": "Nation",
+    "domain": "nation.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nivadhana University",
+    "country": "Thailand",
+    "state": "Lamphun",
+    "city": "Nivadhana",
+    "domain": "nivadhana.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mahasarakham University",
+    "country": "Thailand",
+    "state": "Mahasarakham",
+    "city": "Mahasarakham",
+    "domain": "msu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mahamakut Buddhist University",
+    "country": "Thailand",
+    "state": "Nakhon Pathom",
+    "city": "Mahamakut Buddhist",
+    "domain": "mbu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mahidol University",
+    "country": "Thailand",
+    "state": "Nakhon Pathom",
+    "city": "Mahidol",
+    "domain": "mahidol.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mahidol University International College",
+    "country": "Thailand",
+    "state": "Nakhon Pathom",
+    "city": "Mahidol",
+    "domain": "muic.mahidol.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Suranaree University of Technology",
+    "country": "Thailand",
+    "state": "Nakhon Ratchasima",
+    "city": "Suranaree",
+    "domain": "sut.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vongchavalitkul University",
+    "country": "Thailand",
+    "state": "Nakhon Ratchasima",
+    "city": "Vongchavalitkul",
+    "domain": "vu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chaopraya University",
+    "country": "Thailand",
+    "state": "Nakhon Sawan",
+    "city": "Chaopraya",
+    "domain": "cpu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Walailak University",
+    "country": "Thailand",
+    "state": "Nakhon Si Thammarat",
+    "city": "Walailak",
+    "domain": "wu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rajamangala University of Technology, Lanna Nan",
+    "country": "Thailand",
+    "state": "Nan",
+    "city": "Rajamangala",
+    "domain": "nan.rmutl.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sukhothai Thammathirat Open University",
+    "country": "Thailand",
+    "state": "Nonthaburi",
+    "city": "Sukhothai Thammathirat Open",
+    "domain": "stou.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eastern Asia University",
+    "country": "Thailand",
+    "state": "Pathum Thani",
+    "city": "Eastern Asia",
+    "domain": "eau.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pathumthani University",
+    "country": "Thailand",
+    "state": "Pathum Thani",
+    "city": "Pathumthani",
+    "domain": "ptu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rangsit University",
+    "country": "Thailand",
+    "state": "Pathum Thani",
+    "city": "Rangsit",
+    "domain": "rsu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shinawatra University",
+    "country": "Thailand",
+    "state": "Pathum Thani",
+    "city": "Shinawatra",
+    "domain": "shinawatra.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Webster University, Thailand",
+    "country": "Thailand",
+    "state": "Petchaburi",
+    "city": "Webster",
+    "domain": "webster.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Naresuan University",
+    "country": "Thailand",
+    "state": "Phitsanulok",
+    "city": "Naresuan",
+    "domain": "nu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Phranakhon Si Ayutthaya Rajabhat University",
+    "country": "Thailand",
+    "state": "Phra Nakhon Si Ayutthaya",
+    "city": "Phranakhon Si Ayutthaya Rajabhat",
+    "domain": "aru.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Huachiew Chalermprakiet University",
+    "country": "Thailand",
+    "state": "Samut Prakarn",
+    "city": "Huachiew Chalermprakiet",
+    "domain": "hcu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asia-Pacific International University",
+    "country": "Thailand",
+    "state": "Saraburi",
+    "city": "Asia-Pacific International",
+    "domain": "apiu.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hatyai University",
+    "country": "Thailand",
+    "state": "Songkhla",
+    "city": "Hatyai",
+    "domain": "hu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Prince of Songkla University",
+    "country": "Thailand",
+    "state": "Songkhla",
+    "city": "Prince of Songkla",
+    "domain": "psu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Thaksin University",
+    "country": "Thailand",
+    "state": "Songkhla",
+    "city": "Thaksin",
+    "domain": "tsu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bangkokthonburi University",
+    "country": "Thailand",
+    "state": "Thailand",
+    "city": "",
+    "domain": "bkkthon.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chandrakasem Rajabhat University",
+    "country": "Thailand",
+    "state": "Thailand",
+    "city": "",
+    "domain": "reg.chandra.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kalasin University",
+    "country": "Thailand",
+    "state": "Thailand",
+    "city": "",
+    "domain": "new.ksu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kanchanaburi Rajabhat University",
+    "country": "Thailand",
+    "state": "Thailand",
+    "city": "",
+    "domain": "kru.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nakhon Phanom University",
+    "country": "Thailand",
+    "state": "Thailand",
+    "city": "",
+    "domain": "npu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Phuket Rajabhat University",
+    "country": "Thailand",
+    "state": "Thailand",
+    "city": "",
+    "domain": "pkru.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pibulsongkram Rajabhat University",
+    "country": "Thailand",
+    "state": "Thailand",
+    "city": "",
+    "domain": "psru.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Princess of Naradhiwas University",
+    "country": "Thailand",
+    "state": "Thailand",
+    "city": "",
+    "domain": "pnu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rajamangala University of Technology",
+    "country": "Thailand",
+    "state": "Thailand",
+    "city": "",
+    "domain": "kkc.rmuti.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Songkhla Rajabhat University",
+    "country": "Thailand",
+    "state": "Thailand",
+    "city": "",
+    "domain": "unirank.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Thonburi University",
+    "country": "Thailand",
+    "state": "Thailand",
+    "city": "",
+    "domain": "thonburi-u.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Udon Thani Rajabhat University",
+    "country": "Thailand",
+    "state": "Thailand",
+    "city": "",
+    "domain": "udru.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Phayao",
+    "country": "Thailand",
+    "state": "Thailand",
+    "city": "",
+    "domain": "up.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Uttaradit Rajabhat University",
+    "country": "Thailand",
+    "state": "Thailand",
+    "city": "",
+    "domain": "uru.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yonok University",
+    "country": "Thailand",
+    "state": "Thailand",
+    "city": "Yonok",
+    "domain": "yonok.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ubonratchathani University",
+    "country": "Thailand",
+    "state": "Ubonratchathani",
+    "city": "Ubonratchathani",
+    "domain": "ubu.ac.th",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

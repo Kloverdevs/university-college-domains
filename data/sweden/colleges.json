@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Blekinge Institute of Technology",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Blekinge",
+    "domain": "bth.se",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "KTH Royal Institute of Technology",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "KTH Royal",
+    "domain": "kth.se",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Karolinska Institute Stockholm",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Karolinska",
+    "domain": "ki.se",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Stockholm Institute of Education",
+    "country": "Sweden",
+    "state": "Sweden",
+    "city": "Stockholm",
+    "domain": "lhs.se",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

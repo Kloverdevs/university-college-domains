@@ -1,0 +1,52 @@
+[
+  {
+    "name": "International Theravada Buddhist Missionary University",
+    "country": "Myanmar",
+    "state": "Myanmar",
+    "city": "International Theravada Buddhist Missionary",
+    "domain": "itbmu.org.mm",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mandalay Technological University",
+    "country": "Myanmar",
+    "state": "Myanmar",
+    "city": "Mandalay Technological",
+    "domain": "most.gov.mm",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Computer Studies, Yangon",
+    "country": "Myanmar",
+    "state": "Myanmar",
+    "city": "Computer Studies",
+    "domain": "ucsy.edu.mm",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Medicine 1, Yangon",
+    "country": "Myanmar",
+    "state": "Myanmar",
+    "city": "Medicine 1",
+    "domain": "um1ygn.edu.mm",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Medicine Magway",
+    "country": "Myanmar",
+    "state": "Myanmar",
+    "city": "Medicine Magway",
+    "domain": "ummg.edu.mm",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

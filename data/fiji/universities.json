@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Fiji National University",
+    "country": "Fiji",
+    "state": "Fiji",
+    "city": "Fiji National",
+    "domain": "fnu.ac.fj",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fiji School of Medicine",
+    "country": "Fiji",
+    "state": "Fiji",
+    "city": "Fiji",
+    "domain": "fsm.ac.fj",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Fiji",
+    "country": "Fiji",
+    "state": "Fiji",
+    "city": "Fiji",
+    "domain": "unifiji.ac.fj",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of the South Pacific",
+    "country": "Fiji",
+    "state": "Fiji",
+    "city": "the South Pacific",
+    "domain": "usp.ac.fj",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Academy of Arts in Banská Bystrica",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Slovakia",
+    "domain": "aku.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Academy of Fine Arts and Design in Bratislava",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Slovakia",
+    "domain": "vsvu.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Armed Forces Academy of General Milan Rastislav Štefánik",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Slovakia",
+    "domain": "aos.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bratislava International School of Liberal Arts",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Slovakia",
+    "domain": "bisla.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Catholic University in Ruzomberok",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Slovakia",
+    "domain": "ku.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Comenius University in Bratislava",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Comenius",
+    "domain": "uniba.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International School of Management in Prešov",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Slovakia",
+    "domain": "ismpo.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Janos Selye University",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Janos Selye",
+    "domain": "selyeuni.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Law University of Bratislava",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Bratislava",
+    "domain": "uninova.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Matej Bel University in Banská Bystrica",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Matej Bel",
+    "domain": "umb.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pavol Jozef Safarik University in Kosice",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Pavol Jozef Safarik",
+    "domain": "upjs.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Police Academy in Bratislava",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Slovakia",
+    "domain": "akademiapz.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Management",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Slovakia",
+    "domain": "vsm.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Slovak University of Agriculture in Nitra",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Agriculture in Nitra",
+    "domain": "uniag.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Slovak University of Technology in Bratislava",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Technology in Bratislava",
+    "domain": "stuba.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical University in Kosice",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Slovakia",
+    "domain": "tuke.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical University in Zvolen",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Slovakia",
+    "domain": "tuzvo.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University Konstantina Filozov in Nitra",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Slovakia",
+    "domain": "ukf.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Alexandra Dubček in Trenčín",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Alexandra Dubček in Trenčín",
+    "domain": "tnuni.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Central Europe in Skalica",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Central Europe in Skalica",
+    "domain": "sevs.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Economics in Bratislava",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Economics in Bratislava",
+    "domain": "euba.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Performing Arts in Bratislava",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Performing Arts in Bratislava",
+    "domain": "vsmu.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Presov",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Presov",
+    "domain": "unipo.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of St. Cyril and Methodius in Trnava",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Slovakia",
+    "domain": "ucm.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Trnava",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Trnava",
+    "domain": "truni.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Veterinary Medicine in Kosice",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Veterinary Medicine in Kosice",
+    "domain": "uvm.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Zilinska",
+    "country": "Slovakia",
+    "state": "Slovakia",
+    "city": "Zilinska",
+    "domain": "uniza.sk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

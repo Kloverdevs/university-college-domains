@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Agder University College",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Agder",
+    "domain": "hia.no",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Agricultural University of Norway",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Norway",
+    "domain": "nlh.no",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bergen University College",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Bergen",
+    "domain": "hib.no",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bodo Regional University",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Bodo Regional",
+    "domain": "hibo.no",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Finnmark University College",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Finnmark",
+    "domain": "hifm.no",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lillehammer University College",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Lillehammer",
+    "domain": "hil.no",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Molde University College",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Molde",
+    "domain": "himolde.no",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Academy of Fine Arts",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Norway",
+    "domain": "ska.khio.no",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Norway's Information Technology University College",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Norway's Information Technology",
+    "domain": "nith.no",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Norwegian School of Economics and Business Administration",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Norway",
+    "domain": "nhh.no",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Norwegian School of Management BI",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Norway",
+    "domain": "bi.no",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Norwegian State Academy of Music",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Norway",
+    "domain": "nmh.no",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Norwegian Teacher Academy for Studies in Religion and Education",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Norway",
+    "domain": "nla.no",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Norwegian University of Life Sciences",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Life Sciences",
+    "domain": "umb.no",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Norwegian University of Science and Technology",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Science and Technology",
+    "domain": "ntnu.no",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Norwegian University of Sport and Physical Education",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Norwegian",
+    "domain": "nih.no",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Oslo School of Architecture",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Norway",
+    "domain": "aho.no",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Bergen",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Bergen",
+    "domain": "uib.no",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Oslo",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Oslo",
+    "domain": "uio.no",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Stavanger",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Stavanger",
+    "domain": "uis.no",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Tromsø",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Tromsø",
+    "domain": "uit.no",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kristiania University College",
+    "country": "Norway",
+    "state": "Østlandet",
+    "city": "Kristiania",
+    "domain": "kristiania.no",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

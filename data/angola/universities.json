@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Universidade Católica de Angola",
+    "country": "Angola",
+    "state": "Angola",
+    "city": "Angola",
+    "domain": "ucan.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade Gregorio Semedo",
+    "country": "Angola",
+    "state": "Angola",
+    "city": "Angola",
+    "domain": "ugs.ed.ao",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade Independente de Angola",
+    "country": "Angola",
+    "state": "Angola",
+    "city": "Angola",
+    "domain": "unia.ao",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade Lusíada de Angola",
+    "country": "Angola",
+    "state": "Angola",
+    "city": "Angola",
+    "domain": "ulangola.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade Metodista de Angola",
+    "country": "Angola",
+    "state": "Angola",
+    "city": "Angola",
+    "domain": "uma.co.ao",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade Metropolitana de Angola",
+    "country": "Angola",
+    "state": "Angola",
+    "city": "Angola",
+    "domain": "unimetroangola.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade Tecnica de Angola",
+    "country": "Angola",
+    "state": "Angola",
+    "city": "Angola",
+    "domain": "utanga.co.ao",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Univesidade Agostinho Neto",
+    "country": "Angola",
+    "state": "Angola",
+    "city": "Angola",
+    "domain": "uan.ao",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

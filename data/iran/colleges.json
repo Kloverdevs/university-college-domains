@@ -1,0 +1,852 @@
+[
+  {
+    "name": "Tabriz College of Technology",
+    "country": "Iran",
+    "state": "East Azerbaijan",
+    "city": "Tabriz",
+    "domain": "tct.ac.ir",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Deylaman Institute of Higher Education",
+    "country": "Iran",
+    "state": "Gilan",
+    "city": "Deylaman",
+    "domain": "deylaman.ac.ir",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Agriculture College of Karaj",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Agriculture Technical College of Shahrekord",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ahvaz Technical and Vocational College",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arak - Athar Technical and Vocational Girls College",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baha'i Institute for Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "Baha'i",
+    "domain": "bihe.org",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Bandar Abbas Technical and Vocational College",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bandar Anzali Technical and Vocational Boys College (Shahid Khodadadi)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bank Melli Iran College of Nursing",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Behbahan College of Medical Sciences and Health Services",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Besat Institute of Higher Education of Kerman",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "besat.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Birjand Technical and Vocational College",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Borojen Technical and Vocational College",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Boys' Technical and Vocational College of Shirvan",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bushehr Technical and Vocational College (Boys)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Civil Aviation Technology College (CATC)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Computer College of State Educational Assessment Organization",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dr. Shariaty Technical and Vocational College",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ghaem Technical and Vocational College of Zanjan",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ghuchan Technica and Vocational College",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Girls Technical College, Mashhad",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Girls Technical College, Shiraz",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Golpayegan College of Engineering",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hatef Higher Education Institute",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "hatef.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hyrcania Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "Hyrcania",
+    "domain": "hyrcania.ac.ir",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Imam Khamenei Technical and Vocational College of Bushehr",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Isfahan Tohid Technical College",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khayyam Institute of Higher Education, Mashhad",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "khayyam.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lamei Gorgani Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "lameigorgani.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "List of Islamic educational institutions",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "amu.ac.in",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mamasani Technical and Vocational College (For Boys)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mohajer Technical And Vocational College of Isfahan",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "tvu.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Montazeri Technical College of Mashhad",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "mashhadmtv.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Moscow Institute of Physics and Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "ed.sjtu.edu.cn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Neyriz Technical and Vocational College (Girls)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Neyshabour Agricultural Technical College (Boys)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Orumieh Technical College # 1 Boys (Shahid Ghazi Tabatabai)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Power and Water Institute of Technology",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "Power and Water",
+    "domain": "pwit.ac.ir",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Qeshm Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "qeshm.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rasht Technical and Vocational College (Shahid Chamran)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Bahonar Technical and Vocational College (Shiraz)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Bahonar Technical and Vocational College - Zahedan",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Beheshti Teacher Training College",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "tbm.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Karani Technical and Vocational College, Sirjan",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Mofateh Technical and Vocational College of Hamedan",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Rajai Technical and Vocational College # 2, Shiraz",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shahid Yazdan Panah Sanandaj Technical and Vocational College",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shiraz Technical and Vocational College for Girls",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Soumesara Technical and Vocational Teacher's College",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical College of Tabriz (No 2 for Boys)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical Vocational College of Islamabad Gharb",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical Vocational College of Shohada Ahvaz (No2)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Boys College of Arak (Amir Kabir)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Boys College of Borujerd",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Boys College of Kerman (Shahid Chamran)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Boys College of Qazvin (Shahid Babaei)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Boys College of Rasht (Shahid Chamran)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational College Kermanshah (Girls)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational College for Boys # 1 (Shahid Chamran- Ahvaz)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational College for Boys # 2 (Shahid Rajai) Shiraz",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational College of Bushehr (Girls- Al-Zahra)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational College of Ilam (Boys)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational College of Kashan (Shahid Rajai)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational College of Kermanshah (No 1) for Boys",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational College of Kermanshah (No2 for Boys)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational College of Ramsar (Mulla Sadra)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational College of Sari",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational College of Shahrood (Girls)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational College of Tabriz (No 1 for Boys)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational College of Yazd (Hazrat Roghaye)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational College, Mashhad (Shahid Mohammad Montazeri)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical and Vocational Junior College of Karaj (Shahid Beheshti)",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tehran Girls Technical Teacher Training College",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Towid Amol Technical and Vocation College for Girls",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Urmia Technical and Vocational College for Boys - Shahid Ghazi Tabatabai",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Women's Technical and Vocational College of Zahedan",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zand Institute of Higher Education",
+    "country": "Iran",
+    "state": "Iran",
+    "city": "",
+    "domain": "zand.ac.ir",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jami Institute of Technology",
+    "country": "Iran",
+    "state": "Isfahan",
+    "city": "Jami",
+    "domain": "jami.ac.ir",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Daneshestan Institute of Higher Education",
+    "country": "Iran",
+    "state": "Markazi",
+    "city": "Daneshestan",
+    "domain": "sdi.ac.ir",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kamalolmolk Art & Architecture Higher Education Institute of Noshahr",
+    "country": "Iran",
+    "state": "Mazandaran",
+    "city": "",
+    "domain": "kamalolmolk.ac.ir",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Tabari Institute of Higher Education",
+    "country": "Iran",
+    "state": "Mazandaran",
+    "city": "Tabari",
+    "domain": "tabari.ac.ir",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Sadjad Institute of Technology",
+    "country": "Iran",
+    "state": "Razavi Khorasan",
+    "city": "Sadjad",
+    "domain": "sadjad.ac.ir",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Amirkabir College of Managmant & Technology",
+    "country": "Iran",
+    "state": "Tehran",
+    "city": "Amirkabir",
+    "domain": "acmt.ac.ir",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Zanjan Institute for Advanced Studies in Basic Sciences",
+    "country": "Iran",
+    "state": "Zanjan",
+    "city": "Zanjan",
+    "domain": "iasbs.ac.ir",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

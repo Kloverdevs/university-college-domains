@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Gemsville Technical University",
+    "country": "Guyana",
+    "state": "Guyana",
+    "city": "Gemsville Technical",
+    "domain": "gemsvilleuniversity.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Greenheart Medical School",
+    "country": "Guyana",
+    "state": "Guyana",
+    "city": "Guyana",
+    "domain": "greenheartmed.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Texila American University",
+    "country": "Guyana",
+    "state": "Guyana",
+    "city": "Texila American",
+    "domain": "tauedu.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Guyana",
+    "country": "Guyana",
+    "state": "Guyana",
+    "city": "Guyana",
+    "domain": "uog.edu.gy",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

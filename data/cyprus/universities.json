@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Cyprus International University",
+    "country": "Cyprus",
+    "state": "Cyprus",
+    "city": "Cyprus International",
+    "domain": "ciu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cyprus University of Technology",
+    "country": "Cyprus",
+    "state": "Cyprus",
+    "city": "Cyprus",
+    "domain": "cut.ac.cy",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eastern Mediterranean University",
+    "country": "Cyprus",
+    "state": "Cyprus",
+    "city": "Eastern Mediterranean",
+    "domain": "emu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "European University Cyprus",
+    "country": "Cyprus",
+    "state": "Cyprus",
+    "city": "Cyprus",
+    "domain": "euc.ac.cy",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "European University of Lefke",
+    "country": "Cyprus",
+    "state": "Cyprus",
+    "city": "Lefke",
+    "domain": "lefke.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Frederick University",
+    "country": "Cyprus",
+    "state": "Cyprus",
+    "city": "Frederick",
+    "domain": "frederick.ac.cy",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Girne American University",
+    "country": "Cyprus",
+    "state": "Cyprus",
+    "city": "Girne American",
+    "domain": "gau.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Near East University",
+    "country": "Cyprus",
+    "state": "Cyprus",
+    "city": "Near East",
+    "domain": "neu.edu.tr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Open University of Cyprus",
+    "country": "Cyprus",
+    "state": "Cyprus",
+    "city": "Cyprus",
+    "domain": "ouc.ac.cy",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Cyprus",
+    "country": "Cyprus",
+    "state": "Cyprus",
+    "city": "Cyprus",
+    "domain": "ucy.ac.cy",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Nicosia",
+    "country": "Cyprus",
+    "state": "Cyprus",
+    "city": "Nicosia",
+    "domain": "unic.ac.cy",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

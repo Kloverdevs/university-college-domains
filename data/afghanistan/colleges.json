@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Aria Institute of Higher Education",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Aria",
+    "domain": "aria.edu.af",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Dunya Institute of Higher Education",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Dunya",
+    "domain": "dunya.edu.af",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Faryab Higher Education Institute",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Faryab Higher Education",
+    "domain": "faryab.edu.af",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kaboora Institute of Higher Education",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Kaboora",
+    "domain": "kaboora.edu.af",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kabul Health Sciences Institute",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Kabul Health Sciences",
+    "domain": "kabuli.edu.af",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Karwan Institute of Higher Education",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Karwan",
+    "domain": "karwan.edu.af",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kateb Institute of Higher Education",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Kateb",
+    "domain": "kateb.edu.af",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Khana-e-Noor Institute of Higher Education",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Khana-e-Noor",
+    "domain": "ken.edu.af",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Maryam Institute of Higher Education",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Maryam",
+    "domain": "maryam.edu.af",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Polytechnical University of Kabul",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Kabul",
+    "domain": "polytechnic-kabul.org",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Rana Institute of Higher Education",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Rana",
+    "domain": "rihs.edu.af",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Sadat Institute of Higher Education",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Sadat",
+    "domain": "sadat.edu.af",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Taj Institute of Higher Education",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Taj",
+    "domain": "taj.edu.af",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

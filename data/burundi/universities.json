@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Hope Africa University",
+    "country": "Burundi",
+    "state": "Burundi",
+    "city": "Hope Africa",
+    "domain": "hopeafricauniversity.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Lumière de Bujumbura",
+    "country": "Burundi",
+    "state": "Burundi",
+    "city": "Burundi",
+    "domain": "ulbu.bi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université du Burundi",
+    "country": "Burundi",
+    "state": "Burundi",
+    "city": "Burundi",
+    "domain": "ub.edu.bi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

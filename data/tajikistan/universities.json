@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Tajik Agrarian University",
+    "country": "Tajikistan",
+    "state": "Tajikistan",
+    "city": "Tajik Agrarian",
+    "domain": "tajagroun.tj",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tajik National University",
+    "country": "Tajikistan",
+    "state": "Tajikistan",
+    "city": "Tajik National",
+    "domain": "tgnu.tarena.tj",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tajikistan International University",
+    "country": "Tajikistan",
+    "state": "Tajikistan",
+    "city": "Tajikistan International",
+    "domain": "tiu.tj",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

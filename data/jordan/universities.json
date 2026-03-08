@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Al Hussein Bin Talal University",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Al Hussein Bin Talal",
+    "domain": "ahu.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al al-Bayt University",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Al al-Bayt",
+    "domain": "aabu.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Ahliyya Amman University",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Al-Ahliyya Amman",
+    "domain": "ammanu.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Balqa Applied University",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Al-Balqa Applied",
+    "domain": "bau.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Isra University",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Al-Isra",
+    "domain": "isra.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Zaytoonah University",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Al-Zaytoonah",
+    "domain": "alzaytoonah.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Amman Arab University for Higher Studies",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Amman Arab",
+    "domain": "aau.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Amman University",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Amman",
+    "domain": "amman.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Applied Science University",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Jordan",
+    "domain": "asu.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arab Academy for Banking and Financial Sciences",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Jordan",
+    "domain": "aabfs.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arab Open University",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Arab Open",
+    "domain": "aou.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "German Jordanian University",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "German Jordanian",
+    "domain": "gju.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hashemite University",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Hashemite",
+    "domain": "hu.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Irbid National University",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Irbid National",
+    "domain": "inu.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jadara University",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Jadara",
+    "domain": "jadara.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jerash Private University",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Jerash Private",
+    "domain": "jerashun.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Jordan University of Science and Technology",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Science and Technology",
+    "domain": "just.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Middle East University",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Middle East",
+    "domain": "meu.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mu' tah University",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Mu' tah",
+    "domain": "mutah.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Philadelphia University",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Philadelphia",
+    "domain": "philadelphia.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Princess Sumaya University for Technology",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Princess Sumaya",
+    "domain": "psut.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tafila Technical University",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Tafila Technical",
+    "domain": "ttu.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The World Islamic Sciences & Education University",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Jordan",
+    "domain": "wise.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Jordan",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Jordan",
+    "domain": "ju.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Petra",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Petra",
+    "domain": "uop.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yarmouk University",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Yarmouk",
+    "domain": "yu.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zarka Private University",
+    "country": "Jordan",
+    "state": "Jordan",
+    "city": "Zarka Private",
+    "domain": "zpu.edu.jo",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  }
+]

@@ -1,0 +1,4937 @@
+[
+  {
+    "name": "Balochistan University of Engineering and Technology Khuzdar",
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "city": "Balochistan",
+    "domain": "buetk.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Balochistan University of Information Technology & Management Sciences",
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "city": "Balochistan",
+    "domain": "buitms.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Capital University of Science & Technology",
+    "country": "Pakistan",
+    "state": "Islamabad",
+    "city": "Science & Technology",
+    "domain": "cust.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "City University of Science and Information Technology",
+    "country": "Pakistan",
+    "state": "KP",
+    "city": "City",
+    "domain": "cusit.edu.pk",
+    "aliases": [
+      "cityuniversity.edu.pk",
+      "cup.edu.pk"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abasyn University Peshawar",
+    "country": "Pakistan",
+    "state": "Khyber Pakhtunkhwa",
+    "city": "Abasyn",
+    "domain": "abasyn.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cecos Univeristy of Information Technology",
+    "country": "Pakistan",
+    "state": "Khyber Pakhtunkhwa",
+    "city": "",
+    "domain": "cecos.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kohat University of Science and Technology (KUST)",
+    "country": "Pakistan",
+    "state": "Khyber Pakhtunkhwa",
+    "city": "Science and Technology",
+    "domain": "kust.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "North West Frontier Province Agricultural University",
+    "country": "Pakistan",
+    "state": "Khyber Pakhtunkhwa",
+    "city": "",
+    "domain": "aup.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sarhad University of Science & Information Technology, Peshawar",
+    "country": "Pakistan",
+    "state": "Khyber Pakhtunkhwa",
+    "city": "Sarhad",
+    "domain": "suit.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Engineering and Technology Peshawar",
+    "country": "Pakistan",
+    "state": "Khyber Pakhtunkhwa",
+    "city": "Engineering and Technology Peshawar",
+    "domain": "nwfpuet.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Malakand",
+    "country": "Pakistan",
+    "state": "Khyber Pakhtunkhwa",
+    "city": "Malakand",
+    "domain": "uom.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Peshawar",
+    "country": "Pakistan",
+    "state": "Khyber Pakhtunkhwa",
+    "city": "Peshawar",
+    "domain": "upesh.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "AIMS Institute of Management Sciences",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abaseen Institute of Medical and Modern Sciences",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abbottabad University of Science and Technology - AUST",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abdul Wali Khan University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abu Ali Seena University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aeroline Institute of Aviation Studies",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aga Khan University Examination Board",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Agha Computers Training Institute",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Huda International Welfare Foundation",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Khair University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Al-Khair",
+    "domain": "alkhair.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Qasim University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alhamd Islamic University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Alhamd Islamic",
+    "domain": "aiu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ali Garh Institute of Management Science",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ali Institute of Education",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Allama Iqbal Open University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Allama Iqbal Open",
+    "domain": "aiou.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Allama Iqbal Open University, Islamabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Allama Muhammad Yusuf Binnori Islamic University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alpha Omega University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Alpha Omega",
+    "domain": "alphaomega.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American International University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American School of International Academics - Lahore",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American School of International Business",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American School of London",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American University of Hawaii, Punjab Campus",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Hawaii",
+    "domain": "auh.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American University of London",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "americanuniversity.org.uk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American World University International",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aptech Computer Education",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arena Multimedia",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Armed Forces Board for Higher Education",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aryan University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Association of International Certified Public Accountants",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Azad Jammu and Kashmir University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Azad Jammu and Kashmir",
+    "domain": "ajku.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bacha Khan University, Charsadda",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bahauddin Zakariya University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Balochistan Board of Intermediate and Secondary Education, Quetta",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Balochistan University of Information Technology and Management Sciences, Quetta",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Balochistan University of Information Technology, Engineering and Management Sciences, Quetta",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Barret Hodgson University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Beaconhouse National University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "bnu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Begum Nustrat Bhutto Women University, Sukkur",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Benazir Bhutto Shaheed University Lyari, Karachi",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Benazir Bhutto Shaheed University of Technology and Skill Development, Khairpur Mirs",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Digital and Professional Education Council",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Abbottabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "biseatd.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Bahawalpur",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "bisebwp.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Balochistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Bannu",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "biseb.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Dera Ghazi Khan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "bisedgkhan.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Dera Ismail Khan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Faisalabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "bisefsd.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Gujranwala",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "bisegrw.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Hyderabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "bisehyd.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Hyderabad, Sindh",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Karachi",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Kohat",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Lahore",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "biselahore.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Larkana, Sindh",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Malakand",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Mardan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Mirpur",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Mirpurkhas",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Multan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "bisemultan.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Peshawar",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "bisep.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Rawalpindi",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "biserawalpindi.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Sahiwal",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "bisesahiwal.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Saidu Sharif Swat",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Sargodha",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "bisesargodha.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Shaheed Benazirabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Intermediate and Secondary Education, Sukkur, Sindh",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Professional Education",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Science and Technical Education",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Technical and Professional Education",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Board of Trade and Technical Education",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bolan University of Medical & Health Sciences, Quetta",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Brains Institute Peshawar",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "CECOS University of Information Technology and Emerging Sciences",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "COMSATS University Islamabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "comsats.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Capital University of Science and Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centre for Health and Population Studies",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Certified Internal Auditors of Pakistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chanab Institute of Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cholistan University of Veterinary and Animal Sciences, Bahawalpur",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Commeces Institute of Business and Emerging Sciences",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Commecs Institute of Business and Emerging Sciences",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Computer Collegiate",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "DHA Suffa University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dawood University of Engineering and Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Directorate of Manpower and Training, Trade Testing Board",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dow University of Health Sciences, Karachi",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "East-West University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Education Department, North-West Frontier Province",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Education and Skills Development Council",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Education in Pakistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "space.mit.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Emaan Institute of Management and Sciences, Karachi",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "FAST - National University of Computer and Emerging Sciences (NUCES)",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "FAST - National",
+    "domain": "nu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Faisalabad Medical University, Faisalabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fashion Design Institute",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fatima Jinnah Medical University, Lahore",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fatima Jinnah Women University, Rawalpindi",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Board of Intermediate and Secondary Education, Islamabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Urdu University of Arts, Sciences and Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Federal Urdu University of Arts,Science and Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Federal Urdu",
+    "domain": "fuuast.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Flash Institute of Computer Studies",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Foundation University, Islamabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Frontier Women University, Peshawar",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "GC University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "GC",
+    "domain": "gcu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gambat Institute of Medical Sciences",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gandhara University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ghazi University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gift University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Gift",
+    "domain": "gift.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Glamshire University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Global Institute",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gomal University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Gomal",
+    "domain": "gu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gomal University, D.I. Khan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government College University, Hyderabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government College University, Lahore",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government College Women University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government College for Women University, Sialkot",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government Sadiq College Women University, Bahawalpur",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Greenwich University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Greenwich",
+    "domain": "guic.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gujranwala Theological Seminary",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Habib University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "habib.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hajvery University, Lahore",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hamdard University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Hamdard",
+    "domain": "hamdard.edu.pk",
+    "aliases": [
+      "hamdard.edu"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hamdard University, Karachi",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hazara University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Hazara",
+    "domain": "hu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Health Services Academy (HSA), Islamabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Higher Education Commission (Pakistan)",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "bc.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hitec University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Hitec",
+    "domain": "hitecuni.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "INFOVISION Institute of Management and Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ilma University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "ilmauniversity.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Imam Ghazali University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Indus Valley School of Art and Architecture",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "indusvalley.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute for Art and Culture",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Advance Studies of Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Business Administration, Karachi",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Business Management, Karachi",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Business and Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Certified Public Accountants of Pakistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Chartered Accountants of Pakistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "icap.org.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Computer Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Corporate Secretaries of Pakistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "icsp.org.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Cost and Management Accountants of Pakistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "icmap.com.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Information Technology and Management",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "ipu.ac.in",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Management Science and Arts",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Management Sciences, Faisalabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Management Sciences, Lahore",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Path Lab Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Professional Studies",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Science and Management",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Southern Punjab",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Space Technology, Islamabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Examination and Assessment Board",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Institute of Professional Studies",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Islamic University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Pakistan",
+    "domain": "iiu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Islamic University, Islamabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Rescue Committee",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "lux.collections.yale.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International School of Islamabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "isoi.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International University of America",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iqra National University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "inu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iqra University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Iqra",
+    "domain": "iqra.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Irqa Educational and Technical Council",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamabad Computer Institute",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamia College University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "icp.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamia University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic University of Pakistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Isra University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Isra",
+    "domain": "isra.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jinnah Sindh Medical University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "jsmu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jinnah University for Women",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Jinnah",
+    "domain": "juw.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Karachi American School",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "kas.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Karachi School for Business and Leadership",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Karachi School of Business and Leadership",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Karachi School of Textile and Fashion Design",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Karakoram International University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Karakoram International",
+    "domain": "kiu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Karakurum International University, Gilgit",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khushal Khan Khattak University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "kkkuk.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khwaja Fareed University of Engineering and Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khyber Medical University, Peshawar",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khyber Pakhtunkhwa Agricultural University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khyber Pakhtunkhwa Board of Technical Education, Peshawar",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khyber Pakhtunkhwa Board of Technical and Commerce Education, Peshawar",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khyber Pakhtunkhwa Faculty of Paramedical and Allied Health Sciences",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khyber Pakhtunkhwa Medical Faculty Peshawar",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khyber Pakhtunkhwa Trade Testing Board",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "King Edward Medical University, Lahore",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kohat University of Science and Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lahore American School",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "las.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lahore Garrison University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "lgu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lahore Leads University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lahore Metropolitan University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lahore School of Economics",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "lahoreschoolofeconomics.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lahore School of Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lahore University of Computer Excellence",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lasbela University of Agriculture, Water and Marine Science",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Leads Institute of Management Sciences",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Liaquat University of Medical & Health Sciences Jamshoro",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Liaquat",
+    "domain": "lumhs.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Liaquat University of Medical and Health Sciences, Jamshoro",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lincoln Institute",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "List of business schools in Pakistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "ksbl.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "List of medical schools in Pakistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "tribune.com.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "List of pharmacy schools in Pakistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "pharmacycouncil.org.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "London School of Montessori Teachers Training",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Malir University of Science and Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Management Development Institute",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "mdi.ac.in",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Matrix Institute of Emerging Science",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mehran Institute of Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mehran University of Engineering & Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Engineering & Technology",
+    "domain": "muet.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mehran University of Engineering and Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Metropolitan University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "MiTech Institute of Management and Information and Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Micro Inn Technologies Institute",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Minhaj University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mir Chakar Khan Rind University, Sibi Balochistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mirpur University of Science and Technology - MUST AJ&K",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Modern Institute of Informatics and Management",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mohammad Ali Jinnah University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Mohammad Ali Jinnah",
+    "domain": "jinnah.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mohi-ud-Din Islamic University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Mohi-ud-Din Islamic",
+    "domain": "miu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mohi-ud-Din Islamic University, AJK",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mohiuddin Islamic University, Islamabad Campus",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Montessori Pakistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mooreland University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Mooreland",
+    "domain": "moorelanduniversity.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Muhammad Nawaz Shareef University of Agriculture",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Muhammad Nawaz Sharif University of  Engineering and Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Multan Institute of Management Sciences",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Muslim Youth University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Myer's Institution of Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "NFC Institute of Engineering and Technology, Multan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Namal Institute, Mianwali",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Council for Homeopathy",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "nchpakistan.gov.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Defense University, Islamabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute for Handicapped",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute of Health",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute of Rehabilitation Medicine",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute of Science and Technical Education",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Skills University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Technical Training Council",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Textile University, Faisalabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Computer and Emerging Sciences",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "hec.gov.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Medical Sciences",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "numspak.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Modern Languages",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Modern Languages",
+    "domain": "numl.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Science and Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Science and Technology",
+    "domain": "nust.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Sciences and Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Sciences and Technology (Pakistan)",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "acu.ac.uk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Technology (NUTECH), Islamabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nazeer Hussain University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "nhu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Newports Institute of Communication and Economics",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nishtar Medical University, Multan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "North-West Frontier Province Board of Technical Education, Peshawar",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "North-West Frontier Province University of Engineering and Technology, Peshawar",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Northern University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nur International University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nursing Examination Board, Baluchistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nursing Examination Board, Khyber Pakhtunkhwa",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nursing Examination Board, N.W.F.P",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nursing Examination Board, Punjab",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "PNS Karsaz",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pak Kashmir Institute of Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pak-Austria Fachhochschule Institute of Applied Sciences and Technology, Haripur",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "uvm.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan Adventist Seminary",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan Air Force",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "dawn.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan American Cultural Center",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan Bedwear Designing and Training Institute",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan Bureau of Statistics",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "pbs.gov.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan Institute of Development Economics, Islamabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan Institute of Engineering and Applied Sciences, Islamabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan Institute of Fashion and Design, Lahore",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan Institute of Medical Sciences, Islamabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan Institute of Ophthalmology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan Institute of Professional Science",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan Institute of Public Finance Accountants",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "soae.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan Institute of Technical Skills",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan Institute of Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan Institute of Tourism and Hotel Management",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan International Airlines",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "academia.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan Marine Academy",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "marineacademy.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan Military Academy, Abbottabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan Naval Academy, Karachi",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan Navy Electrical School, PNS Karsaz",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan School of Fashion Design",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan Technical and Educational Council, Islamabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Peoples University of Medical and Health Sciences for Women, Nawabshah",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pir Mehr Ali Shah Arid Agriculture University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Planwel University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Planwel",
+    "domain": "planwel.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Preston University, Pakistan Campus",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Preston",
+    "domain": "prestonpak.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Private university",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "ugc.ac.in",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Proceed Institute of Management and Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Professional Education and Skills Development Council",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Professional Skill Educational Council",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Professional Skill Sciences Council",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Public university",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "ucl.ac.uk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Punjab Board of Technical Education, Lahore",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Punjab Nursing Services Council",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Punjab Tianjin University of Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "ptut.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pyramid Education Center",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Pakistan",
+    "domain": "pedu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pyramid Education Centre",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Qarshi University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "qu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Qauid-e-Awam University of Engineering Sciences & Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Qauid-e-Awam",
+    "domain": "quest.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Quaid-I-Azam University, Islamabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Quaid-e-Awam University of Engineering, Science and Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Quaid-e-Azam University of Pakistan, Lahore",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Quaid-i-Azam University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Quaid-i-Azam",
+    "domain": "qau.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Qurtuba University of Science and Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Qurtuba University of Science and Infromation Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Qurtuba",
+    "domain": "qurtuba.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rankings of universities in Pakistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "topuniversities.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rawal Open International University of Alternative Medicine",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rawalpindi Institute of Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rawalpindi Medical University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "rmur.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rawalpindi Women University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "rwu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Riphah International Univeristy",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Pakistan",
+    "domain": "riphah.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Riphah International University, Islamabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "SINTEC System",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "SPIRIT Institute of Management and Computer Science",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "SYSTEX Institute of Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sadiqabad Polytechnic Institute",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Salim Habib University (Former Barret Hodgson University)",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sardar Bahadur Khan Women University, Quetta",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sarhad Small Industries Development Board",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sarhad University of Science and Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Scarsdale International School",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Aeronautics, Pakistan Air Force",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shah Abdul Latif University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shah Abdul Latif University Khairpur",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Shah Abdul Latif",
+    "domain": "salu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaheed Benazir Bhutto City University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "sbbcu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaheed Benazir Bhutto Dewan University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "sbbdewanuniversity.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaheed Benazir Bhutto University of Veterinary and Animal Sciences",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "sbbuvas.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaheed Benazir Bhutto University, Shaheed Benazirabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "sbbusba.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaheed Benazir Bhutto University, Sheringal, Upper Dir",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaheed Benazir Bhutto Women University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Shaheed Benazir Bhutto Women",
+    "domain": "fwu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaheed Benazir Bhutto Women University, Peshawar",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaheed Mohtarma Benazir Bhutto Medical University, Larkana",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaheed Zulfikar Ali Bhutto Institute of Science and Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "szabist.ac.ae",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaheed Zulfiqar Ali Bhutto Medical University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "szabmu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaheed Zulfiqar Ali Bhutto University of Law",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "szabul.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shifa Tameer-e-Millat University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "stmu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shuhada-e-Army Public School University of Technology, Nowshera",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sindh Agricultural University, Tandojam",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sindh Board of Technical Education",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sindh Institute of Management and Technology - SIMT",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sindh Institute of Medical Sciences, Karachi",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sindh Madresatul Islam University, Karachi",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sindh Medical Faculty",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sindh Nurses Examination Board, Karachi",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sir Syed (CASE) Institute of Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sir Syed University of Engineering and Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Engineering and Technology",
+    "domain": "ssuet.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Skill Development Council",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Skill Professional Trade Testing Council",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Skill Technical and Professional Association",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Skillston",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Society of Accounting Education",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sohail University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "South Asia Institute of Management and Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Southeastern University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "seu.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Square Soft Systems",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. John's Theological Seminary",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Standard Institute of Emerging Technologies and Sciences (SIETS)",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sukkur Institute of Business Administration",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "TDCP - Institute of Tourism and Hotel Management",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "TIU Institute",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tanzeem ul Madaris Ahle Sunnat, Pakistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Teachers Resource Center",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Elites University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Green International University, Lahore",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Institute of Bankers, Pakistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Institution of Certified General Accountants",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The International School of Choueifat - Lahore",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Professional Skill Council",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Punjab Medical Faculty",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Shaikh Ayaz University, Shikarpur Sindh",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Superior University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The University of Agriculture, D. I. Khan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The University of Faisalabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Women University, Multan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Times Institute, Multan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Trade Testing Board Sindh",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Trade Testing Educational Association",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Trade Testing Professional Council",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College Sedaya International",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College of Commerce",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College of Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Agriculture, Peshawar",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Arid Agriculture, Rawalpindi",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Art and Culture, Jamshoro",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Azad Jammu and Kashmir, Muzaffarabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Balochistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Balochistan",
+    "domain": "uob.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Baltistan, Skardu",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Buner",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "ubuner.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Central Punjab",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Central Punjab",
+    "domain": "ucp.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Chakwal",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "uoc.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Chitral",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "chitralexpress.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of East",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "East",
+    "domain": "uoe.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Economics and Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Education",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Pakistan",
+    "domain": "ue.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Engineering and Technology (UET), Mardan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Engineering and Technology Taxila",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Engineering and Technology Taxila",
+    "domain": "uettaxila.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of FATA, Kohat",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Haripur",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "uoh.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Health Sciences, Lahore",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "uhs.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Home Economics, Lahore",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Houston, Clear Lake, Pakistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Islamabad",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Islamic Study",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Jhang",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "uoj.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Kotli Azad Jammu and Kashmir",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Lakki Marwat",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Loralai",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "uoli.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Management and Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Management and Technology",
+    "domain": "umt.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Mianwali",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Multan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Munawwar-ul-Islam",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Munawwar",
+    "domain": "umi.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Narowal",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "uon.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of NorthWest",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "NorthWest",
+    "domain": "unw.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Okara",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "uo.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Poonch, Rawalakot",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Sahiwal",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "uosahiwal.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Science & Technology Bannu",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Science & Technology Bannu",
+    "domain": "ustb.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Science and Technology, Bannu",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Sialkot",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "uskt.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of South Asia",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "South Asia",
+    "domain": "usa.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Southern Pakistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Sufism and Modern Sciences, Bhitshah Sindh",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Swabi",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "uoswabi.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Swat",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "uswat.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Turbat",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "uot.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Veterinary and Animal Sciences",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Wah",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Wah",
+    "domain": "uw.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Virtual University of Pakistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wafaq ul Madaris Al-Arabia",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wah Institute of Management Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Washington University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "West Pakistan Agricultural University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "West Pakistan Board of Technical Education, Lahore",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "West Pakistan University of Engineering and Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Western International University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Women University Mardan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "wumardan.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Women University of Azad Jammu and Kashmir",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "wuajk.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Women University, Swabi",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zia-ud-Din Medical University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Zia-ud-Din Medical",
+    "domain": "geocities.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zia-ud-Din University",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Zia-ud-Din",
+    "domain": "zu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ziauddin University Examination Board",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Air University",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "Air",
+    "domain": "au.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arid Agriculture University",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "Arid Agriculture",
+    "domain": "uaar.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bahauddin Zakariya University, Multan",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "Bahauddin Zakariya",
+    "domain": "bzu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bahria University",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "Bahria",
+    "domain": "bahria.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lahore College for Women University",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "Lahore",
+    "domain": "lcwu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lahore University of Management Sciences",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "Lahore",
+    "domain": "lums.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Minhaj University Lahore",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "Minhaj",
+    "domain": "mul.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan Virtual University",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "Pakistan Virtual",
+    "domain": "vu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Punjab University College of Information Tecnology",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "Punjab",
+    "domain": "pucit.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Gujrat",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "Gujrat",
+    "domain": "uog.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Lahore",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "Lahore",
+    "domain": "uol.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Sargodha",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "Sargodha",
+    "domain": "uos.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Veterinary & Animal Science",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "Veterinary & Animal Science",
+    "domain": "uvas.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of the Punjab",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "the Punjab",
+    "domain": "pu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of the Punjab, Gujranwala Campus",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "the Punjab",
+    "domain": "pugc.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zawiya Academy",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "",
+    "domain": "zawiya.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government College University Faisalabad",
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Government College",
+    "domain": "gcuf.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hajvery University Lahore for Women",
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Hajvery",
+    "domain": "hajvery.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Information Technology University, Lahore",
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "",
+    "domain": "itu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamia University of Bahawalpur",
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Bahawalpur",
+    "domain": "iub.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Muhammad Nawaz Sharif University of Engineering and Technology, Multan",
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Engineering and Technology",
+    "domain": "mnsuet.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Government Sadiq College Women University Bahawalpur",
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "The Government Sadiq",
+    "domain": "gscwu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Agriculture Faisalabad",
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Agriculture Faisalabad",
+    "domain": "uaf.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Engineering and Technology Lahore",
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Lahore",
+    "domain": "uet.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Faisalabad",
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Faisalabad",
+    "domain": "tuf.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aga Khan University",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Aga Khan",
+    "domain": "aku.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baqai Medical University",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Baqai Medical",
+    "domain": "baqai.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "DHA Suffa Uinversity",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "",
+    "domain": "dsu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dow University of Health Sciences",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Dow",
+    "domain": "duhs.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Indus University",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Indus",
+    "domain": "indus.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Karachi School of Art",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "",
+    "domain": "ksa.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mohammad Ali Jinnah University, Karachi",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Karachi",
+    "domain": "jinnah.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "NED University of Engineering and Technology Karachi",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "NED",
+    "domain": "neduet.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sindh Agricultural University",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Sindh Agricultural",
+    "domain": "sau.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sindh Madressatul Islam University",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Sindh Madressatul Islam",
+    "domain": "smiu.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Islamic Studies",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Islamic Studies",
+    "domain": "aldirasat.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Karachi",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Karachi",
+    "domain": "uok.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Sindh",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Sindh",
+    "domain": "usindh.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Sufism and Modern Sciences",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Sufism and Modern Sciences",
+    "domain": "usms.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,6732 @@
+[
+  {
+    "name": "APU International School",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "apu.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aptech Computer Education",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arena Multimedia",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asian Institute of Technology in Vietnam - Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bac Thai Truong Cao Dang Nong nghiep No. 3",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Banking University of Ho Chi Minh City",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Banking",
+    "domain": "buh.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Binh Duong University",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Binh Duong",
+    "domain": "bdu.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "British University Vietnam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "buv.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "British Vietnamese International School, Ho Chi Minh City",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Can-Tho University",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Can-Tho",
+    "domain": "ctu.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cao Dang FPT Polytechnic",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cao Dang Su Pham Dong Nai",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chung Vien Phan-Xi-Co Thu Duc",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Chung Vien Sao Bien Nha Trang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Da Nang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Da Nang - Truong Dai Hoc Su Pham",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Da Nang - Truong Dai Hoc Su Pham Ky Thuat",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Da Nang, Trung Tam Dao Tao Thuong Xuyen",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Da Nang, Truong Cao Dang Cong Nghe",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Da Nang, Truong Dai Hoc Bach Khoa",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Da Nang, Truong Dai Hoc Kinh Te",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Da Nang, Truong Dai Hoc Ngoai Ngu",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Dong A",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Hoa Sen",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Hue",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Hue - Truong Dai Hoc Ngoai Ngu",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Hue, Truong Dai Hoc Khoa Hoc",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Hue, Truong Dai Hoc Su Pham Hue",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Hue, Truong Dai Hoc Y Duoc Hue",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Nong Nghiep I Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia Ha Noi - Truong Dai Hoc Viet Nhat",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia TP. Ho Chi Minh, Truong Dai Hoc An Giang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia TP. Ho Chi Minh, Truong Dai Hoc Khoa Hoc Suc Khoe",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, Ha Noi, Vien Quoc Te Phap Ngu",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, Ha Noi, Vien Vi Sinh Vat Va Cong Nghe Sinh Hoc",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, Hanoi -Truong Dai Hoc Ngoai Ngu",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, Hanoi, Khoa Cac Khoa Hoc Lien Nganh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, Hanoi, Khoa Luat",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, Hanoi, Khoa Quan Tri Va Kinh Doanh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, Hanoi, Khoa Quoc Te",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, Hanoi, Truong Dai Hoc Cong Nghe",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, Hanoi, Truong Dai Hoc Giao Duc",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, Hanoi, Truong Dai Hoc Khoa Hoc Tu Nhien",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, Hanoi, Truong Dai Hoc Khoa Hoc Xa Hoi Va Nhan Van - DHQGHN",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, Hanoi, Truong Dai Hoc Kinh Te",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, Hanoi, Vien Dao Tao Quoc Te",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, T.P Ho Chi Minh, Truong Dai Hoc Khoa Tu Nhien",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, TP. Ho Chi Minh, Trung Tam Phat Trien Cong Nghe Thong Tin",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, TP. Ho Chi Minh, Truong Dai Hoc Bach Khoa",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, TP. Ho Chi Minh, Truong Dai Hoc Cong Nghe Thong Tin",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, TP. Ho Chi Minh, Truong Dai Hoc Khoa Hoc Tu Nhien",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, TP. Ho Chi Minh, Truong Dai Hoc Khoa Hoc Xa Hoi Va Nhan Van",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, TP. Ho Chi Minh, Truong Dai Hoc Kinh Te - Luat",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, TP. Ho Chi Minh, Truong Dai Hoc Quoc Te",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, TP. Ho Chi Minh, Vien Dao Tao Quoc Te",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, TP. Ho Chi Minh, Vien Moi Truong Va Tai Nguyen",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Quoc Gia, Tp. Ho Chi Minh, Khoa Y",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Su Pham Ky Thuat TP. Ho Chi Minh, Truong Trung Hoc Ky Thuat Thuc Hanh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Tan Tao",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Thai Nguyen",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Thai Nguyen, Truong Dai Hoc Khoa Hoc",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Thai Nguyen, Truong Dai Hoc Ky Thuat Cong Nghiep",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Thai Nguyen, Truong Dai Hoc Su Pham",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Thai Nguyen, Truong Dai Hoc y Du'oc",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Hoc Y Duoc Thanh Pho Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dominican Center of Studies",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "FPT University",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "FPT",
+    "domain": "fpt.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fishery University",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Foreign Trade University",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Foreign Trade",
+    "domain": "ftu.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "French-Vietnamese Center of Management Training",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Giam Doc Hoc Vien Hanh Chinh Quoc Gia",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hai Duong University",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Hai Duong",
+    "domain": "uhd.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanoi Conservatory",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanoi Medical University",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Hanoi Medical",
+    "domain": "hmu.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanoi National Economics University",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Hanoi National Economics",
+    "domain": "neu.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanoi National University",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanoi Open University",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Hanoi Open",
+    "domain": "hou.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanoi University of Architecture",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Architecture",
+    "domain": "hau.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanoi University of Civil Engineering",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Hanoi",
+    "domain": "dhxd.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanoi University of Finance and Accounting",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanoi University of Mining and Geology",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Mining and Geology",
+    "domain": "humg.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanoi University of Science",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Hanoi",
+    "domain": "hus.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanoi University of Science & Technology",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Science & Technology",
+    "domain": "hust.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ho Chi Minh City Centre for Training and Research of Banking Science",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ho Chi Minh City Open University",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Vietnam",
+    "domain": "ou.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ho Chi Minh City University of Agriculture and Forestry",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Agriculture and Forestry",
+    "domain": "hcmuaf.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ho Chi Minh City University of Architecture",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Architecture",
+    "domain": "uah.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ho Chi Minh City University of Economics",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Economics",
+    "domain": "ueh.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ho Chi Minh City University of Foreign Languages and Information Technology",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Ho Chi Minh City",
+    "domain": "huflit.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ho Chi Minh City University of Law",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Ho Chi Minh City",
+    "domain": "hcmulaw.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ho Chi Minh City University of Medicine and Pharmacy",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Medicine and Pharmacy",
+    "domain": "yds.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ho Chi Minh City University of Natural Sciences",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Natural Sciences",
+    "domain": "hcmuns.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ho Chi Minh City University of Pedagogics",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Pedagogics",
+    "domain": "hcmup.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ho Chi Minh City University of Social Sciences and Humanities",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Social Sciences and Humanities",
+    "domain": "hcmussh.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ho Chi Minh City University of Technology",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Ho Chi Minh City",
+    "domain": "hcmut.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ho Chi Minh City University of Transport",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Transport",
+    "domain": "hcmutrans.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ho Chi Minh National Political Academy",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Am Nhac Hue",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien An Ninh Nhan Dan",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Bao Chi Va Tuyen Truyen",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Can Bo Thanh Pho Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Canh Sat Nhan Dan",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Chinh Sach Va Phat Trien",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Chinh Tri",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Cong Nghe Buu Chinh Vien Thong, Hanoi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Cong Nghe Buu Chinh Vien Thong, TP. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Cong Nghe Thong Tin Va Thiet Ke VTC",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Hang Khong Viet Nam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Khoa Hoc Quan Su",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Khoa Hoc Xa Hoi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Lien Dong Thanh Toma",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Ngan Hang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Ngoai Giao Viet Nam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Nong Nghiep Viet Nam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Quan He Quoc Te",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Quan Ly Giao Duc",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Quan Y",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Saledieng Da Lat",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Tai Chinh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Thanh Giuse TInh Dong Ten Viet Nam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Tu Phap",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoc Vien Y Duoc Hoc Co Truyen Viet Nam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hong Bang University International",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Hong Bang",
+    "domain": "hbu.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hue University",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Hue",
+    "domain": "hueuni.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hue University of Agriculture and Forestry",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Agriculture and Forestry",
+    "domain": "huaf.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hung Vuong University, Phu Tho",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Asian Studies",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International School Ho Chi Minh City",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "ishcmc.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Schools of North America",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "MienTay Construction University",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ministry of Education and Training",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "lux.collections.yale.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "NIIT - National Institute of Information Technology",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute of Hygiene and Epidemiology",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "ui.adsabs.harvard.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nhac Vien Thanh Pho Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Phan Vien Bao Chi Va Tuyen Truyen",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "RMIT International University Vietnam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "RMIT International",
+    "domain": "rmit.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Redemptorist Studentate of Vietnam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saigon Institute of Technology",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saigon International University",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "siu.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saigon South International School",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "ssis.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saigon University",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Saigon",
+    "domain": "sgu.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Schools of North America",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Paul American School Hanoi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tay Nguyen University",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Tay Nguyen",
+    "domain": "taynguyenuni.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Thainguyen University of Agriculture and Forestry",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Agriculture and Forestry",
+    "domain": "tuaf.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The American School of Vietnam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Canadian International School",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The International School of Vietnam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tran Dai Nghia High School for the Gifted",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Troung Cao Dang Vinh Phuc",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Troung Dai Hoc Dong Nai",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Trung Tam Dao Tao Va NCKH Ngan Hang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Trung Tam Dao Tao va Boi Duong Can Bo Y Te Tp Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Cap Ngan Hang TP Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang BC Marketing",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Bach Khoa Da Nang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Bach Khoa Nam Sai Gon",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Bach Khoa Sai Gon",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Bach Khoa Viet Nam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Bach Viet",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Ban Cong Cong Nghe Va Quan Tri Doanh Nghiep",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Ban Cong Hoa Sen",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Ban Cong Marketing, Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Ban Cong Nghe Va Quan Tri Doanh Nghiep",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Ben Tre",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Binh Minh Sai Gon",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Can Tho",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Canh Sat Nhan Dan II",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Co Dien va Thuy Loi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Co Gioi va Thuy Loi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Co Khi Luyen Kim",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Cong Dong Ba Ria - Vung Tau",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Cong Dong Hai Phong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Cong Dong Soc Trang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Cong Nghe Bach Khoa Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Cong Nghe Sai Gon",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Cong Nghe Thanh Pho Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Cong Nghe Thong Tin TP Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Cong Nghe Thu Duc",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Cong Nghe Va Du Lich",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Cong Nghe Va Kinh Te Bao Loc",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Cong Nghe Va Quan Tri Sonadezi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Cong Nghe Viettronics",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Cong Nghe Y - Duoc Viet Nam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Cong Nghiep Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Cong Nghiep Hai Phong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Cong Nghiep Hue",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Cong Nghiep Hung Yen",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Cong Nghiep IV",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Cong Nghiep Thuc Pham TP Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Cong Thuong Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Cong Thuong TP. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Cong Thuong Viet Nam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Dai Viet Sai Gon",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Dien Luc Thanh Pho Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Du Lich Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Du Lich Hai Phong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Du Lich Hue",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Du Lich Nha Trang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Du Lich Sai Gon",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Du Lich Va Cong Thuong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Du Lich Va Thuong Mai",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Du Lich Vung Tau",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Duoc Phu Tho",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Duoc Trung Uong Hai Duong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Gia Lai",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Giao Thong Quang Ninh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Giao Thong Van Tai Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Giao Thong Van Tai III",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Giao Thong Van Tai TP. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Giao Thong Van Tai Trung Uong VI",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Hai Duong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Hai Quan",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Hang Hai 1",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Hang Hai II",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Hau Can 2",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Kiem Sat Hanoi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Kien Giang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Kinh Te - Cong Nghe Thanh Pho Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Kinh Te - Ke Hoach Da Nang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Kinh Te - Ky Thuat Can Tho",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Kinh Te - Ky Thuat Mien Nam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Kinh Te - Ky Thuat Phu Lam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Kinh Te - Ky Thuat Sai Gon",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Kinh Te - Ky Thuat Thanh Pho Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Kinh Te - Ky Thuat Thoung Mai",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Kinh Te - Ky Thuat Vinatex Thanh Pho Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Kinh Te - Tai Chinh Vinh Long",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Kinh Te Cong Nghe Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Kinh Te Cong Nghiep Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Kinh Te Doi Ngoai",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Kinh Te Ky Thuat Cong Nghiep",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Kinh Te Ky Thuat Cong Nghiep II TP. HCM",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Kinh Te Ky Thuat Kien Giang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Kinh Te Thanh Pho Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Ky Nghe DL TP Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Ky Nghe II",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Ky Thuat Cao Thang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Ky Thuat Cong Nghe Ba Ria - Vung Tau",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Ky Thuat Cong Nghe Dong Nai",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Ky Thuat Cong Nghe Van Xuan",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Ky Thuat Dong Nai",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Ky Thuat Hai Phong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Ky Thuat Ly Tu Trong TP. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Ky Thuat Mo",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Ky Thuat Nguyen Truong To",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Ky Thuat Y Te I - Bo Y Te",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Ky Thuat Y Te II",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Le Quy Don",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Luong Thuc- Thuc Pham",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Ly Tu Trong TP. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Mien Nam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang My Thuat Trang Tri Dong Nai",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe Bac Nam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe Bach Nghe Hai Phong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe CNTT iSpace",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe Can Tho",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe Co Gioi va Thuy Loi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe Da Nang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe Dau Khi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe Du Lich Sai Gon",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe Du Lich Va Dich Vu Hai Phong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe Duyen Hai",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe GTVT Truong Uong III",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe Giao Thong Van Tai Duong Thuy II",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe Hai Duong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe Hang Hai Thanh Pho Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe Ky Thuat Cong Nghe LADEC",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe Ky Thuat Cong Nghe Tp. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe LILAMA 2",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe Phu Tho",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe So 8",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe Soc Trang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe Tay Ninh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe Thanh Pho Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe Viet - Uc",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe Viet My",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nghe du Lich Hue",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Ngoai Ngu - Cong Nghe Viet Nhat",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Ngoai Ngu Cong Nghe Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nguyen Tat Thanh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nong Lam Nghiep Hue",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nong Nghiep Nam Bo",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Nova",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Phat Thanh Truyen Hinh II",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Phuong Dong Da Nang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Quan Tri Khach San Du Lich Quoc Te Imperial",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Quan Y 2",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Quang Ngai",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Quoc Te Thanh Pho Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Son La",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham An Giang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham Ba Ria - Vung Tau",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham Can Tho",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham Da Lat",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham Dak Lak",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham Dong Thap",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham Gia Lai",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham Ha Noi No.2",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham Ha Tay",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham Hai Phong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham Kien Giang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham Mau Giao TW3",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham Nghe An",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham Nha Trang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham Soc Trang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham Son La",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham TP Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham Tay Ninh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham Thai Binh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham Thua Thien Hue",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham Trung Uong TP Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su Pham Vinh Long",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su pham Ninh Thuan",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Su pham Quang Ngai",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Tai Chinh - Hai Quan",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Tai Chinh - Quan Tri Kinh Doanh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Tai Chinh Ke Toan IV",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Thong Ke II",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Thuong Mai Va Du Lich Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Thuong Mai, Da Nang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Thuy San Va Cong Nghe Thuc Pham",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Truyen Hinh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Van Hoa Nghe Thuat TP Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Van Hoa Nghe Thuat Va Du Lich Ha Long",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Van Hoa Nghe Thuat Va Du Lich Nam Dinh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Van Hoa Nghe Thuat Va Du Lich Sai Gon",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Van Lang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Vien Dong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Viet - Han Quang Ninh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Viet My",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Vinh Long",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Xay Dung So 2",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Y Duoc Dong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Y Duoc Phu Tho",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Y Te Bac Lieu",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Y Te Bach Mai",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Y Te Binh Duong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Y Te Binh Thuan",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Y Te Can Tho",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Y Te Dang Van Ngu",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Y Te Dong Nai",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Y Te Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Y Te Ha Tinh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Y Te Hai Phong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Y Te Hue",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Y Te Khanh Hoa",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Y Te Nghe An",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Y Te Ninh Binh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Y Te Phu Tho",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Y Te Quang Nam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Y Te Quang Ninh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Y Te Quang Tri",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang Y Te Tien Giang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Dang y Te Ca Mau",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao Y Te Dong Thap",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cao dang Van Hoa Nghe Thuat va Du Lich Nha Trang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Cong Nhan Ky Thuat Nhan Dao Quan 3",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc An Giang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Ba Ria - Vung Tau",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Bach Khoa Da Nang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Bach Khoa Thanh Pho Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Bach Khoa, Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Ban Cong Marketing",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Ban Cong Ton Duc Thang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Binh Duong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Buon Ma Thuot",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Can Tho",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Canh Sat Nhan Dan",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Chu Van An",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Cong Doan",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Cong Nghe Dan Lap Ton Duc Thang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Cong Nghe Dong Nai",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Cong Nghe Giao Thong Van Tai Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Cong Nghe Mien Dong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Cong Nghe Sai Gon",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Cong Nghe TP. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Cong Nghe Ton Duc Thang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Cong Nghe Va Quan Ly Huu Nghi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Cong Nghiep Det May Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Cong Nghiep Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Cong Nghiep Quang Ninh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Cong Nghiep TP. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Cong Nghiep Thuc Pham TP. Ho Chi Min",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Cong Nghiep Viet-Hung",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Cong Thuong TP. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Cuu Long",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Da Lat",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Dai Cuong TP. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Dai Nam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Dan Lap Dong Do",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Dan Lap Hai Phong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Dan Lap Hung Vuong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Dan Lap Phu Xuan",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Dan Lap Phuong Dong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Dan Lap Quan Ly Va Kinh Doanh Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Dan Lap Van Hien",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Dan Lap Van Lang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Dau Khi Vietnam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Dien Luc",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Dieu Duong Nam Dinh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Dong Do",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Dong Thap",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Duoc Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Duy Tan",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc FPT",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Fulbright Viet Nam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Gia Dinh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Giao Thong Van Tai",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Giao Thong Van Tai, TP. Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Giao Thong Van Tai, TP. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Ha Long",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Hai Phong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Hang Hai Viet Nam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Hang Hai Vietnam, Haiphong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Hoa Binh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Hong Bang TP. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Hong Duc",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Hung Vuong Tp. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Khanh Hoa",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Khoa Hoc va Cong Nghe Hanoi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Kiem Sat Hanoi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Kien Truc Da Nang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Kien Truc Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Kien Truc Thanh Pho Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Kinh Doanh Va Cong Nghe Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Kinh Te - Dai Hoc Hue",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Kinh Te - Ky Thuat Binh Duong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Kinh Te - Ky Thuat Cong Nghiep",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Kinh Te - Ky Thuat Hai Duong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Kinh Te Cong Nghiep Long An",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Kinh Te Quoc Dan, Hanoi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Kinh Te TP. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Kinh Te Tai Chinh TP. HCM - UEF",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Kinh Te-Cong Nghe Thai Nguyen",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Ky Thuat",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Ky Thuat - Cong Nghe Can Tho",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Ky Thuat - Dai Hoc Da Nang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Ky Thuat Cong Nghe TP. HCM",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Ky Thuat Le Quy Don",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Ky Thuat Y Te Hai Duong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Ky thuat Y - Duoc Da Nang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Lac Hong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Lam Nghiep",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Lao Dong - Xa Hoi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Laut, Dai Hoc Hue",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Luat Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Luat TP. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Luong The Vinh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Mo Ban Cong Tp. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Mo Dia Chat, Hanoi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Mo T.P Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc My Thuat Cong Nghiep A Chau",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc My Thuat Cong Nghiep, Hanoi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc My Thuat TP. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc My Thuat Viet Nam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Nam Can Tho",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Ngan Hang TP Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Nghe Thuat - Dai Hoc Hue",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Ngoai Ngu - Tin Hoc TP. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Ngoai Ngu Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Ngoai Thuong Co So II Tai Tp. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Ngoai Thuong, Hanoi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Nguyen Tat Thanh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Nha Trang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Noi Vu Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Nong Lam - Dai Hoc Hue",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Nong Lam Thanh Pho Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Nong Nghiep Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Pham Van Dong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Phan Chau Trinh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Phan Thiet",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Phenikaa",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Phu Xuan",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Quan Ly Va Cong Nghe Hai Phong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Quang Nam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Quang Trung",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Quoc Te Hong Bang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Quoc Te Mien Dong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Quy Nhon",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Saigon",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc San Khau - Dien Anh, Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc San Khau - Dien Anh, TP Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Sao Do",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Su Pham Dong Thap",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Su Pham Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Su Pham Ha Noi 2",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Su Pham Ky Thuat Nam Dinh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Su Pham Ky Thuat Vinh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Su Pham Ky Thuat, Thanh Pho Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Su Pham Nghe Thuat Trung Uong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Su Pham Ngoai Ngu Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Su Pham Quy Nhon",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Su Pham TP. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Su Pham The Duc The Thao Thanh Pho Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Su Pham The Duc The Thao Tp. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Tai Chinh - Ke Toan",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Tai Chinh - Marketing, Ho Chi Minh City",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Tai Chinh - Ngan Hang Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Tai Chinh - Quan Tri Kinh Doanh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Tai Nguyen Va Moi Truong Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Tai Nguyen Va Moi Truong TP. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Tay Do",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Tay Nguyen",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Thang Long",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Thanh Do",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Thanh Dong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Thanh Tay",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc The Duc The Thao Bac Ninh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc The Duc The Thao TP. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Thu Dau Mot",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Thu Do Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Thuong Mai",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Thuy Loi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Thuy San",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Tien Giang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Ton Duc Thang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Tong Hop, TP, Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Tra Vinh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Tran Dai Nghia",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Trung Vuong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Van Hien",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Van Hoa Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Van Hoa Nghe Thuat Quan Doi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Van Hoa Thanh Pho Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Van Hoa, The Thao Va Du Lich Thanh Hoa",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Van Lang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Viet Duc",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc VinUni",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Vinh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Vo Truong Toan",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Xay Dung",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Xay Dung Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Xay Dung Mien Trung",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Y Duoc Can Tho",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Y Duoc Haiphong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Y Duoc Thai Binh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Y Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Y Haiphong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Y Hue",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Y Khoa Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Y Khoa Hue",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Y Khoa Pham Ngoc Thach",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Y Khoa Vinh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Y Pham Ngoc Thach",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Y Te Cong Cong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Y Thai Nguyen",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Y Thanh Hoa",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc Yersin Da Lat",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai Hoc tu thuc Cong nghe - Thong tin Gia Dinh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai hoc Nguyen Hue",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Dai hoc Tai chinh - Ke toan Thanh pho Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Day Nghe Tinh Tay Ninh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Day Nghe Vu Thuc Nghiep Vu Du Lich Viet Giao",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Hang Khong Viet Nam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Hoa Sen",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Hoc Vien Ky Thuat Mat Ma",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Hoc Vien Ky Thuat Quan Su",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Kinh Te Ky Thuat Bình Phuoc",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Phuong Dong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Quan Ly Kinh Te Cong Nhiep",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Si Quan Phao Binh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Su Pham Dan Toc Son La",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Su Pham Tein Giang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong THNV Du Lich va Khach San TP. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Au Viet",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Bach Khoa Hai Phong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Bach Khoa Mien Nam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Bach Khoa Sai Gon",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Bach Khoa Viet My",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Bach Khoa Vung Tau",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Ben Thanh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Cong Nghe Bach Khoa",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Cong Nghe Trung Uong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Cong Nghe Va Du Lich Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Cong Nghe Viet My",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Cong Nghiep Va Quan Tri Dong Do",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Dai Viet TP. Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Dong A",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Dong Duong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Du Lich Va Khach San Saigontourist",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Hong Ha",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Hong Ha TP. Can Tho",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Kinh Te - Du Lich TP. HCM",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Kinh Te - Ky Thuat Nguyen Huu Canh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Kinh Te - Ky Thuat Tay Nam A",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Kinh Te Dong Nai",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Kinh Te Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Kinh Te Ky Thuat Quan 12",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Ky Thuat Nong Nghiep TP. HCM",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Ky Thuat Tin Hoc Hanoi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Ky Thuat Va Cong Nghe Cuu Long",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Ky Thuat Va Nghiep Vu Nam Sai Gon",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Mien Dong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Nghe Cong Nghiep Tau Thuy Bach Dang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Nghe Ktnv Ton Duc Thang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Nghe Ky Thuat Co Khi Gaio Thong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Nghe Nhan Dao",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Nghe Tu Thuc Du Lich Khoi Viet",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Nghe Tu Thuc Tien Phong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Nghe Viet Nhat",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Nguyen Tat Thanh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Phuong Nam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Quan Y 2",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Quang Trung",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Quoc Te Khoi Viet",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Quoc Te Sai Gon",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Tai Chinh Ke Toan Tin Hoc Sai Gon",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Tay Sai Gon",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Thai Nguyen",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Tong Hop Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Tong Hop Sai Gon",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Tong Hop TP Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Tu Thuc Dieu Duong va ky Thuat y te Hong Duc Duoc",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Van Thu Luu Tru Trung Uong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Van Tuong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Viet Giao",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Viet Han",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Viet Khoa",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Viet Thuan",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Xay Dung TP. HCM",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Y - Duoc Le Huu Trac",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Y - Duoc Ton That Tung",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Y Duoc Bac Ninh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Y Duoc Van Hanh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Y Te Dang Van Ngu",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Y Te Dong Thap",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Y Te Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Cap Y Te Tinh Soc Trang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Hoc Ban Cong Ky Thuat Tin Hoc Hanoi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Hoc Cong Nghe Che Tao May",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Hoc Cong Nghe Luong Thuc Thuc Pham",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Hoc Cong Nghiep Viet-Hung",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Hoc Kinh Te Dong Nai",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Hoc Kinh Te Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Hoc Kinh Te Ky Thuat Bac Lieu",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Hoc Ky Thuat Cong Nghiep Dong Nai",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Hoc Ky Thuat Cong Nghiep Tuy Hoa",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Hoc Ky Thuat Nghiep Vu Thuy San",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Hoc Ky Thuat Nong Nghiep TP Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Hoc Ky Thuat Va Nghiep vu Nguyen Huu Canh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Hoc Nghiep Vu Du Lich Hai Phong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Hoc Nghiep Vu Quan Ly LT-TP",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Hoc Quan Y 2",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Hoc Su Pham Mam Non Thanh Pho Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Hoc Thuong Mai Va Du Lich",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Hoc Tu Thuc Ky Thuat va Nghiep vu Bach Viet",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Hoc Y Te Ben Tre",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung Hoc Y Te Quang Tri",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung cap nghe Nhan luc Quoc te",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Trung hoc Ky Thuat Y Te Trung Uong 3",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Truong Vien Khoa Hoc Cong Nghe Xay Dung",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tuong Dai Hoc Thai Binh Duong",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "United Nations International School of Hanoi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "unishanoi.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Da Lat",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Da Lat",
+    "domain": "dlu.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Da Nang",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Da Nang",
+    "domain": "udn.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Economics, Nghe An",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Technical Education Ho Chi Minh City",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Vietnam",
+    "domain": "hcmute.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Transport and Communications",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Transport and Communications",
+    "domain": "utc.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Van Hanh University",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vien Dai Hoc Mo Ha Noi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vien Han Lam Khoa Hoc Xa Hoi Viet Nam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vien Thanh Kinh Than Hoc, Hoi Thanh Tin Lanh Viet Nam",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vien Ve Sinh - Y Te Cong Cong TP, Ho Chi Minh",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vietnam Maritime University",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Vietnam Maritime",
+    "domain": "vimaru.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vietnam National Academy of Music",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "vnam.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vietnam National University Hanoi",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Vietnam National",
+    "domain": "vnu.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vietnam National University Ho Chi Minh City",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Vietnam National",
+    "domain": "vnuhcm.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vietnam National University of Agriculture",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Agriculture",
+    "domain": "vnua.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vietnamese Training Center for Orthopaedic Technologists",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Water Resources University",
+    "country": "Vietnam",
+    "state": "Vietnam",
+    "city": "Water Resources",
+    "domain": "hwru.edu.vn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

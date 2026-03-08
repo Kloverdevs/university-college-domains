@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Franklin College Switzerland",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Franklin",
+    "domain": "fc.edu",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Glion Institute of Higher Education",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Glion",
+    "domain": "glion.edu",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "IMD - International Institute for Management Development",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "IMD - International",
+    "domain": "imd.org",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "International Culinary Institute (ICI)",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "International Culinary",
+    "domain": "ici-luzern.com",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "International Hotel Management Institute",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "International Hotel Management",
+    "domain": "imi-luzern.com",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Swiss Federal Institute of Technology, Lausanne",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Swiss Federal",
+    "domain": "epfl.ch",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Swiss Federal Institute of Technology, Zurich",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Swiss Federal",
+    "domain": "ethz.ch",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

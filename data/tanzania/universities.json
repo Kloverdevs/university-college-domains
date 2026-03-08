@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Aga Khan University",
+    "country": "Tanzania",
+    "state": "Sindh",
+    "city": "Aga Khan",
+    "domain": "aku.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "African Virtual University",
+    "country": "Tanzania",
+    "state": "Tanzania",
+    "city": "Tanzania",
+    "domain": "avu.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hubert Kairuki Memorial University",
+    "country": "Tanzania",
+    "state": "Tanzania",
+    "city": "Hubert Kairuki Memorial",
+    "domain": "hkmu.ac.tz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Medical & Technological University",
+    "country": "Tanzania",
+    "state": "Tanzania",
+    "city": "International Medical & Technological",
+    "domain": "imtu.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Moshi University College of Cooperative and Business Studies",
+    "country": "Tanzania",
+    "state": "Tanzania",
+    "city": "Moshi",
+    "domain": "muccobs.ac.tz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mount Meru University",
+    "country": "Tanzania",
+    "state": "Tanzania",
+    "city": "Mount Meru",
+    "domain": "mmu.ac.tz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Muhimbili University of Health and Allied Sciences (MUHAS)",
+    "country": "Tanzania",
+    "state": "Tanzania",
+    "city": "Muhimbili",
+    "domain": "muchs.ac.tz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mwalimu Nyerere Memorial Academy",
+    "country": "Tanzania",
+    "state": "Tanzania",
+    "city": "Tanzania",
+    "domain": "mnma.ac.tz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mzumbe University (Chuo Kikuu Mzumbe)",
+    "country": "Tanzania",
+    "state": "Tanzania",
+    "city": "Mzumbe",
+    "domain": "mzumbe.ac.tz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Open University of Tanzania",
+    "country": "Tanzania",
+    "state": "Tanzania",
+    "city": "Tanzania",
+    "domain": "out.ac.tz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sebatian Kolowa University College",
+    "country": "Tanzania",
+    "state": "Tanzania",
+    "city": "Sebatian Kolowa",
+    "domain": "sekuco.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sokoine University of Agriculture",
+    "country": "Tanzania",
+    "state": "Tanzania",
+    "city": "Agriculture",
+    "domain": "suanet.ac.tz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Augustine University of Tanzania",
+    "country": "Tanzania",
+    "state": "Tanzania",
+    "city": "Tanzania",
+    "domain": "saut.ac.tz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tumaini University - Iringa University College",
+    "country": "Tanzania",
+    "state": "Tanzania",
+    "city": "Tumaini",
+    "domain": "tumaini.ac.tz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Dar Es Salaam",
+    "country": "Tanzania",
+    "state": "Tanzania",
+    "city": "Dar Es Salaam",
+    "domain": "udsm.ac.tz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Dodoma",
+    "country": "Tanzania",
+    "state": "Tanzania",
+    "city": "Dodoma",
+    "domain": "udom.ac.tz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

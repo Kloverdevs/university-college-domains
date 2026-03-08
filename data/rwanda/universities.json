@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Adventist University of Central Africa",
+    "country": "Rwanda",
+    "state": "Rwanda",
+    "city": "Central Africa",
+    "domain": "auca.ac.rw",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Institut d'Agriculture, de Technologie et d'Education de Kibungo",
+    "country": "Rwanda",
+    "state": "Rwanda",
+    "city": "Rwanda",
+    "domain": "inatek.ac.rw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kigali Independent University",
+    "country": "Rwanda",
+    "state": "Rwanda",
+    "city": "Kigali Independent",
+    "domain": "ulk.ac.rw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Rwanda",
+    "country": "Rwanda",
+    "state": "Rwanda",
+    "city": "Rwanda",
+    "domain": "nur.ac.rw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Finance and Banking",
+    "country": "Rwanda",
+    "state": "Rwanda",
+    "city": "Rwanda",
+    "domain": "sfb.ac.rw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Catholique de Kabgayi",
+    "country": "Rwanda",
+    "state": "Rwanda",
+    "city": "Rwanda",
+    "domain": "uck.ac.rw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Australian International School",
+    "country": "Singapore",
+    "state": "Singapore",
+    "city": "Singapore",
+    "domain": "ais.edu.sg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aventis School of Management",
+    "country": "Singapore",
+    "state": "Singapore",
+    "city": "Singapore",
+    "domain": "aventis.edu.sg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nanyang Technological University",
+    "country": "Singapore",
+    "state": "Singapore",
+    "city": "Nanyang Technological",
+    "domain": "ntu.edu.sg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Singapore",
+    "country": "Singapore",
+    "state": "Singapore",
+    "city": "Singapore",
+    "domain": "nus.edu",
+    "aliases": [
+      "nus.edu.sg"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Singapore Management University",
+    "country": "Singapore",
+    "state": "Singapore",
+    "city": "Singapore Management",
+    "domain": "smu.edu.sg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Singapore University of Social Sciences",
+    "country": "Singapore",
+    "state": "Singapore",
+    "city": "Singapore",
+    "domain": "suss.edu.sg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Singapore University of Technology and Design",
+    "country": "Singapore",
+    "state": "Singapore",
+    "city": "Technology and Design",
+    "domain": "sutd.edu.sg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of the Arts Singapore",
+    "country": "Singapore",
+    "state": "Singapore",
+    "city": "the Arts Singapore",
+    "domain": "uas.edu.sg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "yale-NUS",
+    "country": "Singapore",
+    "state": "Singapore",
+    "city": "Singapore",
+    "domain": "yale-nus.edu.sg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

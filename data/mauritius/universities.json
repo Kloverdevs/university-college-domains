@@ -1,0 +1,22 @@
+[
+  {
+    "name": "University of Mauritius",
+    "country": "Mauritius",
+    "state": "Mauritius",
+    "city": "Mauritius",
+    "domain": "uom.ac.mu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Technology",
+    "country": "Mauritius",
+    "state": "Mauritius",
+    "city": "Mauritius",
+    "domain": "utm.ac.mu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

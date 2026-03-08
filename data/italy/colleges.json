@@ -1,0 +1,174 @@
+[
+  {
+    "name": "Dutch University Institute for Art History (DUIA)",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Dutch",
+    "domain": "iuoart.org",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "European University Institute",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "European University",
+    "domain": "iue.it",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Free University Institute \"Carlo Cattaneo\"",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Free University",
+    "domain": "liuc.it",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute for Advanced Studies Lucca",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "Italy",
+    "domain": "imtlucca.it",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Italian Institute of Human Sciences (SUM)",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "isni.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Marche Polytechnic University",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "unipm.it",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Polytechnic University of Bari",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "cusbari.it",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Polytechnic University of Milan",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "web.mit.edu",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Polytechnic University of Turin",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "",
+    "domain": "en.unito.it",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "University Institute of Modern Languages",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "University",
+    "domain": "iulm.it",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "University Institute of Naval Studies",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "University",
+    "domain": "uninav.it",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "University Institute of Oriental Studies",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "University",
+    "domain": "iuo.it",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "University Institute of Teacher Training \"Suor Orsola Benincasa\"",
+    "country": "Italy",
+    "state": "Italy",
+    "city": "University",
+    "domain": "unisob.na.it",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Polytechnic Institute of Milan",
+    "country": "Italy",
+    "state": "Lombardia",
+    "city": "Milan",
+    "domain": "polimi.it",
+    "aliases": [
+      "mail.polimi.it"
+    ],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Polytechnic Institute of Turin",
+    "country": "Italy",
+    "state": "Piemonte",
+    "city": "Turin",
+    "domain": "polito.it",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Polytechnic Institute of Bari",
+    "country": "Italy",
+    "state": "Puglia",
+    "city": "Bari",
+    "domain": "poliba.it",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "University Institute of Architecture Venice",
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Venice",
+    "domain": "iuav.unive.it",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

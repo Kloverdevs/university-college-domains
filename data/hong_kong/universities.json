@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Canadian International School of Hong Kong",
+    "country": "Hong Kong",
+    "state": "Hong Kong",
+    "city": "Hong Kong",
+    "domain": "cdnis.edu.hk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chinese University of Hong Kong",
+    "country": "Hong Kong",
+    "state": "Hong Kong",
+    "city": "Hong Kong",
+    "domain": "cuhk.hk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "City University of Hong Kong",
+    "country": "Hong Kong",
+    "state": "Hong Kong",
+    "city": "Hong Kong",
+    "domain": "cityu.edu.hk",
+    "aliases": [
+      "um.cityu.edu.hk",
+      "my.cityu.edu.hk"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hong Kong Academy for Performing Arts",
+    "country": "Hong Kong",
+    "state": "Hong Kong",
+    "city": "Hong Kong",
+    "domain": "hkapa.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hong Kong Baptist University",
+    "country": "Hong Kong",
+    "state": "Hong Kong",
+    "city": "Hong Kong Baptist",
+    "domain": "hkbu.edu.hk",
+    "aliases": [
+      "life.hkbu.edu.hk",
+      "associate.hkbu.edu.hk"
+    ],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Hong Kong Metropolitan University",
+    "country": "Hong Kong",
+    "state": "Hong Kong",
+    "city": "Hong Kong Metropolitan",
+    "domain": "hkmu.edu.hk",
+    "aliases": [
+      "ouhk.edu.hk"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hong Kong Shue Yan University",
+    "country": "Hong Kong",
+    "state": "Hong Kong",
+    "city": "Hong Kong",
+    "domain": "hksyu.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hong Kong University of Science and Technology",
+    "country": "Hong Kong",
+    "state": "Hong Kong",
+    "city": "Science and Technology",
+    "domain": "ust.hk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lingnan University",
+    "country": "Hong Kong",
+    "state": "Hong Kong",
+    "city": "Lingnan",
+    "domain": "ln.edu.hk",
+    "aliases": [
+      "ln.hk"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Open University of Hong Kong",
+    "country": "Hong Kong",
+    "state": "Hong Kong",
+    "city": "Hong Kong",
+    "domain": "ouhk.edu.hk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Chinese University of Hong Kong",
+    "country": "Hong Kong",
+    "state": "Hong Kong",
+    "city": "Hong Kong",
+    "domain": "cuhk.edu.hk",
+    "aliases": [
+      "link.cuhk.edu.hk"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Education University of Hong Kong",
+    "country": "Hong Kong",
+    "state": "Hong Kong",
+    "city": "Hong Kong",
+    "domain": "s.eduhk.hk",
+    "aliases": [
+      "eduhk.hk"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Hang Seng University of Hong Kong",
+    "country": "Hong Kong",
+    "state": "Hong Kong",
+    "city": "Hong Kong",
+    "domain": "hsu.edu.hk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The University of Hong Kong",
+    "country": "Hong Kong",
+    "state": "Hong Kong",
+    "city": "Hong Kong",
+    "domain": "hku.hk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

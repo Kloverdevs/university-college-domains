@@ -1,0 +1,292 @@
+[
+  {
+    "name": "Centre Universitaire d'Oum El Bouaghi",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Algeria",
+    "domain": "univ-oeb.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centre Universitaire de Jijel",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Algeria",
+    "domain": "univ-jijel.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centre Universitaire de Tebessa",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Algeria",
+    "domain": "univ-tebessa.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centre Universitaire de Tiaret",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Algeria",
+    "domain": "univ-tiaret.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universite des Sciences Islamiques de Constantine",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Algeria",
+    "domain": "univ-emir.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Abou Bekr Belkaid, Tlemcen",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Algeria",
+    "domain": "univ-tlemcen.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Amar Telidji",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Algeria",
+    "domain": "lagh-univ.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Badji Mokhtar",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Algeria",
+    "domain": "univ-annaba.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Kasdi Merbah Ouargla",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Algeria",
+    "domain": "univ-ouargla.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université M'hamed Bouguerra de Boumerdes",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Algeria",
+    "domain": "umbb.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Mentouri Constantine",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Algeria",
+    "domain": "umc.edu.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Mouloud Mammeri de Tizi Ouzou",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Algeria",
+    "domain": "ummto.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université d'Alger",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Alger",
+    "domain": "univ-alger.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université d'Alger 3",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Alger 3",
+    "domain": "univ-alger3.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université d'Oran Es-Senia",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Oran Es",
+    "domain": "univ-oran.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Batna",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Batna",
+    "domain": "univ-batna.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Biskra",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Biskra",
+    "domain": "univ-biskra.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Blida",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Blida",
+    "domain": "univ-blida.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Béjaia",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Béjaia",
+    "domain": "univ-bejaia.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Chlef",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Chlef",
+    "domain": "univ-chlef.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Guelma",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Guelma",
+    "domain": "univ-guelma.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de M'sila",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "M'sila",
+    "domain": "univ-msila.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Mostaganem",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Mostaganem",
+    "domain": "univ-mosta.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Saida",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Saida",
+    "domain": "univ-saida.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Sidi-Bel-Abbès (Djillali Liabès)",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Sidi",
+    "domain": "univ-sba.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Skikda",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Skikda",
+    "domain": "univ-skikda.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Sétif",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Sétif",
+    "domain": "univ-setif.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université des Sciences et de la Technologie Houari Boumediène",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Algeria",
+    "domain": "usthb.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université des Sciences et de la Technologie d'Oran",
+    "country": "Algeria",
+    "state": "Algeria",
+    "city": "Algeria",
+    "domain": "univ-usto.dz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

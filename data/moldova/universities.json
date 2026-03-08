@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Academy of Economic Studies of Moldova",
+    "country": "Moldova",
+    "state": "Moldova",
+    "city": "Moldova",
+    "domain": "ase.md",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Balti State University \"Alecu Russo\"",
+    "country": "Moldova",
+    "state": "Moldova",
+    "city": "Balti State",
+    "domain": "usb.md",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Comrat State University",
+    "country": "Moldova",
+    "state": "Moldova",
+    "city": "Comrat State",
+    "domain": "kdu.md",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Free International University of Moldova",
+    "country": "Moldova",
+    "state": "Moldova",
+    "city": "Moldova",
+    "domain": "ulim.md",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Moldova Cooperative Trade University",
+    "country": "Moldova",
+    "state": "Moldova",
+    "city": "Moldova Cooperative Trade",
+    "domain": "uccm.md",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Moldova State Agricultural University",
+    "country": "Moldova",
+    "state": "Moldova",
+    "city": "Moldova State Agricultural",
+    "domain": "uasm.md",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Moldova State University",
+    "country": "Moldova",
+    "state": "Moldova",
+    "city": "Moldova State",
+    "domain": "usm.md",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Moldova State University of Medicine and Pharmacy \"N. Testemitsanu\"",
+    "country": "Moldova",
+    "state": "Moldova",
+    "city": "Moldova State",
+    "domain": "usmf.md",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Moldova Technical University",
+    "country": "Moldova",
+    "state": "Moldova",
+    "city": "Moldova Technical",
+    "domain": "utm.md",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pedagogical State University \"Ion Creanga\"",
+    "country": "Moldova",
+    "state": "Moldova",
+    "city": "Pedagogical State",
+    "domain": "upm.moldnet.md",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tiraspol State University",
+    "country": "Moldova",
+    "state": "Moldova",
+    "city": "Tiraspol State",
+    "domain": "ust.md",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Applied Sciences of Moldova",
+    "country": "Moldova",
+    "state": "Moldova",
+    "city": "Applied Sciences of Moldova",
+    "domain": "usam.md",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

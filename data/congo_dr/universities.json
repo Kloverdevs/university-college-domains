@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Université Catholique de Bukavu",
+    "country": "Congo Dr",
+    "state": "DR Congo",
+    "city": "",
+    "domain": "ucbukavu.ac.cd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Chrétienne Bilingue du Congo",
+    "country": "Congo Dr",
+    "state": "DR Congo",
+    "city": "",
+    "domain": "ucbc.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Kongo",
+    "country": "Congo Dr",
+    "state": "DR Congo",
+    "city": "",
+    "domain": "universitekongo.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Protestante au Congo",
+    "country": "Congo Dr",
+    "state": "DR Congo",
+    "city": "",
+    "domain": "upc.ac.cd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Shalom de Bunia",
+    "country": "Congo Dr",
+    "state": "DR Congo",
+    "city": "",
+    "domain": "unishabunia.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Bandundu Ville",
+    "country": "Congo Dr",
+    "state": "DR Congo",
+    "city": "Bandundu Ville",
+    "domain": "uniband.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Kamina",
+    "country": "Congo Dr",
+    "state": "DR Congo",
+    "city": "Kamina",
+    "domain": "ukamina.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Kikwite",
+    "country": "Congo Dr",
+    "state": "DR Congo",
+    "city": "Kikwite",
+    "domain": "unikik.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Kinshasa",
+    "country": "Congo Dr",
+    "state": "DR Congo",
+    "city": "Kinshasa",
+    "domain": "unikin.cd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Kisangani",
+    "country": "Congo Dr",
+    "state": "DR Congo",
+    "city": "Kisangani",
+    "domain": "unikis.ac.cd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Kolwezi",
+    "country": "Congo Dr",
+    "state": "DR Congo",
+    "city": "Kolwezi",
+    "domain": "unikol.ac.cd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Lubumbashi",
+    "country": "Congo Dr",
+    "state": "DR Congo",
+    "city": "Lubumbashi",
+    "domain": "unilu.ac.cd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de l'Uélé",
+    "country": "Congo Dr",
+    "state": "DR Congo",
+    "city": "l'Uélé",
+    "domain": "uniuele.ac.cd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

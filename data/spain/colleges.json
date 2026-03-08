@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Barcelona College of Chiropractic - BCC",
+    "country": "Spain",
+    "state": "Spain",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Berkley Business College",
+    "country": "Spain",
+    "state": "Spain",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Catalonia International College",
+    "country": "Spain",
+    "state": "Spain",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International College of Seville",
+    "country": "Spain",
+    "state": "Spain",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Polytechnic University of Cartagena",
+    "country": "Spain",
+    "state": "Spain",
+    "city": "",
+    "domain": "univ-tech.eu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The American College in Spain",
+    "country": "Spain",
+    "state": "Spain",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The College for International Studies",
+    "country": "Spain",
+    "state": "Spain",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

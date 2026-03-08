@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Universidad Albert Einstein",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Albert Einstein",
+    "domain": "uae.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autónoma de Santa Ana",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Santa Ana",
+    "domain": "unasa.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Capitain General Gerardo Barrios",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Capitain General Gerardo Barrios",
+    "domain": "ugb.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica de Occidente",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Católica de Occidente",
+    "domain": "unico.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Centroamericana \"José Simeón Canas\"",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Centroamericana \"José Simeón Canas\"",
+    "domain": "uca.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Cristiana de las Asambleas de Dios",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "El Salvador",
+    "domain": "ucad.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Don Bosco",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Don Bosco",
+    "domain": "cdb.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Dr. Andreas Bello",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Dr. Andreas Bello",
+    "domain": "unab.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Dr. Jose Matias Delgado",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Dr. Jose Matias Delgado",
+    "domain": "ujmd.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Evangélica de El Salvador",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Evangélica de El Salvador",
+    "domain": "uees.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Francisco Gavidia",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Francisco Gavidia",
+    "domain": "ufg.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Isaac Newton",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Isaac Newton",
+    "domain": "usin.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Luterana Salvadorena",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Luterana Salvadorena",
+    "domain": "netcomsa.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Modular Abierta",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Modular Abierta",
+    "domain": "uma.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Monsenor Oscar Arnulfo Romeo",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Monsenor Oscar Arnulfo Romeo",
+    "domain": "umoar.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nueva San Salvador",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Nueva San Salvador",
+    "domain": "unssa.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Panamericana de San Salvador",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Panamericana de San Salvador",
+    "domain": "upan.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Pedagógica de El Salvador",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Pedagógica de El Salvador",
+    "domain": "universidadpedagogica.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Politécnica de El Salvador",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Politécnica de El Salvador",
+    "domain": "upes.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Salvadorena \"Alberto Masferrer\"",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Salvadorena \"Alberto Masferrer\"",
+    "domain": "usam.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnológica de El Salvador",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Tecnológica de El Salvador",
+    "domain": "utec.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Técnica Latinoamericana",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Técnica Latinoamericana",
+    "domain": "utla.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de El Salvador",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "El Salvador",
+    "domain": "ues.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Oriente",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Oriente",
+    "domain": "univo.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Sonsonate",
+    "country": "El Salvador",
+    "state": "El Salvador",
+    "city": "Sonsonate",
+    "domain": "usonsonate.edu.sv",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

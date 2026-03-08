@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Cavendish University",
+    "country": "Zambia",
+    "state": "Zambia",
+    "city": "Cavendish",
+    "domain": "cavendishza.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Copperbelt University",
+    "country": "Zambia",
+    "state": "Zambia",
+    "city": "Copperbelt",
+    "domain": "cbu.edu.zm",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mulungushi University",
+    "country": "Zambia",
+    "state": "Zambia",
+    "city": "Mulungushi",
+    "domain": "mu.ac.zm",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Northrise University",
+    "country": "Zambia",
+    "state": "Zambia",
+    "city": "Northrise",
+    "domain": "northrise.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rusangu University",
+    "country": "Zambia",
+    "state": "Zambia",
+    "city": "Rusangu",
+    "domain": "rusangu-university.edu.zm",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Lusaka",
+    "country": "Zambia",
+    "state": "Zambia",
+    "city": "Lusaka",
+    "domain": "unilus.ac.zm",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Zambia",
+    "country": "Zambia",
+    "state": "Zambia",
+    "city": "Zambia",
+    "domain": "unza.zm",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zambian Open University",
+    "country": "Zambia",
+    "state": "Zambia",
+    "city": "Zambian Open",
+    "domain": "zaou.ac.zm",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

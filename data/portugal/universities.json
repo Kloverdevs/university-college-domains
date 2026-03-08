@@ -1,0 +1,670 @@
+[
+  {
+    "name": "Academia Nacional Superior de Orquesta",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "oml.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Católica Lisbon School of Business & Economics",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "clsbe.lisboa.ucp.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escola Nautica Infante D. Henrique",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "enautica.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escola Superior de Artes e Design",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "esad.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escola Superior de Hotelaria e Turismo do Estoril",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "eshte.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escola Superior de Media Artes e Design",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "esmad.ipp.pt",
+    "aliases": [
+      "www.esmad.ipp.pt"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "European University Portugal",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "europeanuniversity.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "ISCTE - Instituto Universitário de Lisboa",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "iscte.pt",
+    "aliases": [
+      "iscte-iul.pt"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Piaget",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "ipiaget.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Politecnico do Porto",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "ipp.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Politécnico da Guarda",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "ipg.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Politécnico de Beja",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "ipbeja.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Politécnico de Bragança",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "ipb.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Politécnico de Castelo Branco",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "ipcb.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Politécnico de Coimbra",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "ipc.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Politécnico de Leiria",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "ipleiria.pt",
+    "aliases": [
+      "my.ipleiria.pt"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Politécnico de Lisboa",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "ipl.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Politécnico de Portalegre",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "ipportalegre.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Politécnico de Santarém",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "ipsantarem.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Politécnico de Setúbal",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "ips.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Politécnico de Tomar",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "ipt.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Politécnico de Viana do Castelo",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "ipvc.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Politécnico do Cávado e do Ave",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "ipca.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Superior Bissaya Barreto",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "isbb.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Superior D. Afonso III - INUAF",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "inuaf-studia.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Superior Novas Profissões - INP",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "inp.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Superior Politécnico Gaya",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "ispgaya.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Superior de Assistentes e Intérpretes",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "isai.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Superior de Ciências Educativas",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "pedago.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Superior de Ciências Empresariais e de Turismo",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "iscet.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Superior de Entre Douro e Vouga",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "isvouga.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Superior de Gestão - ISG",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "isg.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Superior de Informática e Gestão",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "cocite.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Superior de Línguas e Administração",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "isla.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Superior de Paços de Brandão",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "ispab.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Superior de Psicologia Aplicada",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "ispa.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Superior de Saúde do Alto Ave",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "isave.edu.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Superior de Tecnologias Avançadas - ISTEC",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "istec.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Superior de Transportes e Comunicações",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "istp.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto de Artes Visuais, Design e Marketing - IADE",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "iade.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "NOVA School of Science and Technology",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "campus.fct.unl.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nova School of Business and Economics",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "novasbe.unl.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade Aberta Lisboa",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "univ-ab.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade Atlântica",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "uatla.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade Autónoma de Lisboa Luís de Camoes",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "universidade-autonoma.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade Catolica Portuguesa",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "ucp.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade Fernando Pessoa",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "ufp.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade Independente",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "uni.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade Internacional Lisboa",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "uinternacional.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade Lusiada",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "ulusiada.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade Lusófona de Humanidades e Technologias",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "ulusofona.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade Moderna de Lisboa",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "umoderna.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade Nova de Lisboa",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "unl.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade Portucalense Infante D. Henrique",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "uportu.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade Tecnica de Lisboa",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "utl.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade da Beira Interior",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Beira Interior",
+    "domain": "ubi.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade da Madeira",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Madeira",
+    "domain": "uma.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade de Aveiro",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Aveiro",
+    "domain": "ua.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade de Coimbra",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Coimbra",
+    "domain": "uc.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade de Evora",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Evora",
+    "domain": "uevora.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade de Lisboa",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Lisboa",
+    "domain": "ul.pt",
+    "aliases": [
+      "campus.ul.pt"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade de Tras-os-Montes e Alto Douro",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Tras",
+    "domain": "utad.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade do Algarve",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Algarve",
+    "domain": "ualg.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade do Minho",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Minho",
+    "domain": "uminho.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade do Porto",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Porto",
+    "domain": "up.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidade dos Acores",
+    "country": "Portugal",
+    "state": "Portugal",
+    "city": "Portugal",
+    "domain": "uac.pt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

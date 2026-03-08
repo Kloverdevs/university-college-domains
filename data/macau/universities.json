@@ -1,0 +1,22 @@
+[
+  {
+    "name": "University of Macau",
+    "country": "Macau",
+    "state": "Macau",
+    "city": "Macau",
+    "domain": "umac.mo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Saint Joseph",
+    "country": "Macau",
+    "state": "Macau",
+    "city": "Saint Joseph",
+    "domain": "usj.edu.mo",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

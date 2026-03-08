@@ -1,0 +1,292 @@
+[
+  {
+    "name": "Adama Science and Technology University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Adama Science and Technology",
+    "domain": "astu.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Addis Ababa Science & Technology University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Ethiopia",
+    "domain": "aastu.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Addis Ababa University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Addis Ababa",
+    "domain": "aau.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Adigrat University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Adigrat",
+    "domain": "adu.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aksum University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Aksum",
+    "domain": "aku.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ambo University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Ambo",
+    "domain": "ambou.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arba Minch University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Arba Minch",
+    "domain": "amu.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Assosa University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Assosa",
+    "domain": "asu.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bahir Dar University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Bahir Dar",
+    "domain": "bdu.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bule Hora  University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Bule Hora",
+    "domain": "bulehorauniversity.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Debre Birhan University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Debre Birhan",
+    "domain": "dbu.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Debre Markos University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Debre Markos",
+    "domain": "dmu.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dilla University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Dilla",
+    "domain": "dillauniversity.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dire Dawa University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Dire Dawa",
+    "domain": "ddu.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ethiopian Civil Service University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Ethiopian Civil Service",
+    "domain": "ecsc.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gondar University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Gondar",
+    "domain": "uog.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Haramaya University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Haramaya",
+    "domain": "haramaya.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hawassa University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Hawassa",
+    "domain": "hu.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jigjiga University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Jigjiga",
+    "domain": "jju.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jimma University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Jimma",
+    "domain": "ju.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Madawalabu University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Madawalabu",
+    "domain": "mwu.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mekelle University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Mekelle",
+    "domain": "mu.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mizan Tepi University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Mizan Tepi",
+    "domain": "mtu.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Semera University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Semera",
+    "domain": "su.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Unity  University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Unity",
+    "domain": "uuc.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wolaita Sodo University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Wolaita Sodo",
+    "domain": "wsu.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wolkite University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Wolkite",
+    "domain": "wku.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wollega University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Wollega",
+    "domain": "wuni.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wollo University",
+    "country": "Ethiopia",
+    "state": "Ethiopia",
+    "city": "Wollo",
+    "domain": "wu.edu.et",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,306 @@
+[
+  {
+    "name": "Aalto University",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Aalto",
+    "domain": "aalto.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abo Akademi University",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Abo Akademi",
+    "domain": "abo.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Academy of Fine Arts",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Finland",
+    "domain": "kuva.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Central Ostrobothnia University of Applied Sciences",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Central Ostrobothnia",
+    "domain": "cou.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Diaconia University of Applied Sciences",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Diaconia",
+    "domain": "diak.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "EVTEK University of Applied Sciences",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "EVTEK",
+    "domain": "evtek.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Helsinki School of Economics and Business Administration",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Finland",
+    "domain": "hkkk.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Helsinki University of Technology",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Helsinki",
+    "domain": "hut.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Häme University of Applied Sciences",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Häme",
+    "domain": "hamk.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lappeenranta University of Technology",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Lappeenranta",
+    "domain": "lut.fi",
+    "aliases": [
+      "student.lut.fi"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Laurea University of Applied Sciences",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Laurea",
+    "domain": "laurea.fi",
+    "aliases": [
+      "student.laurea.fi"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Metropolia University of Applied Sciences",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Metropolia",
+    "domain": "metropolia.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rovaniemi University of Applied Sciences",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Rovaniemi",
+    "domain": "ramk.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Satakunta University Of Applied Scinces",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Applied Scinces",
+    "domain": "samk.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sibelius Academy",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Finland",
+    "domain": "siba.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Swedish School of Economics and Business Administration, Finland",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Finland",
+    "domain": "shh.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tampere University of Technology",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Tampere",
+    "domain": "tut.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Theatre Academy Finland",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Finland",
+    "domain": "teak.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Turku School of Economics and Business Administration",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Finland",
+    "domain": "tukkk.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Art and Design Helsinki",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Art and Design Helsinki",
+    "domain": "uiah.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Helsinki",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Helsinki",
+    "domain": "helsinki.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Joensuu",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Joensuu",
+    "domain": "joensuu.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Jyväskylä",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Jyväskylä",
+    "domain": "jyu.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Kuopio",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Kuopio",
+    "domain": "uku.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Lapland",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Lapland",
+    "domain": "ulapland.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Oulu",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Oulu",
+    "domain": "oulu.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Tampere",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Tampere",
+    "domain": "uta.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Turku",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Turku",
+    "domain": "utu.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Vaasa",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Vaasa",
+    "domain": "uwasa.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vaasa University of Applied Sciences",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Vaasa",
+    "domain": "puv.fi",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ilsa Independent College",
+    "country": "Namibia",
+    "state": "Namibia",
+    "city": "Ilsa Independent",
+    "domain": "ilsacollege.edu.na",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Information Technology",
+    "country": "Namibia",
+    "state": "Namibia",
+    "city": "Namibia",
+    "domain": "iit.com.na",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Polytechnic of Namibia",
+    "country": "Namibia",
+    "state": "Namibia",
+    "city": "Namibia",
+    "domain": "polytechnic.edu.na",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

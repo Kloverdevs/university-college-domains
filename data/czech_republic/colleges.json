@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Cevro Institut College",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Cevro Institut",
+    "domain": "vsci.cz",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Technology and Business (VŠTE)",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Czech Republic",
+    "domain": "vstecb.cz",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Prague College",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Prague",
+    "domain": "praguecollege.cz",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Prague Institute of Chemical Technology",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Prague",
+    "domain": "vscht.cz",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "name": "American University of Central Asia",
+    "country": "Kyrgyzstan",
+    "state": "Kyrgyzstan",
+    "city": "Central Asia",
+    "domain": "auca.kg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bishkek Humanities University",
+    "country": "Kyrgyzstan",
+    "state": "Kyrgyzstan",
+    "city": "Bishkek Humanities",
+    "domain": "bhu.kg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Ataturk Alatoo University",
+    "country": "Kyrgyzstan",
+    "state": "Kyrgyzstan",
+    "city": "International Ataturk Alatoo",
+    "domain": "iaau.edu.kg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International University of Kyrgyzstan",
+    "country": "Kyrgyzstan",
+    "state": "Kyrgyzstan",
+    "city": "Kyrgyzstan",
+    "domain": "iuk.kg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jalalabad State University Kyrgyzstan",
+    "country": "Kyrgyzstan",
+    "state": "Kyrgyzstan",
+    "city": "Jalalabad State",
+    "domain": "jasu.edu.kg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyrgyz National Agrarian University",
+    "country": "Kyrgyzstan",
+    "state": "Kyrgyzstan",
+    "city": "Kyrgyz National Agrarian",
+    "domain": "knau.kg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyrgyz National University",
+    "country": "Kyrgyzstan",
+    "state": "Kyrgyzstan",
+    "city": "Kyrgyz National",
+    "domain": "university.kg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyrgyz Russian Slavic University",
+    "country": "Kyrgyzstan",
+    "state": "Kyrgyzstan",
+    "city": "Kyrgyz Russian Slavic",
+    "domain": "krsu.edu.kg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyrgyz State Technical University",
+    "country": "Kyrgyzstan",
+    "state": "Kyrgyzstan",
+    "city": "Kyrgyz State Technical",
+    "domain": "kstu.kg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyrgyz State University of Construction, Transportation and Architecture",
+    "country": "Kyrgyzstan",
+    "state": "Kyrgyzstan",
+    "city": "Construction",
+    "domain": "ksucta.kg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyrgyz Turkish  Manas University",
+    "country": "Kyrgyzstan",
+    "state": "Kyrgyzstan",
+    "city": "Kyrgyz Turkish  Manas",
+    "domain": "manas.kg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Medical Faculty, Osh State University",
+    "country": "Kyrgyzstan",
+    "state": "Kyrgyzstan",
+    "city": "Medical Faculty, Osh State",
+    "domain": "oshmed.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

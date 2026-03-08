@@ -1,0 +1,192 @@
+[
+  {
+    "name": "American College of Greece",
+    "country": "Greece",
+    "state": "Attica",
+    "city": "",
+    "domain": "acg.gr",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Management & Enteurpreneurship of South East Europe",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "Greece",
+    "domain": "imese.gr",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Management Development - Ohrid",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "Greece",
+    "domain": "imd.edu.gr",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Technological Education Institute of Athens",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "Technological Education",
+    "domain": "teiath.gr",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Technological Education Institute of Epiros",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "Technological Education",
+    "domain": "teiep.gr",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Technological Education Institute of Halkida, Euboea",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "Technological Education",
+    "domain": "teihal.gr",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Technological Education Institute of Heraklion",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "Technological Education",
+    "domain": "teiher.gr",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Technological Education Institute of Kalamata",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "Technological Education",
+    "domain": "teikal.gr",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Technological Education Institute of Kavala",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "Technological Education",
+    "domain": "teikav.edu.gr",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Technological Education Institute of Kozani",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "Technological Education",
+    "domain": "teikoz.gr",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Technological Education Institute of Lamia",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "Technological Education",
+    "domain": "teilam.gr",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Technological Education Institute of Larissa",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "Technological Education",
+    "domain": "teilar.gr",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Technological Education Institute of Mesologgi",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "Technological Education",
+    "domain": "teimes.gr",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Technological Education Institute of Patras",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "Technological Education",
+    "domain": "teipat.gr",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Technological Education Institute of Piraeus",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "Technological Education",
+    "domain": "teipir.gr",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Technological Education Institute of Serres",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "Technological Education",
+    "domain": "teiser.gr",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Technological Education Institute of Thessaloniki",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "Technological Education",
+    "domain": "teithe.gr",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "American College of Thessaloniki",
+    "country": "Greece",
+    "state": "Macedonia",
+    "city": "",
+    "domain": "act.edu",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Hellenic College of Noah",
+    "country": "Greece",
+    "state": "Macedonia",
+    "city": "Hellenic",
+    "domain": "noah.edu.gr",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

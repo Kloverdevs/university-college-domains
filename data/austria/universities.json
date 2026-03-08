@@ -1,0 +1,466 @@
+[
+  {
+    "name": "Akademie der bildenden Künste Wien",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Austria",
+    "domain": "akbild.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Donau-Universität Krems",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Krems",
+    "domain": "donau-uni.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Burgenland",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Burgenland",
+    "domain": "fh-burgenland.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule JOANNEUM",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "JOANNEUM",
+    "domain": "fh-joanneum.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Krems",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Krems",
+    "domain": "fh-krems.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Kufstein (Tirol)",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Kufstein",
+    "domain": "fh-kufstein.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Kärnten",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Kärnten",
+    "domain": "fh-kaernten.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Salzburg",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Salzburg",
+    "domain": "fh-sbg.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule St. Pölten",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "St. Pölten",
+    "domain": "fh-stpoelten.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Vorarlberg",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Vorarlberg",
+    "domain": "fhv.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Wiener Neustadt",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Wiener Neustadt",
+    "domain": "fhwn.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule für Bank- und Finanzwirtschaft",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "für Bank",
+    "domain": "fh-vie.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschulstudiengänge Hagenberg",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Austria",
+    "domain": "fh-hagenberg.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschulstudiengänge Krems IMC",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Austria",
+    "domain": "imc-krems.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschulstudiengänge Steyr",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Austria",
+    "domain": "fh-steyr.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschulstudiengänge Wels",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Austria",
+    "domain": "fh-wels.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschulstudiengänge der Wiener Wirtschaft",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Austria",
+    "domain": "fhw.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "HTL Villach",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Austria",
+    "domain": "htl-villach.at",
+    "aliases": [
+      "edu.htl-villach.at"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "HTL WELS",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Austria",
+    "domain": "htl-wels.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Johannes Kepler Universität Linz",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Linz",
+    "domain": "jku.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Katholisch-Theologische Privatuniversität Linz",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Linz",
+    "domain": "kth-linz.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "MCI-Management Center Innsbruck",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Austria",
+    "domain": "mci.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Medizinische Universität Graz",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Graz",
+    "domain": "meduni-graz.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Medizinische Universität Innsbruck",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Innsbruck",
+    "domain": "i-med.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Medizinische Universität Wien",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Wien",
+    "domain": "meduniwien.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Montanuniversität Leoben",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Leoben",
+    "domain": "unileoben.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Private Universität für Medizinische Informatik und Technik Tirol",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Austria",
+    "domain": "umit.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Technikum Wien",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Austria",
+    "domain": "technikum-wien.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Universität Graz",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Graz",
+    "domain": "tugraz.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Universität Wien",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Wien",
+    "domain": "tuwien.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Graz",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Graz",
+    "domain": "kfunigraz.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Innsbruck",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Innsbruck",
+    "domain": "uibk.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Klagenfurt",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Klagenfurt",
+    "domain": "uni-klu.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Linz",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Linz",
+    "domain": "uni-linz.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Mozarteum Salzburg",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Mozarteum Salzburg",
+    "domain": "moz.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Salzburg",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Salzburg",
+    "domain": "sbg.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Vienna",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Vienna",
+    "domain": "univie.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität für Bodenkultur Wien",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "für Bodenkultur Wien",
+    "domain": "boku.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität für Musik und darstellende Kunst Graz",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Austria",
+    "domain": "kug.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität für Musik und darstellende Kunst Wien",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Austria",
+    "domain": "mdw.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität für angewandte Kunst Wien",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "für angewandte Kunst Wien",
+    "domain": "ns2.uni-ak.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität für künstlerische und industrielle Gestaltung Linz",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Austria",
+    "domain": "khs-linz.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Veterinärmedizinische Universität Wien",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Wien",
+    "domain": "vu-wien.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Webster University, Vienna",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Webster",
+    "domain": "webster.ac.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wirtschaftsuniversität Wien",
+    "country": "Austria",
+    "state": "Austria",
+    "city": "Wien",
+    "domain": "wu-wien.ac.at",
+    "aliases": [
+      "wu.ac.at"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "UMIT Tirol",
+    "country": "Austria",
+    "state": "Tyrol",
+    "city": "",
+    "domain": "umit-tirol.at",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Athlone Institute of Technology",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Athlone",
+    "domain": "ait.ie",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Carlow Institute of Technology",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Carlow",
+    "domain": "itcarlow.ie",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Cork Institute of Technology",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Cork",
+    "domain": "cit.ie",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Dublin Institute for Advanced Studies",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Dublin",
+    "domain": "dias.ie",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Dublin Institute of Technology",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Dublin",
+    "domain": "dit.ie",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Dundalk Institute of Technology",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Dundalk",
+    "domain": "dkit.ie",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Galway Mayo Institute of Technology",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Galway Mayo",
+    "domain": "gmit.ie",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Griffith College",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Griffith",
+    "domain": "gcd.ie",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "LSB College",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "LSB",
+    "domain": "lsb.ie",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "National College of Ireland",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Ireland",
+    "domain": "ncirl.ie",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Royal College of Physicians of Ireland",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Ireland",
+    "domain": "rcpi.ie",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Royal College of Surgeons",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Ireland",
+    "domain": "rcsi.ie",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Shannon College of Hotel Management",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Shannon",
+    "domain": "shannoncollege.com",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Waterford Institute Of Technology",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Waterford",
+    "domain": "wit.ie",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

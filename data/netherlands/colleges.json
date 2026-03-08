@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Institute of Social Studies",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Netherlands",
+    "domain": "iss.nl",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "International Institute for Geo - Information Science and Earth Observation",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "Netherlands",
+    "domain": "itc.nl",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "UNESCO-IHE Institute for Water Education",
+    "country": "Netherlands",
+    "state": "Netherlands",
+    "city": "UNESCO-IHE",
+    "domain": "unesco-ihe.org",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

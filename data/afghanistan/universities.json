@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Afghan University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Afghan",
+    "domain": "afghanuniversity.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Birony University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Al-Birony",
+    "domain": "au.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American University of Afghanistan",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Afghanistan",
+    "domain": "auaf.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Badakhshan University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Badakhshan",
+    "domain": "badakhshan.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baghlan University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Baghlan",
+    "domain": "baghlan.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bakhtar University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Bakhtar",
+    "domain": "bakhtar.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Balkh University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Balkh",
+    "domain": "ba.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bamiyan University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Bamiyan",
+    "domain": "bu.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bost University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Bost",
+    "domain": "bost.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dawat University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Dawat",
+    "domain": "dawat.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ghazni University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Ghazni",
+    "domain": "gu.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Herat University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Herat",
+    "domain": "hu.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ibn Sina University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Ibn Sina",
+    "domain": "ibnesina.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jawzjan University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Jawzjan",
+    "domain": "ju.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kabul Education University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Kabul Education",
+    "domain": "keu.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kabul Medical University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Kabul Medical",
+    "domain": "kmu.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kabul University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Kabul",
+    "domain": "ku.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kandahar University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Kandahar",
+    "domain": "kan.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kardan University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Kardan",
+    "domain": "kardan.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khurasan University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Khurasan",
+    "domain": "kumsa.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nangarhar University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Nangarhar",
+    "domain": "nu.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Military Academy of Afghanistan",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Afghanistan",
+    "domain": "nmaa.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Paktia University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Paktia",
+    "domain": "pu.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pamir University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Pamir",
+    "domain": "pamir.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Parwan University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Parwan",
+    "domain": "parwan.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Salam University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Salam",
+    "domain": "salam.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaikh Zayed University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Shaikh Zayed",
+    "domain": "szu.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Takhar University",
+    "country": "Afghanistan",
+    "state": "Afghanistan",
+    "city": "Takhar",
+    "domain": "tu.edu.af",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Aureus University School of Medicine",
+    "country": "Aruba",
+    "state": "Aruba",
+    "city": "Oranjestad",
+    "domain": "aureusuniversity.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "University of Aruba",
+    "country": "Aruba",
+    "state": "Aruba",
+    "city": "Oranjestad",
+    "domain": "ua.aw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Xavier University School of Medicine",
+    "country": "Aruba",
+    "state": "Aruba",
+    "city": "Oranjestad",
+    "domain": "xusom.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  }
+]

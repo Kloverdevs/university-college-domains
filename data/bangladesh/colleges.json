@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Gurudayal Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "",
+    "domain": "en.banglapedia.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Military Institute of Science and Technology",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Bangladesh",
+    "domain": "mist.ac.bd",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Moulvibazar Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "",
+    "domain": "odhikar.news",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Satkhira City College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "",
+    "domain": "moedu.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Satkhira Day-Night College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "",
+    "domain": "sdncollege.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Satkhira Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "",
+    "domain": "satkhiragovtcollege.edu.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shariatpur Government College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "",
+    "domain": "sgc.gov.bd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sylhet Engineering College",
+    "country": "Bangladesh",
+    "state": "Bangladesh",
+    "city": "Sylhet Engineering",
+    "domain": "sec.ac.bd",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

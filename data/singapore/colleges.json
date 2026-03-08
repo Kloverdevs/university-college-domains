@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Institute of Technical Education",
+    "country": "Singapore",
+    "state": "Singapore",
+    "city": "Singapore",
+    "domain": "ite.edu.sg",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Nanyang Polytechnic",
+    "country": "Singapore",
+    "state": "Singapore",
+    "city": "Nanyang",
+    "domain": "nyp.edu.sg",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Ngee Ann Polytechnic",
+    "country": "Singapore",
+    "state": "Singapore",
+    "city": "Ngee Ann",
+    "domain": "np.edu.sg",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Republic Polytechnic",
+    "country": "Singapore",
+    "state": "Singapore",
+    "city": "Republic",
+    "domain": "rp.edu.sg",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Singapore Institute of Management (SIM)",
+    "country": "Singapore",
+    "state": "Singapore",
+    "city": "Singapore",
+    "domain": "sim.edu.sg",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Singapore Institute of Technology",
+    "country": "Singapore",
+    "state": "Singapore",
+    "city": "Singapore",
+    "domain": "singaporetech.edu.sg",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Singapore Polytechnic",
+    "country": "Singapore",
+    "state": "Singapore",
+    "city": "Singapore",
+    "domain": "sp.edu.sg",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Taoist College Singapore",
+    "country": "Singapore",
+    "state": "Singapore",
+    "city": "Taoist",
+    "domain": "taoistcollege.org.sg",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Temasek Polytechnic",
+    "country": "Singapore",
+    "state": "Singapore",
+    "city": "Temasek",
+    "domain": "tp.edu.sg",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

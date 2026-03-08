@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Caribbean Maritime University",
+    "country": "Jamaica",
+    "state": "Jamaica",
+    "city": "Kingston",
+    "domain": "cmu.edu.jm",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International University of the Caribbean",
+    "country": "Jamaica",
+    "state": "Jamaica",
+    "city": "Kingston",
+    "domain": "iuc.edu.jm",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Northern Caribbean University",
+    "country": "Jamaica",
+    "state": "Jamaica",
+    "city": "Mandeville",
+    "domain": "ncu.edu.jm",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "University of Technology Jamaica",
+    "country": "Jamaica",
+    "state": "Jamaica",
+    "city": "Kingston",
+    "domain": "utech.edu.jm",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of the Commonwealth Caribbean",
+    "country": "Jamaica",
+    "state": "Jamaica",
+    "city": "Kingston",
+    "domain": "ucc.edu.jm",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "University of the West Indies, Mona",
+    "country": "Jamaica",
+    "state": "Jamaica",
+    "city": "Kingston",
+    "domain": "uwimona.edu.jm",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

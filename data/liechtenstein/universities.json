@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Internationle Akademie für Philosophie",
+    "country": "Liechtenstein",
+    "state": "Liechtenstein",
+    "city": "Vaduz",
+    "domain": "iap.li",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Liechtenstein",
+    "country": "Liechtenstein",
+    "state": "Liechtenstein",
+    "city": "Liechtenstein",
+    "domain": "uni.li",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

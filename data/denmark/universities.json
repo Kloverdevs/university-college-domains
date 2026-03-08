@@ -1,0 +1,275 @@
+[
+  {
+    "name": "Aalborg University",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Aalborg",
+    "domain": "auc.dk",
+    "aliases": [
+      "aau.dk",
+      "student.aau.dk"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aarhus School of Architecture",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Denmark",
+    "domain": "a-aarhus.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aarhus School of Business",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Denmark",
+    "domain": "hha.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aarhus University",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Aarhus",
+    "domain": "au.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asmildkloster Agricultural School",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Denmark",
+    "domain": "asmildkloster.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Copenhagen Business School",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Denmark",
+    "domain": "cbs.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Copenhagen University",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Copenhagen",
+    "domain": "ku.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Danish Business Academy",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Denmark",
+    "domain": "ddea.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Danish University of Education",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Danish",
+    "domain": "dpu.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "IT University of Copenhagen",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Copenhagen",
+    "domain": "itu.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Business School of Scandinavia",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Denmark",
+    "domain": "ibss.eu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Knightsbridge University",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Knightsbridge",
+    "domain": "knightsbridgeuniversity.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lutheran School Of Theology In Aarhus",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Denmark",
+    "domain": "teologi.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Odense University",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Odense",
+    "domain": "ou.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Roskilde University",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Roskilde",
+    "domain": "ruc.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal Academy of Music",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Denmark",
+    "domain": "musik-kons.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal Danish Academy of Fine Arts, School of Architecture",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Denmark",
+    "domain": "karch.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal Danish Academy of Fine Arts, School of Visual Art",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Denmark",
+    "domain": "kunstakademiet.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal Danish Academy of Music",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Denmark",
+    "domain": "dkdm.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal Danish School of Educational Sciences",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Denmark",
+    "domain": "dlh.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal Danish School of Pharmacy",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Denmark",
+    "domain": "dfh.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal School of Library and Information Science",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Denmark",
+    "domain": "db.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Royal Veterinary and Agricultural University",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Royal Veterinary and Agricultural",
+    "domain": "kvl.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Southern Denmark Business School",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Denmark",
+    "domain": "hhs.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical University of Denmark",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Denmark",
+    "domain": "dtu.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Southern Denmark",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "Southern Denmark",
+    "domain": "sdu.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "VIA University College",
+    "country": "Denmark",
+    "state": "Denmark",
+    "city": "VIA",
+    "domain": "en.via.dk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

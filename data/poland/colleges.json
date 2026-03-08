@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Maj Institute of Pharmacology Polish Academy of Sciences",
+    "country": "Poland",
+    "state": "Lesser Poland",
+    "city": "Krakow",
+    "domain": "if-pan.krakow.pl",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "College of Computer Science in Lodz",
+    "country": "Poland",
+    "state": "Lodz",
+    "city": "Lodz",
+    "domain": "wsinf.edu.pl",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Polish-Japanese Institute of Information Technology in Warsaw",
+    "country": "Poland",
+    "state": "Masovian",
+    "city": "Warsaw",
+    "domain": "pjwstk.edu.pl",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Andrzej Frycz Modrzewski Cracow College",
+    "country": "Poland",
+    "state": "Poland",
+    "city": "Andrzej Frycz Modrzewski Cracow",
+    "domain": "ksw.edu.pl",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "French Institute of Management",
+    "country": "Poland",
+    "state": "Poland",
+    "city": "French",
+    "domain": "ifg.com.pl",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Jazłowiec College",
+    "country": "Poland",
+    "state": "Poland",
+    "city": "",
+    "domain": "cejsh.icm.edu.pl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jesuit College in Khyriv",
+    "country": "Poland",
+    "state": "Poland",
+    "city": "",
+    "domain": "biographies.library.nd.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Jesuit College in Polotsk",
+    "country": "Poland",
+    "state": "Poland",
+    "city": "",
+    "domain": "bobolanum.edu.pl",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Józef Tyszkiewicz College of Business and Computer Science in Bielsko-Biala",
+    "country": "Poland",
+    "state": "Poland",
+    "city": "Józef Tyszkiewicz",
+    "domain": "tyszkiewicz.edu.pl",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "List of universities and colleges in Kraków",
+    "country": "Poland",
+    "state": "Poland",
+    "city": "",
+    "domain": "wsei.edu.pl",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Maria Grzegorzewska College for Special Education",
+    "country": "Poland",
+    "state": "Poland",
+    "city": "Maria Grzegorzewska",
+    "domain": "wsps.waw.pl",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Mila College w Warzawie",
+    "country": "Poland",
+    "state": "Poland",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Staszic Pila College",
+    "country": "Poland",
+    "state": "Poland",
+    "city": "Staszic Pila",
+    "domain": "pwsz.pila.pl",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Teacher Training College of Revalidation, Rehabilitation and Physical Education",
+    "country": "Poland",
+    "state": "Poland",
+    "city": "Teacher Training",
+    "domain": "nkrriwf.pl",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Walcz College",
+    "country": "Poland",
+    "state": "Poland",
+    "city": "Walcz",
+    "domain": "pwsz.eu",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Gdansk Management College",
+    "country": "Poland",
+    "state": "Pomeranian",
+    "city": "Gdansk Management",
+    "domain": "wsz.pl",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

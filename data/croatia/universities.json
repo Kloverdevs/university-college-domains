@@ -1,0 +1,82 @@
+[
+  {
+    "name": "University of Dubrovnik",
+    "country": "Croatia",
+    "state": "Croatia",
+    "city": "Dubrovnik",
+    "domain": "unidu.hr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Osijek",
+    "country": "Croatia",
+    "state": "Croatia",
+    "city": "Osijek",
+    "domain": "unios.hr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Pula",
+    "country": "Croatia",
+    "state": "Croatia",
+    "city": "Pula",
+    "domain": "unipu.hr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Rijeka",
+    "country": "Croatia",
+    "state": "Croatia",
+    "city": "Rijeka",
+    "domain": "uniri.hr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Split",
+    "country": "Croatia",
+    "state": "Croatia",
+    "city": "Split",
+    "domain": "unist.hr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Zadar",
+    "country": "Croatia",
+    "state": "Croatia",
+    "city": "Zadar",
+    "domain": "unizd.hr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Zagreb",
+    "country": "Croatia",
+    "state": "Croatia",
+    "city": "Zagreb",
+    "domain": "unizg.hr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zagreb School of Economics and Management",
+    "country": "Croatia",
+    "state": "Croatia",
+    "city": "Croatia",
+    "domain": "zsem.hr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

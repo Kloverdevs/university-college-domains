@@ -1,0 +1,6434 @@
+[
+  {
+    "name": "Nagoya City University",
+    "country": "Japan",
+    "state": "Aichi",
+    "city": "Nagoya City",
+    "domain": "nagoya-cu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nagoya Economics University",
+    "country": "Japan",
+    "state": "Aichi",
+    "city": "Nagoya Economics",
+    "domain": "nagoya-ku.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nagoya Gakuin University",
+    "country": "Japan",
+    "state": "Aichi",
+    "city": "Nagoya Gakuin",
+    "domain": "ngu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nagoya University",
+    "country": "Japan",
+    "state": "Aichi",
+    "city": "Nagoya",
+    "domain": "nagoya-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nagoya University of Arts",
+    "country": "Japan",
+    "state": "Aichi",
+    "city": "Nagoya",
+    "domain": "nua.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nagoya University of Commerce and Business Administration",
+    "country": "Japan",
+    "state": "Aichi",
+    "city": "Nagoya",
+    "domain": "nucba.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nagoya University of Foreign Studies",
+    "country": "Japan",
+    "state": "Aichi",
+    "city": "Foreign Studies",
+    "domain": "nufs.nakanishi.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nagoya Women's University",
+    "country": "Japan",
+    "state": "Aichi",
+    "city": "Nagoya Women's",
+    "domain": "nagoya-wu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chiba Keizai University",
+    "country": "Japan",
+    "state": "Chiba",
+    "city": "Chiba Keizai",
+    "domain": "cku.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chiba University",
+    "country": "Japan",
+    "state": "Chiba",
+    "city": "Chiba",
+    "domain": "chiba-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chiba University of Commerce",
+    "country": "Japan",
+    "state": "Chiba",
+    "city": "Commerce",
+    "domain": "cuc.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Matsuyama University",
+    "country": "Japan",
+    "state": "Ehime",
+    "city": "Matsuyama",
+    "domain": "matsuyama-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fukuoka International University",
+    "country": "Japan",
+    "state": "Fukuoka",
+    "city": "Fukuoka International",
+    "domain": "fukuoka-int-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fukuoka Prefectural University",
+    "country": "Japan",
+    "state": "Fukuoka",
+    "city": "Fukuoka Prefectural",
+    "domain": "fukuoka-pu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fukuoka University",
+    "country": "Japan",
+    "state": "Fukuoka",
+    "city": "Fukuoka",
+    "domain": "fukuoka-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fukuoka University of Education",
+    "country": "Japan",
+    "state": "Fukuoka",
+    "city": "Fukuoka",
+    "domain": "fukuoka-edu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fukuoka Women's University",
+    "country": "Japan",
+    "state": "Fukuoka",
+    "city": "Fukuoka Women's",
+    "domain": "fwu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hiroshima Bunkyo Women's University",
+    "country": "Japan",
+    "state": "Hiroshima",
+    "city": "Hiroshima Bunkyo Women's",
+    "domain": "h-bunkyo.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hiroshima City University",
+    "country": "Japan",
+    "state": "Hiroshima",
+    "city": "Hiroshima City",
+    "domain": "hiroshima-cu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hiroshima International University",
+    "country": "Japan",
+    "state": "Hiroshima",
+    "city": "Hiroshima International",
+    "domain": "hirokoku-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hiroshima Jogakuin University",
+    "country": "Japan",
+    "state": "Hiroshima",
+    "city": "Hiroshima Jogakuin",
+    "domain": "hju.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hiroshima Kokusai Gakuin University",
+    "country": "Japan",
+    "state": "Hiroshima",
+    "city": "Hiroshima Kokusai Gakuin",
+    "domain": "hkg.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hiroshima Prefectural University",
+    "country": "Japan",
+    "state": "Hiroshima",
+    "city": "Hiroshima Prefectural",
+    "domain": "hiroshima-pu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hiroshima Shudo University",
+    "country": "Japan",
+    "state": "Hiroshima",
+    "city": "Hiroshima Shudo",
+    "domain": "shudo-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hiroshima University",
+    "country": "Japan",
+    "state": "Hiroshima",
+    "city": "Hiroshima",
+    "domain": "hiroshima-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hiroshima University of Economics",
+    "country": "Japan",
+    "state": "Hiroshima",
+    "city": "Economics",
+    "domain": "hue.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hiroshima Women's University",
+    "country": "Japan",
+    "state": "Hiroshima",
+    "city": "Hiroshima Women's",
+    "domain": "hirojo-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sapporo Gakuin University",
+    "country": "Japan",
+    "state": "Hokkaido",
+    "city": "Sapporo Gakuin",
+    "domain": "sgu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sapporo International University",
+    "country": "Japan",
+    "state": "Hokkaido",
+    "city": "Sapporo International",
+    "domain": "siu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sapporo Medical University",
+    "country": "Japan",
+    "state": "Hokkaido",
+    "city": "Sapporo Medical",
+    "domain": "sapmed.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sapporo University",
+    "country": "Japan",
+    "state": "Hokkaido",
+    "city": "Sapporo",
+    "domain": "sapporo-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kobe City University of ForeignStudies",
+    "country": "Japan",
+    "state": "Hyogo",
+    "city": "ForeignStudies",
+    "domain": "kobe-cufs.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kobe Design University",
+    "country": "Japan",
+    "state": "Hyogo",
+    "city": "Kobe Design",
+    "domain": "kobe-du.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kobe Gakuin University",
+    "country": "Japan",
+    "state": "Hyogo",
+    "city": "Kobe Gakuin",
+    "domain": "kobegakuin.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kobe International University",
+    "country": "Japan",
+    "state": "Hyogo",
+    "city": "Kobe International",
+    "domain": "kobe-kiu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kobe Jogakuin University",
+    "country": "Japan",
+    "state": "Hyogo",
+    "city": "Kobe Jogakuin",
+    "domain": "kobe-c.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kobe Pharmaceutical University",
+    "country": "Japan",
+    "state": "Hyogo",
+    "city": "Kobe Pharmaceutical",
+    "domain": "kobepharma-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kobe Shinwa Women's University",
+    "country": "Japan",
+    "state": "Hyogo",
+    "city": "Kobe Shinwa Women's",
+    "domain": "kobe-shinwa.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kobe Shoin Women's University",
+    "country": "Japan",
+    "state": "Hyogo",
+    "city": "Kobe Shoin Women's",
+    "domain": "shoin.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kobe University",
+    "country": "Japan",
+    "state": "Hyogo",
+    "city": "Kobe",
+    "domain": "kobe-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kobe University of Mercantile Marine",
+    "country": "Japan",
+    "state": "Hyogo",
+    "city": "Mercantile Marine",
+    "domain": "kshosen.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kobe Women's University",
+    "country": "Japan",
+    "state": "Hyogo",
+    "city": "Kobe Women's",
+    "domain": "suma.kobe-wu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tsukuba University",
+    "country": "Japan",
+    "state": "Ibaraki",
+    "city": "Tsukuba",
+    "domain": "tsukuba.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kanazawa Gakuin University",
+    "country": "Japan",
+    "state": "Ishikawa",
+    "city": "Kanazawa Gakuin",
+    "domain": "kanazawa-gu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kanazawa Medical University",
+    "country": "Japan",
+    "state": "Ishikawa",
+    "city": "Kanazawa Medical",
+    "domain": "kanazawa-med.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kanazawa University",
+    "country": "Japan",
+    "state": "Ishikawa",
+    "city": "Kanazawa",
+    "domain": "kanazawa-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aichi Bunkyo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Aichi Bunkyo",
+    "domain": "abu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aichi Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Aichi Gakuin",
+    "domain": "aichi-gakuin.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aichi Gakusen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Aichi Gakusen",
+    "domain": "gakusen.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aichi Medical University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Aichi Medical",
+    "domain": "aichi-med-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aichi Prefectural University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Aichi Prefectural",
+    "domain": "aichi-pu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aichi Prefectural University of Fine Arts & Music",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Aichi Prefectural",
+    "domain": "aichi-fam-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aichi Sangyo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Aichi Sangyo",
+    "domain": "asu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aichi Shukutoku University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Aichi Shukutoku",
+    "domain": "aasa.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aichi Toho University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "aichi-toho.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aichi University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Aichi",
+    "domain": "aichi-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aichi University of Education",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Aichi",
+    "domain": "aichi-edu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aichi University of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "aut.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aikoku Gakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Aikoku Gakuen",
+    "domain": "aikoku-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aino University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "aino.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Akita International University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "aiu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Akita Prefectural University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "akita-pu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Akita University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Akita",
+    "domain": "akita-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Akita University of Art",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "akibi.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Akita University of Economics and Law",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Economics and Law",
+    "domain": "akeihou-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Akita University of Nursing and Welfare",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "well.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aomori Chuoh Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Aomori Chuoh Gakuin",
+    "domain": "aomoricgu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aomori University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Aomori",
+    "domain": "aomori-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aomori University of Health and Welfare",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Health and Welfare",
+    "domain": "auhw.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aoyama Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Aoyama Gakuin",
+    "domain": "aoyama.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asahi University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Asahi",
+    "domain": "asahi-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asahikawa University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Asahikawa",
+    "domain": "asahikawa-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ashiya University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Ashiya",
+    "domain": "ashiya-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asia University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Asia",
+    "domain": "asia-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Azabu University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Azabu",
+    "domain": "azabu-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Beppu University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Beppu",
+    "domain": "beppu-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bukkyo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Bukkyo",
+    "domain": "bukkyo-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bunka Gakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "bwu.bunka.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bunka Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Bunka Women's",
+    "domain": "bunka-wu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bunkyo Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Bunkyo Gakuin",
+    "domain": "bgu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bunkyo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Bunkyo",
+    "domain": "bunkyo.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bunri University of Hospitality",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "bunri-c.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bunsei University of Art",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "bunsei.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chiba Prefectural University of Health Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "ci.nii.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chikushi Jogakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Chikushi Jogakuen",
+    "domain": "chikushi.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chubu Gakuin University & Chubu Women's College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Chubu Gakuin",
+    "domain": "chubu-gu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chubu University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Chubu",
+    "domain": "chubu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chugoku Gakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "cjc.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chukyo Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Chukyo Gakuin",
+    "domain": "chukyogakuin-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chukyo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Chukyo",
+    "domain": "chukyo-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chukyo Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Chukyo Women's",
+    "domain": "chujo-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chuo Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Chuo Gakuin",
+    "domain": "cgu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chuo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Chuo",
+    "domain": "chuo-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cyber University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "cyber-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dai Ichi University, College of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Dai Ichi University",
+    "domain": "daiichi-koudai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daiichi University of Economics",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Economics",
+    "domain": "daiichi-ue.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daito Bunka University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Daito Bunka",
+    "domain": "daito.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Den-en Chofu University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "dcu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Digital Hollywood University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "dhw.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Doho University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Doho",
+    "domain": "doho.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dohto University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Dohto",
+    "domain": "dohto.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dokkyo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Dokkyo",
+    "domain": "dokkyo.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dokkyo University School of Medicine",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Dokkyo",
+    "domain": "dokkyomed.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Doshisha University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Doshisha",
+    "domain": "doshisha.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Edogawa University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Edogawa",
+    "domain": "edogawa-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ehime Prefectural University of Health Science",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "epu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ehime University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Ehime",
+    "domain": "ehime-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eichi University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Eichi",
+    "domain": "eichi-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Elisabeth University of Music",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Elisabeth",
+    "domain": "eum.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ferris University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Ferris",
+    "domain": "ferris.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fuji University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Fuji",
+    "domain": "termnet.co.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fujita Health University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Fujita Health",
+    "domain": "fujita-hu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fukui Medical School",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Japan",
+    "domain": "fukui-med.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fukui Prefectural University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Fukui Prefectural",
+    "domain": "fpu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fukui University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Fukui",
+    "domain": "fukui-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fukui University of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Fukui",
+    "domain": "fukui-ut.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fukuoka Jo Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "fukujo.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fukushima University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Fukushima",
+    "domain": "fukushima-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fukuyama City University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "fcu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fukuyama Heisei University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Fukuyama Heisei",
+    "domain": "heisei-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fukuyama University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Fukuyama",
+    "domain": "fukuyama-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Future University Hakodate",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "fun.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gakushuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Gakushuin",
+    "domain": "gakushuin.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gifu Keizai University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Gifu Keizai",
+    "domain": "gifu-keizai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gifu Pharmaceutical University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Gifu Pharmaceutical",
+    "domain": "gifu-pu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gifu Shotoku Gakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Gifu Shotoku Gakuen",
+    "domain": "shotoku.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gifu University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Gifu",
+    "domain": "gifu-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gifu University for Education and Languages",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Gifu",
+    "domain": "gifu-kyoiku.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gifu University of Medical Science",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "jinno.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gifu Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Gifu Women's",
+    "domain": "gijodai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Graduate School of Management, Globis University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "mba.globis.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Graduate University for Advanced Studies",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Japan",
+    "domain": "soken.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gunma Prefectural Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Gunma Prefectural Women's",
+    "domain": "gpwu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gunma University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Gunma",
+    "domain": "gunma-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gunma University of Health and Welfare",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "shoken-gakuen.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hachinohe University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hachinohe",
+    "domain": "hachinohe-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hagoromo University of International Studies",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "hagoromo.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hakodate University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hakodate",
+    "domain": "hakodate-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hakuoh University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hakuoh",
+    "domain": "hakuoh.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hamamatsu Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "hgu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hamamatsu University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hamamatsu",
+    "domain": "hamamatsu-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hamamatsu University School of Medicine",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hamamatsu",
+    "domain": "hama-med.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanazono University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hanazono",
+    "domain": "hanazono.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hannan University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hannan",
+    "domain": "hannan-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Health Science University (Fujikawaguchiko, Japan)",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kenkoudai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Heian Jogakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "heian.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Heisei International University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Heisei International",
+    "domain": "hiu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Higashi Nippon International University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Higashi Nippon International",
+    "domain": "tonichi-kokusai-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hijiyama University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hijiyama",
+    "domain": "hijiyama-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Himeji Dokkyo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Himeji Dokkyo",
+    "domain": "himeji-du.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Himeji University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "himeji.koutoku.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hirosaki Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hirosaki Gakuin",
+    "domain": "hirogaku-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hirosaki University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hirosaki",
+    "domain": "hirosaki-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hirosaki University of Health and Welfare",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "id.ndl.go.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hiroshima Bunka Gakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "geohack.toolforge.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hitotsubashi University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hitotsubashi",
+    "domain": "hit-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hokkaido Bunkyo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "do-bunkyodai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hokkaido Information University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hokkaido Information",
+    "domain": "do-johodai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hokkaido Tokai University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hokkaido Tokai",
+    "domain": "u-tokai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hokkaido University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hokkaido",
+    "domain": "hokudai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hokkaido University of Education",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hokkaido",
+    "domain": "hokkyodai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hokkaido University of Health Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hokkaido",
+    "domain": "hoku-iryo-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hokkaido University of Science",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "hus.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hokkaigakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hokkaigakuen",
+    "domain": "hokkai-s-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hokkaigakuen University of Kitami",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kitami",
+    "domain": "hokkai-k-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hokuriku University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hokuriku",
+    "domain": "hokuriku-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hokusei Gakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hokusei Gakuen",
+    "domain": "hokusei.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hokusho University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "hokusho-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hosei University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hosei",
+    "domain": "hosei.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoshi University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hoshi",
+    "domain": "hoshi.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hyogo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hyogo",
+    "domain": "hyogo-dai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hyogo University of Education",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Hyogo",
+    "domain": "hyogo-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hyogo University of Health Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "huhs.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hyogo University of Teacher Education",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "office.hyogo-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ibaraki Prefectural University of Health Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Ibaraki Prefectural",
+    "domain": "ipu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ibaraki University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Ibaraki",
+    "domain": "ibaraki.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Buddhist University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "International Buddhist",
+    "domain": "shitennoji.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Budo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "International Budo",
+    "domain": "budo-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Christian University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Japan",
+    "domain": "icu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "International Pacific University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "ipu-japan.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International University of Health and Welfare",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Health and Welfare",
+    "domain": "iuhw.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International University of Japan",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Japan",
+    "domain": "iuj.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iryo Sosei University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "isu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ishinomaki Senshu University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Ishinomaki Senshu",
+    "domain": "isenshu-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iwaki Meisei University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Iwaki Meisei",
+    "domain": "iwakimu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iwate Medical University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Iwate Medical",
+    "domain": "iwate-med.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iwate Prefectural University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Iwate Prefectural",
+    "domain": "iwate-pu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iwate University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Iwate",
+    "domain": "iwate-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Japan University of Economics",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "jue.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Japan University of Health Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "jhsu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Japan Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Japan Women's",
+    "domain": "jwu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jichi Medical School",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Japan",
+    "domain": "jichi.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jikei University School of Medicine",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Jikei",
+    "domain": "jikei.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jin-ai University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "jindai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jissen Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Jissen Women's",
+    "domain": "jissen.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jobu University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Jobu",
+    "domain": "jobu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Joetsu University of Education",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Joetsu",
+    "domain": "juen.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Josai International University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Josai International",
+    "domain": "jiu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Josai University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Josai",
+    "domain": "josai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jumonji University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "jumonji-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Juntendo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Juntendo",
+    "domain": "juntendo.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kaetsu University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kaetsu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kagawa Medical School",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Japan",
+    "domain": "kms.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kagawa University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kagawa",
+    "domain": "kagawa-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kaichi International University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kaichi.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kanagawa Dental University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kdu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kanagawa University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kanagawa",
+    "domain": "kanagawa-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kanagawa University of Human Services",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kuhs.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kanazawa Seiryo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "seiryo-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kanda University of International Studies",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kanda",
+    "domain": "kuis.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kansai Gaidai University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kansai Gaidai",
+    "domain": "kansai-gaidai-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kansai Medical University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kansai Medical",
+    "domain": "kmu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kansai University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kansai",
+    "domain": "kansai-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kansai University of International Studies",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kansai",
+    "domain": "kuins.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kansai University of Nursing and Health Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kki.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kansai University of Social Welfare",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Social Welfare",
+    "domain": "kusw.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kansai University of Welfare Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "fuksi-kagk-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kanto Gakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kanto Gakuen",
+    "domain": "kanto-gakuen.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kanto Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kanto Gakuin",
+    "domain": "kanto-gakuin.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kawamura Gakuen Woman's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kawamura Gakuen Woman's",
+    "domain": "kgwu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kawasaki Medical School",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Japan",
+    "domain": "kawasaki-m.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Keiai University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Keiai",
+    "domain": "u-keiai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Keio University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Keio",
+    "domain": "keio.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kibi International University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kibi International",
+    "domain": "kiui.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kindai University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "ccpc01.cc.kinki.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kinjo Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kinjo Gakuin",
+    "domain": "kinjo-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kinjo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kinjo.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kinki University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kinki",
+    "domain": "kindai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kio University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kio.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kiryu University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kiryu-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kitakyushu University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kitakyushu",
+    "domain": "kitakyu-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kitasato University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kitasato",
+    "domain": "kitasato-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kobe Tokiwa University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kobe-tokiwa.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kochi Medical School",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Japan",
+    "domain": "kochi-ms.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kochi University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kochi",
+    "domain": "kochi-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kochi University of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kochi",
+    "domain": "kochi-tech.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kochi Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kochi Women's",
+    "domain": "kochi-wu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kogakkan University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kogakkan",
+    "domain": "kogakkan-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kogakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kogakuin",
+    "domain": "kogakuin.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kokugakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kokugakuin",
+    "domain": "kokugakuin.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kokushikan University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kokushikan",
+    "domain": "kokushikan.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Komatsu University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "boisestate.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Komazawa University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Komazawa",
+    "domain": "komazawa-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Komazawa Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "komajo.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Konan University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Konan",
+    "domain": "konan-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Konan Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Konan Women's",
+    "domain": "konan-wu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Korea",
+    "domain": "korea-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Koriyama Women's University and College",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Koriyama Women's",
+    "domain": "koriyama-kgc.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Koshien University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Koshien",
+    "domain": "koshien.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Koyasan University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Koyasan",
+    "domain": "koyasan-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kumamoto Health Science University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kumamoto-hsu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kurashiki Sakuyo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kurashiki Sakuyo",
+    "domain": "ksu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kurashiki University of Science and the Arts",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kurashiki",
+    "domain": "kusa.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kure University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kure",
+    "domain": "kure-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kurume University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kurume",
+    "domain": "kurume-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kushiro Public University of Economics",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Economics",
+    "domain": "kushiro-pu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kwansei Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kwansei Gakuin",
+    "domain": "kwansei.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kwassui Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kwassui-int.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoai Gakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kyoai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoei University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kyoei.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyorin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kyorin",
+    "domain": "kyorin-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoritsu Pharmaceutical University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kyoritsu Pharmaceutical",
+    "domain": "kyoritsu-ph.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoritsu Woman's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kyoritsu Woman's",
+    "domain": "kyoritsu-wu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoto Saga University of Arts",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kyoto-saga.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoto University of Advanced Science",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kuas.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoto University of the Arts",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "getty.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyushu International University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kyushu International",
+    "domain": "kiu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyushu Kyoritsu University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kyushu Kyoritsu",
+    "domain": "kyukyo-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyushu Nutrition Welfare University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "knwu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyushu Sangyo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kyushu Sangyo",
+    "domain": "ip.kyusan-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyushu Tokai University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kyushu Tokai",
+    "domain": "ktokai-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyushu University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kyushu",
+    "domain": "kyushu-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyushu University of Health and Welfare",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "phoenix.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyushu University of Nursing and SocialWelfare",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Nursing and SocialWelfare",
+    "domain": "kyushu-ns.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyushu Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Kyushu Women's",
+    "domain": "kwuc.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Matsumoto Dental University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Matsumoto Dental",
+    "domain": "mdu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Matsumoto University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "matsumoto-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Matsusaka University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Matsusaka",
+    "domain": "mie-chukyo-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Meiji Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Meiji Gakuin",
+    "domain": "meijigakuin.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Meiji University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Meiji",
+    "domain": "meiji.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Meiji University of Oriental Medicine",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Oriental Medicine",
+    "domain": "meiji-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Meijo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Meijo",
+    "domain": "meijo-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Meikai University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Meikai",
+    "domain": "meikai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Meio University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Meio",
+    "domain": "meio-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Meisei University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Meisei",
+    "domain": "meisei-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mejiro University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Mejiro",
+    "domain": "mejiro.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mie University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Mie",
+    "domain": "mie-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mimasaka University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "mimasaka.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Minamikyushu University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Minamikyushu",
+    "domain": "nankyudai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Minobusan University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "min.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Miyagi University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Miyagi",
+    "domain": "myu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Miyagi University of Education",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Miyagi",
+    "domain": "miyakyo-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Miyazaki Municipal University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Miyazaki Municipal",
+    "domain": "miyazaki-mu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Miyazaki Prefectural Nursing University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Miyazaki Prefectural Nursing",
+    "domain": "mpu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Miyazaki University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Miyazaki",
+    "domain": "miyazaki-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Morinomiya University of Medical Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "morinomiya-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mukogawa Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Mukogawa Women's",
+    "domain": "mukogawa-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Musashi University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Musashi",
+    "domain": "musashi.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Musashino Academy of Music",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Japan",
+    "domain": "musashino-music.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Musashino Art University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Musashino Art",
+    "domain": "musabi.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Musashino Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "musa.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Musashino Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Musashino Women's",
+    "domain": "musashino-wu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nagano University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Nagano",
+    "domain": "nagano.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nagaoka University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "nagaokauniv.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nagaoka University of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Nagaoka",
+    "domain": "nagaokaut.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nagasaki International University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "niu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nagasaki Junshin Catholic University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "n-junshin.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Nagasaki University of Foreign Studies",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "studioabroad.newpaltz.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nagasaki Wesleyan University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "wesleyan.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nagoya Bunri University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "nagoya-bunri.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nagoya Sangyo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "nagoya-su.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nagoya University of Arts and Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "nuas.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nakamura Gakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Nakamura Gakuen",
+    "domain": "nakamura-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nanzan University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Nanzan",
+    "domain": "nanzan-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nara Prefectural University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "narapu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Naruto University of Education",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Naruto",
+    "domain": "naruto-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Fisheries University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "National Fisheries",
+    "domain": "fish-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University Corporation",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "mainichi.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nayoro City University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "nayoro.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nihon Bunka University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "nihonbunka-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nihon Fukushi University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Nihon Fukushi",
+    "domain": "n-fukushi.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nihon Pharmaceutical University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "nihonyakka.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nihon University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Nihon",
+    "domain": "nihon-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Niigata Seiryo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "n-seiryo.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Niigata University of Health and Welfare",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "nuhw.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Niigata University of Pharmacy and Applied Life Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "nupals.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nippon Bunri University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Nippon Bunri",
+    "domain": "nbu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nippon Dental University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Nippon Dental",
+    "domain": "ndu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nippon Medical School",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Japan",
+    "domain": "nms.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nippon Sport Science University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Nippon Sport Science",
+    "domain": "nittai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nippon Veterinary and Animalscience University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Nippon Veterinary and Animalscience",
+    "domain": "nvau.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nippon Veterinary and Life Science University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "nvlu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nishikyushu University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Nishikyushu",
+    "domain": "nisikyu-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nisho Gakusha University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Nisho Gakusha",
+    "domain": "nishogakusha-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "North Asia University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "nau.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nortre Dame Seishin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Nortre Dame Seishin",
+    "domain": "ndsu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Obihiro University of Agriculture and Veterinary Medicine",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Obihiro",
+    "domain": "obihiro.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Obirin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Obirin",
+    "domain": "obirin.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ochanomizu Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Ochanomizu Women's",
+    "domain": "ocha.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ohka Gakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Ohka Gakuen",
+    "domain": "ohkagakuen-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ohtani Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Ohtani Women's",
+    "domain": "ohtani-w.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ohu University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Ohu",
+    "domain": "ohu-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Oita Medical University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Oita Medical",
+    "domain": "oita-med.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Oita University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Oita",
+    "domain": "oita-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Oita University of Nursing and Health Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Oita",
+    "domain": "oita-nhs.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Okayama Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "owc.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Okinawa Christian University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "ocjc.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Onomichi City University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "onomichi-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka Butsuryo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "butsuryo.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka Kawasaki Rehabilitation University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kawasakigakuen.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka Ohtani University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "osaka-ohtani.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka Prefecture University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "museum.osakafu-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka Seikei University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "univ.osaka-seikei.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka University of Comprehensive Children Education",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "jonan.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka University of Human Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "ohs.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka University of Tourism",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "tourism.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Otani University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Otani",
+    "domain": "otani.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Otaru University of Commerce",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Commerce",
+    "domain": "otaru-uc.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Otemae University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Otemae",
+    "domain": "otemae.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Otemon Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Otemon Gakuin",
+    "domain": "otemon.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Otsuma Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Otsuma Women's",
+    "domain": "otsuma.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Poole Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Poole Gakuin",
+    "domain": "poole.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Prefectural University of Hiroshima",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "pu-hiroshima.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rakuno Gakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Rakuno Gakuen",
+    "domain": "rakuno.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Reitaku University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Reitaku",
+    "domain": "reitaku-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rikkyo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "english.rikkyo.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rikkyo University (St. Paul's University)",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Rikkyo",
+    "domain": "rikkyo.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rissho University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Rissho",
+    "domain": "ris.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ritsumeikan Asia Pacific University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Ritsumeikan Asia Pacific",
+    "domain": "apu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ritsumeikan University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Ritsumeikan",
+    "domain": "ritsumei.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ryotokuji University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "ryotokuji-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ryukoku University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Ryukoku",
+    "domain": "ryukoku.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ryutsu Keizai University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Ryutsu Keizai",
+    "domain": "rku.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saga Medical School",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Japan",
+    "domain": "saga-med.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saga University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Saga",
+    "domain": "saga-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sagami Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Sagami Women's",
+    "domain": "sagami-wu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saitama Gakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "saigaku.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saitama Medical School",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Japan",
+    "domain": "saitama-med.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saitama Prefectural University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Saitama Prefectural",
+    "domain": "spu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saitama University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Saitama",
+    "domain": "saitama-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saku University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "saku.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sakushin Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Sakushin Gakuin",
+    "domain": "sakushin-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sankei University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Sankei",
+    "domain": "miyasankei-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sanno University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Sanno",
+    "domain": "sanno.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sanyo Gakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Sanyo Gakuen",
+    "domain": "sguc.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sanyo-Onoda City University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "socu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sapporo City University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "www2.scu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seian University of Art & Design",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Art & Design",
+    "domain": "seian.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seigakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Seigakuin",
+    "domain": "seigakuin-univ.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seijo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Seijo",
+    "domain": "seijo.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seijoh University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "seijoh-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seikei University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Seikei",
+    "domain": "seikei.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seinan Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Seinan Gakuin",
+    "domain": "seinan-gu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seinan Jo Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "seinan-jo.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seirei Christopher University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "seirei.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seisa Dohto University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "seisadohto.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seisa University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "seisa.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seisen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Seisen",
+    "domain": "seisen-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seisen University (Shiga)",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "seisen.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seitoku University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "unirank.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seiwa University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "seiwa-univ.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Senri Kinran University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kinran.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Senshu University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Senshu",
+    "domain": "senshu-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Setsunan University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Setsunan",
+    "domain": "setsunan.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shibata Gakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "univ.shibata.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shiga University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Shiga",
+    "domain": "shiga-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shiga University of Medical Science",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Shiga",
+    "domain": "shiga-med.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shigakkan University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "sgk.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shigakukan University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "shigakukan.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shijonawate Gakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "shijonawate-gakuen.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shikoku University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Shikoku",
+    "domain": "shikoku-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shimane University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Shimane",
+    "domain": "shimane-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shimane University, Faculty of Medicine",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Shimane",
+    "domain": "shimane-med.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shimonoseki City University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Shimonoseki City",
+    "domain": "shimonoseki-cu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shinshu University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Shinshu",
+    "domain": "shinshu-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shiraume Gakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "daigaku.shiraume.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shizuoka Eiwa Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "shizuoka-eiwa.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shizuoka University of Art and Culture",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "suac.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shizuoka University of Welfare",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "suw.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shobi University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "shobi-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shoin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "shoin-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shokei Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "shokei.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Showa University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Showa",
+    "domain": "showa-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Showa Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Showa Women's",
+    "domain": "swu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shubun University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "shubun.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shujitsu Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Shujitsu Women's",
+    "domain": "shujitsu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shukutoku University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Shukutoku",
+    "domain": "shukutoku.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shumei University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Shumei",
+    "domain": "shumei-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Soai University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Soai",
+    "domain": "soai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sojo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "sojo-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Soka University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Soka",
+    "domain": "soka.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sonoda Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Sonoda Women's",
+    "domain": "sonoda-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sophia University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Sophia",
+    "domain": "sophia.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Andrew's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "St. Andrew's",
+    "domain": "andrew.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Luke's International University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "university.luke.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Marianna University School of Medicine",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "St. Marianna",
+    "domain": "marianna-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sugiyama Jogakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Sugiyama Jogakuen",
+    "domain": "sugiyama-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Surugadai University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Surugadai",
+    "domain": "surugadai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Suwa University of Science",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "sus.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Suzuka International University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Suzuka International",
+    "domain": "suzuka-iu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Suzuka University of Medical Science",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Suzuka",
+    "domain": "suzuka-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taisei Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "tgu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taisho University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Taisho",
+    "domain": "tais.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Takachiho University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Takachiho",
+    "domain": "takachiho.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Takamatsu University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Takamatsu",
+    "domain": "takamatsu-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Takaoka University of Law",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "takaoka.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Takarazuka University of Art and Design",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Art and Design",
+    "domain": "takara-univ.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Takasaki City University of Economics",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Economics",
+    "domain": "tcue.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Takasaki University of Commerce",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "tuc.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Takasaki University of Health and Welfare",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "takasaki-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Takushoku University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Takushoku",
+    "domain": "takushoku-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tama Art University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tama Art",
+    "domain": "tamabi.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tama University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "tama.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tamagawa University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tamagawa",
+    "domain": "tamagawa.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Teikyo Heisei University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Teikyo Heisei",
+    "domain": "teikyo-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Teikyo University of Science and Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Science and Technology",
+    "domain": "ntu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Temple University Japan",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Temple",
+    "domain": "tuj.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tenri Health Care University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "tenriyorozu-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tenri University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tenri",
+    "domain": "tenri-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tezukayama Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tezukayama Gakuin",
+    "domain": "tezuka-gu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tezukayama University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tezukayama",
+    "domain": "tezukayama-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toho Gakuen School of Music",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Japan",
+    "domain": "tohomusic.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toho University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Toho",
+    "domain": "toho-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tohoku Bunka Gakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tohoku Bunka Gakuen",
+    "domain": "tbgu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tohoku Fukushi University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tohoku Fukushi",
+    "domain": "tfu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tohoku Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tohoku Gakuin",
+    "domain": "tohoku-gakuin.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tohoku Medical and Pharmaceutical University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "tohoku-mpu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tohoku University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tohoku",
+    "domain": "tohoku.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tohoku University of Art and Design",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Art and Design",
+    "domain": "tuad.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tohoku University of Community Service and Science",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "koeki-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tohto University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "tohto.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tohwa University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tohwa",
+    "domain": "tohwa-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokai Gakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tokai Gakuen",
+    "domain": "tokaigakuen-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokai Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "tokaigakuin-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokai University Educational System",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tokai",
+    "domain": "tokai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokiwa University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tokiwa",
+    "domain": "tokiwa.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokiwakai Gakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "sftokiwakai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokoha Gakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tokoha Gakuen",
+    "domain": "tokoha-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokushima Bunri University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tokushima Bunri",
+    "domain": "bunri-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokushima University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tokushima",
+    "domain": "tokushima-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokuyama University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tokuyama",
+    "domain": "tokuyama-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Christian University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "acts.tci.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Tokyo City University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "tcu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Fuji University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "fuji.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Future University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "tokyomirai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Healthcare University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "thcu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Junshin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "t-junshin.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Kasei-Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kasei-gakuin.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Seitoku University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "tsu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo University of Marine Science and Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kaiyodai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo University of Science",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "tus.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo University of Social Welfare",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "tokyo-fukushi.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo University of the Arts",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "ima.fa.geidai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tomakomai Komazawa University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tomakomai Komazawa",
+    "domain": "t-komazawa.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tottori University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tottori",
+    "domain": "tottori-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tottori University of Environmental Studies",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tottori",
+    "domain": "kankyo-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toyo Eiwa Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Toyo Eiwa Women's",
+    "domain": "toyoeiwa.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toyo Gakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Toyo Gakuen",
+    "domain": "toyogakuen-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toyo University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Toyo",
+    "domain": "toyo.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toyohashi University of Technology",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Toyohashi",
+    "domain": "tut.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tsukuba Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "tsukuba-g.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tsukuba International University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "ktt.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tsuru University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tsuru",
+    "domain": "tsuru.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tsuruga Nursing University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "tsuruga-nu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tsurumi University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Tsurumi",
+    "domain": "tsurumi-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Uekusa University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "uekusa.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "United Nations University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "United Nations",
+    "domain": "unu.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Aizu",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Aizu",
+    "domain": "u-aizu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Bunkyo",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Bunkyo",
+    "domain": "u-bunkyo.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of East Asia",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "East Asia",
+    "domain": "toua-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Electro-Communications",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Electro",
+    "domain": "uec.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Fukuchiyama",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "fukuchiyama.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Fukui",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "u-fukui.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Human Arts and Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "human.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Human Environments",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "uhe.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Hyogo",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "u-hyogo.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Kochi",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "u-kochi.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Marketing and Distribution Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Marketing and Distribution Sciences",
+    "domain": "umds.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Nagano",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "u-nagano.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Niigata Prefecture",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "unii.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Occupational and Environmental Health, Japan",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Occupational and Environmental Health",
+    "domain": "uoeh-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Shiga Prefecture",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Shiga Prefecture",
+    "domain": "usp.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Shimane",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "u-shimane.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Toyama",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "u-toyama.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of the Air",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "the Air",
+    "domain": "u-air.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of the Ryukyus",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "the Ryukyus",
+    "domain": "u-ryukyu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Urawa University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "urawa.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Utsunomiya Kyowa University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "kyowa-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Utsunomiya University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Utsunomiya",
+    "domain": "utsunomiya-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wakayama University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Wakayama",
+    "domain": "wakayama-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wakkanai Hokusei Gakuen University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Wakkanai Hokusei Gakuen",
+    "domain": "wakhok.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wako University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Wako",
+    "domain": "wako.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Waseda University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Waseda",
+    "domain": "waseda.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wayo Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Wayo Women's",
+    "domain": "wayo.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yamagata Prefectural University of Health Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "yachts.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yamagata Prefectural Yonezawa University of Nutrition Sciences",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "yone.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yamagata University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Yamagata",
+    "domain": "yamagata-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yamaguchi Prefectural University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Yamaguchi Prefectural",
+    "domain": "yamaguchi-pu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yamaguchi University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Yamaguchi",
+    "domain": "yamaguchi-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yamanashi Gakuin University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Yamanashi Gakuin",
+    "domain": "ygu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yamanashi Medical University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Yamanashi Medical",
+    "domain": "yamanashi-med.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yamanashi Prefectural University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "yamanashi-ken.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yamanashi University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Yamanashi",
+    "domain": "yamanashi.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yasuda Women's University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Yasuda Women's",
+    "domain": "yasuda-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yokkaichi Nursing and Medical Care University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "y-nm.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yokkaichi University",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "Yokkaichi",
+    "domain": "yokkaichi-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yokohama University of Art and Design",
+    "country": "Japan",
+    "state": "Japan",
+    "city": "",
+    "domain": "yokohama-art.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International University of Kagoshima",
+    "country": "Japan",
+    "state": "Kagoshima",
+    "city": "Kagoshima",
+    "domain": "iuk.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kagoshima Immaculate Heart University",
+    "country": "Japan",
+    "state": "Kagoshima",
+    "city": "Kagoshima Immaculate Heart",
+    "domain": "juntan.k-junshin.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kagoshima University",
+    "country": "Japan",
+    "state": "Kagoshima",
+    "city": "Kagoshima",
+    "domain": "kagoshima-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toin University of Yokohama",
+    "country": "Japan",
+    "state": "Kanagawa",
+    "city": "Yokohama",
+    "domain": "toin.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yokohama City University",
+    "country": "Japan",
+    "state": "Kanagawa",
+    "city": "Yokohama City",
+    "domain": "yokohama-cu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yokohama National University",
+    "country": "Japan",
+    "state": "Kanagawa",
+    "city": "Yokohama National",
+    "domain": "ynu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kumamoto Gakuen University",
+    "country": "Japan",
+    "state": "Kumamoto",
+    "city": "Kumamoto Gakuen",
+    "domain": "kumagaku.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kumamoto Prefectural University",
+    "country": "Japan",
+    "state": "Kumamoto",
+    "city": "Kumamoto Prefectural",
+    "domain": "pu-kumamoto.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kumamoto University",
+    "country": "Japan",
+    "state": "Kumamoto",
+    "city": "Kumamoto",
+    "domain": "kumamoto-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoto Bunkyo University",
+    "country": "Japan",
+    "state": "Kyoto",
+    "city": "Kyoto Bunkyo",
+    "domain": "kbu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoto City University of Arts",
+    "country": "Japan",
+    "state": "Kyoto",
+    "city": "Kyoto City",
+    "domain": "kcua.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoto Gakuen University",
+    "country": "Japan",
+    "state": "Kyoto",
+    "city": "Kyoto Gakuen",
+    "domain": "kyotogakuen-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoto Notre Dame University",
+    "country": "Japan",
+    "state": "Kyoto",
+    "city": "Kyoto Notre Dame",
+    "domain": "notredame.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoto Pharmaceutical University",
+    "country": "Japan",
+    "state": "Kyoto",
+    "city": "Kyoto Pharmaceutical",
+    "domain": "kyoto-phu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoto Prefectural University",
+    "country": "Japan",
+    "state": "Kyoto",
+    "city": "Kyoto Prefectural",
+    "domain": "kpu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoto Prefectural University of Medicine",
+    "country": "Japan",
+    "state": "Kyoto",
+    "city": "Kyoto Prefectural",
+    "domain": "kpu-m.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoto Sangyo University",
+    "country": "Japan",
+    "state": "Kyoto",
+    "city": "Kyoto Sangyo",
+    "domain": "kyoto-su.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoto Seika University",
+    "country": "Japan",
+    "state": "Kyoto",
+    "city": "Kyoto Seika",
+    "domain": "kyoto-seika.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoto Tachibana Women's University",
+    "country": "Japan",
+    "state": "Kyoto",
+    "city": "Kyoto Tachibana Women's",
+    "domain": "tachibana-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoto University",
+    "country": "Japan",
+    "state": "Kyoto",
+    "city": "Kyoto",
+    "domain": "kyoto-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoto University of Art and Design",
+    "country": "Japan",
+    "state": "Kyoto",
+    "city": "Art and Design",
+    "domain": "kyoto-art.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoto University of Education",
+    "country": "Japan",
+    "state": "Kyoto",
+    "city": "Kyoto",
+    "domain": "kyokyo-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoto University of Foreign Studies",
+    "country": "Japan",
+    "state": "Kyoto",
+    "city": "Foreign Studies",
+    "domain": "kufs.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyoto Women's University",
+    "country": "Japan",
+    "state": "Kyoto",
+    "city": "Kyoto Women's",
+    "domain": "kyoto-wu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sendai University",
+    "country": "Japan",
+    "state": "Miyagi",
+    "city": "Sendai",
+    "domain": "sendaidaigaku.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nagasaki Prefectural University",
+    "country": "Japan",
+    "state": "Nagasaki",
+    "city": "Nagasaki Prefectural",
+    "domain": "nagasakipu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nagasaki University",
+    "country": "Japan",
+    "state": "Nagasaki",
+    "city": "Nagasaki",
+    "domain": "nagasaki-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Siebold University of Nagasaki",
+    "country": "Japan",
+    "state": "Nagasaki",
+    "city": "Nagasaki",
+    "domain": "sun.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nara Medical University",
+    "country": "Japan",
+    "state": "Nara",
+    "city": "Nara Medical",
+    "domain": "naramed-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nara Sangyo University",
+    "country": "Japan",
+    "state": "Nara",
+    "city": "Nara Sangyo",
+    "domain": "nara-su.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nara University",
+    "country": "Japan",
+    "state": "Nara",
+    "city": "Nara",
+    "domain": "nara-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nara University of Commerce",
+    "country": "Japan",
+    "state": "Nara",
+    "city": "Commerce",
+    "domain": "narauc.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nara University of Education",
+    "country": "Japan",
+    "state": "Nara",
+    "city": "Nara",
+    "domain": "nara-edu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nara Women's University",
+    "country": "Japan",
+    "state": "Nara",
+    "city": "Nara Women's",
+    "domain": "nara-wu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Niigata Sangyo University",
+    "country": "Japan",
+    "state": "Niigata",
+    "city": "Niigata Sangyo",
+    "domain": "nsu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Niigata University",
+    "country": "Japan",
+    "state": "Niigata",
+    "city": "Niigata",
+    "domain": "niigata-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Niigata University of International and Information Studies",
+    "country": "Japan",
+    "state": "Niigata",
+    "city": "Niigata",
+    "domain": "nuis.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Niigata University of Management",
+    "country": "Japan",
+    "state": "Niigata",
+    "city": "Niigata",
+    "domain": "niigataum.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Okayama Prefectural University",
+    "country": "Japan",
+    "state": "Okayama",
+    "city": "Okayama Prefectural",
+    "domain": "oka-pu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Okayama Shoka University",
+    "country": "Japan",
+    "state": "Okayama",
+    "city": "Okayama Shoka",
+    "domain": "osu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Okayama University",
+    "country": "Japan",
+    "state": "Okayama",
+    "city": "Okayama",
+    "domain": "okayama-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Okayama University of Science",
+    "country": "Japan",
+    "state": "Okayama",
+    "city": "Okayama",
+    "domain": "ous.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American University Extension, Okinawa",
+    "country": "Japan",
+    "state": "Okinawa",
+    "city": "Okinawa",
+    "domain": "aue-okinawa.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Okinawa International University",
+    "country": "Japan",
+    "state": "Okinawa",
+    "city": "Okinawa International",
+    "domain": "okiu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Okinawa Prefectural University of Fine Arts",
+    "country": "Japan",
+    "state": "Okinawa",
+    "city": "Okinawa Prefectural",
+    "domain": "okigei.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Okinawa University",
+    "country": "Japan",
+    "state": "Okinawa",
+    "city": "Okinawa",
+    "domain": "okinawa-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka City University",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Osaka City",
+    "domain": "osaka-cu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka Dental University",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Osaka Dental",
+    "domain": "osaka-dent.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka Electro-Communication University",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Osaka Electro-Communication",
+    "domain": "osakac.ac.jp",
+    "aliases": [
+      "oecu.jp"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka Gakuin University",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Osaka Gakuin",
+    "domain": "osaka-gu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka International University",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Osaka International",
+    "domain": "oiu.oiu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka International University for Women",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Osaka International",
+    "domain": "oiuw.oiu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka Jogakuin University",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Osaka Jogakuin",
+    "domain": "wilmina.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka Prefectural University",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Osaka Prefectural",
+    "domain": "osakafu-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka Sangyo University",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Osaka Sangyo",
+    "domain": "osaka-sandai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka University",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Osaka",
+    "domain": "osaka-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka University of Arts",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Osaka",
+    "domain": "osaka-geidai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka University of Commerce",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Commerce",
+    "domain": "daishodai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka University of Economics",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Economics",
+    "domain": "osaka-ue.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka University of Economics & Law",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Economics & Law",
+    "domain": "keiho-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka University of Education",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Osaka",
+    "domain": "osaka-kyoiku.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka University of Foreign Studies",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Foreign Studies",
+    "domain": "osaka-gaidai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka University of Health and Sport Sciences",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Osaka",
+    "domain": "ouhs.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka University of Pharmaceutical Sciences",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Osaka",
+    "domain": "oups.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osaka Women's University",
+    "country": "Japan",
+    "state": "Osaka",
+    "city": "Osaka Women's",
+    "domain": "osaka-wu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shiga Prefecture Agricultural Technology Promotion Center",
+    "country": "Japan",
+    "state": "Shiga",
+    "city": "",
+    "domain": "pref.shiga.lg.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shizuoka Prefectural University",
+    "country": "Japan",
+    "state": "Shizuoka",
+    "city": "Shizuoka Prefectural",
+    "domain": "u-shizuoka-ken.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shizuoka Sangyo University",
+    "country": "Japan",
+    "state": "Shizuoka",
+    "city": "Shizuoka Sangyo",
+    "domain": "ssu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shizuoka University",
+    "country": "Japan",
+    "state": "Shizuoka",
+    "city": "Shizuoka",
+    "domain": "shizuoka.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Science University of Tokyo",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo",
+    "domain": "sut.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Science University of Tokyo in Yamaguchi",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo in Yamaguchi",
+    "domain": "yama.sut.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Denki University",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo Denki",
+    "domain": "dendai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Engineering University",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo Engineering",
+    "domain": "teu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Gakugei University",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo Gakugei",
+    "domain": "u-gakugei.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo International University",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo International",
+    "domain": "tiu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Kasei University",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo Kasei",
+    "domain": "tokyo-kasei.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Keizai University",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo Keizai",
+    "domain": "tku.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Medical and Dental University",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo",
+    "domain": "tmd.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Metropolitan University",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo Metropolitan",
+    "domain": "metro-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Metropolitan University of Health Sciences",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo Metropolitan",
+    "domain": "metro-hs.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo National University of Fine Arts and Music",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo National",
+    "domain": "geidai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo University",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo",
+    "domain": "u-tokyo.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo University of Agriculture",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Agriculture",
+    "domain": "nodai.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo University of Agriculture and Technology",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Agriculture and Technology",
+    "domain": "tuat.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo University of Art and Design",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Art and Design",
+    "domain": "zokei.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo University of Fisheries",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Fisheries",
+    "domain": "tokyo-u-fish.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo University of Foreign Studies",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Foreign Studies",
+    "domain": "tufs.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo University of Information Sciences",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo",
+    "domain": "tuis.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo University of Mercantile Marine",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Mercantile Marine",
+    "domain": "tosho-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo University of Pharmacy and Life Science",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo",
+    "domain": "toyaku.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tokyo Woman's Christian University",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo Woman's Christian",
+    "domain": "twcu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "University of the Sacred Heart Tokyo",
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo",
+    "domain": "u-sacred-heart.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toyama Medical and Pharmaceutical University",
+    "country": "Japan",
+    "state": "Toyama",
+    "city": "Toyama",
+    "domain": "toyama-mpu.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toyama Prefectural University",
+    "country": "Japan",
+    "state": "Toyama",
+    "city": "Toyama Prefectural",
+    "domain": "pu-toyama.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toyama University",
+    "country": "Japan",
+    "state": "Toyama",
+    "city": "Toyama",
+    "domain": "toyama-u.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Toyama University of International Studies",
+    "country": "Japan",
+    "state": "Toyama",
+    "city": "Toyama",
+    "domain": "tuins.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

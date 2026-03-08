@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Belarussian State Polytechnical Academy",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Belarussian State",
+    "domain": "bspa.unibel.by",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute for Command Engineers of The Ministry for Emergency Situations",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Belarus",
+    "domain": "kii.gov.by",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Minsk Institute of Management",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Minsk",
+    "domain": "miu.by",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Mozyr State Pedagogical Institute",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Mozyr State Pedagogical",
+    "domain": "mgpu.gomel.by",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

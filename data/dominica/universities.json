@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ballsbridge University",
+    "country": "Dominica",
+    "state": "Dominica",
+    "city": "Ballsbridge",
+    "domain": "acedu.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "New World University",
+    "country": "Dominica",
+    "state": "Dominica",
+    "city": "New World",
+    "domain": "newworld.ac",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ross University Caribbean School of Medicine",
+    "country": "Dominica",
+    "state": "Dominica",
+    "city": "Ross",
+    "domain": "rossu.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

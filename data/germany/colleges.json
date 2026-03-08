@@ -1,0 +1,22 @@
+[
+  {
+    "name": "European College of Liberal Arts",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Germany",
+    "domain": "ecla.de",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Northern Institute of Technology Management (NIT)",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Germany",
+    "domain": "nithh.de",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

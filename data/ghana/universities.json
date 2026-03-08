@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Accra Technical University",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Accra Technical",
+    "domain": "atu.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "All Nations University College",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "All Nations",
+    "domain": "anuc.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ashesi University",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Ashesi",
+    "domain": "ashesi.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cape Coast Technical University",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Cape Coast Technical",
+    "domain": "cctu.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Central University College",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Central University",
+    "domain": "central.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Christ Apostolic University College",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Christ Apostolic",
+    "domain": "cauc.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ghana Baptist University College",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Ghana Baptist",
+    "domain": "gbuc.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Ghana Christian University College",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Ghana Christian",
+    "domain": "ghanacu.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Ghana Telecom University College",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Ghana Telecom",
+    "domain": "gtuc.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ho Technical University",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Ho Technical",
+    "domain": "htu.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamic University College",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Islamic University",
+    "domain": "iug.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Koforidua Technical University",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Koforidua Technical",
+    "domain": "ktu.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kumasi Technical University",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Kumasi Technical",
+    "domain": "kstu.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kwame Nkrumah University of Science and Technology",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Science and Technology",
+    "domain": "knust.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lancaster University",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Lancaster",
+    "domain": "lancaster.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pan African Christian University College",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Pan African Christian",
+    "domain": "pacuc.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Presbyterian University College",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Presbyterian",
+    "domain": "presbyuniversity.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Regent University College of Science and Technology",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Regent",
+    "domain": "regent.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sunyani Technical University",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Sunyani Technical",
+    "domain": "stu.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Takoradi Technical University",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Takoradi Technical",
+    "domain": "ttu.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Trinity Theological Seminary",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Ghana",
+    "domain": "trinity.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "University for Development Studies",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Ghana",
+    "domain": "uds.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Cape Coast",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Cape Coast",
+    "domain": "ucc.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Education, Winneba",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Ghana",
+    "domain": "uew.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Ghana",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Ghana",
+    "domain": "ug.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Valley View University",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Valley View",
+    "domain": "vvu.edu.gh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zenith University College",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Zenith",
+    "domain": "zucghana.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

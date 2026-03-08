@@ -1,0 +1,1922 @@
+[
+  {
+    "name": "Gwangju Catholic College",
+    "country": "South Korea",
+    "state": "Gwangju",
+    "city": "Gwangju Catholic",
+    "domain": "gjcatholic.ac.kr",
+    "aliases": [],
+    "type": "College",
+    "control": "Private"
+  },
+  {
+    "name": "Ajou Motor College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "eng.motor.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Andong Science College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "andong-c.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ansan College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ansan College of Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asea Aviation College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baekseok Arts College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baekseok College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Busan Arts College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "pia.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Busan College of Information Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Busan Kyungsang College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "bsks.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Busan Women's College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Byuksung College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "byuksung.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Calvin Theological College and Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Catholic Sang Ji College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Changwon College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cheju Halla College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cheju Tourism College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "cjtour.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cheongam College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cheongnam College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chongju National College of Science and Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "cjnc.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Choonhae College of Health Sciences",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "eng.ch.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chosun College of Science and Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chosun Nursing College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Christian College of Nursing",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "ccn.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Christian Music College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chung Cheong College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chung Kang College of Cultural Industries",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chungju Technical Junior College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chunnam Techno College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dae Han Theological College and Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daedong College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "eng.daedong.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daeduk College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "ddc.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daegu Future College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "hankookilbo.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daegu Health College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "dhc.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daegu Mirae College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daegu Polytechnic College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daejeon Health Sciences College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "hit.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daekyeung College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daelim College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dong Seoul College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dong-A College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dong-Pusan College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dong-U College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Donga College of Health",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "dongac.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Donga Injae College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Donghae College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dongju College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "dongju.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dongkang College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "dkc.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dongnam Health College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dongyang Technical College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Doowon Technical College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dulwich College Seoul",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "dulwich-seoul.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gangdong College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gangneung Yeongdong College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gimcheon College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gumi College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gwangyang Health College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gyeongbuk College of Health",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "gch.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gyeongbuk Provincial College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "gpc.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gyeonggi College of Science and Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hallym College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hallym College of Information and Industry",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hongik Technical College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hyechon College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hyejeon College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "hj.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Incheon City College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Incheon Polytechnic College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Induk College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Inha Technical College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "JEI College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jaeneung College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jangan College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jeju College of Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jeonbuk Science College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "jbsc.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jeonghwa Arts College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jeonju Kijeon College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jeonju Kijeon Women's College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jeonju Technical College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jeonnam Provincial College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jinju College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jinju Health College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Junior College of Inchon",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kangnam College of Social Welfare",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kangwon Tourism College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Keukdong College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kimcheon Science College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kimpo College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Koguryeo College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Koje College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kongju Communication Arts College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kookje College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kookje Fashion Design Occupational Training College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Advanced Institute of Science & Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Korea Advanced",
+    "domain": "kaist.ac.kr",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Aviation Polytechnic College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Baptist Bible College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Hotel and Tourism Technical College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea National College of Rehabilitation and Welfare",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea National Railroad College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "english.krc.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Social Work Junior College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Tourism College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "ktc.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kukje International College of Arts",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kunjang College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kunsan College of Nursing",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyongbuk College of Science",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyung Ki Junior College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyungbok College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyungbuk College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyungin Women's College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyungmin College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyungmoon College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyungnam College of Information and Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyungwon College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "List of universities and colleges in Seoul",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "karts.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "List of universities and colleges in South Korea",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "ghent.ac.kr",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Loy College of Design",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mission Seongyo Theological College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mokpo Science College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Munkyung College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "mkc.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Myongji College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Naju College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Namseoul Occupational Training College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Medical Center College of Nursing",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osan College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Paekche Art College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pohang College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Presbyterian College and Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rasara Fashion Design College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Red Cross College of Nursing",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Red Cross Junior College of Nursing",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saekyung College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sahmyook Health College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sangji Youngseo College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoil College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seojeong College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seokang College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Art College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Arts-Occupational Training College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Health College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Hoseo Occupational Training College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Hoseo Technical College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Hotel and Tourism Vocation Training College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Hyundai Technical College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Nursing Junior College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Women's College of Nursing",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shingu College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shinheung College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shinsung College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sohae College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Songwon College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Soong Eui Women's College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Soongsil Hospitality College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sorabol College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sports Mission College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Suncheon Cheongam College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Suncheon First College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Suncheon Jeil College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Suncheon Junior College of Nursing",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sung-Duk College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sunghwa College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "asiaone.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sunlin College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Suseong College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Suwon Catholic College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Suwon Science College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "ssc.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Suwon Women's College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taegu Future College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taegu Science College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taegu Technical College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taejon Health Sciences College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taejon Vocational Junior College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taesung Junior College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tongmyong College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tongwon College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ulsan College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "eng.uc.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vision College of Jeonju",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wonju National College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wonkwang Public Health Junior College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Woongji Accounting and Tax College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Woosong College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Woosong Information College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Woosong Technical College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "wst.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "World Cyber College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yangsan College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yeungjin College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "yju.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yeungjin Cyber College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yeungnam College of Science and Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yokohama College of Art and Design",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yonam College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "yonam.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yong-In Songdam College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Youngnam Foreign Language College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Youngnam Theological College and Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yuhan College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

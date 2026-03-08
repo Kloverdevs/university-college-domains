@@ -1,0 +1,7162 @@
+[
+  {
+    "name": "Suwon Catholic University",
+    "country": "South Korea",
+    "state": "Gyeonggi-do",
+    "city": "Suwon Catholic",
+    "domain": "suwoncatholic.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Suwon University",
+    "country": "South Korea",
+    "state": "Gyeonggi-do",
+    "city": "Suwon",
+    "domain": "suwon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gyeongju University",
+    "country": "South Korea",
+    "state": "Gyeongsangbuk-do",
+    "city": "Gyeongju",
+    "domain": "gyeongju.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pohang University of Science and Technology",
+    "country": "South Korea",
+    "state": "Gyeongsangbuk-do",
+    "city": "Science and Technology",
+    "domain": "postech.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Changwon National University",
+    "country": "South Korea",
+    "state": "Gyeongsangnam-do",
+    "city": "Changwon National",
+    "domain": "changwon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jeonju University",
+    "country": "South Korea",
+    "state": "Jeollabuk-do",
+    "city": "Jeonju",
+    "domain": "jeonju.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hansung University Seoul",
+    "country": "South Korea",
+    "state": "Seoul",
+    "city": "Hansung",
+    "domain": "hansung.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul City University",
+    "country": "South Korea",
+    "state": "Seoul",
+    "city": "Seoul City",
+    "domain": "uos.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul National University",
+    "country": "South Korea",
+    "state": "Seoul",
+    "city": "Seoul National",
+    "domain": "snu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul National University of Education",
+    "country": "South Korea",
+    "state": "Seoul",
+    "city": "Seoul National",
+    "domain": "seoul-e.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul National University of Technology",
+    "country": "South Korea",
+    "state": "Seoul",
+    "city": "Seoul National",
+    "domain": "snut.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Teological University",
+    "country": "South Korea",
+    "state": "Seoul",
+    "city": "Seoul Teological",
+    "domain": "stu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Women's University",
+    "country": "South Korea",
+    "state": "Seoul",
+    "city": "Seoul Women's",
+    "domain": "swu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "ACTS University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "english.acts.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Academy of International Finance and Accounting",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Academy of Korean Studies",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "ci.nii.ac.jp",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ajou University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Ajou",
+    "domain": "ajou.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Andong National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Andong National",
+    "domain": "andong.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ansan University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "english.ansan.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Anyang Foreign Language High School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "jjlife.joins.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Anyang Science University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Anyang University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "anyang.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asia Baptist Graduate Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asia Center for Theological Studies and Mission",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asia Life University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asia Pacific International School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "apis.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asia United Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asia United Theological University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asian Center for Theological Studies and Mission",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "BIS",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baehwa Women's University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baekseok Arts University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "bau.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baekseok Culture University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "bscu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baekseok Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baekseok University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baewha Women's University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "baewha.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Berea International Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Berea University of Graduate Studies",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Berit Theological Seminary and Graduate School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bible Baptist Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Branksome Hall Asia",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "branksome.on.ca",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bucheon University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "bc.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bugil Academy",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Busan Digital University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Busan Foreign School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "acswasc.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Busan Health University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Busan Institute of Science and Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "bist.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Busan Jangsin University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Busan Logos International Christian School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Busan National University of Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "eng.bnue.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Busan Presbyterian University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Busan University of Foreign Studies",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Busan Women's University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "CHA University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "CMIS Canada",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Calvin University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "calvin.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Capital Baptist Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "eng.kbtus.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Catholic Kwandong University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Catholic University of Daegu",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "cu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Catholic University of Korea",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Korea",
+    "domain": "cuk.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Catholic University of Pusan",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Pusan",
+    "domain": "cup.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Catholic University of Taegu-Hyosung",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Taegu",
+    "domain": "cataegu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Centennial Christian School International",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Central Theological University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chadwick International",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "chadwickinternational.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chang Shin University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Changwon Moonsung University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cheju Halla University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "chu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cheju National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Cheju National",
+    "domain": "cheju.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cheju National University of Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Cheju National",
+    "domain": "cheju-e.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cheonan University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cheongam University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cheongju National University of Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "cje.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cheongju University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cheongna Dalton School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "daltonschool.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chimkorea Cyber Academy",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "China Logos Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chinju National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Chinju National",
+    "domain": "chinju.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chinju National University of Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Chinju National",
+    "domain": "chinju-e.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chodang University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Chodang",
+    "domain": "chodang.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chonbuk National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Chonbuk National",
+    "domain": "chonbuk.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chonbuk Sanup University of Technology (Howon University)",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Chonbuk Sanup",
+    "domain": "howon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chong Shin Institute of Arts",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chong Shin Reformed Presbyterian Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chongju National University of Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Chongju National",
+    "domain": "chongju-e.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chongju University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Chongju",
+    "domain": "chongju.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chongshin Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chongshin University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chonju National University of Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Chonju National",
+    "domain": "chonju-e.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chonnam National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Chonnam National",
+    "domain": "chonnam.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Choonhae Health Sciences University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chosun University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Chosun",
+    "domain": "chosun.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Christian Healing and Counseling Graduate University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chugye University for the Arts",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chuncheon National University of Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chunchon National University of Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Chunchon National",
+    "domain": "cnue-e.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chung Cheong University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "ok.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chung-Ang University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Chung-Ang",
+    "domain": "cau.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chung-Ju National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Chung-Ju National",
+    "domain": "chungju.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chungbuk Health and Science University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chungbuk National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Chungbuk National",
+    "domain": "chungbuk.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chungbuk Provincial University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chungnam National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Chungnam National",
+    "domain": "chungnam.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chungnam State University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chungwoon University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "home.chungwoon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chunnam Techno University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "chunnam-c.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Church of God Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College of Medicine, Pochon CHA University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corea Welfare Cyber University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cornerstone Collegiate Academy of Seoul",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cyber Hankuk University of Foreign Studies",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "DaeHan Theological Seminary and University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "DaeHan Theological University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daebul University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Daebul",
+    "domain": "daebul.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daedong University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daeduk University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daegu Arts University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daegu Catholic University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daegu Cyber University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "dcu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daegu Gyeongbuk Institute of Science and Technology - DGIST",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daegu Haany University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daegu International School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "dis.sc.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daegu National University of Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "english.dnue.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daegu Technical University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "ttc.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daegu University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "daegu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daegu University of Foreign Studies",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "dufs.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daejeon Catholic University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daejeon Health Institute of Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daejeon Health University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daejeon Institute of Science and Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daejeon Theological University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daejeon University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daejin University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daelim University College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "eng.daelim.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daeshin University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daewon Foreign Language High School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "wsj.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Daewon University College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "wiz.daewon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dankook University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Dankook",
+    "domain": "dankook.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Digital Seoul Culture Arts University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dong Eui University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Dong Eui",
+    "domain": "dongeui.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dong Seoul University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "dsc.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dong Yang University of Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Dong Yang",
+    "domain": "dytc.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dong-A University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Dong-A",
+    "domain": "donga.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dong-Ah Institute of Media and Arts",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dong-Ui Acupuncture and Moxibustion Institution",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dong-eui Institute of Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Donga University of Health",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dongan High School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dongbang Culture University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dongduk Women's University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Dongduk Women's",
+    "domain": "dongduk.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Donggang University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dongguk University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Dongguk",
+    "domain": "dongguk.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Donghae University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dongnam Health University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "dongnam.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dongsan Bible Institute",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dongseo University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Dongseo",
+    "domain": "dongseo.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dongshin University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Dongshin",
+    "domain": "dongshinu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dongwon Institute of Science and Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "dist.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dongyang Mirae University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "dongyang.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dongyang University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "dyu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Doowon Technical University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Doowon Technical University College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "doowon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Duksung Women's University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Duksung Women's",
+    "domain": "duksung.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dwight International School Seoul",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "ESMOD Seoul",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eulji University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ewha Womans University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ewha Women's University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Ewha Women's",
+    "domain": "ewha.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ezra Bible Institute for Graduate Studies",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Far East University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fayston Preparatory School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Full Gospel Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Full Gospel Young San Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Future Education Institute for Globalization, Kyung Hee University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gachon Medical School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gachon University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "home.gachon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gachon University of Medicine and Science",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gangdong University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "gangdong.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gangneung National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gangneung Yeongdong University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "gyc.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gangneung-Wonju National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gangseo University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gangwon State University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "gw.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Geumgang University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gimcheon University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Global Cyber University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Global Innoedu",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Global Prodigy Academy",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gongju National University of Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "eng.gjue.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Goryo Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gukje Cyber University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "eng.gjcu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gukje Digital University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gumi University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "gumi.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gwang-ju Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gwangju Catholic University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gwangju Health College University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gwangju Health University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "ghueng.ivyro.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gwangju Institute of Science and Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "gist.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gwangju National University of Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "eng.gnue.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gwangju University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gwangyang Health Sciences University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gyeonggi Suwon International School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "gsis.sc.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gyeonggi University of Science and Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gyeongin National University of Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gyeongkuk National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gyeongnam National University of Science and Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "gntech.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gyeongsan University College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gyeongsang National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Gyeongsang National",
+    "domain": "gsnu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Halla Institute of Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Halla University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Halla",
+    "domain": "halla.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hallym Polytechnic University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "hsc.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hallym University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Hallym",
+    "domain": "hallym.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanbat National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Handong Global University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "handong.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Handong University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanil University and Presbyterian Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hankuk Aviation University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Hankuk Aviation",
+    "domain": "hangkong.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hankuk University of Foreign Studies",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Foreign Studies",
+    "domain": "hufs.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hankyong National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Hankyong National",
+    "domain": "hknu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanlyo University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "hanlyo.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanmin University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "mk.co.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hannam University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Hannam",
+    "domain": "hannam.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hansei University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Hansei",
+    "domain": "hansei.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanseo University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Hanseo",
+    "domain": "hanseo.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanshin University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Hanshin",
+    "domain": "hanshin.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hansung Digital University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hansung University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanyang Cyber University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "en.hycu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanyang University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Hanyang",
+    "domain": "hanyang.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanyang Women's University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "hywoman.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanyoung Theological University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hanzhong University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "hanzhong.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hapdong Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "hapdong.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Haven Christian School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Health Institute of Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Holy City University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Honam Theological University and Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "en.htus.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Honam University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Honam",
+    "domain": "honam.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hongik University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Hongik",
+    "domain": "hongik.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hosan University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hoseo University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Hoseo",
+    "domain": "hoseo.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Howon University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hunet Center for Lifelong Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hwashin Cyber University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hwasung Medi-Science University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hyechon University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hyupsung University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Hyupsung",
+    "domain": "hyupsung.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "ICT Polytech Institute of Korea",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Il Sin Christian Hospital",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Incheon Catholic University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "iccu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Incheon National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "incheon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Inchon National University of Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Inchon National",
+    "domain": "inchon-e.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Inchon University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Inchon",
+    "domain": "inchon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Indianhead International School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "iis.or.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Induk Institute of Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Induk University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "induk.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Information and Communications University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Information and Communications",
+    "domain": "icu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Inha University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Inha",
+    "domain": "inha.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Inje University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Inje",
+    "domain": "inje.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Christian School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Christian School, Pyeongtaek",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Graduate School of English",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "terms.naver.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Graduate School of Language Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International University of Korea",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "global.iuk.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "JEI University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "jeiu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jangan University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jeju International University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jeju National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "jejunu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jeju National University of Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jeju Tourism University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jeonbuk National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "topuniversities.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jeonju National University of Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "jnue.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jeonnam State University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "dorip.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jesus University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Joong-Ang Sangha University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Joongbu University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "web.joongbu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Judicial Research and Training Institute",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jungwon University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Juseong University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "KC University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "KDB Financial University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "KDI School of Public Policy and Management",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "South Korea",
+    "domain": "kdischool.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "KEPCO International Nuclear Graduate School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kangnam University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Kangnam",
+    "domain": "kangnam.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kangnung National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Kangnung National",
+    "domain": "kangnung.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kangwon National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Kangwon National",
+    "domain": "kangwon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kaya University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Kaya",
+    "domain": "kaya.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kaywon School of Art and Design",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kaywon University of Art and Design",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Keimyung College University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Keimyung University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Keimyung",
+    "domain": "keimyung.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Keukdong College University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kimpo University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kkottongnae Hyundo University of Social Welfare",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kkottongnae University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Koje University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kongju National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Kongju National",
+    "domain": "kyongju.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kongju National University of Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Kongju National",
+    "domain": "kongju-e.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Konkuk Continuing Education Center",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Konkuk University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Konkuk",
+    "domain": "konkuk.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Konyang Cyber University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Konyang University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Konyang",
+    "domain": "konyang.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kookje University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kookmin University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Kookmin",
+    "domain": "kookmin.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Advanced Institute of Science and Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Aerospace University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Army Academy at Yeongcheon",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "kaay.mil.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Baptist Theological University/Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Broadcasting Arts Institute",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Christian Music Theological and Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Christian University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Counseling Graduate University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Cyber University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Evangelical Holiness Church, The School of Seoul Pastoral Theology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Golf University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea International Christian School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea International Culture University of Graduate",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea International School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea International School, Jeju Campus",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "jejusori.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Kent Foreign School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Maritime University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Korea Maritime",
+    "domain": "kmaritime.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Maritime and Ocean University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Military Academy",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "kma.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea National Defense University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "kndu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea National Open University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Korea National Open",
+    "domain": "knou.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea National Sport University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "knsu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea National University of Agriculture and Fisheries",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "af.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea National University of Arts",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Korea National",
+    "domain": "knua.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea National University of Cultural Heritage",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "english.nuch.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea National University of Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Korea National",
+    "domain": "knue.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea National University of Physical Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Physical Education",
+    "domain": "knupe.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea National University of Transportation",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "xzit.edu.cn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea National University of Welfare",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "knuw.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Nazarene University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Polytechnic Anseong Campus",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Polytechnic Bio Campus",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Polytechnic I",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Polytechnic II",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Polytechnic IV",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Polytechnic Textile and Fashion Design Campus",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Polytechnic University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Polytechnic V",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Polytechnic VI",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Polytechnic VII",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Polytechnics III",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Shepherd Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Soongsil Cyber University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Korea",
+    "domain": "korea.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea University of Media Arts",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea University of Technology and Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korea Women's Polytechnic",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korean Accounting and Information School - KAIS",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korean Bible University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korean Educational Development Institute - KEDI",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korean Institute of Broadcasting and Art Promotion",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Korean National Police University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kosin University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Kosin",
+    "domain": "kosin.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kukje Institute of Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kukje Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kukje Theological University and Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kukje University of Arts",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kumoh National Institute of Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kumoh National University of Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Kumoh National",
+    "domain": "kumoh.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kunjang University College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kunsan National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Kunsan National",
+    "domain": "kunsan.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kwan Dong University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Kwan Dong",
+    "domain": "kwandong.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kwang-Ju Reformed Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kwangju Foreign School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "kwangjufs.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kwangju National University of Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Kwangju National",
+    "domain": "kwangju-e.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kwangju University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Kwangju",
+    "domain": "kwangju.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kwangju Women's University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kwangshin University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kwangwoon University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Kwangwoon",
+    "domain": "kwangwoon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyeyak Graduate School of Theology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyongbuk Science University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyongbuk University of Foreign Studies",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyonggi Institute of Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyonggi University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Kyonggi",
+    "domain": "kyonggi.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyung Hee Cyber University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "khcu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyung-In Women's University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyungbok University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyungdong University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "global.kduniv.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyunghee University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Kyunghee",
+    "domain": "kyunghee.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyungil University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Kyungil",
+    "domain": "kyungil.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyungmin University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyungnam University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Kyungnam",
+    "domain": "kyungnam.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyungpook National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Kyungpook National",
+    "domain": "kyungpook.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyungsung University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Kyungsung",
+    "domain": "kyungsung.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyungwon University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Kyungwon",
+    "domain": "kyungwon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kyungwoon University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lighthouse International School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Luther University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Masan University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Methodist Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Methodist Theological University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ministry of Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Miryang National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Miryang National",
+    "domain": "miryang.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mokpo Catholic University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mokpo National Maritime University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Mokpo National Maritime",
+    "domain": "mmu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mokpo National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Mokpo National",
+    "domain": "mokpo.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mokpo Science University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mokwon University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mokwon University Taejon",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Mokwon",
+    "domain": "mokwon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Myongji University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Myongji",
+    "domain": "myongji.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Myungshin University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nambu University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Namseoul University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "eng.nsu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Cancer Center Graduate School of Cancer Science and Policy",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Fisheries University of Pusan",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute for Lifelong Education - NILE",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Tax Officials Training Institute",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Natural Medicine University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "North London Collegiate School Jeju",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Open Cyber University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Osan University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Paekche Institute of the Arts",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Paichai University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Paichai",
+    "domain": "paichai.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pastoral Graduate School of Daeshin",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pohang University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Postgraduate Institute for Psychiatry and Psychoanalysis",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Presbyterian University and Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "pcts.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Pukyong National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Pukyong National",
+    "domain": "pknu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pusan National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Pusan National",
+    "domain": "pusan.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pusan National University of Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Pusan National",
+    "domain": "pusan-e.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pusan National University of Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pusan University of Foreign Studies",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Foreign Studies",
+    "domain": "pufs.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pusan Women's University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Pusan Women's",
+    "domain": "pwc.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pyeongtaek University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "ptu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pyongtaek University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Pyongtaek",
+    "domain": "ptuniv.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Reformed Graduate University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Reformed Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "rts.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Remnant Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Republic of Korea Air Force Academy",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Republic of Korea Naval Academy",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "SDC International School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sahmyook Health University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sahmyook Health University College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sahmyook University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Sahmyook",
+    "domain": "syu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saint Paul Academy Daechi",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Saint Paul Preparatory Seoul",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Samchok National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Samchok National",
+    "domain": "samchok.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Samil International School of Accountancy",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Samsung Art & Design Institute",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Samsung Institute of Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sang Ji University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Sang Ji",
+    "domain": "sangji.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sang Myung University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Sang Myung",
+    "domain": "sangmyung.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sangju National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sehan University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sejong Cyber University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sejong University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Sejong",
+    "domain": "sejong.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Semin Digital University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Semyung University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Semyung",
+    "domain": "semyung.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoil University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seojeong University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seokyeong University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Seokyeong",
+    "domain": "skuniv.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seonam University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Seonam",
+    "domain": "seonam.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Christian University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Cyber University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "iscu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Digital University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Foreign High School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Foreign Language High School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "sfl.hs.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Global High School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "sghs.sen.hs.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Hanyoung University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Institute of the Arts",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "seoularts.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul International School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "siskorea.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Jangsin University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Jangsin University and Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Media Institute of Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Mode Fashion Institute",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul National University of Science and Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Oriental Medical School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Praise Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Presbyterian Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Scholars International",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul School of Integrated Sciences and Technologies",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "en.assist.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Theological University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul University of Buddhism",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "sub.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul University of Foreign Studies",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul University of Venture and Information",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoul Venture University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seowon University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Seowon",
+    "domain": "seowon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seoyeong University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shepherd International Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shin Ansan University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "sau.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shin Heung College University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shingyeong University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shinhan University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shinsung University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Silla University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Silla",
+    "domain": "silla.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Singyeongju University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sogang University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Sogang",
+    "domain": "sogang.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sohae College University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Songgok University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Songho University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Songwon University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Songwon University College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sookmyung Women's University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Sookmyung Women's",
+    "domain": "sookmyung.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Soonchunhyang University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Soonchunhyang",
+    "domain": "sch.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Soong Eui Women's University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Soongsil Hospitality Institute",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Soongsil University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Soongsil",
+    "domain": "soongsil.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sudo International University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "SunHak Universal Peace Graduate University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sunbokeum Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sunchon National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Sunchon National",
+    "domain": "sunchon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sung Kyun Kwan University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Sung Kyun Kwan",
+    "domain": "skku.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sungduk C. University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sungkonghoe University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sungkyul Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sungkyul University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Sungkyul",
+    "domain": "sungkyul.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sungsan Hyo University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sungshin Women's University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Sungshin Women's",
+    "domain": "sungshin.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sunlin University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sunmoon University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Sunmoon",
+    "domain": "sunmoon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Suseong University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Suwon Women's University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "TLBU Graduate School of Law",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taegu Arts University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taegu National University of Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Taegu National",
+    "domain": "taegu-e.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taegu Science University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taegu University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Taegu",
+    "domain": "taegu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taejon Christian International School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "livingindaejeon.or.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Taejon National University of Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Taejon National",
+    "domain": "tnut.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taejon University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Taejon",
+    "domain": "taejon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taeshin Christian University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Taeshin Christian",
+    "domain": "taeshin.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Tamna University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tech University of Korea",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "tukorea.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Armed Forces Nursing Academy",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Catholic University of Korea",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Cyber University of Korea",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Korean National University of Cultural Heritage",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Presbyterian General Assembly Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tongmyong University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tongmyung University of Information Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Tongmyung",
+    "domain": "tit.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tongwon University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "tw.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Torch Trinity Graduate School of Theology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Torch Trinity Graduate University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "ttgu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "U1 University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "u1.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "UBF Mission Institute",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Uiduk University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "uu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ulsan National Institute of Science and Technology - UNIST",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "United Holiness Theological Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Brain Education",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Gyeongnam Geochang",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Gyeongnam Namhae",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Incheon",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of North Korean Studies",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "nk.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Science and Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Science and Technology",
+    "domain": "ust.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Seoul",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Suwon",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Ulsan",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Venia International School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vision University of Jeonju",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Westminster Canadian Academy",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Westminster Graduate School of Theology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Withus Distance Lifelong Institution",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wonkwang Digital University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wonkwang Health Science University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wonkwang University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Wonkwang",
+    "domain": "wonkwang.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Woosong University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "english.wsu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Woosuk University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Woosuk",
+    "domain": "woosuk.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "World International Accounting School",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yemyung Graduate University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yeoju Institute of Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "eng.yit.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yeonsung University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "ianyang.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yettrang Academy",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yeungjin Cyber University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yeungjin University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yeungnam University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Yeungnam",
+    "domain": "yeungnam.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yeungnam University College",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "ync.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yewon Arts University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yonam Institute of Digital Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yonam Institute of Technology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "yc.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yonam University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yong-In Arts and Science University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yong-In University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yongmoon Graduate School of Counseling Psychology",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yongsan International School of Seoul",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "english.seoul.go.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yonsei University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Yonsei",
+    "domain": "yonsei.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yosu National Fisheries University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yosu National University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "Yosu National",
+    "domain": "yosu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Youngdong University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Youngnam Cyber University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Youngnam Theological University and Seminary",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "yntcs.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Youngsan University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yuhan University",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "yuhan.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "가천대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "gachon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "가톨릭관동대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "cku.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "가톨릭꽃동네대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "kkot.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "가톨릭대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "catholic.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "감리교신학대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "mtu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "강서대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "gangseo.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "강원대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "museum.kangwon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "경동대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "kduniv.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "경북대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "knu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "경상국립대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "gnu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "경성대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "ks.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "경운대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "ikw.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "경인교육대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "ginue.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "경일대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "kiu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "경찰대학",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "police.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "경희대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "museum.khu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "계명대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "kmu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "고려대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "medicine.korea.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "공주교육대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "gjue.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "광신대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "kwangshin.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "광운대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "kw.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "광주교육대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "gnue.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "광주대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "gwangju.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "광주여자대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "kwu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "국립공주대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "kongju.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "국립금오공과대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "press.kumoh.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "국립한국교통대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "ut.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "국립한국해양대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "kmou.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "국립한밭대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "hanbat.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "극동대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "isni.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "금강대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "ggu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "김천대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "gimcheon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "나사렛대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "kornu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "나주대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "kgrc.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "남부대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "nambu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "남서울대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "nsu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "단국대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "nl.go.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "대구가톨릭대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "viaf.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "대구교육대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "dnue.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "대구예술대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "dgau.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "대구한의대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "dhu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "대신대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "daeshin.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "대전가톨릭대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "dcatholic.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "대전대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "dju.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "대전신학대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "daejeon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "대진대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "daejin.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "대한민국의 대학",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "archives.snu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "대한민국의 대학 등록금 현황",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "academyinfo.go.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "동국대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "jeonggak.dongguk.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "동국대학교 WISE캠퍼스",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "web.dongguk.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "동명대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "tu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "동아대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "museum.donga.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "동양대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "yonhapnews.co.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "동의대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "deu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "루터대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "ltu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "명지대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "mju.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "목포가톨릭대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "mcu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "배재대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "pcu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "백석대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "bu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "부산외국어대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "bufs.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "부산장신대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "bpu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "상명대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "libnt.smuc.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "서울과학기술대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "seoultech.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "서울교육대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "snue.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "서울기독대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "scu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "서울시립대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "mba.uos.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "서울장신대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "sjs.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "서울한영대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "hytu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "서일대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "seoil.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "성공회대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "skhu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "성균관대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "sjeas.skku.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "세한대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "sehan.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "송원대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "songwon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "수원대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "lib.suwon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "숙명여자대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "pr.sookmyung.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "숭실대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "oasis.ssu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "신경주대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "gu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "신한대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "shinhan.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "아신대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "news.kukinews.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "영남대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "yu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "영남신학대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "ytus.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "영산대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "ysu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "영산선학대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "youngsan.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "예수대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "jesus.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "예원예술대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "yewon.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "용인대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "yongin.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "우석대학교 (서울)",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "newslibrary.naver.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "웅지세무대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "wat.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "원광대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "intra.wonkwang.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "유원대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "youngdong.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "을지대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "eulji.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "이화여자대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "lib.ewha.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "인천가톨릭대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "agora.iccu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "인천대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "inu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "전남대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "jnu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "전북대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "jbnu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "전시연합대학",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "law.go.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "전주대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "jj.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "제주국제대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "jeju.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "중부대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "joongbu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "중앙승가대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "sangha.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "중원대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "jwu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "진주교육대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "cue.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "차의과학대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "cha.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "창신대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "cs.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "청운대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "cwunet.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "청주대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "cju.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "초당대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "condor.cdu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "총신대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "chongshin.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "추계예술대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "chugye.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "춘천교육대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "cnue.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "충남대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "cnu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "칼빈대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "calvin.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "평택대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "graduate.ptu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "한국공학대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "kpu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "한국기술교육대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "koreatech.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "한국방송통신대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "news.knou.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "한국외국어대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "builder.hufs.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "한국전통문화대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "nuch.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "한국침례신학대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "kbtus.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "한국항공대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "kau.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "한동대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "hic.handong.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "한성대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "edubank.hansung.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "한신대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "hs.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "한일장신대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "hanil.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "호남신학대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "htus.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "홍익대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "home.hongik.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "화성의과학대학교",
+    "country": "South Korea",
+    "state": "South Korea",
+    "city": "",
+    "domain": "hsmu.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ulsan University",
+    "country": "South Korea",
+    "state": "Ulsan",
+    "city": "Ulsan",
+    "domain": "ulsan.ac.kr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

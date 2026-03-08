@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Bamenda University of Science & Technology",
+    "country": "Cameroon",
+    "state": "Cameroon",
+    "city": "Science & Technology",
+    "domain": "bamendauniversity.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Bamenda",
+    "country": "Cameroon",
+    "state": "Cameroon",
+    "city": "Bamenda",
+    "domain": "unibda.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Buéa",
+    "country": "Cameroon",
+    "state": "Cameroon",
+    "city": "Buéa",
+    "domain": "ubuea.cm",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Douala",
+    "country": "Cameroon",
+    "state": "Cameroon",
+    "city": "Douala",
+    "domain": "univ-douala.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Dschang",
+    "country": "Cameroon",
+    "state": "Cameroon",
+    "city": "Dschang",
+    "domain": "univ-dschang.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Ngaoundéré",
+    "country": "Cameroon",
+    "state": "Cameroon",
+    "city": "Ngaoundéré",
+    "domain": "univ-ndere.cm",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Yaoundé I",
+    "country": "Cameroon",
+    "state": "Cameroon",
+    "city": "Yaoundé I",
+    "domain": "uy1.uninet.cm",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Yaoundé II",
+    "country": "Cameroon",
+    "state": "Cameroon",
+    "city": "Yaoundé II",
+    "domain": "universite-yde2.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université des Montagnes",
+    "country": "Cameroon",
+    "state": "Cameroon",
+    "city": "Cameroon",
+    "domain": "udesmontagnes.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

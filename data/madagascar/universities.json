@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Université d'Antananarivo",
+    "country": "Madagascar",
+    "state": "Madagascar",
+    "city": "Antananarivo",
+    "domain": "univ-antananarivo.mg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université d'Antsiranana",
+    "country": "Madagascar",
+    "state": "Madagascar",
+    "city": "Antsiranana",
+    "domain": "univ-antsiranana.mg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Fianarantsoa",
+    "country": "Madagascar",
+    "state": "Madagascar",
+    "city": "Fianarantsoa",
+    "domain": "univ-fianar.mg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Mahajanga",
+    "country": "Madagascar",
+    "state": "Madagascar",
+    "city": "Mahajanga",
+    "domain": "univ-mahajanga.mg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Toamasina",
+    "country": "Madagascar",
+    "state": "Madagascar",
+    "city": "Toamasina",
+    "domain": "univ-toamasina.mg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Toliary",
+    "country": "Madagascar",
+    "state": "Madagascar",
+    "city": "Toliary",
+    "domain": "univ-toliara.mg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

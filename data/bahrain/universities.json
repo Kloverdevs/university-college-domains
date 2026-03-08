@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Al Ahlia University",
+    "country": "Bahrain",
+    "state": "Bahrain",
+    "city": "Al Ahlia",
+    "domain": "ahliauniversity.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ama International University",
+    "country": "Bahrain",
+    "state": "Bahrain",
+    "city": "Ama International",
+    "domain": "amaiu.edu.bh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Applied Science University",
+    "country": "Bahrain",
+    "state": "Bahrain",
+    "city": "Bahrain",
+    "domain": "asu.edu.bh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arab Open University",
+    "country": "Bahrain",
+    "state": "Bahrain",
+    "city": "Arab Open",
+    "domain": "aou.org.bh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arabian Gulf University",
+    "country": "Bahrain",
+    "state": "Bahrain",
+    "city": "Arabian Gulf",
+    "domain": "agu.edu.bh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gulf University College",
+    "country": "Bahrain",
+    "state": "Bahrain",
+    "city": "Gulf",
+    "domain": "gulfuniversity.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "New York Instiute of Technology",
+    "country": "Bahrain",
+    "state": "Bahrain",
+    "city": "Bahrain",
+    "domain": "nyit.edu.bh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "RCSI-Medical University of Bahrain",
+    "country": "Bahrain",
+    "state": "Bahrain",
+    "city": "Bahrain",
+    "domain": "rcsi-mub.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Kingdom University",
+    "country": "Bahrain",
+    "state": "Bahrain",
+    "city": "The Kingdom",
+    "domain": "ku.edu.bh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College Bahrain",
+    "country": "Bahrain",
+    "state": "Bahrain",
+    "city": "University",
+    "domain": "ucb.edu.bh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Bahrain",
+    "country": "Bahrain",
+    "state": "Bahrain",
+    "city": "Bahrain",
+    "domain": "uob.edu.bh",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Dublin City University",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Dublin City",
+    "domain": "dcu.ie",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institue of Technology, Tralee",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Ireland",
+    "domain": "ittralee.ie",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Irish International University (Distance Education)",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Irish International",
+    "domain": "iiuedu.ie",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Munster Technological University",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Munster Technological",
+    "domain": "mtu.ie",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Ireland",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Ireland",
+    "domain": "nui.ie",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Ireland, Galway",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Ireland",
+    "domain": "ucg.ie",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Ireland, Maynooth",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Ireland",
+    "domain": "may.ie",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technological University Dublin",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Technological",
+    "domain": "tudublin.ie",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College Cork",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "University",
+    "domain": "ucc.ie",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University College Dublin",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "University",
+    "domain": "ucd.ie",
+    "aliases": [
+      "ucdconnect.ie"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Dublin, Trinity College",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Dublin",
+    "domain": "tcd.ie",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Galway",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Galway",
+    "domain": "universityofgalway.ie",
+    "aliases": [
+      "nuigalway.ie",
+      "ucg.ie"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Limerick",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Limerick",
+    "domain": "ul.ie",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Warnborough University",
+    "country": "Ireland",
+    "state": "Ireland",
+    "city": "Warnborough",
+    "domain": "warnborough.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technological University of the Shannon",
+    "country": "Ireland",
+    "state": "Limerick",
+    "city": "the Shannon",
+    "domain": "tus.ie",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Bahamas Baptist University College",
+    "country": "Bahamas",
+    "state": "Bahamas",
+    "city": "Nassau",
+    "domain": "bbuc.edu.bs",
+    "aliases": [],
+    "type": "College",
+    "control": "Private"
+  },
+  {
+    "name": "Bahamas Technical and Vocational Institute",
+    "country": "Bahamas",
+    "state": "Bahamas",
+    "city": "Nassau",
+    "domain": "btvi.edu.bs",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

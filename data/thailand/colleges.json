@@ -1,0 +1,102 @@
+[
+  {
+    "name": "King Mongkut's Institute of Technology Ladkrabang",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "King Mongkut's",
+    "domain": "kmitl.ac.th",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "National Institute of Development Administration",
+    "country": "Thailand",
+    "state": "Bangkok",
+    "city": "",
+    "domain": "nida.ac.th",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Chiang Mai Vocational College",
+    "country": "Thailand",
+    "state": "Chiang Mai",
+    "city": "Chiang Mai Vocational",
+    "domain": "cmvc.ac.th",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Lampang College of Commerce and Technology",
+    "country": "Thailand",
+    "state": "Lampang",
+    "city": "Lampang",
+    "domain": "lcct.ac.th",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Lampang Vocational College",
+    "country": "Thailand",
+    "state": "Lampang",
+    "city": "Lampang Vocational",
+    "domain": "lampangvc.ac.th",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Lamphun College of Agriculture and Technology",
+    "country": "Thailand",
+    "state": "Lamphun",
+    "city": "Lamphun",
+    "domain": "lcat.ac.th",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Asian Institute of Technology",
+    "country": "Thailand",
+    "state": "Pathum Thani",
+    "city": "",
+    "domain": "ait.ac.th",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "International Buddhist College",
+    "country": "Thailand",
+    "state": "SongKhla",
+    "city": "International Buddhist",
+    "domain": "ibc.ac.th",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "List of universities and colleges in Thailand",
+    "country": "Thailand",
+    "state": "Thailand",
+    "city": "",
+    "domain": "www2.kmutt.ac.th",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Siam Technology College",
+    "country": "Thailand",
+    "state": "Thailand",
+    "city": "Siam Technology",
+    "domain": "siamtechu.net",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

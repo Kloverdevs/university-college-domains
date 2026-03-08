@@ -1,0 +1,602 @@
+[
+  {
+    "name": "National Changhua University of Education",
+    "country": "Taiwan",
+    "state": "Changhua",
+    "city": "National Changhua",
+    "domain": "ncue.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Chiayi University",
+    "country": "Taiwan",
+    "state": "Chiayi",
+    "city": "National Chiayi",
+    "domain": "ncyu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Kaohsiung First University of Science and Technology",
+    "country": "Taiwan",
+    "state": "Kaohsiung",
+    "city": "Science and Technology",
+    "domain": "nkfu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Kaohsiung Normal University",
+    "country": "Taiwan",
+    "state": "Kaohsiung",
+    "city": "National Kaohsiung Normal",
+    "domain": "nknu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Kaohsiung University of Applied Sciences",
+    "country": "Taiwan",
+    "state": "Kaohsiung",
+    "city": "National Kaohsiung",
+    "domain": "kuas.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Kaohsiung",
+    "country": "Taiwan",
+    "state": "Kaohsiung",
+    "city": "Kaohsiung",
+    "domain": "nuk.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Pingtung University of Science and Technology",
+    "country": "Taiwan",
+    "state": "Pingtung",
+    "city": "Science and Technology",
+    "domain": "npust.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Chung Hsing University, Taichung",
+    "country": "Taiwan",
+    "state": "Taichung",
+    "city": "Taichung",
+    "domain": "nchu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "TaiChung Healthcare and Management University",
+    "country": "Taiwan",
+    "state": "Taichung",
+    "city": "Taichung",
+    "domain": "thmu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Chung Hsing University, Taipei",
+    "country": "Taiwan",
+    "state": "Taipei",
+    "city": "Taipei",
+    "domain": "nchulc.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Taipei University",
+    "country": "Taiwan",
+    "state": "Taipei",
+    "city": "National Taipei",
+    "domain": "ntpu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Taipei University of Technology",
+    "country": "Taiwan",
+    "state": "Taipei",
+    "city": "National Taipei",
+    "domain": "ntut.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aletheia University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Aletheia",
+    "domain": "au.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Central Police University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Central Police",
+    "domain": "cpu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chang Gung University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Chang Gung",
+    "domain": "cgu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chang Jung University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Chang Jung",
+    "domain": "cju.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chao Yang University of Science and Technology",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Science and Technology",
+    "domain": "cyut.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chinese Culture University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Chinese Culture",
+    "domain": "pccu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ching Kuo Institue of Management & Health",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taiwan",
+    "domain": "cku.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chung Hua University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Chung Hua",
+    "domain": "chu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chung Yuan Christian University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Chung Yuan Christian",
+    "domain": "cycu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Da-Yeh University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Da-Yeh",
+    "domain": "dyu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Feng Chia University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Feng Chia",
+    "domain": "fcu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fu Jen Catholic University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Fu Jen Catholic",
+    "domain": "fju.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Hsuan Chuang University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Hsuan Chuang",
+    "domain": "hcu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Huafan University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Huafan",
+    "domain": "hfu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "I-Shou University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "I-Shou",
+    "domain": "isu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kaohsuing Open University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Kaohsuing Open",
+    "domain": "ouk.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kun Shan University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Kun Shan",
+    "domain": "ksu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ling Tung University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Ling Tung",
+    "domain": "ltc.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "LungHwa University of Science and Technology",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Science and Technology",
+    "domain": "lhu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ming Chuan University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Ming Chuan",
+    "domain": "mcu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nanhua University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Nanhua",
+    "domain": "nhu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Central University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taiwan",
+    "domain": "ncu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Cheng Kung University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "National Cheng Kung",
+    "domain": "english.web.ncku.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Chengchi University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "National Chengchi",
+    "domain": "nccu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Chi Nan University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "National Chi Nan",
+    "domain": "ncnu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Chiao Tung University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "National Chiao Tung",
+    "domain": "nctu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Chung Cheng University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "National Chung Cheng",
+    "domain": "ccu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Dong Hwa University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "National Dong Hwa",
+    "domain": "ndhu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Formosa University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "National Formosa",
+    "domain": "nfu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Ilan University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "National Ilan",
+    "domain": "niu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Open University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Taiwan",
+    "domain": "nou.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Sun Yat-Sen University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "National Sun Yat-Sen",
+    "domain": "nsysu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Taiwan Normal University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "National Taiwan Normal",
+    "domain": "ntnu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Taiwan Ocean University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "National Taiwan Ocean",
+    "domain": "ntou.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Taiwan University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "National Taiwan",
+    "domain": "ntu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Taiwan University of Science and Technology",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Science and Technology",
+    "domain": "ntust.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Tsinghua University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "National Tsinghua",
+    "domain": "nthu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National United University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "National United",
+    "domain": "nuu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Providence University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Providence",
+    "domain": "pu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shih Chien University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Shih Chien",
+    "domain": "scc.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shih Hsin University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Shih Hsin",
+    "domain": "shu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Soochow University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Soochow",
+    "domain": "scu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Southern Taiwan University of Technology",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Southern Taiwan",
+    "domain": "stut.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "TaTung University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "TaTung",
+    "domain": "ttu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tamkang University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tamkang",
+    "domain": "tku.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tunghai University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Tunghai",
+    "domain": "thu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yuan Ze University",
+    "country": "Taiwan",
+    "state": "Taiwan",
+    "city": "Yuan Ze",
+    "domain": "yzu.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Yunlin University of Science and Technology",
+    "country": "Taiwan",
+    "state": "Yunlin",
+    "city": "Science and Technology",
+    "domain": "yuntech.edu.tw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

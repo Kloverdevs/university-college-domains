@@ -1,0 +1,312 @@
+[
+  {
+    "name": "Instituto Tecnológico de Costa Rica",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Costa Rica",
+    "domain": "itcr.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Adventista de Centro América",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Adventista de Centro América",
+    "domain": "unadeca.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Universidad Autonoma Monterrey",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Autonoma Monterrey",
+    "domain": "unam.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autónoma de Centro América",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Centro América",
+    "domain": "uaca.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Braulio Carrillo",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Braulio Carrillo",
+    "domain": "universidadbrauliocarrillo.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica Anselmo Llorente",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Católica Anselmo Llorente",
+    "domain": "ucatolica.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Central",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Costa Rica",
+    "domain": "universidadcentral.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Empresarial",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Empresarial",
+    "domain": "unem.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Estatal a Distancia",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Estatal a Distancia",
+    "domain": "uned.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Fidélitas",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Fidélitas",
+    "domain": "ufidelitas.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Fundepos Alma Mater",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Fundepos Alma Mater",
+    "domain": "fundepos.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Hispanoamericana",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Hispanoamericana",
+    "domain": "uhispanoamericana.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Internacional de las Américas",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Internacional de las Américas",
+    "domain": "uia.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Isaac Newton",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Isaac Newton",
+    "domain": "isaacnewtoncr.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Latina de Costa Rica",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Latina de Costa Rica",
+    "domain": "ulatina.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Latinoamericana de Ciencia y Tecnología",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Costa Rica",
+    "domain": "ulacit.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Libre de Costa Rica",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Libre de Costa Rica",
+    "domain": "ulicori.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Metropolitana Castro Carazo",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Metropolitana Castro Carazo",
+    "domain": "umca.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Nacional",
+    "domain": "una.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad San Juan de la Cruz",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Costa Rica",
+    "domain": "universidadsanjuan.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad San Marcos",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "San Marcos",
+    "domain": "usam.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Santa Paula",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Santa Paula",
+    "domain": "uspsantapaula.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Veritas",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Veritas",
+    "domain": "uveritas.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Cartago Florencio del Castillo",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Cartago Florencio del Castillo",
+    "domain": "uca.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Costa Rica",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Costa Rica",
+    "domain": "ucr.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Iberoamérica",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Iberoamérica",
+    "domain": "unibe.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de La Salle",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "La Salle",
+    "domain": "ulasalle.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de San José",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "San José",
+    "domain": "universidadsanjosecr.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Turismo",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Turismo",
+    "domain": "utur.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad para la Cooperación Internacional",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "para la Cooperación Internacional",
+    "domain": "uci.ac.cr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University for Peace",
+    "country": "Costa Rica",
+    "state": "Costa Rica",
+    "city": "Costa Rica",
+    "domain": "upeace.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

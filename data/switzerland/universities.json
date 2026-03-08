@@ -1,0 +1,748 @@
+[
+  {
+    "name": "BFH - Bern University of Applied Sciences",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "BFH - Bern",
+    "domain": "bfh.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Business School Lausanne (BSL)",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "bsl-lausanne.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Business and Hotel Management School",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "bhms.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "CHUV - University Hospital Lausanne",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "CHUV",
+    "domain": "chuv.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cubidor University Switzerland",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Cubidor",
+    "domain": "cubidor.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "DCT International Hotel & Business Management School",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "dct.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "EPFL - EPF Lausanne",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "epfl.ch",
+    "aliases": [
+      "epfl.edu"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "ETHZ - ETH Zurich",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "ethz.ch",
+    "aliases": [
+      "eth.edu"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "European Graduate School, Media & Communications",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "egs.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "European University",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "euruni.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "FFHS - Fernfachhochschule Schweiz",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Schweiz",
+    "domain": "ffhs.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "FHNW - Fachhochschule Nordwestschweiz",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Nordwestschweiz",
+    "domain": "fhnw.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "FHS St.Gallen",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "fhsg.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Pur",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Pur",
+    "domain": "phw.info",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Geneva Business School",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "gbs-ge.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Graduate School of Business Administration Zurich (GSBA Zurich)",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "gsba.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "HEP Vaud - Haute école pédagogique du canton de Vaud",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "hepl.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "HEP-BEJUNE - Haute Ecole Pédagogique BEJUNE",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "hep-bejune.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "HEP-PH FR - University of Teacher Education Fribourg",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Teacher Education Fribourg",
+    "domain": "edufr.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "HEPVS - Haute école pédagogique du Valais",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "hepvs.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "HES-SO : UAS Western Switzerland",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "hes-so.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "HSR - Hochschule für Technik Rapperswil",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "für Technik Rapperswil",
+    "domain": "hsr.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "HTW Chur - University of Applied Sciences HTW Chur",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "HTW Chur",
+    "domain": "fh-htwchur.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "HUG - Univ. Hospitals of Geneva",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "hcuge.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "HWZ - University of Applied Sciences in Business Administration Zurich",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "HWZ",
+    "domain": "fh-hwz.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "HfH – University of Applied Sciences of Special Needs Education",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "HfH –",
+    "domain": "hfh.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule Luzern",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Luzern",
+    "domain": "hslu.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule für Gestaltung und Kunst Zürich",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "und Kunst Zürich",
+    "domain": "hgkz.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Insel Gruppe",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "insel.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institut Le Rosey",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "rosey.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International School of Business Management",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "isbm-school.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International University in Geneva",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "iun.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lausanne Hotel School (EHL)",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "ehl.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Les Roches Gruyère University of Applied Sciences",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Les Roches Gruyère",
+    "domain": "lrguas.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Les Roches International School of Hotel Management",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "lesroches.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Libera Università degli Studi di Scienze Umane e Tecnologiche",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Scienze Umane e Tecnologiche",
+    "domain": "uniludes.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "NTB - Hochschule für Technik Buchs",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "für Technik Buchs",
+    "domain": "ntb.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "PH Zug - Pädagogische Hochschule Zug",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Zug",
+    "domain": "phzg.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "PH Zürich - Pädagogische Hochschule Zürich",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Zürich",
+    "domain": "phzh.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "PHBern - University of Teacher Education Bern",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Teacher Education Bern",
+    "domain": "phbern.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "PHGR - University of Teacher Education Graubünden",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Teacher Education Graubünden",
+    "domain": "ph-gr.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "PHLU - University of Teacher Education Lucerne",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Teacher Education Lucerne",
+    "domain": "phlu.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "PHSG - Pädagogische Hochschule St.Gallen",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "St.Gallen",
+    "domain": "phsg.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "PHSZ - University of Teacher Education Schwyz",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Teacher Education Schwyz",
+    "domain": "phsz.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "PHTG - Pädagogische Hochschule Thurgau",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Thurgau",
+    "domain": "phtg.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "SUPSI - University of Applied Sciences Southern Switzerland",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "SUPSI",
+    "domain": "supsi.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Schiller International University, American College of Switzerland",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Schiller International",
+    "domain": "american-college.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Management Fribourg",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "heg-fr.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Swiss Business School Zurich (SBS)",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "sbs.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Swiss Management Center",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "swissmc.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universita della Svizzera Italiana",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "usi.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University Center \"César Ritz\"",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "uccr.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University Hospital Zurich",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "unispital.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Applied Sciences Aargau",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Applied Sciences Aargau",
+    "domain": "fh-aargau.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Applied Sciences Basel (FHBB )",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Applied Sciences Basel",
+    "domain": "fhbb.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Applied Sciences Chur",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Applied Sciences Chur",
+    "domain": "fh-htachur.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Applied Sciences Solothurn Northwestern Switzerland",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "fhso.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Basel",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Basel",
+    "domain": "unibas.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Berne",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Berne",
+    "domain": "unibe.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Fribourg",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Fribourg",
+    "domain": "unifr.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Geneva",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Geneva",
+    "domain": "unige.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Lausanne",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Lausanne",
+    "domain": "unil.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Lucerne",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Lucerne",
+    "domain": "unilu.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Neuchatel",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Neuchatel",
+    "domain": "unine.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of St. Gallen",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "St. Gallen",
+    "domain": "unisg.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Switzerland",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Switzerland",
+    "domain": "swissu.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Zürich",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Zürich",
+    "domain": "unizh.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of the Italian-speaking Part of Switzerland",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "the Italian",
+    "domain": "unisi.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Zürich",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Zürich",
+    "domain": "uzh.ch",
+    "aliases": [
+      "unizh.ch"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Victoria University",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Victoria",
+    "domain": "victoria-uni.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Webster University Geneva",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Webster",
+    "domain": "webster.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "ZHAW - Zürcher Hochschule für Angewandte Wissenschaften",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "für Angewandte Wissenschaften",
+    "domain": "zhaw.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "ZHdK - Zurich University of the Arts",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "ZHdK - Zurich",
+    "domain": "zhdk.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zurich University of Applied Sciences Winterthur",
+    "country": "Switzerland",
+    "state": "Switzerland",
+    "city": "Applied Sciences Winterthur",
+    "domain": "zhwin.ch",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

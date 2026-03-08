@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Escuela Agricola Panamericana Zamorano",
+    "country": "Honduras",
+    "state": "Honduras",
+    "city": "Honduras",
+    "domain": "zamorano.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica de Honduras",
+    "country": "Honduras",
+    "state": "Honduras",
+    "city": "Católica de Honduras",
+    "domain": "unicah.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad José Cecilio del Valle",
+    "country": "Honduras",
+    "state": "Honduras",
+    "city": "José Cecilio del Valle",
+    "domain": "ujcv.edu.hn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Metropolitana de Honduras",
+    "country": "Honduras",
+    "state": "Honduras",
+    "city": "Metropolitana de Honduras",
+    "domain": "unimetro.edu.hn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Autónoma de Honduras",
+    "country": "Honduras",
+    "state": "Honduras",
+    "city": "Nacional Autónoma de Honduras",
+    "domain": "unah.edu.hn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Pedagógica Nacional \"Francisco Morazán\"",
+    "country": "Honduras",
+    "state": "Honduras",
+    "city": "Pedagógica Nacional \"Francisco Morazán\"",
+    "domain": "upnfm.edu.hn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnológica Centroamericana",
+    "country": "Honduras",
+    "state": "Honduras",
+    "city": "Tecnológica Centroamericana",
+    "domain": "unitec.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnológica de Honduras",
+    "country": "Honduras",
+    "state": "Honduras",
+    "city": "Tecnológica de Honduras",
+    "domain": "uth.hn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de San Pedro Sula",
+    "country": "Honduras",
+    "state": "Honduras",
+    "city": "San Pedro Sula",
+    "domain": "usps.edu.hn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Palestine Polytechnic University",
+    "country": "Palestine",
+    "state": "Palestine",
+    "city": "Palestine Polytechnic",
+    "domain": "ppu.edu",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Palestine Technical College-Dier Elbalah",
+    "country": "Palestine",
+    "state": "Palestine",
+    "city": "Palestine",
+    "domain": "ptcdb.edu.ps",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

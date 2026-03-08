@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Divine Word University",
+    "country": "Papua New Guinea",
+    "state": "Papua New Guinea",
+    "city": "Divine Word",
+    "domain": "dwu.ac.pg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pacific Adventist University",
+    "country": "Papua New Guinea",
+    "state": "Papua New Guinea",
+    "city": "Pacific Adventist",
+    "domain": "pau.ac.pg",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Papua New Guinea University of Technology",
+    "country": "Papua New Guinea",
+    "state": "Papua New Guinea",
+    "city": "Papua New Guinea",
+    "domain": "unitech.ac.pg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Goroka",
+    "country": "Papua New Guinea",
+    "state": "Papua New Guinea",
+    "city": "Goroka",
+    "domain": "uog.ac.pg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Papua New Guinea",
+    "country": "Papua New Guinea",
+    "state": "Papua New Guinea",
+    "city": "Papua New Guinea",
+    "domain": "upng.ac.pg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

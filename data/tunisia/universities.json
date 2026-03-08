@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Institut Supérieur de Gestion de Tunis",
+    "country": "Tunisia",
+    "state": "Tunisia",
+    "city": "Tunisia",
+    "domain": "isg.rnu.tn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituts Supérieurs de Formation des Maîtres",
+    "country": "Tunisia",
+    "state": "Tunisia",
+    "city": "Tunisia",
+    "domain": "disfm.rnu.tn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituts Supérieurs des Etudes Technologiques",
+    "country": "Tunisia",
+    "state": "Tunisia",
+    "city": "Tunisia",
+    "domain": "isetr.rnu.tn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Aviation and Technology",
+    "country": "Tunisia",
+    "state": "Tunisia",
+    "city": "Aviation and Technology",
+    "domain": "unat.ens.tn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Centrale",
+    "country": "Tunisia",
+    "state": "Tunisia",
+    "city": "Tunisia",
+    "domain": "ucaat.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Ez-Zitouna",
+    "country": "Tunisia",
+    "state": "Tunisia",
+    "city": "Tunisia",
+    "domain": "uz.rnu.tn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Libre de Tunis",
+    "country": "Tunisia",
+    "state": "Tunisia",
+    "city": "Tunisia",
+    "domain": "ult.ens.tn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université Virtuelle de Tunis",
+    "country": "Tunisia",
+    "state": "Tunisia",
+    "city": "Tunisia",
+    "domain": "uvt.rnu.tn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de 7 Novembre à Carthage",
+    "country": "Tunisia",
+    "state": "Tunisia",
+    "city": "7 Novembre à Carthage",
+    "domain": "u7nc.uvt.rnu.tn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Gabès",
+    "country": "Tunisia",
+    "state": "Tunisia",
+    "city": "Gabès",
+    "domain": "univgb.rnu.tn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Gafsa",
+    "country": "Tunisia",
+    "state": "Tunisia",
+    "city": "Gafsa",
+    "domain": "ugaf.rnu.tn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Jendouba",
+    "country": "Tunisia",
+    "state": "Tunisia",
+    "city": "Jendouba",
+    "domain": "uj.rnu.tn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Kairouan",
+    "country": "Tunisia",
+    "state": "Tunisia",
+    "city": "Kairouan",
+    "domain": "univ-k.rnu.tn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Monastir",
+    "country": "Tunisia",
+    "state": "Tunisia",
+    "city": "Monastir",
+    "domain": "um.rnu.tn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Sfax",
+    "country": "Tunisia",
+    "state": "Tunisia",
+    "city": "Sfax",
+    "domain": "uss.rnu.tn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Tunis",
+    "country": "Tunisia",
+    "state": "Tunisia",
+    "city": "Tunis",
+    "domain": "utunis.rnu.tn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de Tunis El Manar",
+    "country": "Tunisia",
+    "state": "Tunisia",
+    "city": "Tunis El Manar",
+    "domain": "utm.rnu.tn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université de la Manouba",
+    "country": "Tunisia",
+    "state": "Tunisia",
+    "city": "la Manouba",
+    "domain": "uma.rnu.tn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université du Centre, Sousse",
+    "country": "Tunisia",
+    "state": "Tunisia",
+    "city": "Tunisia",
+    "domain": "uc.rnu.tn",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

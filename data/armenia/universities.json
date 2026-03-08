@@ -1,0 +1,112 @@
+[
+  {
+    "name": "American University of Armenia",
+    "country": "Armenia",
+    "state": "Armenia",
+    "city": "Armenia",
+    "domain": "aua.am",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Armenian State Agrarian University",
+    "country": "Armenia",
+    "state": "Armenia",
+    "city": "Armenian State Agrarian",
+    "domain": "asau.am",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Armenian State University of Economics",
+    "country": "Armenia",
+    "state": "Armenia",
+    "city": "Economics",
+    "domain": "asue.am",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eurasia International University",
+    "country": "Armenia",
+    "state": "Armenia",
+    "city": "Eurasia International",
+    "domain": "eiu.am",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "European Regional Educational Academy of Armenia",
+    "country": "Armenia",
+    "state": "Armenia",
+    "city": "Armenia",
+    "domain": "eriicta.am",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "French University in Armenia (UFAR)",
+    "country": "Armenia",
+    "state": "Armenia",
+    "city": "French",
+    "domain": "ufar.am",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Russian-Armenian (Slavonic) State University",
+    "country": "Armenia",
+    "state": "Armenia",
+    "city": "Russian-Armenian State",
+    "domain": "rau.am",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "State Engineering University of Armenia",
+    "country": "Armenia",
+    "state": "Armenia",
+    "city": "Armenia",
+    "domain": "seua.am",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yerevan Haibusak University",
+    "country": "Armenia",
+    "state": "Armenia",
+    "city": "Yerevan Haibusak",
+    "domain": "haybusak.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yerevan State Medical University",
+    "country": "Armenia",
+    "state": "Armenia",
+    "city": "Yerevan State Medical",
+    "domain": "ysmu.am",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yerevan State University",
+    "country": "Armenia",
+    "state": "Armenia",
+    "city": "Yerevan State",
+    "domain": "ysu.am",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

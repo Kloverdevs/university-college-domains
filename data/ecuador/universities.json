@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Escuela Politécnica Nacional",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Ecuador",
+    "domain": "epn.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Politécnica de Chimborazo",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Ecuador",
+    "domain": "espoch.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Politécnica del Ejercito",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Ecuador",
+    "domain": "espe.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Superior Politécnica del Litoral",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Ecuador",
+    "domain": "espol.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pontificia Universidad Católica del Ecuador",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Católica del Ecuador",
+    "domain": "puce.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Agraria del Ecuador",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Agraria del Ecuador",
+    "domain": "uagraria.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Andina Simón Bolívar",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Andina Simón Bolívar",
+    "domain": "uasb.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Casa Grande",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Casa Grande",
+    "domain": "casagrande.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Catolica de Azogues",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Catolica de Azogues",
+    "domain": "ucaazo.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica de Cuenca",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Católica de Cuenca",
+    "domain": "ucacue.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica de Santiago de Guayaquil",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Ecuador",
+    "domain": "ucsg.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Central del Ecuador",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Central del Ecuador",
+    "domain": "ucentral.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Estatal de Bolívar",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Estatal de Bolívar",
+    "domain": "ueb.isfun.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Internacional SEK, Quito",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Internacional SEK",
+    "domain": "sek.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Internacional del Ecuador",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Internacional del Ecuador",
+    "domain": "internacional.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Laica \"Eloy Alfaro\" de Manabi",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Ecuador",
+    "domain": "uleam.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Laica \"Vicente Rocafuerte\" de Guayaquil",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Ecuador",
+    "domain": "ulaicavr.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de Chimborazo",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Nacional de Chimborazo",
+    "domain": "unach.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de Loja",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Nacional de Loja",
+    "domain": "unl.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Politécnica Salesiana",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Politécnica Salesiana",
+    "domain": "ups.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad San Francisco de Quito",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "San Francisco de Quito",
+    "domain": "usfq.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Santa María Campus Guayaquil",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Santa María Campus Guayaquil",
+    "domain": "usm.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnologica Israel",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Tecnologica Israel",
+    "domain": "uisrael.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnológica América",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Tecnológica América",
+    "domain": "unita.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnológica Equinoccial",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Tecnológica Equinoccial",
+    "domain": "ute.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnológica Indoamérica",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Tecnológica Indoamérica",
+    "domain": "indoamerica.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnológica San Antonio de Machala",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Ecuador",
+    "domain": "utsam.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Técnica Estatal de Quevedo",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Técnica Estatal de Quevedo",
+    "domain": "uteq.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Técnica Particular de Loja",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Técnica Particular de Loja",
+    "domain": "utpl.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Técnica de Ambato",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Técnica de Ambato",
+    "domain": "uta.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Técnica de Babahoyo",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Técnica de Babahoyo",
+    "domain": "utb.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Técnica de Cotopaxi",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Técnica de Cotopaxi",
+    "domain": "utc.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Técnica de Esmeraldas \"Luis Vargas Torres\"",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Ecuador",
+    "domain": "utelvt.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Técnica de Machala",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Técnica de Machala",
+    "domain": "utmachala.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Técnica de Manabí",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Técnica de Manabí",
+    "domain": "utm.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Técnica del Norte",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Técnica del Norte",
+    "domain": "utn.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Cuenca",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Cuenca",
+    "domain": "ucuenca.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Especialidades Turísticas",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Especialidades Turísticas",
+    "domain": "uct.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Especialidades del Espíritu Santo",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Especialidades del Espíritu Santo",
+    "domain": "uees.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Guayaquil",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Guayaquil",
+    "domain": "ug.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Azuay",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Azuay",
+    "domain": "uazuay.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Pacifico",
+    "country": "Ecuador",
+    "state": "Ecuador",
+    "city": "Pacifico",
+    "domain": "upacifico.edu.ec",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

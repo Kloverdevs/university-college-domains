@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Bayan College for Science & Technology",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Bayan",
+    "domain": "bayantech.edu",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian Sudanese College",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Canadian Sudanese",
+    "domain": "ccs.edu.sd",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Elrazi College Of Medical & Technological Sciences",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Elrazi",
+    "domain": "elrazicollege.net",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Gezira College of Technology",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Gezira",
+    "domain": "geziracollege.edu.sd",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "High Institute for Banking & Financial Studies",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "High",
+    "domain": "hibfs.edu.sd",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "National College for Medical and Technical Studies",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Sudan",
+    "domain": "nc.edu.sd",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

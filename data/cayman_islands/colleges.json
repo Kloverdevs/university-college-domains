@@ -1,0 +1,32 @@
+[
+  {
+    "name": "International College of the Cayman Islands",
+    "country": "Cayman Islands",
+    "state": "Cayman Islands",
+    "city": "Newlands",
+    "domain": "icci.edu.ky",
+    "aliases": [],
+    "type": "College",
+    "control": "Private"
+  },
+  {
+    "name": "Truman Bodden Law School",
+    "country": "Cayman Islands",
+    "state": "Cayman Islands",
+    "city": "George Town",
+    "domain": "caymanlawschool.ky",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "University College of the Cayman Islands",
+    "country": "Cayman Islands",
+    "state": "Cayman Islands",
+    "city": "George Town",
+    "domain": "ucci.edu.ky",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

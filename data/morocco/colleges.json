@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Cambridge International College",
+    "country": "Morocco",
+    "state": "Morocco",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centre de Formation Professionnelle et Continue du College de La Salle - CFPC",
+    "country": "Morocco",
+    "state": "Morocco",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College Bilingue Laval",
+    "country": "Morocco",
+    "state": "Morocco",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Higher Teacher Training College - HTTC",
+    "country": "Morocco",
+    "state": "Morocco",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Higher Technical Teacher Training College - HTTTC",
+    "country": "Morocco",
+    "state": "Morocco",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "ISEC International College",
+    "country": "Morocco",
+    "state": "Morocco",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institut Supérieur du Digital, du Management et de l'Informatique - ISDMI- Digital College",
+    "country": "Morocco",
+    "state": "Morocco",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Management and Business Technology",
+    "country": "Morocco",
+    "state": "Morocco",
+    "city": "Morocco",
+    "domain": "imbt.ma",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "International Institute for Higher Education",
+    "country": "Morocco",
+    "state": "Morocco",
+    "city": "Morocco",
+    "domain": "iihem.ac.ma",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "National Cooperative College, Bamenda",
+    "country": "Morocco",
+    "state": "Morocco",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Presbyterian Teacher Training College, Mbengwi - PTTC",
+    "country": "Morocco",
+    "state": "Morocco",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sacred Heart College, Mankon",
+    "country": "Morocco",
+    "state": "Morocco",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Pius X Teacher Training College, Tatum",
+    "country": "Morocco",
+    "state": "Morocco",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

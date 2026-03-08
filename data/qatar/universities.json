@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Northwestern University In Qatar",
+    "country": "Qatar",
+    "state": "Qatar",
+    "city": "Northwestern",
+    "domain": "qatar.northwestern.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Qatar",
+    "country": "Qatar",
+    "state": "Qatar",
+    "city": "Qatar",
+    "domain": "qu.edu.qa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

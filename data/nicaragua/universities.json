@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Universidad Americana",
+    "country": "Nicaragua",
+    "state": "Nicaragua",
+    "city": "Americana",
+    "domain": "uam.edu.ni",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Catolica \"Redemptoris Mater\"",
+    "country": "Nicaragua",
+    "state": "Nicaragua",
+    "city": "Catolica \"Redemptoris Mater\"",
+    "domain": "unica.edu.ni",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Central de Nicaragua",
+    "country": "Nicaragua",
+    "state": "Nicaragua",
+    "city": "Central de Nicaragua",
+    "domain": "ucn.edu.ni",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Centroamericana",
+    "country": "Nicaragua",
+    "state": "Nicaragua",
+    "city": "Centroamericana",
+    "domain": "uca.edu.ni",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Centroamericana de Ciencias Empresariales (UCEM)",
+    "country": "Nicaragua",
+    "state": "Nicaragua",
+    "city": "Centroamericana de Ciencias Empresariales",
+    "domain": "ucem.edu.ni",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Ciencias Comerciales",
+    "country": "Nicaragua",
+    "state": "Nicaragua",
+    "city": "Ciencias Comerciales",
+    "domain": "ucc.edu.ni",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Hispanoamericana",
+    "country": "Nicaragua",
+    "state": "Nicaragua",
+    "city": "Hispanoamericana",
+    "domain": "uhispam.edu.ni",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Iberoamericana de Ciencia y Tecnologia",
+    "country": "Nicaragua",
+    "state": "Nicaragua",
+    "city": "Nicaragua",
+    "domain": "unicit.edu.ni",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Internacional de Integración de América Latina",
+    "country": "Nicaragua",
+    "state": "Nicaragua",
+    "city": "Nicaragua",
+    "domain": "unival.edu.ni",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Agraria",
+    "country": "Nicaragua",
+    "state": "Nicaragua",
+    "city": "Nacional Agraria",
+    "domain": "una.edu.ni",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Autonoma de Nicaragua",
+    "country": "Nicaragua",
+    "state": "Nicaragua",
+    "city": "Nacional Autonoma de Nicaragua",
+    "domain": "unan.edu.ni",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de Ingenieria",
+    "country": "Nicaragua",
+    "state": "Nicaragua",
+    "city": "Nacional de Ingenieria",
+    "domain": "uni.edu.ni",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nicaragüense de Ciencia y Tecnológica",
+    "country": "Nicaragua",
+    "state": "Nicaragua",
+    "city": "Nicaragua",
+    "domain": "ucyt.edu.ni",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Politecnica de Nicaragua",
+    "country": "Nicaragua",
+    "state": "Nicaragua",
+    "city": "Politecnica de Nicaragua",
+    "domain": "upoli.edu.ni",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Popular de Nicaragua (UPONIC)",
+    "country": "Nicaragua",
+    "state": "Nicaragua",
+    "city": "Popular de Nicaragua",
+    "domain": "uponic.edu.ni",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Managua (U de M)",
+    "country": "Nicaragua",
+    "state": "Nicaragua",
+    "city": "Managua",
+    "domain": "udem.edu.ni",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de las Américas (ULAM)",
+    "country": "Nicaragua",
+    "state": "Nicaragua",
+    "city": "las Américas",
+    "domain": "ulam.edu.ni",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de las Regiones Autónomas de la Costa Caribe Nicaragüense",
+    "country": "Nicaragua",
+    "state": "Nicaragua",
+    "city": "Nicaragua",
+    "domain": "uraccan.edu.ni",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

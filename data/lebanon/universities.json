@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Al Imam Al-Ouzai University",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "Al Imam Al-Ouzai",
+    "domain": "wakf.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Islah University",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "Al-Islah",
+    "domain": "islahonline.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Manar University",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "Al-Manar",
+    "domain": "mut.edu.lb",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American University College of Technology",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "American University",
+    "domain": "aut.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American University of Beirut",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "Beirut",
+    "domain": "aub.edu.lb",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American University of Science and Technology",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "Science and Technology",
+    "domain": "aust.edu.lb",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arab Open University",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "Arab Open",
+    "domain": "arabou-lb.edu.lb",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arts, Sciences and Technology University",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "Arts, Sciences and Technology",
+    "domain": "aul.edu.lb",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Balamand University",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "Balamand",
+    "domain": "balamand.edu.lb",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Beirut Arab University",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "Beirut Arab",
+    "domain": "bau.edu.lb",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Business & Computer University College",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "Business & Computer",
+    "domain": "hu.edu.lb",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centre Universitaire de Technologie",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "Lebanon",
+    "domain": "cut.edu.lb",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Global University",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "Global",
+    "domain": "gu.edu.lb",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Haigazian University",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "Haigazian",
+    "domain": "haigazian.edu.lb",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hariri Canadian University",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "Hariri Canadian",
+    "domain": "hariricanadian.edu.lb",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Holy Spirit University of Kaslik",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "Kaslik",
+    "domain": "usek.edu.lb",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jinan University",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "Jinan",
+    "domain": "jinan.edu.lb",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lebanese American University",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "Lebanese American",
+    "domain": "lau.edu.lb",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lebanese International University",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "Lebanese International",
+    "domain": "liu.edu.lb",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lebanese University",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "Lebanese",
+    "domain": "ul.edu.lb",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Matn University",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "Matn",
+    "domain": "matnu.edu.lb",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Near East School of Theology",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "Lebanon",
+    "domain": "theonest.edu.lb",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Notre Dame University",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "Notre Dame",
+    "domain": "ndu.edu.lb",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Joseph University Beirut",
+    "country": "Lebanon",
+    "state": "Lebanon",
+    "city": "St. Joseph",
+    "domain": "usj.edu.lb",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

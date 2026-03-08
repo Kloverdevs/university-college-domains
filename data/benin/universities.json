@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Espam Formation University",
+    "country": "Benin",
+    "state": "Benin",
+    "city": "Espam Formation",
+    "domain": "espam-formationuc.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Houdegbe North American University Benin",
+    "country": "Benin",
+    "state": "Benin",
+    "city": "Houdegbe North American",
+    "domain": "hnaubenin.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Université d'Abomey-Calavi (UAC)",
+    "country": "Benin",
+    "state": "Benin",
+    "city": "Abomey",
+    "domain": "uac.bj",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

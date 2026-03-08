@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Accra Polytechnic",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Accra",
+    "domain": "accrapolytechnic.edu.gh",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Akrofi-Christaller Institute of Theeology, Mission and Culture",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Akrofi-Christaller",
+    "domain": "acighana.org",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Cape Coast Polytechnic",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Cape Coast",
+    "domain": "cpoly.edu.gh",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Ghana Institute of Management and Public Administration (GIMPA)",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Ghana",
+    "domain": "gimpa.edu.gh",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Ho Polytechnic",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Ho",
+    "domain": "hopoly.edu.gh",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kessben College",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Kessben",
+    "domain": "kc.edu.gh",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Koforidua Polytechnic",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Koforidua",
+    "domain": "koforiduapoly.edu.gh",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Kumasi Polytechnic",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Kumasi",
+    "domain": "kpoly.edu.gh",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Prempeh College",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Prempeh",
+    "domain": "prempeh-college.com",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Takoradi Polytechnic",
+    "country": "Ghana",
+    "state": "Ghana",
+    "city": "Takoradi",
+    "domain": "tpoly.edu.gh",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

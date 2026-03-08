@@ -1,0 +1,269 @@
+[
+  {
+    "name": "Academy of Performing Arts, Film and TV Fakulty",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Czech Republic",
+    "domain": "famu.cz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Anglo-American University",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Anglo-American",
+    "domain": "aauni.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Brno University of Technology",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Brno",
+    "domain": "vutbr.cz",
+    "aliases": [
+      "vut.cz"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Charles University Prague",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Charles",
+    "domain": "cuni.cz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Czech Technical University of Prague",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Prague",
+    "domain": "cvut.cz",
+    "aliases": [
+      "fa.cvut.cz",
+      "fit.cvut.cz"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Czech University of Agriculture Prague",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Agriculture Prague",
+    "domain": "czu.cz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Masaryk University",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Masaryk",
+    "domain": "muni.cz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mendel University of Agriculture and Forestry",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Agriculture and Forestry",
+    "domain": "mendelu.cz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Palacky University",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Palacky",
+    "domain": "upol.cz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Prague International University",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Prague International",
+    "domain": "mpu-prague.cz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Silesian University",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Silesian",
+    "domain": "slu.cz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Střední průmyslová škola Mladá Boleslav",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Czech Republic",
+    "domain": "student.spsmb.cz",
+    "aliases": [
+      "spsmb.cz"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical University of Liberec",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Liberec",
+    "domain": "vslib.cz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical University of Mining and Metallurgy Ostrava",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Mining and Metallurgy Ostrava",
+    "domain": "vsb.cz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tiffin University Prague",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Tiffin",
+    "domain": "tiffinprague.cz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tomas Bata University in Zlin",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Tomas Bata",
+    "domain": "utb.cz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Economics Prague",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Economics Prague",
+    "domain": "vse.cz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Education Hradec Kralove",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Education Hradec Kralove",
+    "domain": "vsp.cz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Jan Evangelista Purkyne",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Jan Evangelista Purkyne",
+    "domain": "ujep.cz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of New York in Prague",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "New York in Prague",
+    "domain": "unyp.cz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Northern Virginia, Prague Campus",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Northern Virginia",
+    "domain": "unva.cz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Ostrava",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Ostrava",
+    "domain": "osu.cz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Pardubice",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Pardubice",
+    "domain": "upce.cz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of South Bohemia",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "South Bohemia",
+    "domain": "jcu.cz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Veterinary and Pharmaceutical Science",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "Veterinary and Pharmaceutical Science",
+    "domain": "vfu.cz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of West Bohemia",
+    "country": "Czech Republic",
+    "state": "Czech Republic",
+    "city": "West Bohemia",
+    "domain": "zcu.cz",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

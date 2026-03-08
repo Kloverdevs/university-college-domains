@@ -1,0 +1,42 @@
+[
+  {
+    "name": "CIC - Canadian International College",
+    "country": "Egypt",
+    "state": "Cairo",
+    "city": "Cairo",
+    "domain": "cic-cairo.com",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Canadian International College",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "",
+    "domain": "cic-cairo.edu.eg",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Higher Technological Institute",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Higher Technological",
+    "domain": "hti.edu.eg",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Military Technical College",
+    "country": "Egypt",
+    "state": "Egypt",
+    "city": "Egypt",
+    "domain": "mtc.edu.eg",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

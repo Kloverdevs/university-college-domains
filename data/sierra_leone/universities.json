@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Fourah Bay College, University of Sierra Leone",
+    "country": "Sierra Leone",
+    "state": "Sierra Leone",
+    "city": "Sierra Leone",
+    "domain": "fbcusl.8k.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Njala University",
+    "country": "Sierra Leone",
+    "state": "Sierra Leone",
+    "city": "Njala",
+    "domain": "nu-online.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Sierra Leone",
+    "country": "Sierra Leone",
+    "state": "Sierra Leone",
+    "city": "Sierra Leone",
+    "domain": "tusol.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

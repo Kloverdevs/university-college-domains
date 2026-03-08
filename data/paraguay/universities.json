@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Universidad Americana",
+    "country": "Paraguay",
+    "state": "Paraguay",
+    "city": "Americana",
+    "domain": "uamericana.edu.py",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autónoma de Asunción",
+    "country": "Paraguay",
+    "state": "Paraguay",
+    "city": "Asunción",
+    "domain": "uaa.edu.py",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autónoma del Paraguay",
+    "country": "Paraguay",
+    "state": "Paraguay",
+    "city": "Autónoma del Paraguay",
+    "domain": "uap.edu.py",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica Nuestra Senora de la Asunción",
+    "country": "Paraguay",
+    "state": "Paraguay",
+    "city": "Paraguay",
+    "domain": "uc.edu.py",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Columbia del Paraguay",
+    "country": "Paraguay",
+    "state": "Paraguay",
+    "city": "Columbia del Paraguay",
+    "domain": "columbia.edu.py",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Comunera",
+    "country": "Paraguay",
+    "state": "Paraguay",
+    "city": "Comunera",
+    "domain": "ucom.edu.py",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Metropolitana de Asunción",
+    "country": "Paraguay",
+    "state": "Paraguay",
+    "city": "Metropolitana de Asunción",
+    "domain": "uma.edu.py",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de Asunción",
+    "country": "Paraguay",
+    "state": "Paraguay",
+    "city": "Nacional de Asunción",
+    "domain": "una.py",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional del Este",
+    "country": "Paraguay",
+    "state": "Paraguay",
+    "city": "Nacional del Este",
+    "domain": "une.edu.py",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Privada del Este",
+    "country": "Paraguay",
+    "state": "Paraguay",
+    "city": "Privada del Este",
+    "domain": "upe.edu.py",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de la Integración de las Americas (UNIDAD)",
+    "country": "Paraguay",
+    "state": "Paraguay",
+    "city": "Paraguay",
+    "domain": "unida.edu.py",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Cono Sur de las Américas",
+    "country": "Paraguay",
+    "state": "Paraguay",
+    "city": "Paraguay",
+    "domain": "ucsa.edu.py",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Norte",
+    "country": "Paraguay",
+    "state": "Paraguay",
+    "city": "Norte",
+    "domain": "uninorte.edu.py",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

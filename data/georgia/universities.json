@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Agricultural University of Georgia",
+    "country": "Georgia",
+    "state": "Georgia",
+    "city": "Georgia",
+    "domain": "agruni.edu.ge",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Akaki Tsereteli State University",
+    "country": "Georgia",
+    "state": "Georgia",
+    "city": "Akaki Tsereteli State",
+    "domain": "atsu.edu.ge",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Caucasus University",
+    "country": "Georgia",
+    "state": "Georgia",
+    "city": "Caucasus",
+    "domain": "cu.edu.ge",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Free University of Tbilisi",
+    "country": "Georgia",
+    "state": "Georgia",
+    "city": "Tbilisi",
+    "domain": "freeuni.ge",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Georgian Technical University",
+    "country": "Georgia",
+    "state": "Georgia",
+    "city": "Georgian Technical",
+    "domain": "gtu.edu.ge",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ilia Chavchavadze State University",
+    "country": "Georgia",
+    "state": "Georgia",
+    "city": "Ilia Chavchavadze State",
+    "domain": "iliauni.edu.ge",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Blacksea University",
+    "country": "Georgia",
+    "state": "Georgia",
+    "city": "International Blacksea",
+    "domain": "ibsu.edu.ge",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Andrew Georgian University",
+    "country": "Georgia",
+    "state": "Georgia",
+    "city": "St. Andrew Georgian",
+    "domain": "sangu.ge",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tbilisi State Medical University",
+    "country": "Georgia",
+    "state": "Georgia",
+    "city": "Tbilisi State Medical",
+    "domain": "tsmu.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tbilisi State University",
+    "country": "Georgia",
+    "state": "Georgia",
+    "city": "Tbilisi State",
+    "domain": "tsu.edu.ge",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tbilisi Teaching University",
+    "country": "Georgia",
+    "state": "Georgia",
+    "city": "Tbilisi Teaching",
+    "domain": "tbuniver.edu.ge",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Grigol Robakidze",
+    "country": "Georgia",
+    "state": "Georgia",
+    "city": "Grigol Robakidze",
+    "domain": "gruni.edu.ge",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

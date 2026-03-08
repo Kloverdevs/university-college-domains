@@ -1,0 +1,42 @@
+[
+  {
+    "name": "ABM University College",
+    "country": "Botswana",
+    "state": "Botswana",
+    "city": "ABM",
+    "domain": "abm.ac.bw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Botho University",
+    "country": "Botswana",
+    "state": "Botswana",
+    "city": "Botho",
+    "domain": "bothocollege.ac.bw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Botswana International University of Science & Technology",
+    "country": "Botswana",
+    "state": "Botswana",
+    "city": "Science & Technology",
+    "domain": "biust.ac.bw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Botswana",
+    "country": "Botswana",
+    "state": "Botswana",
+    "city": "Botswana",
+    "domain": "ub.bw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

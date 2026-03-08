@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Bifrost School of Business",
+    "country": "Iceland",
+    "state": "Iceland",
+    "city": "Iceland",
+    "domain": "bifrost.is",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Holar University College",
+    "country": "Iceland",
+    "state": "Iceland",
+    "city": "Holar",
+    "domain": "holar.is",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hvanneyri Agricultural University",
+    "country": "Iceland",
+    "state": "Iceland",
+    "city": "Hvanneyri Agricultural",
+    "domain": "hvanneyri.is",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iceland Academy of the Arts",
+    "country": "Iceland",
+    "state": "Iceland",
+    "city": "Iceland",
+    "domain": "lhi.is",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Iceland University of Education",
+    "country": "Iceland",
+    "state": "Iceland",
+    "city": "Iceland",
+    "domain": "khi.is",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Reykjavík University",
+    "country": "Iceland",
+    "state": "Iceland",
+    "city": "Reykjavík",
+    "domain": "ru.is",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technological University of Iceland",
+    "country": "Iceland",
+    "state": "Iceland",
+    "city": "Iceland",
+    "domain": "iti.is",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University Centre of the Westfjords",
+    "country": "Iceland",
+    "state": "Iceland",
+    "city": "Iceland",
+    "domain": "hsvest.is",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Akureyri",
+    "country": "Iceland",
+    "state": "Iceland",
+    "city": "Akureyri",
+    "domain": "unak.is",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Iceland",
+    "country": "Iceland",
+    "state": "Iceland",
+    "city": "Iceland",
+    "domain": "hi.is",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

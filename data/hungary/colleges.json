@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Avicenna International College",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Avicenna International",
+    "domain": "avicenna.hu",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "College of Dunaujvaros",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Hungary",
+    "domain": "duf.hu",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Dániel Berzsenyi Teacher Training College",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Dániel Berzsenyi Teacher Training",
+    "domain": "bdtf.hu",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Esztergom Theological College",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Esztergom Theological",
+    "domain": "ehf.hu",
+    "aliases": [],
+    "type": "College",
+    "control": "Private"
+  }
+]

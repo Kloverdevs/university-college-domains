@@ -1,0 +1,32 @@
+[
+  {
+    "name": "American University of Sint Maarten",
+    "country": "Sint Maarten",
+    "state": "Sint Maarten",
+    "city": "Philipsburg",
+    "domain": "ausm.us",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "American University of the Caribbean School of Medicine",
+    "country": "Sint Maarten",
+    "state": "Sint Maarten",
+    "city": "Cupecoy",
+    "domain": "aucmed.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "University of St. Martin",
+    "country": "Sint Maarten",
+    "state": "Sint Maarten",
+    "city": "Philipsburg",
+    "domain": "usm.sx",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

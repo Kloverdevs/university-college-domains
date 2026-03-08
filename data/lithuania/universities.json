@@ -1,0 +1,152 @@
+[
+  {
+    "name": "International School of Management",
+    "country": "Lithuania",
+    "state": "Lithuania",
+    "city": "Lithuania",
+    "domain": "ism.lt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kaunas Medical Academy",
+    "country": "Lithuania",
+    "state": "Lithuania",
+    "city": "Lithuania",
+    "domain": "info.kma.lt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kaunas University of Technology",
+    "country": "Lithuania",
+    "state": "Lithuania",
+    "city": "Kaunas",
+    "domain": "ktu.lt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Klaipeda University",
+    "country": "Lithuania",
+    "state": "Lithuania",
+    "city": "Klaipeda",
+    "domain": "ku.lt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lithunian Academy of Music and Theatre",
+    "country": "Lithuania",
+    "state": "Lithuania",
+    "city": "Lithuania",
+    "domain": "lmta.lt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lithunian University of Agriculture",
+    "country": "Lithuania",
+    "state": "Lithuania",
+    "city": "Agriculture",
+    "domain": "lzua.lt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lithunian Veterinary Academy",
+    "country": "Lithuania",
+    "state": "Lithuania",
+    "city": "Lithuania",
+    "domain": "lva.lt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Military academy of Lithuania",
+    "country": "Lithuania",
+    "state": "Lithuania",
+    "city": "Lithuania",
+    "domain": "lka.lt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mykolo Romerio university",
+    "country": "Lithuania",
+    "state": "Lithuania",
+    "city": "Mykolo Romerio",
+    "domain": "mruni.eu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Siauliai University",
+    "country": "Lithuania",
+    "state": "Lithuania",
+    "city": "Siauliai",
+    "domain": "su.lt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vilnius Academy of Arts",
+    "country": "Lithuania",
+    "state": "Lithuania",
+    "city": "Lithuania",
+    "domain": "mch.mii.lt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vilnius Gediminas Technical University",
+    "country": "Lithuania",
+    "state": "Lithuania",
+    "city": "Vilnius Gediminas Technical",
+    "domain": "vgtu.lt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vilnius Pedagogical University",
+    "country": "Lithuania",
+    "state": "Lithuania",
+    "city": "Vilnius Pedagogical",
+    "domain": "vpu.lt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vilnius University",
+    "country": "Lithuania",
+    "state": "Lithuania",
+    "city": "Vilnius",
+    "domain": "vu.lt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vytautas Magnus University",
+    "country": "Lithuania",
+    "state": "Lithuania",
+    "city": "Vytautas Magnus",
+    "domain": "vdu.lt",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

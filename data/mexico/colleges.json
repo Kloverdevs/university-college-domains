@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Instituto Potosino de Investigación Científica y Tecnológica",
+    "country": "Mexico",
+    "state": "Mexico",
+    "city": "",
+    "domain": "ipicyt.edu.mx",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Superior de Intérpretes y Traductores",
+    "country": "Mexico",
+    "state": "Mexico",
+    "city": "",
+    "domain": "isit.edu.mx",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Tecnológico Autónomo de México",
+    "country": "Mexico",
+    "state": "Mexico",
+    "city": "",
+    "domain": "kellogg.northwestern.edu",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Tecnológico Superior de Zacapoaxtla",
+    "country": "Mexico",
+    "state": "Mexico",
+    "city": "",
+    "domain": "itsz.edu.mx",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Tecnológico de Ciudad Juárez",
+    "country": "Mexico",
+    "state": "Mexico",
+    "city": "",
+    "domain": "itcj.edu.mx",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Tecnológico de Ciudad Madero",
+    "country": "Mexico",
+    "state": "Mexico",
+    "city": "",
+    "domain": "itcm.edu.mx",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "National Technological Institute of Mexico",
+    "country": "Mexico",
+    "state": "Mexico",
+    "city": "",
+    "domain": "dof.gob.mx",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The American International College of Mexico",
+    "country": "Mexico",
+    "state": "Mexico",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

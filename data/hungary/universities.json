@@ -1,0 +1,384 @@
+[
+  {
+    "name": "University of Public Service",
+    "country": "Hungary",
+    "state": "Budapest",
+    "city": "Public Service",
+    "domain": "uni-nke.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Academy of Drama and Film",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Hungary",
+    "domain": "filmacademy.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Andrassy Gyula German Speaking University Budapest",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Andrassy Gyula German Speaking",
+    "domain": "andrassyuni.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Budapest Buddhist University",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Budapest Buddhist",
+    "domain": "tkbf.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Budapest Business School",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Hungary",
+    "domain": "uni-bge.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Budapest University of Economic Sciences and Public Administration",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Budapest",
+    "domain": "bke.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Budapest University of Technology and Economics",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Technology and Economics",
+    "domain": "bme.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Central European University",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Hungary",
+    "domain": "ceu.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corvinus University of Budapest",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Budapest",
+    "domain": "uni-corvinus.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Debrecen University of Agricultural Sciences",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Debrecen",
+    "domain": "agr.unideb.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eötvös Lorand University",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Eötvös Lorand",
+    "domain": "elte.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Győr Jedlik Ányos Mechanical Engineering and Informatics Technical School",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Hungary",
+    "domain": "jedlik.eu",
+    "aliases": [
+      "students.jedlik.eu"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Haynal Imre University of Health Sciences Budapest",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Health Sciences Budapest",
+    "domain": "hiete.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hungarian Academy of Craft and Design",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Hungary",
+    "domain": "mif.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hungarian Academy of Fine Arts Budapest",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Hungary",
+    "domain": "arts7.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hungarian University of Physical Education",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Physical Education",
+    "domain": "hupe.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Janus Pannonius University",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Janus Pannonius",
+    "domain": "jpte.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kodolanyi Janos University College",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Kodolanyi Janos",
+    "domain": "kodolanyi.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kossuth Lajos University",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Kossuth Lajos",
+    "domain": "lib.klte.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Károl Gáspár University of the Reformed Church",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "the Reformed Church",
+    "domain": "kgre.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Liszt Ferenc Academy of Music Budapest",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Hungary",
+    "domain": "lfze.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pázmány Péter Catholic University",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Pázmány Péter Catholic",
+    "domain": "ppke.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Reformed Theological Academy of Debrecen",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Hungary",
+    "domain": "drk.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Semmelweis University of Medical Sciences",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Semmelweis",
+    "domain": "sote.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Szent István University",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Szent István",
+    "domain": "szie.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Séchenyi István University",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Séchenyi István",
+    "domain": "sze.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University Medical School of Debrecen",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Hungary",
+    "domain": "dote.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University Medical School of Pécs",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Hungary",
+    "domain": "pote.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Debrecen",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Debrecen",
+    "domain": "unideb.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Horticulture and Food Industry",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Horticulture and Food Industry",
+    "domain": "kee.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Miskolc",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Miskolc",
+    "domain": "uni-miskolc.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Pannonia",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Pannonia",
+    "domain": "uni-pannon.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Pecs",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Pecs",
+    "domain": "pte.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Sopron",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Sopron",
+    "domain": "efe.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Szeged",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Szeged",
+    "domain": "u-szeged.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Veterinary Science",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Veterinary Science",
+    "domain": "univet.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of West Hungary",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "West Hungary",
+    "domain": "nyme.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Óbuda University",
+    "country": "Hungary",
+    "state": "Hungary",
+    "city": "Óbuda",
+    "domain": "uni-obuda.hu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

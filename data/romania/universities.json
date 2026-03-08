@@ -1,0 +1,602 @@
+[
+  {
+    "name": "1 December University of Alba Iulia",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Alba Iulia",
+    "domain": "uab.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "AISTEDA",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "aistedaab.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Academia Tehnica Militara",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "mta.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Academia de Studii Economice din Bucuresti",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "ase.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Academy of Arts \"George Enescu\" Iasi",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "arteiasi.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Academy of Music \"Georghe Dima\" Cluj-Napoca",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "amgd.eu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Babes-Bolyai University of Cluj-Napoca",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Cluj",
+    "domain": "ubbcluj.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Banat's University of Agricultural Sciences",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Banat's",
+    "domain": "usab-tm.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Constantin Brancoveanu University Pitesti",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Constantin Brancoveanu",
+    "domain": "univcb.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Emanuel University",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Emanuel",
+    "domain": "emanuel.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Maritime University Constanta",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Maritime",
+    "domain": "universitateamaritima.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Academy for Physical Education and Sports Bucharest",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "anefs-edu.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National School of Political and Administrative Studies Bucharest",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "snspa.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Arts",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "unarte.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Music",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Music",
+    "domain": "unmb.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Theater and Film Arts",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Theater and Film Arts",
+    "domain": "unatc.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "North University of Baia Mare",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Baia Mare",
+    "domain": "ubm.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Oradea University",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Oradea",
+    "domain": "oradeauniversity.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Petru Maior University of Targu Mures",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Targu Mures",
+    "domain": "upm.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Romanian-American University",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romanian-American",
+    "domain": "rau.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Spiru Haret University",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Spiru Haret",
+    "domain": "spiruharet.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Targu-Mures University of Theatre",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Theatre",
+    "domain": "uat.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical University of Civil Engineering Bucharest",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Civil Engineering Bucharest",
+    "domain": "utcb.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical University of Cluj-Napoca",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Cluj",
+    "domain": "utcluj.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical University of Iasi",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Iasi",
+    "domain": "tuiasi.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical University of Timisoara",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Timisoara",
+    "domain": "utt.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universitatea de Vest \"Vasile Goldi&#351;\"",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "uvvg.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University \"Aurel Vlaicu\" Arad",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "uav.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University \"Petre Andrei\" Iasi",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "upa.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University \"Titu Maiorescu\"",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "utm.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University \"Transilvany\" of Brasov",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "unitbv.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University Lucian Blaga of Sibiu",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "ulbsibiu.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University Oil- Gas Ploiesti",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "upg-ploiesti.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University Politehnica of Bucharest",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "pub.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Agriculture and Veterinary Medicine Bucharest",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "usab.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Agriculture and Veterinary Medicine Cluj-Napoca",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "usamvcluj.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Agriculture and Veterinary Medicine Iasi",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "univagro-iasi.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Art and Design Cluj-Napoca",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Art and Design Cluj",
+    "domain": "uartdcluj.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Bacau",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Bacau",
+    "domain": "ub.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Bucharest",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Bucharest",
+    "domain": "unibuc.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Constanta",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Constanta",
+    "domain": "univ-ovidius.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Constanta Medical School",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Constanta Medical School",
+    "domain": "ovidunivconstanta-edu.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Craiova",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Craiova",
+    "domain": "central.ucv.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Galatzi",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Galatzi",
+    "domain": "ugal.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Iasi",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Iasi",
+    "domain": "uaic.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Medicine and Pharmacology of Oradea",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "oradeauniversity.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Medicine and Pharmacy of Bucharest",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "univermed-cdgm.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Medicine and Pharmacy of Cluj-Napoca",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "umfcluj.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Medicine and Pharmacy of Iasi",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "umfiasi.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Medicine and Pharmacy of Targu Mures",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "umftgm.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Medicine and Pharmacy of Timisoara",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Romania",
+    "domain": "umft.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Oradea",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Oradea",
+    "domain": "uoradea.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Petrosani",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Petrosani",
+    "domain": "upet.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Pitesti",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Pitesti",
+    "domain": "upit.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Resita",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Resita",
+    "domain": "uem.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Sibiu",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Sibiu",
+    "domain": "sibiu.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Suceava",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Suceava",
+    "domain": "usv.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Targu Jiu",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Targu Jiu",
+    "domain": "utgjiu.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Valahia University of Targoviste",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Targoviste",
+    "domain": "valahia.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "West University of Timisoara",
+    "country": "Romania",
+    "state": "Romania",
+    "city": "Timisoara",
+    "domain": "uvt.ro",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

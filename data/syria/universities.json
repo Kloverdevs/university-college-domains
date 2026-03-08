@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Al-Baath University",
+    "country": "Syria",
+    "state": "Syria",
+    "city": "Al-Baath",
+    "domain": "albaath-univ.edu.sy",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Wataniya Private University",
+    "country": "Syria",
+    "state": "Syria",
+    "city": "Al-Wataniya Private",
+    "domain": "wpu.edu.sy",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Arab European University",
+    "country": "Syria",
+    "state": "Syria",
+    "city": "Arab European",
+    "domain": "aiu.edu.sy",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Damascus University",
+    "country": "Syria",
+    "state": "Syria",
+    "city": "Damascus",
+    "domain": "damascusuniversity.edu.sy",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International University for Science & Technology",
+    "country": "Syria",
+    "state": "Syria",
+    "city": "Syria",
+    "domain": "iust.edu.sy",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ittihad Private University",
+    "country": "Syria",
+    "state": "Syria",
+    "city": "Ittihad Private",
+    "domain": "ipu.edu.sy",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Mamoun Private University for Science and Technology",
+    "country": "Syria",
+    "state": "Syria",
+    "city": "Mamoun Private",
+    "domain": "must.edu.sy",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Syrian International Private University for Science & Technology",
+    "country": "Syria",
+    "state": "Syria",
+    "city": "Syrian International Private",
+    "domain": "siust.edu.sy",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Syrian Virtual University",
+    "country": "Syria",
+    "state": "Syria",
+    "city": "Syrian Virtual",
+    "domain": "svuonline.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tishreen University",
+    "country": "Syria",
+    "state": "Syria",
+    "city": "Tishreen",
+    "domain": "tishreen.edu.sy",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Aleppo",
+    "country": "Syria",
+    "state": "Syria",
+    "city": "Aleppo",
+    "domain": "alepuniv.edu.sy",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Kalamoon",
+    "country": "Syria",
+    "state": "Syria",
+    "city": "Kalamoon",
+    "domain": "uok.edu.sy",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Wadi International University",
+    "country": "Syria",
+    "state": "Syria",
+    "city": "Wadi International",
+    "domain": "wiu.edu.sy",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yarmouk Private University",
+    "country": "Syria",
+    "state": "Syria",
+    "city": "Yarmouk Private",
+    "domain": "ypu.edu.sy",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  }
+]

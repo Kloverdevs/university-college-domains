@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Africa University",
+    "country": "Zimbabwe",
+    "state": "Zimbabwe",
+    "city": "Africa",
+    "domain": "africau.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bindura University of Science Education",
+    "country": "Zimbabwe",
+    "state": "Zimbabwe",
+    "city": "Bindura",
+    "domain": "buse.ac.zw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Catholic University in Zimbabwe",
+    "country": "Zimbabwe",
+    "state": "Zimbabwe",
+    "city": "Zimbabwe",
+    "domain": "cuz.ac.zw",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Chinhoyi University of Technology",
+    "country": "Zimbabwe",
+    "state": "Zimbabwe",
+    "city": "Chinhoyi",
+    "domain": "cut.ac.zw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Great Zimbabwe University",
+    "country": "Zimbabwe",
+    "state": "Zimbabwe",
+    "city": "Great Zimbabwe",
+    "domain": "gzu.ac.zw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lupane State University",
+    "country": "Zimbabwe",
+    "state": "Zimbabwe",
+    "city": "Lupane State",
+    "domain": "lsu.ac.zw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Midlands State University",
+    "country": "Zimbabwe",
+    "state": "Zimbabwe",
+    "city": "Midlands State",
+    "domain": "msu.ac.zw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Science and Technology Bulawayo",
+    "country": "Zimbabwe",
+    "state": "Zimbabwe",
+    "city": "Science and Technology Bulawayo",
+    "domain": "nust.ac.zw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Reformed Church University",
+    "country": "Zimbabwe",
+    "state": "Zimbabwe",
+    "city": "Reformed Church",
+    "domain": "rcu.ac.zw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Solusi University",
+    "country": "Zimbabwe",
+    "state": "Zimbabwe",
+    "city": "Solusi",
+    "domain": "solusi.ac.zw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Zimbabwe",
+    "country": "Zimbabwe",
+    "state": "Zimbabwe",
+    "city": "Zimbabwe",
+    "domain": "uz.ac.zw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Women's University in Africa",
+    "country": "Zimbabwe",
+    "state": "Zimbabwe",
+    "city": "Women's",
+    "domain": "wua.ac.zw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zimbabwe Ezekiel Guti University",
+    "country": "Zimbabwe",
+    "state": "Zimbabwe",
+    "city": "Zimbabwe Ezekiel Guti",
+    "domain": "zegu.ac.zw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zimbabwe Open University",
+    "country": "Zimbabwe",
+    "state": "Zimbabwe",
+    "city": "Zimbabwe Open",
+    "domain": "zou.ac.zw",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

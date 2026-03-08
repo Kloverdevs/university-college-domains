@@ -1,0 +1,292 @@
+[
+  {
+    "name": "Ahfad University for Women",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Ahfad",
+    "domain": "ahfad.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al Fashir University",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Al Fashir",
+    "domain": "fashir.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Zaiem Al-Azhari University",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Al-Zaiem Al-Azhari",
+    "domain": "aau.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bakht Er-Ruda University",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Bakht Er-Ruda",
+    "domain": "bakhtalruda.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Blue Nile University",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Blue Nile",
+    "domain": "bnu.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dalanj University",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Dalanj",
+    "domain": "dalanjuniversity.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International University of Africa (IUA)",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Africa",
+    "domain": "iua.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kassala University",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Kassala",
+    "domain": "kassalauni.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Ribat University",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "National Ribat",
+    "domain": "ribat.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Neelain University",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Neelain",
+    "domain": "neelain.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nile Valley University",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Nile Valley",
+    "domain": "nilevalley.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Omdurman Ahlia University",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Omdurman Ahlia",
+    "domain": "oau.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Omdurman Islamic University",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Omdurman Islamic",
+    "domain": "oiu.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Open University of Sudan (OUS)",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Sudan",
+    "domain": "ous.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Red Sea University",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Red Sea",
+    "domain": "rsu.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shendi University",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Shendi",
+    "domain": "ush.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sinnar University",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Sinnar",
+    "domain": "sinnaruniv.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sudan Academy of Sciences",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Sudan",
+    "domain": "sas-sd.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sudan University for Science and Technology",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Sudan",
+    "domain": "sustech.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University Of Medical Sciences & Technology (UMST)",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Medical Sciences & Technology",
+    "domain": "umst-edu.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Dongola",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Dongola",
+    "domain": "uofd.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of El Imam El Mahdi University",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Sudan",
+    "domain": "elmahdi.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Gadarif",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Gadarif",
+    "domain": "gaduniv.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Gezira",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Gezira",
+    "domain": "uofg.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Holy Quran and Islamic Siences",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Sudan",
+    "domain": "quran-unv.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Khartoum",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Khartoum",
+    "domain": "uofk.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Kordofan",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Kordofan",
+    "domain": "kordofan.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Science and Technology",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Science and Technology",
+    "domain": "ust.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Upper Nile University",
+    "country": "Sudan",
+    "state": "Sudan",
+    "city": "Upper Nile",
+    "domain": "unu.edu.sd",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

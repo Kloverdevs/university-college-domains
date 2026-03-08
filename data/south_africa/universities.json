@@ -1,0 +1,320 @@
+[
+  {
+    "name": "Nelson Mandela Metropolitan University",
+    "country": "South Africa",
+    "state": "Eastern Cape Province",
+    "city": "Nelson Mandela Metropolitan",
+    "domain": "nmmu.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nelson Mandela University",
+    "country": "South Africa",
+    "state": "Eastern Cape Province",
+    "city": "Nelson Mandela",
+    "domain": "mandela.ac.za",
+    "aliases": [
+      "nmmu.ac.za"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rhodes University",
+    "country": "South Africa",
+    "state": "Eastern Cape Province",
+    "city": "Rhodes",
+    "domain": "ru.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Fort Hare",
+    "country": "South Africa",
+    "state": "Eastern Cape Province",
+    "city": "Fort Hare",
+    "domain": "ufh.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Walter Sisulu University for Technology and Science",
+    "country": "South Africa",
+    "state": "Eastern Cape Province",
+    "city": "Walter Sisulu",
+    "domain": "wsu.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Central University of Technology, Free State",
+    "country": "South Africa",
+    "state": "Free State Province",
+    "city": "",
+    "domain": "cut.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of the Free State",
+    "country": "South Africa",
+    "state": "Free State Province",
+    "city": "",
+    "domain": "uovs.ac.za",
+    "aliases": [
+      "ufs.ac.za"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Monash Univerisity South Africa",
+    "country": "South Africa",
+    "state": "Gauteng Province",
+    "city": "",
+    "domain": "msa.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sefako Makgatho Health Sciences University",
+    "country": "South Africa",
+    "state": "Gauteng Province",
+    "city": "Sefako Makgatho Health Sciences",
+    "domain": "smu.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tshwane University of Technology",
+    "country": "South Africa",
+    "state": "Gauteng Province",
+    "city": "Tshwane",
+    "domain": "tut.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Johannesburg",
+    "country": "South Africa",
+    "state": "Gauteng Province",
+    "city": "Johannesburg",
+    "domain": "uj.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Pretoria",
+    "country": "South Africa",
+    "state": "Gauteng Province",
+    "city": "Pretoria",
+    "domain": "up.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of South Africa",
+    "country": "South Africa",
+    "state": "Gauteng Province",
+    "city": "South Africa",
+    "domain": "unisa.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Witwatersrand",
+    "country": "South Africa",
+    "state": "Gauteng Province",
+    "city": "Witwatersrand",
+    "domain": "wits.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vaal University of Technology",
+    "country": "South Africa",
+    "state": "Gauteng Province",
+    "city": "Vaal",
+    "domain": "vut.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Durban University of Technology",
+    "country": "South Africa",
+    "state": "KwaZulu-Natal",
+    "city": "Durban",
+    "domain": "dut.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mangosuthu Univerisity of Technology",
+    "country": "South Africa",
+    "state": "KwaZulu-Natal",
+    "city": "",
+    "domain": "mut.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of KwaZulu-Natal",
+    "country": "South Africa",
+    "state": "KwaZulu-Natal",
+    "city": "KwaZulu",
+    "domain": "ukzn.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Zululand",
+    "country": "South Africa",
+    "state": "KwaZulu-Natal",
+    "city": "Zululand",
+    "domain": "unizulu.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Limpopo",
+    "country": "South Africa",
+    "state": "Limpopo Province",
+    "city": "Limpopo",
+    "domain": "ul.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Venda",
+    "country": "South Africa",
+    "state": "Limpopo Province",
+    "city": "Venda",
+    "domain": "univen.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Univerisity of Mpumalanga",
+    "country": "South Africa",
+    "state": "Mpumalanga Province",
+    "city": "",
+    "domain": "ump.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "North-West University",
+    "country": "South Africa",
+    "state": "North West Province",
+    "city": "North-West",
+    "domain": "nwu.ac.za",
+    "aliases": [
+      "uniwest.ac.za"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of North West",
+    "country": "South Africa",
+    "state": "North West Province",
+    "city": "North West",
+    "domain": "uniwest.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sol Plaatje University",
+    "country": "South Africa",
+    "state": "Northern Cape Province",
+    "city": "Sol Plaatje",
+    "domain": "spu.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "North-West Univeristy",
+    "country": "South Africa",
+    "state": "South Africa",
+    "city": "South Africa",
+    "domain": "student.g.nwu.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American International School of Cape Town",
+    "country": "South Africa",
+    "state": "Western Cape Province",
+    "city": "",
+    "domain": "aisct.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cape Peninsula University of Technology",
+    "country": "South Africa",
+    "state": "Western Cape Province",
+    "city": "Cape Peninsula",
+    "domain": "cput.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Cape Town",
+    "country": "South Africa",
+    "state": "Western Cape Province",
+    "city": "Cape Town",
+    "domain": "uct.ac.za",
+    "aliases": [
+      "myuct.ac.za"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Stellenbosch",
+    "country": "South Africa",
+    "state": "Western Cape Province",
+    "city": "Stellenbosch",
+    "domain": "sun.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of the Western Cape",
+    "country": "South Africa",
+    "state": "Western Cape Province",
+    "city": "the Western Cape",
+    "domain": "uwc.ac.za",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

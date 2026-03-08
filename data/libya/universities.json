@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Al-Asmarya University for Islamic Studies",
+    "country": "Libya",
+    "state": "Libya",
+    "city": "Al-Asmarya",
+    "domain": "asmarya.edu.ly",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Jabal Al-Gharbi University",
+    "country": "Libya",
+    "state": "Libya",
+    "city": "Al-Jabal Al-Gharbi",
+    "domain": "jgu.edu.ly",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Elmergib University",
+    "country": "Libya",
+    "state": "Libya",
+    "city": "Elmergib",
+    "domain": "elmergib.edu.ly",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Libya Open University",
+    "country": "Libya",
+    "state": "Libya",
+    "city": "Libya Open",
+    "domain": "libopenuniv-edu.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Libyan International Medical University (LIMU)",
+    "country": "Libya",
+    "state": "Libya",
+    "city": "Libyan International Medical",
+    "domain": "limu.edu.ly",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Omar Al-Mukhtar University",
+    "country": "Libya",
+    "state": "Libya",
+    "city": "Omar Al-Mukhtar",
+    "domain": "omu.edu.ly",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sebha University",
+    "country": "Libya",
+    "state": "Libya",
+    "city": "Sebha",
+    "domain": "sebhau.edu.ly",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sirte University",
+    "country": "Libya",
+    "state": "Libya",
+    "city": "Sirte",
+    "domain": "su.edu.ly",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Benghazi",
+    "country": "Libya",
+    "state": "Libya",
+    "city": "Benghazi",
+    "domain": "uob.edu.ly",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Tripoli",
+    "country": "Libya",
+    "state": "Libya",
+    "city": "Tripoli",
+    "domain": "uot.edu.ly",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zawiya University",
+    "country": "Libya",
+    "state": "Libya",
+    "city": "Zawiya",
+    "domain": "zu.edu.ly",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

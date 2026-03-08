@@ -1,0 +1,42 @@
+[
+  {
+    "name": "University of Ljubljana",
+    "country": "Slovenia",
+    "state": "Slovenia",
+    "city": "Ljubljana",
+    "domain": "uni-lj.si",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Maribor",
+    "country": "Slovenia",
+    "state": "Slovenia",
+    "city": "Maribor",
+    "domain": "uni-mb.si",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Nova Gorica",
+    "country": "Slovenia",
+    "state": "Slovenia",
+    "city": "Nova Gorica",
+    "domain": "ung.si",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Primorska",
+    "country": "Slovenia",
+    "state": "Slovenia",
+    "city": "Primorska",
+    "domain": "upr.si",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

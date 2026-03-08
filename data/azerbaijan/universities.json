@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Academy of Public Administration",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Azerbaijan",
+    "domain": "dia.edu.az",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Azerbaijan Diplomatic Academy",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Azerbaijan",
+    "domain": "ada.edu.az",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Azerbaijan International University",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Azerbaijan International",
+    "domain": "abu.az",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Azerbaijan Medical University",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Azerbaijan Medical",
+    "domain": "amu.edu.az",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Azerbaijan National Conservatorie",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Azerbaijan",
+    "domain": "conservatory.az",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Azerbaijan State Economic University",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Azerbaijan State Economic",
+    "domain": "aseu.az",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Azerbaijan State Oil Academy",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Azerbaijan",
+    "domain": "adna.jis.az",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Azerbaijan Technical University",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Azerbaijan Technical",
+    "domain": "aztu.az",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Azerbaijan Technology University",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Azerbaijan Technology",
+    "domain": "aztu.edu.az",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Azerbaijan University",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Azerbaijan",
+    "domain": "au.edu.az",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Azerbaijan University ol Languages",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Azerbaijan",
+    "domain": "adu.edu.az",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baki Business University",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Baki Business",
+    "domain": "bbu.edu.az",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baku Slavic University",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Baku Slavic",
+    "domain": "bsu-edu.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Baku State University",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Baku State",
+    "domain": "bsu.az",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ganja State University",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Ganja State",
+    "domain": "gsu.az",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khazar University",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Khazar",
+    "domain": "khazar.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lankaran State University",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Lankaran State",
+    "domain": "lsu.edu.az",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nakhchivan Private University",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Nakhchivan Private",
+    "domain": "az-npu.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Nakhchivan State University",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Nakhchivan State",
+    "domain": "ndu.edu.az",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Aviation Academy",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Azerbaijan",
+    "domain": "naa.edu.az",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Odlar Yurdu University",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Odlar Yurdu",
+    "domain": "oyu.edu.az",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Police Academy",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Azerbaijan",
+    "domain": "pa.edu.az",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Qafqaz University",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Qafqaz",
+    "domain": "qafqaz.edu.az",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sumgait State University",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Sumgait State",
+    "domain": "sdu.edu.az",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Western University",
+    "country": "Azerbaijan",
+    "state": "Azerbaijan",
+    "city": "Azerbaijan",
+    "domain": "wu.edu.az",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

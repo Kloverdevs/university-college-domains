@@ -1,0 +1,4952 @@
+[
+  {
+    "name": "Universidad de San Buenaventura Medellin",
+    "country": "Colombia",
+    "state": "Antioquia",
+    "city": "San Buenaventura Medellin",
+    "domain": "usbmed.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Cartagena",
+    "country": "Colombia",
+    "state": "Bolivar",
+    "city": "Cartagena",
+    "domain": "unicartagena.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Sinú",
+    "country": "Colombia",
+    "state": "Bolivar",
+    "city": "Cartagena",
+    "domain": "unisinucartagena.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autónoma de Manizales",
+    "country": "Colombia",
+    "state": "Caldas",
+    "city": "Manizales",
+    "domain": "autonoma.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica de Manizales",
+    "country": "Colombia",
+    "state": "Caldas",
+    "city": "Manizales",
+    "domain": "ucatolicamz.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Manizales",
+    "country": "Colombia",
+    "state": "Caldas",
+    "city": "Manizales",
+    "domain": "umanizales.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Academia Antioqueña de Aviación - AAA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Academia Superior de Artes",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asociación para la Enseñanza",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asociación para la Enseñanza ASPAEN",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asociación para la Enseñanza de Técnicas Dentales",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aspaen Gimnasio Iragua",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "iragua.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centro de Conocimiento Alejandría - Alejandría",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centro de Educación Militar - CEMIL",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centro de Estudio Dirigido \"CED\"",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centro de Estudios Investigación y Tecnología (CEIT)",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "iceit.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centro de Estudios Superiores María Goretti CESMAG",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Centro de Instrucción Aeronáutica Aeroclub de Colombia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Colegio Bolivar",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "colegiobolivar.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Colegio Gran Bretaña",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Colegio Integrado Nacional Oriente de Caldas",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Colegio Jorge Washington",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "cojowa.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Colegio Mayor de Antioquia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "colmayor.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Colegio Mayor de Bolívar",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Colegio Mayor de Cultura Femenina de Cundinamarca",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Colegio Mayor de Nuestra Señora del Rosario",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Colegio Nueva Granada",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "cng.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Colegio Odontológico Colombiano",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Colegio Panamericano",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Colegio de Estudios Superiores de Administración (CESA)",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "cesa.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Colegio de Inglaterra",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Conservatorio del Tolima",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "bundenet.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Academia Tecnológica de Colombia - ATEC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Centro Técnico Arquitectónico",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Centro de Estudios Artísticos y Técnicos - CEART",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Educativa - ITAE",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Educativa Centro Superior de Cali",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Educativa Centro de Administración de Cali - CENDA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Educativa Mayor del Desarrollo \"Simón Bolivar\"",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "unisimonbolivar.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Educativa Mayor del Desarrollo Simón Bolívar",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Educativa del Litoral",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Educativa del Oriente",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Escuela Superior de Administración y Estudios Tecnológicos - EAE",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Escuela Tecnológica del Oriente",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Escuela de Artes y Letras",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Instituto Superior de Educación Social - ISES",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Instituto Tecnológico de la Seguridad - INTESEG",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Instituto Técnico de Educación Superior - ITECS",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Instituto de Administración y Finanzas",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Instituto de Artes y Ciencias - CIAC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Interamericana de Educación Superior - CORPOCIDES",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Internacional de Líderes ONG",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Internacional para el Desarrollo Educativo - CIDE",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Politécnico Colombo Andino",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Politécnico Marco Fidel Suárez",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Politécnico de la Costa Atlántica",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Regional de Educación Superior de Cali - CRES",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Tecnológica Centrosistemas",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Tecnológica Industrial Colombiana - TEINCO",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Tecnológica de Bogotá",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Técnica de Colombia - CORPOTEC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Unificada Nacional de Educación Superior - CUN",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universal de Investigación y Tecnología - CORUNIVERSITEC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universidad Piloto de Colombia - Bogotá",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universidad Piloto de Colombia - Girardot",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universidad de la Costa CUC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria - UNITEC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Adventista - UNAC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Americana",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Antonio José de Sucre - CORPOSUCRE",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Autónoma de Nariño - AUNAR",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Autónoma de Occidente - CUAO",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Autónoma del Cauca",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria CENDA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Centro Superior - UNICUCES",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Comfacauca - UNICOMFACAUCA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Empresarial Alexander von Humboldt - CUE",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Empresarial de Salamanca",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Iberoamericana",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Lasallista - CUL",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Latinoamericana",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "universidad.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Latinoamericana - CUL",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Minuto de Dios - UNIMINUTO",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Nueva Colombia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Rafael Núñez",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Reformada",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "unireformada.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Reformada - CUR",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Regional del Caribe - IAFIC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Remington - UNIREMINGTON",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Republicana",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria Tecnológica de Bolivar",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "cutb.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria de Asturias",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria de Ciencia y Desarrollo - UNICIENCIA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria de Ciencias Agropecuarias",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria de Ciencias Aplicadas y Ambientales",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria de Ciencias Empresariales, Educación y Salud - CORSALUD",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria de Colombia - IDEAS",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria de Ibagué (CORUNIVERSITARIA)",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "cui.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria de Investigación y Desarrollo - UDI",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria de Sabaneta - Unisabaneta",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria de Santa Rosa de Cabal - UNISARC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria de Santander",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria de Santander (UDES)",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "udes.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria de la Costa (UNICOSTA)",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "cuc.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria de la Costa - CUC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria del Caribe - CECAR",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria del Huila - CORHUILA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación Universitaria del Meta - UNIMETA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación de Educación Nacional de Administración - CENDA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación de Educación Superior Miguel Camacho Perea",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación de Educación Superior del Trabajo",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación de Educación del Norte del Tolima - COREDUCACION",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Corporación de Estudios Tecnológicos del Norte Del Valle",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dirección Nacional de Escuelas de la Policía Nacional - DINAE",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dirección de Educación Policial",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "ELITE - Escuela Latinoamericana de Ingenieros, Tecnólogos y Empresarios",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "ESEIT - Escuela Superior de Empresa, Ingeniería y Tecnología",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Colombiana de Carreras Industriales",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "ecci.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Colombiana de Carreras Industriales - ECCI",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Colombiana de Ingeniería Julio Garavito",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "escuelaing.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Colombiana de Medicina",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Militar de Aviación Marco Fidel Suarez",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Militar de Cadetes General José María Córdova",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Nacional de Policía General Santander-ENPGS",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Nacional del Deporte",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "endeporte.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Naval de Cadetes Almirante Padilla",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Naval de Suboficiales Arc Barranquilla",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior Antioqueña",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior Cristo Rey",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior La Hacienda",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior Manuel Cañizales",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior María Auxiliadora",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior María Inmaculada",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior Miguel de Cervantes Saavedra",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior Nuestra Señora de Fátima",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior Nuestra Señora de la Paz",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior Oiba",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior Privada de la Costa Norte",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior Santa Ana de Baranoa",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior de Bucaramanga",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior de Caldas",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior de Manizales",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior de Montería",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior de Neiva",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior de Ocaña",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior de Piedecuesta",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior de Popayán",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior de Risaralda",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior del Distrito de Barranquilla",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Normal Superior del Quindío",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Superior de Administración Pública - ESAP",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Superior de Ciencias Empresariales - ECIEM",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Superior de Guerra General Rafael Reyes Prieto",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Superiore de Administración Pública",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "esap.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela Tecnológica Instituto Técnico Central",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela de Administración de Negocios",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "ean.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela de Administración y Mercadotecnía del Quindio",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela de Aviación Civil Colombiana - AVIACOL",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela de Aviación Flying",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela de Aviación INEC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela de Aviación Los Halcones",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela de Aviación de los Andes - Aeroandes S.A.",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela de Aviación del Ejército",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela de Aviación del Pacífico Ltda.",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela de Comunicaciones Militares - ESCOM",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela de Estudios Superiores de Policía",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela de Formaciones Técnicas - FORMATES",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela de Ingenieros Militares",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela de Ingeniería de Antioquia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "eia.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela de Ingeniería de Antioquia - EIA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela de Inteligencia y Contrainteligencia Brigadier General Ricardo Charry Solano",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela de Logística del Ejército Nacional",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela de Policia \"General Santander\"",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "escueladepolicia.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela de Postgrados de la Fuerza Aérea Colombiana Capitán José Edmundo Sandoval - EPFAC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela de Suboficiales de la Fuerza Aérea Colombiana Andrés M. Díaz",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Escuela de las Armas y Servicios - EAS",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundacion Escuela Colombiana de Rehabiliación",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "ecr.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundacion Universitaria Cafam",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Academia de Dibujo Profesional",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Centro Colombiano de Estudios Profesionales - FCECEP",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Centro Colombiano de Estudios Superiores - C.C.E.D.",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Centro Universitario de Bienestar Rural",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Centro de Educación Superior, Investigación y Profesionalización - CEDINPRO",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Centro de Investigación Docencia y Consultoría Administrativa - CIDCA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Educacional Interamericana Católica de Colombia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Educativa - ESUMER",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Educativa de Estudios Superiores - FES",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Escuela Colombiana de Hotelería y Turismo - ECOTET",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Escuela Colombiana de Mercadotecnia - ESCOLME",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Escuela Colombiana de Rehabilitación - ECR",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Escuela Tecnológica de Neiva - Jesús Oviedo Pérez - FET",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Iberoamericana - FUNIBER",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Instituto Superior de Carreras Técnicas - INSUTEC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Interamericana Técnica - FIT",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Teatro Libre",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Tecnológica Antonio de Arevalo -TECNAR",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Tecnológica Autónoma de Bogotá - FABA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Tecnológica Autónoma del Pacifico",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Tecnológica de Carreras Paramédicas",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universidad Central",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universidad de América",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universidad de Bogotá Jorge Tadeo Lozano",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria - CEIPA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria - INPAHU",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Agraria de Colombia - UNIAGRARIA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Autónoma de las Américas",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Bellas Artes",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria CIEO - UNICIEO",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Católica Lumen Gentium",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Católica del Norte",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Cervantes San Agustín - UNICERVANTES",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Claretiana - Uniclaretiana",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Colombo Germana - UniGermana",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Colombo Internacional - UNICOLOMBO",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Compensar",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria ESUMER",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Empresarial de la Cámara de Comercio de Bogotá",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Horizonte",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Internacional de La Rioja - UNIR",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Internacional del Trópico Americano - UNITRÓPICO",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Juan N. Corpas",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Juan de Castellanos",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Konrad Lorenz",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Los Libertadores",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Luis Amigó",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "funlam.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Luis Amigó - FUNLAM",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Manuela Beltrán",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "umb.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria María Cano",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Monserrate - FUM",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Navarra - UNINAVARRA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Panamericana",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria San Alfonso - FUSA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria San Martín",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "sanmartin.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria San Martín - FUSM",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria San Mateo - San Mateo Educación Superior",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Sanitas",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Seminario Bíblico de Colombia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Seminario Teológico Bautista Internacional",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria Tecnológico Comfenalco",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria de Boyacá",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "uniboyaca.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria de Ciencias de la Salud",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria de Popayán",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "fup.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria de San Gil - UNISANGIL",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria del Area Andina",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria para el Desarrollo Humano - UNINPAHU",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Unión Latina - UNILATINA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación de Educación Superior Inuniversitas",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación de Educación Superior Nueva América",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación de Educación Superior San José",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación de Estudios Superiores Comfanorte",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "fesc.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "GI School",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institucion Universitaria de Envigado",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "iue.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institución Educativa Escuela Normal Superior Farallones de Cali",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institución Educativa Escuela Normal Superior María Escolástica",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institución Educativa Normal Superior Santiago de Cali",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institución Educativa Normal Superior de Envigado",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institución Universitaria Antonio José Camacho - UNIAJC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institución Universitaria Bellas Artes y Ciencias de Bolívar",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institución Universitaria Colegiatura Colombiana",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institución Universitaria Colegios de Colombia - UNICOC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institución Universitaria Colombo Americana - UNICA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institución Universitaria EAM",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institución Universitaria Iberoamericana",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "iberoamericana.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institución Universitaria Mayor de Cartagena",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institución Universitaria Pascual Bravo",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institución Universitaria Salazar y Herrera",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institución Universitaria Visión de las Américas",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institución Universitaria de Barranquilla - IUB",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institución Universitaria de Colombia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institución Universitaria de Envigado",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Bíblico Pentecostal",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Caro y Cuervo",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Central Femenino",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Departamental de Bellas Artes - IDBA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Latinoamericano de Técnicas Odontológicas - IDONTEC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Nacional De Formación Técnica Profesional Humberto Velázquez García",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Superior de Ciencias Sociales y Económico Familiares - ICSEF",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Superior de Educación Rural - ISER",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Tecnológico Comfenalco Cartagena",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Tecnológico Metropolitano",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "itm.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Tecnológico Metropolitano - ITM",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Tecnológico Municipal Antonio José Camacho",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Tecnológico Pascual Bravo",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Tecnológico de Soledad Atlántico - ITSA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Técnico Agricola - ITA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Técnico Nacional de Comercio Simón Rodríguez",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Técnico Superior de Artes",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto Universitario de La Paz",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "unipaz.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto de Administración y Finanzas de Cartagena - IAFIC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto de Altos Estudios para el Desarrollo",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto de Ciencias de la Salud",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto de Educación Empresarial - IDEE",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto de Educación Técnica Profesional de Roldanillo",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto de Superación Ministerial - ISUM",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto del Diseño y la Expresión Colombiana - IDEC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "LCI Fundación Tecnológica",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Las Escuelas Colombianas de Alto Comercio y Finanzas",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Liceo Pino Verde",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Marymount School",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ministerio de Educación Nacional",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ministerio de Salud",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Montessori British School",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Obras Misionales Pontificias de Colombia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Politécnico Colombiano Jaime Isaza Cadavid",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Politécnico Columbiano \"Jaime Isaza Cadavid\"",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "politecjic.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Politécnico Grancolombiano",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "estudiaenelpoli.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Politécnico Grancolombiano - Institución Universitaria",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "poligran.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Politécnico Internacional Institución de Educación Superior",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Politécnico Marco Fidel Suárez",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Politécnico Santafé de Bogotá",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pontificia Universidad Javeriana",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Javeriana",
+    "domain": "javeriana.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pontificia Universidad Javeriana - Bogotá",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pontificia Universidad Javeriana - Cali",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Prenoviciado Salesiano Beato Miguel Rua",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seminario Bíblico Central Asambleas de Dios",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seminario Bíblico Filadelfia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seminario Conciliar María Inmaculada",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seminario Conciliar de Tunja",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seminario Diocesano San Juan Eudes",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seminario Mayor - Escuela de Teología y Ciencias Religiosas",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seminario Mayor Filosofado San Agustín de la Orden de Agustinos Recoletos",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seminario Mayor Juan Pablo II",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seminario Mayor La Milagrosa",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seminario Mayor San José de Zipaquirá",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seminario Mayor San Pedro Apóstol",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seminario Mayor Teologado de la Orden de Agustinos Recoletos",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seminario Mayor del Sagrado Corazón de Jesús",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seminario Nacional Cristo Sacerdote",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seminario Provincial San Carlos Borromeo",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seminario Reformado Latinoamericano",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seminario San Luis Beltrán",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Seminario de Misiones Extranjeras de Yarumal",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Servicio Nacional de Aprendizaje - SENA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Servicio Nacional de Aprendizaje, Bogota - SENA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taller Cinco Centro de Diseño - Corporación de Educación Superior",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tecnológica FITEC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tecnológico de Antioquia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "tdea.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Columbus School",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Unidad Central del Valle del Cauca - UCEVA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Unidades Tecnológicas de Santander",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Adventista de Colombia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Adventista de Colombia",
+    "domain": "unac.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Universidad Antonio Nariño",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Antonio Nariño",
+    "domain": "uanarino.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Antonio Nariño - Bogotá",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autónoma Latinoamericana",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Autónoma Latinoamericana",
+    "domain": "unaula.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autónoma Latinoamericana - UNAULA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autónoma de Bucaramanga - UNAB",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autónoma de Colombia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "fuac.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autónoma de Colombia - FUAC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autónoma de Las Américas",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Las Américas",
+    "domain": "uam.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autónoma de Manizales - UAM",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autónoma de Occidente",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Occidente",
+    "domain": "cuao.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autónoma de Occidente - UAO",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autónoma del Caribe",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Autónoma del Caribe",
+    "domain": "uac.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Bellas Artes",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Bellas Artes",
+    "domain": "bellasartes.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad CES",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "CES",
+    "domain": "ces.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad CESMAG - UNICESMAG",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica Luis Amigó",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "ucatolicaluisamigo.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica Luis Amigó - FUNLAM",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica Popular del Risaralda",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Católica Popular del Risaralda",
+    "domain": "ucpr.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica de Colombia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Católica de Colombia",
+    "domain": "ucatolica.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica de Colombia - UCC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica de Oriente - UCO",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica de Pereira",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica del Norte",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Católica del Norte",
+    "domain": "ucn.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica del Oriente",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Católica del Oriente",
+    "domain": "uco.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Central",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "ucentral.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Central del Valle del Cauca",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "uceva.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Colegio Mayor de Cundinamarca",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "revistas.javeriana.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Cooperativa de Colombia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Cooperativa de Colombia",
+    "domain": "ucc.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Distral \"Francisco José de Caldas\"",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "udistrital.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Distrital Francisco José de Caldas",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad EAFIT",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "EAFIT",
+    "domain": "eafit.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad EAN",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "EAN",
+    "domain": "universidadean.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad ECCI",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad EIA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad El Bosque",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "El Bosque",
+    "domain": "unbosque.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Externado de Colombia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Externado de Colombia",
+    "domain": "uexternado.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Francisco de Paula Santander",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Francisco de Paula Santander",
+    "domain": "ufps.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Francisco de Paula Santander- UFPS",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad ICESI",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "ICESI",
+    "domain": "icesi.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad INCCA de Colombia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "INCCA de Colombia",
+    "domain": "unincca.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Industrial de Santander",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Industrial de Santander",
+    "domain": "uis.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Industrial de Santander - UIS",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Internacional del Trópico Americano - UNITRÓPICO",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad La Gran Colombia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "La Gran Colombia",
+    "domain": "ugrancolombia.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad La Gran Colombia, Armenia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad La Gran Colombia, Bogotá",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Libre - Bogotá",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Libre de Colombia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Libre de Colombia",
+    "domain": "unilibre.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Libre, Barranquilla",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Libre, Cali",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Libre, Cartagena",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Libre, Cúcuta",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Libre, Pereira",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Libre, Socorro",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Manuela Beltrán (UMB) - Bogotá",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Mariana",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Mariana",
+    "domain": "umariana.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Metropolitana",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Metropolitana",
+    "domain": "unimetro.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Militar Nueva Granada",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Militar Nueva Granada",
+    "domain": "umng.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Abierta y a Distancia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "unad.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional Abierta y a Distancia - UNAD",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de Colombia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Nacional de Colombia",
+    "domain": "unal.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de Colombia - Bogotá",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de Colombia - Palmira",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de Colombia - San Andrés",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de Colombia, Manizales",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Nacional de Colombia, Medellín - UNAL",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Pedagogica Nacional",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Pedagogica Nacional",
+    "domain": "pedagogica.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Pedagógica Nacional",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Pedagógica y Tecnológica de Colombia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "uptc.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Pedagógica y Tecnológica de Colombia - UPTC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Piloto de Colombia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Piloto de Colombia",
+    "domain": "unipiloto.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Pontificia Bolivariana",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Pontificia Bolivariana",
+    "domain": "upb.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Pontificia Bolivariana, Bucaramanga",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Pontificia Bolivariana, Medellín - UPB",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Pontificia Bolivariana, Montería - UPB",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Pontificia Bolivariana, Palmira - UPB",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Popular del Cesar",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Popular del Cesar",
+    "domain": "unicesar.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Popular del Cesar - UPC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Santiago de Cali - USACA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Santo Tomás",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Santo Tomás",
+    "domain": "usta.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Santo Tomás - Bogotá",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Santo Tomás, Bucaramanga",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Santo Tomás, Medellín",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Santo Tomás, Tunja",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Santo Tomás, Villavicencio",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Sergio Arboleda",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Sergio Arboleda",
+    "domain": "usergioarboleda.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Sergio Arboleda - Bogotá",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Sergio Arboleda - Santa Marta",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Simón Bolívar",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Social Católica de La Salle",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Surcolombiana",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Surcolombiana",
+    "domain": "usurcolombia.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnológica de Bolívar",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "utb.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnológica de Bolívar - UTB",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnológica de Pereira - UTP",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnológica del Choco \"Diego Luis Cordoba\"",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Colombia",
+    "domain": "utch.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnológica del Chocó Diego Luis Córdoba",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnológica del Magdalena",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de América Bogotá",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "América Bogotá",
+    "domain": "uamerica.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Antioquia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Antioquia",
+    "domain": "udea.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Antioquia, Caucásea",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Antioquia, Medellín",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Bellas Artes (Colombia)",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "eluniversal.com.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Bogotá \"Jorge Tadeo Lozano\"",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Bogotá \"Jorge Tadeo Lozano\"",
+    "domain": "utadeo.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Boyacá - UNIBOYACA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Caldas",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Caldas",
+    "domain": "ucaldas.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Ciencias Aplicadas y Ambientales (UDCA)",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Ciencias Aplicadas y Ambientales",
+    "domain": "udca.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Cundinamarca",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "unicundi.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Cundinamarca - UDEC",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Córdoba",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Córdoba",
+    "domain": "unicordoba.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Córdoba - UNICOR",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Ibagué - UDI",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Investigación y Desarrollo - UDI",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de La Amazonia",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "La Amazonia",
+    "domain": "uniamazonia.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de La Amazonia - UNIAMAZONIA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de La Guajira",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "La Guajira",
+    "domain": "uniguajira.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de La Sabana",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "La Sabana",
+    "domain": "unisabana.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de La Salle",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "La Salle",
+    "domain": "lasalle.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de La Salle - UNISALLE",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Los Andes",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Los Andes",
+    "domain": "uniandes.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Los Llanos",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Los Llanos",
+    "domain": "unillanos.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Medellín",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Medellín",
+    "domain": "udem.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Medellín - UDEM",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Nariño",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Nariño",
+    "domain": "udenar.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Nariño - UDENAR",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Pamplona",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Pamplona",
+    "domain": "unipamplona.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Pamplona - UDEP",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de San Buenaventura",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "San Buenaventura",
+    "domain": "usb.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de San Buenaventura Sede Cali",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "usbcali.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de San Buenaventura, Bogotá - USB",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de San Buenaventura, Cali",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de San Buenaventura, Cartagena",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de San Buenaventura, Medellín",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Santander - UDES",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Sucre",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Sucre",
+    "domain": "unisucre.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Atlántico",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Atlántico",
+    "domain": "uniatlantico.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Cauca",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Cauca",
+    "domain": "ucauca.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Magdalena",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Magdalena",
+    "domain": "unimagdalena.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Norte",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Norte",
+    "domain": "uninorte.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Norte - UNINORTE",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Pacífico",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Quindío",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Quindío",
+    "domain": "uniquindio.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Rosario",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Rosario",
+    "domain": "urosario.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Sinú - Elías Bechara Zainúm - UNISINU",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Sinú, Montería",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Tolima",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Tolima",
+    "domain": "ut.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Tolima - UTOLIMA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Valle",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Valle del Cauca",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "Valle del Cauca",
+    "domain": "univalle.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universitaria Agustiniana - UNIAGUSTINIANA",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Unión Americana de Educación Superior",
+    "country": "Colombia",
+    "state": "Colombia",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fundación Universitaria del Area Andina. Sede Pereira",
+    "country": "Colombia",
+    "state": "Risaralda",
+    "city": "Pereira",
+    "domain": "funandi.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnológica de Pereira",
+    "country": "Colombia",
+    "state": "Risaralda",
+    "city": "Pereira",
+    "domain": "utp.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autónoma de Bucaramanga",
+    "country": "Colombia",
+    "state": "Santander",
+    "city": "Bucaramanga",
+    "domain": "unab.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Santiago de Cali",
+    "country": "Colombia",
+    "state": "Valle del Cauca",
+    "city": "Cali",
+    "domain": "usaca.edu.co",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

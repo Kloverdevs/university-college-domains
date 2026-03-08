@@ -1,0 +1,22 @@
+[
+  {
+    "name": "National College of Art and Design",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Norway",
+    "domain": "khio.no",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Norwegian College of Veterinary Medicine",
+    "country": "Norway",
+    "state": "Norway",
+    "city": "Norwegian",
+    "domain": "veths.no",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  }
+]

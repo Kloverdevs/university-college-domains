@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Campus Caribeen des Arts",
+    "country": "Martinique",
+    "state": "Martinique",
+    "city": "Fort-de-France",
+    "domain": "cca-martinique.com",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "EGC Martinique",
+    "country": "Martinique",
+    "state": "Martinique",
+    "city": "Schoelcher",
+    "domain": "egc-martinique.com",
+    "aliases": [],
+    "type": "College",
+    "control": "Private"
+  }
+]

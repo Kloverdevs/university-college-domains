@@ -1,0 +1,368 @@
+[
+  {
+    "name": "Aegean University",
+    "country": "Greece",
+    "state": "Aegean Sea",
+    "city": "Aegean",
+    "domain": "aegean.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Agricultural University of Athens",
+    "country": "Greece",
+    "state": "Attica",
+    "city": "Athens",
+    "domain": "aua.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Athens Graduate School of Management (AGSM)",
+    "country": "Greece",
+    "state": "Attica",
+    "city": "",
+    "domain": "agsm.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Athens Laboratory of Business Administration (ALBA)",
+    "country": "Greece",
+    "state": "Attica",
+    "city": "",
+    "domain": "alba.edu.gr",
+    "aliases": [
+      "alba.acg.edu"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Athens School of Fine Arts",
+    "country": "Greece",
+    "state": "Attica",
+    "city": "",
+    "domain": "asfa.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Athens University of Economics and Business",
+    "country": "Greece",
+    "state": "Attica",
+    "city": "Economics and Business",
+    "domain": "aueb.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "City University Athens",
+    "country": "Greece",
+    "state": "Attica",
+    "city": "City",
+    "domain": "cityu.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Harokopio University",
+    "country": "Greece",
+    "state": "Attica",
+    "city": "Harokopio",
+    "domain": "hua.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hellenic Army Academy",
+    "country": "Greece",
+    "state": "Attica",
+    "city": "",
+    "domain": "sse.army.gr",
+    "aliases": [
+      "sse.gr"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Technical University of Athens",
+    "country": "Greece",
+    "state": "Attica",
+    "city": "Athens",
+    "domain": "ntua.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Panteios University of Economics and Political Sciences Athens",
+    "country": "Greece",
+    "state": "Attica",
+    "city": "Panteios",
+    "domain": "panteion.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "School of Pedagogical and Technological Education - A.S.PAI.T.E.",
+    "country": "Greece",
+    "state": "Attica",
+    "city": "",
+    "domain": "aspete.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Athens",
+    "country": "Greece",
+    "state": "Attica",
+    "city": "Athens",
+    "domain": "uoa.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Piraeus",
+    "country": "Greece",
+    "state": "Attica",
+    "city": "Piraeus",
+    "domain": "unipi.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of West Attica",
+    "country": "Greece",
+    "state": "Attica",
+    "city": "West Attica",
+    "domain": "uniwa.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hellenic Mediterranean University",
+    "country": "Greece",
+    "state": "Crete",
+    "city": "Hellenic Mediterranean",
+    "domain": "hmu.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technical University of Crete",
+    "country": "Greece",
+    "state": "Crete",
+    "city": "Crete",
+    "domain": "tuc.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Crete",
+    "country": "Greece",
+    "state": "Crete",
+    "city": "Crete",
+    "domain": "uoc.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Ioannina",
+    "country": "Greece",
+    "state": "Epirus",
+    "city": "Ioannina",
+    "domain": "uoi.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "European University, Athens Campus",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "Greece",
+    "domain": "euruni.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hellenic Open University",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "Hellenic Open",
+    "domain": "eap.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ionian University Corfu",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "Ionian",
+    "domain": "uion.edu.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Central Greece",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "Central Greece",
+    "domain": "ucg.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Indianapolis in Athens",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "Indianapolis in Athens",
+    "domain": "uindy.edu.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of LaVerne in Athens",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "LaVerne in Athens",
+    "domain": "laverne.edu.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Yorker International University, Athens",
+    "country": "Greece",
+    "state": "Greece",
+    "city": "Yorker International",
+    "domain": "nyuniversity.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ionian University",
+    "country": "Greece",
+    "state": "Ionian Sea",
+    "city": "Ionian",
+    "domain": "ionio.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Aristotle University of Thessaloniki",
+    "country": "Greece",
+    "state": "Macedonia",
+    "city": "Thessaloniki",
+    "domain": "auth.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "DEI Bachelor & Master Degrees",
+    "country": "Greece",
+    "state": "Macedonia",
+    "city": "",
+    "domain": "dei.edu.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Hellenic University",
+    "country": "Greece",
+    "state": "Macedonia",
+    "city": "International Hellenic",
+    "domain": "ihu.gr",
+    "aliases": [
+      "ihu.edu.gr"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Macedonia",
+    "country": "Greece",
+    "state": "Macedonia",
+    "city": "Macedonia",
+    "domain": "uom.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Western Macedonia",
+    "country": "Greece",
+    "state": "Macedonia",
+    "city": "Western Macedonia",
+    "domain": "uowm.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Patras",
+    "country": "Greece",
+    "state": "Peloponnesus",
+    "city": "Patras",
+    "domain": "upatras.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Peloponnese",
+    "country": "Greece",
+    "state": "Peloponnesus",
+    "city": "Peloponnese",
+    "domain": "uop.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Thessaly",
+    "country": "Greece",
+    "state": "Thessaly",
+    "city": "Thessaly",
+    "domain": "uth.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dimocritus University of Thrace",
+    "country": "Greece",
+    "state": "Thrace",
+    "city": "Thrace",
+    "domain": "duth.gr",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

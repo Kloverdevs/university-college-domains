@@ -1,0 +1,152 @@
+[
+  {
+    "name": "American University",
+    "country": "Bosnia Herzegovina",
+    "state": "Bosnia Herzegovina",
+    "city": "Bosnia Herzegovina",
+    "domain": "aubih.ba",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Burch University",
+    "country": "Bosnia Herzegovina",
+    "state": "Bosnia Herzegovina",
+    "city": "International Burch",
+    "domain": "ibu.edu.ba",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International University of Sarajevo",
+    "country": "Bosnia Herzegovina",
+    "state": "Bosnia Herzegovina",
+    "city": "Sarajevo",
+    "domain": "ius.edu.ba",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International University of Travnik",
+    "country": "Bosnia Herzegovina",
+    "state": "Bosnia Herzegovina",
+    "city": "Travnik",
+    "domain": "iu-travnik.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sarajevo Film Academy",
+    "country": "Bosnia Herzegovina",
+    "state": "Bosnia Herzegovina",
+    "city": "Bosnia Herzegovina",
+    "domain": "sfa.ba",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Slobomir P Univerzitet",
+    "country": "Bosnia Herzegovina",
+    "state": "Bosnia Herzegovina",
+    "city": "Bosnia Herzegovina",
+    "domain": "spu.ba",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University Vitez In Travnik",
+    "country": "Bosnia Herzegovina",
+    "state": "Bosnia Herzegovina",
+    "city": "Bosnia Herzegovina",
+    "domain": "unvi.edu.ba",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Banja Luka",
+    "country": "Bosnia Herzegovina",
+    "state": "Bosnia Herzegovina",
+    "city": "Banja Luka",
+    "domain": "unibl.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Bihac",
+    "country": "Bosnia Herzegovina",
+    "state": "Bosnia Herzegovina",
+    "city": "Bihac",
+    "domain": "unbi.ba",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of East Srarajevo",
+    "country": "Bosnia Herzegovina",
+    "state": "Bosnia Herzegovina",
+    "city": "East Srarajevo",
+    "domain": "unssa.rs.ba",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Mostar",
+    "country": "Bosnia Herzegovina",
+    "state": "Bosnia Herzegovina",
+    "city": "Mostar",
+    "domain": "sve-mo.ba",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Sarajevo",
+    "country": "Bosnia Herzegovina",
+    "state": "Bosnia Herzegovina",
+    "city": "Sarajevo",
+    "domain": "unsa.ba",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Tuzla",
+    "country": "Bosnia Herzegovina",
+    "state": "Bosnia Herzegovina",
+    "city": "Tuzla",
+    "domain": "untz.ba",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Zenica",
+    "country": "Bosnia Herzegovina",
+    "state": "Bosnia Herzegovina",
+    "city": "Zenica",
+    "domain": "unze.ba",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Univerzitet u Mostaru \"Dzemal Bijedic\"",
+    "country": "Bosnia Herzegovina",
+    "state": "Bosnia Herzegovina",
+    "city": "Bosnia Herzegovina",
+    "domain": "unmo.ba",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

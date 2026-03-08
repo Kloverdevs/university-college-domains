@@ -1,0 +1,22 @@
+[
+  {
+    "name": "International University of Management",
+    "country": "Namibia",
+    "state": "Namibia",
+    "city": "Namibia",
+    "domain": "ium.edu.na",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "University of Namibia",
+    "country": "Namibia",
+    "state": "Namibia",
+    "city": "Namibia",
+    "domain": "unam.na",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

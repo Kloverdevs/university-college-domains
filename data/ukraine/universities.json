@@ -1,0 +1,715 @@
+[
+  {
+    "name": "Ivano-Frankivsk National University of Oli and Gas",
+    "country": "Ukraine",
+    "state": "Ivano-Frankivsk",
+    "city": "Oli and Gas",
+    "domain": "ifdtung.if.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Taras Shevchenko University of Kiev",
+    "country": "Ukraine",
+    "state": "Kyiv",
+    "city": "Kiev",
+    "domain": "univ.kiev.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alfred Nobel University of Economics and Law",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Economics and Law",
+    "domain": "duep.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bila Cerkva State Agrarian University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Bila Cerkva State Agrarian",
+    "domain": "btsau.kiev.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Chernivci National University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Chernivci National",
+    "domain": "chnu.cv.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Crimea State Medical University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Crimea State Medical",
+    "domain": "crsmu.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dneprodzerzhinsk State Technical University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Dneprodzerzhinsk State Technical",
+    "domain": "dstu.dp.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dnepropetrovsk National University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Dnepropetrovsk National",
+    "domain": "dnu.dp.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dnepropetrovsk National University of Railway Transport",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Railway Transport",
+    "domain": "diit.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Donetsk National Technical University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Donetsk National Technical",
+    "domain": "donntu.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Donetsk National University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Donetsk National",
+    "domain": "donnu.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Donetsk State Medical University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Donetsk State Medical",
+    "domain": "donmeduni.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "East Ukrainian National University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "East Ukrainian National",
+    "domain": "snu.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "KROK Economics and Law University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "KROK Economics and Law",
+    "domain": "krok.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kharkiv National University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Kharkiv National",
+    "domain": "student.karazin.ua",
+    "aliases": [
+      "karazin.ua",
+      "univer.kharkov.ua"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kharkiv National University of Economics",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Economics",
+    "domain": "hneu.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kharkiv National University of Radio Electronics",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Radio Electronics",
+    "domain": "nure.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kharkiv State Medical University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Kharkiv State Medical",
+    "domain": "ksmu.kharkov.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kharkiv State Technical University of Construction and Architecture",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Construction and Architecture",
+    "domain": "kstuca.kharkov.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kharkiv State Transport Technical University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Kharkiv State Transport Technical",
+    "domain": "khadi.kharkov.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kherson State University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Kherson State",
+    "domain": "university.kherson.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Khmelnitsky National University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Khmelnitsky National",
+    "domain": "tup.km.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kiev National Economic University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Kiev National Economic",
+    "domain": "kneu.kiev.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kiev National Economic University Named after Vadym Hetman",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Kiev National Economic",
+    "domain": "kneu.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kiev National University of Construction and Architecture",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Construction and Architecture",
+    "domain": "knuba.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kiev School Of Economics",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Ukraine",
+    "domain": "kse.org.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kiev Slavonic University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Kiev Slavonic",
+    "domain": "ksu.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Luhansk State Medical University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Luhansk State Medical",
+    "domain": "lsmu.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Luhansk Taras Shevchenko National Pedagogical University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Ukraine",
+    "domain": "lgpu.lg.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lviv Medical University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Lviv Medical",
+    "domain": "meduniv.lviv.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lviv National University Ivan Franko",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Lviv National",
+    "domain": "franko.lviv.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lviv University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Lviv",
+    "domain": "lnu.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Agricultural University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Ukraine",
+    "domain": "nauu.kiev.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Aviation University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "National Aviation",
+    "domain": "nau.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Medical University O.O. Bogomolets",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Ukraine",
+    "domain": "nmu.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Metallurgical Academy of Ukraine",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Ukraine",
+    "domain": "nmetau.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Mining University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "National Mining",
+    "domain": "nmu.org.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Pedagogical University M. Dragomanov",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "National Pedagogical",
+    "domain": "npu.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Pirogov Memorial Medical University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "National Pirogov Memorial Medical",
+    "domain": "vnmu.vn.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Transport University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "National Transport",
+    "domain": "ntu.kar.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Food Technologies",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Food Technologies",
+    "domain": "usuft.kiev.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Internal Affairs",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Internal Affairs",
+    "domain": "univd.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Kiev-Mohyla Academy",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Kiev",
+    "domain": "ukma.kiev.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Ostroh Academy",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Ostroh Academy",
+    "domain": "uosa.uar.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National University of Shipbuilding",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Shipbuilding",
+    "domain": "usmtu.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Odessa National Academy of Food Technologies",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Ukraine",
+    "domain": "osaft.odessa.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Odessa National I.I. Mecnikov University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Odessa National I.I. Mecnikov",
+    "domain": "onu.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Odessa National Marine University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Odessa National Marine",
+    "domain": "osmu.odessa.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Odessa National Maritime Academy",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Ukraine",
+    "domain": "ma.odessa.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Odessa State Academy of Construction and Architecture",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Ukraine",
+    "domain": "ogasa.odessa.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Odessa State Medical University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Odessa State Medical",
+    "domain": "arosmu.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Petro Mohyla Black Sea State University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Petro Mohyla Black Sea",
+    "domain": "kma.mk.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Poltava National Technical University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Poltava National Technical",
+    "domain": "pntu.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Poltava University of Consumer Cooperatives in Ukraine",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Poltava",
+    "domain": "pusku.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Precarpathian University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Precarpathian",
+    "domain": "pu.if.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sevastopol National Technical University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Sevastopol National Technical",
+    "domain": "sevntu.com.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "State Pedagogical University in Kryvyi Rih",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "State Pedagogical",
+    "domain": "kdpu.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sumy National Agrarian University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Sumy National Agrarian",
+    "domain": "sau.sumy.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Sumy State University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Sumy State",
+    "domain": "sumdu.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Taurida National V.I.Vernadsky University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Taurida National V.I.Vernadsky",
+    "domain": "tnu.crimea.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ternopil Academy of National Economy",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Ukraine",
+    "domain": "tane.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ternopil State Ivan Pul'uj Technical University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Ukraine",
+    "domain": "tu.edu.te.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ukrainian Academy of Banking",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Ukraine",
+    "domain": "academy.sumy.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ukrainian Academy of Pharmacy",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Ukraine",
+    "domain": "ukrfa.kharkov.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ukrainian Medical Stomatological Academy",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Ukraine",
+    "domain": "uamsa.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ukrainian National Forestry University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Ukrainian National Forestry",
+    "domain": "forest.lviv.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Uzhgorod National University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Uzhgorod National",
+    "domain": "univ.uzhgorod.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vinnica National Technical University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Vinnica National Technical",
+    "domain": "vstu.vinnica.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Volyn National University Lesja Ukrainka",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Volyn National",
+    "domain": "vdu.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zaporizhzhe National Technical University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Zaporizhzhe National Technical",
+    "domain": "zntu.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Zaporizhzhe National University",
+    "country": "Ukraine",
+    "state": "Ukraine",
+    "city": "Zaporizhzhe National",
+    "domain": "znu.edu.ua",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

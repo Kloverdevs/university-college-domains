@@ -1,0 +1,32 @@
+[
+  {
+    "name": "All Saints University College of Medicine",
+    "country": "Saint Vincent and the Grenadines",
+    "state": "Saint Vincent and the Grenadines",
+    "city": "Kingstown",
+    "domain": "allsaintsu.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Saint James School of Medicine",
+    "country": "Saint Vincent and the Grenadines",
+    "state": "Saint Vincent and the Grenadines",
+    "city": "Golden Vale",
+    "domain": "sjsm.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Trinity University School of Medicine",
+    "country": "Saint Vincent and the Grenadines",
+    "state": "Saint Vincent and the Grenadines",
+    "city": "Kingstown",
+    "domain": "tusom.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  }
+]

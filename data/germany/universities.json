@@ -1,0 +1,3448 @@
+[
+  {
+    "name": "Albert-Ludwigs-Universität Freiburg",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Freiburg",
+    "domain": "uni-freiburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Evangelische Fachhochschule Freiburg, Hochschule für Soziale Arbeit, Diakonie und Religionspädagogik",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Freiburg",
+    "domain": "efh-freiburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Bingen",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Bingen",
+    "domain": "fh-bingen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Heidelberg",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Heidelberg",
+    "domain": "fh-heidelberg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Karlsruhe, Hochschule für Technik",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Karlsruhe",
+    "domain": "fh-karlsruhe.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Konstanz, Hochschule für Technik, Wirtschaft und Gestaltung",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Konstanz",
+    "domain": "fh-konstanz.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Mannheim, Hochschule für Sozialwesen",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Mannheim",
+    "domain": "fhs-mannheim.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Mannheim, Hochschule für Technik und Gestaltung",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Mannheim",
+    "domain": "fh-mannheim.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Neu-Ulm",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Neu",
+    "domain": "fh-neu-ulm.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Stuttgart, Hochschule der Medien",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Stuttgart",
+    "domain": "hdm-stuttgart.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Stuttgart, Hochschule für Technik",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Stuttgart",
+    "domain": "fht-stuttgart.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Ulm, Hochschule für Technik",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Ulm",
+    "domain": "fh-ulm.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule Neu-Ulm, Hochschule Neu-Ulm University of applied sciences",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Neu",
+    "domain": "hs-neu-ulm.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule Ulm, Hochschule für Angewandte Wissenschaft",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Ulm",
+    "domain": "hs-ulm.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule für Jüdische Studien Heidelberg",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Heidelberg",
+    "domain": "hjs.uni-heidelberg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule für Technik und Wirtschaft Karlsruhe",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Karlsruhe",
+    "domain": "hs-karlsruhe.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Karlsruher Institut fur Technologie",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Karlsruhe",
+    "domain": "kit.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Katholische Fachhochschule Freiburg, Hochschule für Sozialwesen, Religionspädagogik und Pflege",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Freiburg",
+    "domain": "kfh-freiburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Merkur Internationale FH Karlsruhe",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Karlsruhe",
+    "domain": "merkur-fh.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Merz Akademie, Hochschule für Gestaltung Stuttgart",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "für Gestaltung Stuttgart",
+    "domain": "merz-akademie.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pädagogische Hochschule Freiburg",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Freiburg",
+    "domain": "ph-freiburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pädagogische Hochschule Heidelberg",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Heidelberg",
+    "domain": "ph-heidelberg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pädagogische Hochschule Karlsruhe",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Karlsruhe",
+    "domain": "ph-karlsruhe.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ruprecht-Karls-Universität Heidelberg",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Heidelberg",
+    "domain": "uni-heidelberg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Schiller International University, Heidelberg",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Heidelberg",
+    "domain": "siu-heidelberg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Fridericana Karlsruhe (Technische Hochschule)",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Fridericana Karlsruhe",
+    "domain": "uni-karlsruhe.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Konstanz",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Konstanz",
+    "domain": "uni-konstanz.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Mannheim",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Mannheim",
+    "domain": "uni-mannheim.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Stuttgart",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Stuttgart",
+    "domain": "uni-stuttgart.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Ulm",
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Ulm",
+    "domain": "uni-ulm.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule für Musik und Darstellende Kunst Stuttgart",
+    "country": "Germany",
+    "state": "Baden-Württemberg",
+    "city": "und Darstellende Kunst Stuttgart",
+    "domain": "hmdk-stuttgart.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Hochschule Ulm",
+    "country": "Germany",
+    "state": "Baden-Württemberg",
+    "city": "Ulm",
+    "domain": "thu.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Augsburg",
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Augsburg",
+    "domain": "fh-augsburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Regensburg",
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Regensburg",
+    "domain": "fh-regensburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Friedrich-Alexander Universität Erlangen-Nürnberg",
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Erlangen",
+    "domain": "uni-erlangen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule für Musik und Theater München",
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "und Theater München",
+    "domain": "musikhochschule-muenchen.de",
+    "aliases": [
+      "hmtm.de"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ludwig-Maximilians-Universitat Munchen",
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Munich",
+    "domain": "lmu.de",
+    "aliases": [
+      "uni-muenchen.de"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ostbayerische Technische Hochschule Amberg-Weiden",
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Amberg",
+    "domain": "oth-aw.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Otto-Friedrich Universität Bamberg",
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Bamberg",
+    "domain": "uni-bamberg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rosenheim University of Applied Sciences",
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Rosenheim",
+    "domain": "th-rosenheim.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Universitat Munchen",
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Munich",
+    "domain": "tum.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universitat Erlangen-Nurnberg",
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Erlangen",
+    "domain": "fau.de",
+    "aliases": [
+      "uni-erlangen.de"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Augsburg",
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Augsburg",
+    "domain": "uni-augsburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Bayreuth",
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Bayreuth",
+    "domain": "uni-bayreuth.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Passau",
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Passau",
+    "domain": "uni-passau.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Regensburg",
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Regensburg",
+    "domain": "uni-regensburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Alice-Salomon-Fachhochschule für Sozialarbeit und Sozialpädagogik Berlin",
+    "country": "Germany",
+    "state": "Berlin",
+    "city": "Berlin",
+    "domain": "asfh-berlin.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "CODE University of Applied Sciences Berlin",
+    "country": "Germany",
+    "state": "Berlin",
+    "city": "Applied Sciences Berlin",
+    "domain": "code.berlin",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "E.A.P. Europäische Wirtschaftshochschule Berlin",
+    "country": "Germany",
+    "state": "Berlin",
+    "city": "Berlin",
+    "domain": "eap.net",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Evangelische Fachhochschule Berlin, Fachhochschule für Sozialarbeit und Sozialpädagogik",
+    "country": "Germany",
+    "state": "Berlin",
+    "city": "Berlin",
+    "domain": "evfh-berlin.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule für Technik und Wirtschaft Berlin",
+    "country": "Germany",
+    "state": "Berlin",
+    "city": "Berlin",
+    "domain": "fhtw-berlin.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule für Verwaltung und Rechtspflege Berlin",
+    "country": "Germany",
+    "state": "Berlin",
+    "city": "Berlin",
+    "domain": "fhvr.berlin.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule für Wirtschaft Berlin",
+    "country": "Germany",
+    "state": "Berlin",
+    "city": "für Wirtschaft Berlin",
+    "domain": "fhw-berlin.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Freie Universität Berlin",
+    "country": "Germany",
+    "state": "Berlin",
+    "city": "Berlin",
+    "domain": "fu-berlin.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Humboldt Universität Berlin",
+    "country": "Germany",
+    "state": "Berlin",
+    "city": "Berlin",
+    "domain": "hu-berlin.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Katholische Fachhochschule Berlin (KFB)",
+    "country": "Germany",
+    "state": "Berlin",
+    "city": "Berlin",
+    "domain": "kfb-berlin.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kunsthochschule Berlin-Weissensee, Hochschule für Gestaltung",
+    "country": "Germany",
+    "state": "Berlin",
+    "city": "Berlin",
+    "domain": "kh-berlin.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "SRH University of Applied Sciences",
+    "country": "Germany",
+    "state": "Berlin",
+    "city": "SRH",
+    "domain": "srh-berlin.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Steinbeis-Hochschule-Berlin",
+    "country": "Germany",
+    "state": "Berlin",
+    "city": "Berlin",
+    "domain": "stw.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Fachhochschule Berlin",
+    "country": "Germany",
+    "state": "Berlin",
+    "city": "Berlin",
+    "domain": "tfh-berlin.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Universität Berlin",
+    "country": "Germany",
+    "state": "Berlin",
+    "city": "Berlin",
+    "domain": "tu-berlin.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität der Künste Berlin",
+    "country": "Germany",
+    "state": "Berlin",
+    "city": "der Künste Berlin",
+    "domain": "udk-berlin.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Brandenburgische Technische Universitat Cottbus-Senftenberg",
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Cottbus",
+    "domain": "b-tu.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Brandenburgische Technische Universität Cottbus",
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Cottbus",
+    "domain": "tu-cottbus.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Europa-Universitat Viadrina",
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Frankfurt (Oder)",
+    "domain": "europa-uni.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Potsdam",
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Potsdam",
+    "domain": "fh-potsdam.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Potsdam",
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Potsdam",
+    "domain": "uni-potsdam.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule Bremen",
+    "country": "Germany",
+    "state": "Bremen",
+    "city": "Bremen",
+    "domain": "hs-bremen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule für Künste Bremen",
+    "country": "Germany",
+    "state": "Bremen",
+    "city": "für Künste Bremen",
+    "domain": "hfk-bremen.de",
+    "aliases": [
+      "hfk2020.de"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Jacobs University Bremen",
+    "country": "Germany",
+    "state": "Bremen",
+    "city": "Jacobs",
+    "domain": "jacobs-university.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Bremen",
+    "country": "Germany",
+    "state": "Bremen",
+    "city": "Bremen",
+    "domain": "uni-bremen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Augustana Hochschule Neuendettelsau",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Neuendettelsau",
+    "domain": "augustana.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bayerische Julius-Maximilians-Universität Würzburg",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Würzburg",
+    "domain": "uni-wuerzburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "BiTS - Business and Information Technology School gGmbH",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Germany",
+    "domain": "bits-iserlohn.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Cologne Business School",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Germany",
+    "domain": "cbs.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "DIPLOMA-Fachhochschule Ölsnitz/Vogtland",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Ölsnitz/Vogtland",
+    "domain": "diploma.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Deutsch-Ordens Fachhochschule Riedlingen, Hochschule für Wirtschaft",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Riedlingen",
+    "domain": "fh-riedlingen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Deutsche Hochschule für Verwaltungswissenschaften Speyer",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "für Verwaltungswissenschaften Speyer",
+    "domain": "dhv-speyer.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Deutsche Sporthochschule Köln",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Köln",
+    "domain": "dshs-koeln.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Duale Hochschule Baden-Württemberg",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Baden",
+    "domain": "dhbw.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "EBS Universität",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Germany",
+    "domain": "ebs.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Eberhard-Karls-Universität Tübingen",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Tübingen",
+    "domain": "uni-tuebingen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Europa Fachhochschule Fresenius",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Fresenius",
+    "domain": "fh-fresenius.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "European Business School Schloß Reichartshausen",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Germany",
+    "domain": "ebs.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Europäische Betriebswirtschafts-Akademie",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Germany",
+    "domain": "eba-muenchen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Europäische Fachhochschule",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Germany",
+    "domain": "eufh.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Evangelische Fachhochschule Ludwigshafen Hochschule für Sozial- und Gesundheitswesen",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Ludwigshafen Hochschule für Sozial",
+    "domain": "efhlu.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Evangelische Fachhochschule Nürnberg",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Nürnberg",
+    "domain": "evfh-nuernberg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Evangelische Fachhochschule Reutlingen-Ludwigsburg, Hochschule für Soziale Arbeit, Religionspädagogik und Diakonie",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Reutlingen",
+    "domain": "efh-reutlingen-ludwigsburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Evangelische Fachhochschule für Religionspädagogik, und Gemeindediakonie Moritzburg",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "für Religionspädagogik",
+    "domain": "fhs-moritzburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Aschaffenburg",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Aschaffenburg",
+    "domain": "fh-aschaffenburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Biberach, Hochschule für Bauwesen und Wirtschaft",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Biberach",
+    "domain": "fh-biberach.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Brandenburg",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Brandenburg",
+    "domain": "fh-brandenburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Deggendorf",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Deggendorf",
+    "domain": "fh-deggendorf.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Düsseldorf",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Düsseldorf",
+    "domain": "fh-duesseldorf.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Eberswalde",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Eberswalde",
+    "domain": "fh-eberswalde.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Furtwangen, Hochschule für Technik und Wirtschaft",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Furtwangen",
+    "domain": "fh-furtwangen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Gelsenkirchen",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Gelsenkirchen",
+    "domain": "fh-gelsenkirchen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Heilbronn, Hochschule für Technik und Wirtschaft",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Heilbronn",
+    "domain": "fh-heilbronn.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Hof",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Hof",
+    "domain": "fh-hof.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Ingolstadt",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Ingolstadt",
+    "domain": "fh-ingolstadt.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Kempten, Hochschule für Technik und Wirtschaft",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Kempten",
+    "domain": "fh-kempten.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Koblenz",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Koblenz",
+    "domain": "fh-koblenz.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Köln",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Köln",
+    "domain": "fh-koeln.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Landshut, Hochschule für Wirtschaft - Sozialwesen - Technik",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Landshut",
+    "domain": "fh-landshut.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Lausitz",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Lausitz",
+    "domain": "fh-lausitz.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Lippe",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Lippe",
+    "domain": "fh-lippe.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Ludwigshafen, Hochschule für Wirtschaft",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Ludwigshafen",
+    "domain": "fh-ludwigshafen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Lübeck",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Lübeck",
+    "domain": "fh-luebeck.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Merseburg",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Merseburg",
+    "domain": "fh-merseburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule München",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "München",
+    "domain": "fh-muenchen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Münster",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Münster",
+    "domain": "fh-muenster.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Neubrandenburg",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Neubrandenburg",
+    "domain": "fh-nb.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Niederrhein",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Niederrhein",
+    "domain": "fh-niederrhein.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Nordhausen",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Nordhausen",
+    "domain": "fh-nordhausen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Nordostniedersachsen",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Nordostniedersachsen",
+    "domain": "fhnon.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Nürtingen, Hochschule für Wirtschaft, Landwirtschaft und Landespflege",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Nürtingen",
+    "domain": "fh-nuertingen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Offenburg, Hochschule für Technik und Wirtschaft",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Offenburg",
+    "domain": "fh-offenburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Osnabrück",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Osnabrück",
+    "domain": "fh-osnabrueck.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Pforzheim, Hochschule für Gestaltung, Technik und Wirtschaft",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Pforzheim",
+    "domain": "fh-pforzheim.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Ravensburg-Weingarten",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Ravensburg",
+    "domain": "fh-weingarten.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Reutlingen, Hochschule für Technik und Wirtschaft",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Reutlingen",
+    "domain": "fh-reutlingen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Rosenheim, Hochschule für Technik und Wirtschaft",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Rosenheim",
+    "domain": "fh-rosenheim.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Rottenburg, Hochschule für Forstwirtschaft",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Rottenburg",
+    "domain": "fh-rottenburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Schmalkalden",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Schmalkalden",
+    "domain": "fh-schmalkalden.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Schwäbisch Gmünd, Hochschule für Gestaltung",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Schwäbisch Gmünd",
+    "domain": "hfg-gmuend.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Schwäbisch Hall, Hochschule für Gestaltung",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Schwäbisch Hall",
+    "domain": "fh-schwaebischhall.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Stralsund",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Stralsund",
+    "domain": "fh-stralsund.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Wedel",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Wedel",
+    "domain": "fh-wedel.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Weihenstephan",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Weihenstephan",
+    "domain": "fh-weihenstephan.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Westküste, Hochschule für Wirtschaft und Technik",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Westküste",
+    "domain": "fh-westkueste.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Wiesbaden",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Wiesbaden",
+    "domain": "fh-wiesbaden.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Worms",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Worms",
+    "domain": "fh-worms.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Würzburg - Schweinfurt",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Würzburg",
+    "domain": "fh-wuerzburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule der Wirtschaft",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "der Wirtschaft",
+    "domain": "fhdw.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule des Mittelstandes (FHM)",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "des Mittelstandes",
+    "domain": "fhm-mittelstand.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule für Oekonomie und Management (FOM)",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "und Management",
+    "domain": "fom.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule für die Wirtschaft",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "für die Wirtschaft",
+    "domain": "fhdw.bib.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule und Berufskollegs NTA, Prof.Dr. Grübler gemein. GmbH",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "und Berufskollegs NTA",
+    "domain": "fh-isny.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fernuniversität Gesamthochschule Hagen",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Gesamthochschule Hagen",
+    "domain": "fernuni-hagen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Freie Kunst-Studienstätte Ottersberg",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Germany",
+    "domain": "fh-ottersberg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Georg-August Universität Göttingen",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Göttingen",
+    "domain": "uni-goettingen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Georg-Simon-Ohm-Fachhochschule Nürnberg",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Nürnberg",
+    "domain": "fh-nuernberg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gustav-Siewerth-Akademie",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Germany",
+    "domain": "siewerth-akademie.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Heinrich-Heine Universität Düsseldorf",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Düsseldorf",
+    "domain": "uni-duesseldorf.de",
+    "aliases": [
+      "hhu.de"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hertie School of Governance",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Germany",
+    "domain": "hertie-school.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule Albstadt-Sigmaringen",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Albstadt",
+    "domain": "hs-albsig.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule Anhalt (FH), Hochschule für angewandte Wissenschaften",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Anhalt",
+    "domain": "hs-anhalt.de",
+    "aliases": [
+      "student.hs-anhalt.de"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule Bremerhaven",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Bremerhaven",
+    "domain": "hs-bremerhaven.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule Coburg",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Coburg",
+    "domain": "hs-coburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule Düsseldorf",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Düsseldorf",
+    "domain": "hs-duesseldorf.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule Esslingen",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Esslingen",
+    "domain": "hs-esslingen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule Fulda",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Fulda",
+    "domain": "hs-fulda.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule Harz, Hochschule für angewandte Wissenschaften (FH)",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Harz",
+    "domain": "hs-harz.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule Mittweida (FH)",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Mittweida",
+    "domain": "htwm.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule München",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "München",
+    "domain": "hm.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule RheinMain",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "RheinMain",
+    "domain": "hs-rm.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule Wismar, Fachhochschule für Technik, Wirtschaft und Gestaltung",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Wismar",
+    "domain": "hs-wismar.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule Zittau/Görlitz (FH)",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Zittau/Görlitz",
+    "domain": "hs-zigr.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule für Bankwirtschaft (HfB), Private Fachhochschule der Bankakademie",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "für Bankwirtschaft",
+    "domain": "hfb.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Hochschule für Fernsehen und Film München",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "und Film München",
+    "domain": "hff-muenchen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule für Internationales Management",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "für Internationales Management",
+    "domain": "himh.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule für Philosophie München",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "für Philosophie München",
+    "domain": "hfph.mwn.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule für Politik (HFP)",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "für Politik",
+    "domain": "hfp.mhn.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule für Technik und Wirtschaft des Saarlandes",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "und Wirtschaft des Saarlandes",
+    "domain": "htw-saarland.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule für Wirtschaft und Gesellschaft Ludwigshafen",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "und Gesellschaft Ludwigshafen",
+    "domain": "hwg-lu.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "IST-Hochschule fur Management",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "fur Management",
+    "domain": "ist-hochschule.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International School of New Media, University of Lübeck",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Lübeck",
+    "domain": "isnm.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International University in Germany",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Germany",
+    "domain": "i-u.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Internationale Fachhochschule Aalen",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Aalen",
+    "domain": "international.fh-aalen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Internationale Fachhochschule Bad Honnef",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Bad Honnef",
+    "domain": "fh-bad-honnef.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Internationales Hochschulinstitut Zittau",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Germany",
+    "domain": "ihi-zittau.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Karl-Schiller-Berufskolleg (KSBK)",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Germany",
+    "domain": "ksbk-do.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Karlshochschule International University",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Karlshochschule International",
+    "domain": "karlshochschule.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Katholische Fachhochschule Norddeutschland",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Norddeutschland",
+    "domain": "kath-fh-nord.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Katholische Fachhochschule Nordrhein-Westfalen",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Nordrhein",
+    "domain": "kfhnw.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Katholische Hochschule für Soziale Arbeit Saarbrücken",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Arbeit Saarbrücken",
+    "domain": "khsa.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Katholische Stiftungsfachhochschule München",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "München",
+    "domain": "ksfh.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Katholische Universität Eichstätt",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Eichstätt",
+    "domain": "ku-eichstaett.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kirchliche Hochschule Bethel",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Bethel",
+    "domain": "bethel.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kunstakademie Düsseldorf.",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Germany",
+    "domain": "kunstakademie-duesseldorf.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ludwig-Maximilians-Universität München",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "München",
+    "domain": "uni-muenchen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Lutherische Theologische Hochschule Oberursel",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Oberursel",
+    "domain": "selk.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Medizinische Universität Lübeck",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Lübeck",
+    "domain": "mu-luebeck.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Muthesius-Hochschule, Fachhochschule für Kunst und Gestaltung",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "und Gestaltung",
+    "domain": "muthesius.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Märkische Fachhochschule Iserlohn",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Iserlohn",
+    "domain": "mfh-iserlohn.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Nordakademie, Staatlich anerkannte private Fachhochschule mit dualen Studiengängen",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "mit dualen Studiengängen",
+    "domain": "nordakademie.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Ostfalia Hochschule für angewandte Wissenschaften",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "für angewandte Wissenschaften",
+    "domain": "ostfalia.de",
+    "aliases": [
+      "fh-wolfenbuettel.de"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Philosophisch-Theologische Hochschule Münster",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Münster",
+    "domain": "pth-muenster.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Philosophisch-Theologische Hochschule SVD Sankt Augustin",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "SVD Sankt Augustin",
+    "domain": "philtheol-augustin.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Philosophisch-Theologische Hochschule Vallendar der Gesellschaft des Katholischen Apostolates (Pallottiner)",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Germany",
+    "domain": "pthv.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Philosophisch-Theologische Hochschule der Salesianer Don Boscos",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "der Salesianer Don Boscos",
+    "domain": "pth-bb.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Popakademie Baden-Württemberg",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Germany",
+    "domain": "popakademie.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Private Fachhochschule Göttingen",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Göttingen",
+    "domain": "pfh-goettingen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Private Hanseuniversität",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Germany",
+    "domain": "hanseuni.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Private Universität Witten/Herdecke",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Witten/Herdecke",
+    "domain": "uni-wh.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Pädagogische Hochschule Ludwigsburg",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Ludwigsburg",
+    "domain": "ph-ludwigsburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pädagogische Hochschule Schwäbisch Gmünd",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Schwäbisch Gmünd",
+    "domain": "ph-gmuend.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pädagogische Hochschule Weingarten",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Weingarten",
+    "domain": "ph-weingarten.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rheinische Fachhochschule Köln",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Köln",
+    "domain": "rfh-koeln.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Staatlich anerkannte Fachhochschule für Kunsttherapie",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "für Kunsttherapie",
+    "domain": "fhkt.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Staatliche Hochschule für Musik",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "für Musik",
+    "domain": "mh-trossingen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Fachhochschule Wildau",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Wildau",
+    "domain": "tfh-wildau.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Hochschule Brandenburg",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Brandenburg",
+    "domain": "th-brandenburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Hochschule Deggendorf",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Deggendorf",
+    "domain": "th-deg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Hochschule Ingolstadt",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Ingolstadt",
+    "domain": "thi.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Hochschule Köln",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Köln",
+    "domain": "th-koeln.de",
+    "aliases": [
+      "fh-koeln.de"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Universität Bergakademie Freiberg",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Bergakademie Freiberg",
+    "domain": "tu-freiberg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Universität München",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "München",
+    "domain": "tu-muenchen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Theologische Hochschule Friedensau",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Friedensau",
+    "domain": "thh-friedensau.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Hohenheim",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Hohenheim",
+    "domain": "uni-hohenheim.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Koblenz-Landau",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Koblenz",
+    "domain": "uni-koblenz-landau.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Köln",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Köln",
+    "domain": "uni-koeln.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Lüneburg",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Lüneburg",
+    "domain": "uni-lueneburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Osnabrück",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Osnabrück",
+    "domain": "uni-osnabrueck.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität der Bundeswehr München",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "der Bundeswehr München",
+    "domain": "unibw-muenchen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität des Saarlandes",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "des Saarlandes",
+    "domain": "uni-saarland.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "WHU – Otto Beisheim School of Management",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Germany",
+    "domain": "whu-koblenz.de",
+    "aliases": [
+      "whu.edu"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Westfälische Wilhelms-Universität Münster",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Münster",
+    "domain": "uni-muenster.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Westsächsische Hochschule Zwickau (FH)",
+    "country": "Germany",
+    "state": "Germany",
+    "city": "Zwickau",
+    "domain": "fh-zwickau.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Evangelische Fachhochschule für Sozialpädagogik der \"Diakonenanstalt des Rauhen Hauses\" Hamburg",
+    "country": "Germany",
+    "state": "Hamburg",
+    "city": "Hamburg",
+    "domain": "rauheshaus.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Hamburg",
+    "country": "Germany",
+    "state": "Hamburg",
+    "city": "Hamburg",
+    "domain": "fh-hamburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fern-Fachhochschule Hamburg",
+    "country": "Germany",
+    "state": "Hamburg",
+    "city": "Hamburg",
+    "domain": "fern-fh.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "HWP - Hamburger Universität für Wirtschaft und Politik",
+    "country": "Germany",
+    "state": "Hamburg",
+    "city": "Hamburg",
+    "domain": "hwp-hamburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hafencity Universität Hamburg",
+    "country": "Germany",
+    "state": "Hamburg",
+    "city": "Hamburg",
+    "domain": "hcu-hamburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hamburg University of Applied Sciences (HAW Hamburg)",
+    "country": "Germany",
+    "state": "Hamburg",
+    "city": "Hamburg",
+    "domain": "haw-hamburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Universitat Hamburg",
+    "country": "Germany",
+    "state": "Hamburg",
+    "city": "Hamburg",
+    "domain": "tuhh.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Universität Hamburg-Harburg",
+    "country": "Germany",
+    "state": "Hamburg",
+    "city": "Hamburg",
+    "domain": "tu-harburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Hamburg",
+    "country": "Germany",
+    "state": "Hamburg",
+    "city": "Hamburg",
+    "domain": "uni-hamburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität der Bundeswehr Hamburg",
+    "country": "Germany",
+    "state": "Hamburg",
+    "city": "der Bundeswehr Hamburg",
+    "domain": "unibw-hamburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Europa-Universität Viadrina Frankfurt (Oder)",
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Viadrina Frankfurt",
+    "domain": "euv-frankfurt-o.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Evangelische Fachhochschule Darmstadt",
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Darmstadt",
+    "domain": "eh-darmstadt.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Frankfurt am Main",
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Frankfurt am Main",
+    "domain": "fh-frankfurt.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Frankfurt School of Finance & Management",
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Frankfurt",
+    "domain": "fs.de",
+    "aliases": [
+      "fs-students.de"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule Darmstadt",
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Darmstadt",
+    "domain": "h-da.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Johann Wolfgang Goethe Universität Frankfurt am Main",
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Frankfurt am Main",
+    "domain": "uni-frankfurt.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Phillips-Universität Marburg",
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Marburg",
+    "domain": "uni-marburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Philosophisch-Theologische Hochschule Sankt Georgen",
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Sankt Georgen",
+    "domain": "st-georgen.uni-frankfurt.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Private FernFachhochschule Darmstadt",
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Darmstadt",
+    "domain": "privatfh-da.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Technische Universität Darmstadt",
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Darmstadt",
+    "domain": "tu-darmstadt.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Kassel",
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Kassel",
+    "domain": "uni-kassel.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Carl von Ossietzky Universität Oldenburg",
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Oldenburg",
+    "domain": "uol.de",
+    "aliases": [
+      "uni-oldenburg.de"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Evangelische Fachhochschule Hannover",
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Hannover",
+    "domain": "efh-hannover.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Braunschweig/Wolfenbüttel",
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Braunschweig/Wolfenbüttel",
+    "domain": "fh-wolfenbuettel.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Hannover",
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Hannover",
+    "domain": "fh-hannover.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Hildesheim/Holzminden/Göttingen, Hochschule für angewandte Wissenschaft und Kunst",
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Hildesheim/Holzminden/Göttingen",
+    "domain": "fh-hildesheim.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Oldenburg/Ostfriesland/Wilhelmshaven",
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Oldenburg/Ostfriesland/Wilhelmshaven",
+    "domain": "fh-oow.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule Vechta",
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Vechta",
+    "domain": "uni-vechta.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule für Musik, Theater und Medien Hannover",
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "für Musik",
+    "domain": "hmtm-hannover.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Medizinische Hochschule Hannover",
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Hannover",
+    "domain": "mh-hannover.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Private Fachhochschule für Wirtschaft und Technik Vechta/Diepholz",
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Vechta",
+    "domain": "fhwt.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Technische Universitat Braunschweig",
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Braunschweig",
+    "domain": "tu-braunschweig.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Universität Carolo-Wilhelmina Braunschweig",
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Carolo",
+    "domain": "tu-bs.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Universität Clausthal",
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Clausthal",
+    "domain": "tu-clausthal.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Tierärztliche Hochschule Hannover",
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Hannover",
+    "domain": "tiho-hannover.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universitat Luneburg",
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Luneburg",
+    "domain": "leuphana.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universitat Oldenburg",
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Oldenburg",
+    "domain": "uni-oldenburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Hannover",
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Hannover",
+    "domain": "uni-hannover.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Hildesheim",
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Hildesheim",
+    "domain": "uni-hildesheim.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ernst-Moritz-Arndt Universität Greifswald",
+    "country": "Germany",
+    "state": "Mecklenburg-Vorpommern",
+    "city": "Greifswald",
+    "domain": "uni-greifswald.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Rostock",
+    "country": "Germany",
+    "state": "Mecklenburg-Vorpommern",
+    "city": "Rostock",
+    "domain": "uni-rostock.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule für Musik Detmold",
+    "country": "Germany",
+    "state": "Nordrhein-Westfalen",
+    "city": "für Musik Detmold",
+    "domain": "hfm-detmold.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Westphalian University of Applied Sciences",
+    "country": "Germany",
+    "state": "Nordrhein-Westfalen",
+    "city": "Westphalian",
+    "domain": "w-hs.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bergische Universität Gesamthochschule Wuppertal",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Gesamthochschule Wuppertal",
+    "domain": "uni-wuppertal.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Evangelische Fachhochschule Rheinland-Westfalen-Lippe",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Rheinland",
+    "domain": "efh-bochum.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Aachen",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Aachen",
+    "domain": "fh-aachen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Bielefeld",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Bielefeld",
+    "domain": "fh-bielefeld.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Bochum",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Bochum",
+    "domain": "fh-bochum.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Bonn-Rhein-Sieg",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Bonn",
+    "domain": "fh-bonn-rhein-sieg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Dortmund",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Dortmund",
+    "domain": "fh-dortmund.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Gießen-Friedberg",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Gießen",
+    "domain": "fh-giessen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule für das öffentliche Bibliothekswesen Bonn",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Bonn",
+    "domain": "fhoebb.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule Bonn-Rhein-Sieg",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Bonn",
+    "domain": "hochschule-bonn-rhein-sieg.de",
+    "aliases": [
+      "h-brs.de"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule für Musik und Tanz Köln",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "und Tanz Köln",
+    "domain": "hfmt-koeln.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International School of Management ISM Dortmund",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Dortmund",
+    "domain": "ism-dortmund.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Justus Liebig Universität Gießen",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Gießen",
+    "domain": "uni-giessen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rheinisch Westfälische Technische Hochschule Aachen",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Aachen",
+    "domain": "rwth-aachen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Rheinische Friedrich-Wilhelms Universität Bonn",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Bonn",
+    "domain": "uni-bonn.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Ruhr-Universität Bochum",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Bochum",
+    "domain": "ruhr-uni-bochum.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Fachhochschule Georg Agricola für Rohstoff, Energie und, Umwelt zu Bochum",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Bochum",
+    "domain": "tfh-bochum.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Hochschule Mittelhessen",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Mittelhessen",
+    "domain": "thm.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Theologische Fakultät Paderborn",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Paderborn",
+    "domain": "paderborn.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universitat Dortmund",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Dortmund",
+    "domain": "tu-dortmund.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universitat Duisburg-Essen",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Duisburg",
+    "domain": "uni-due.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universitat Dusseldorf",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Dusseldorf",
+    "domain": "hhu.de",
+    "aliases": [
+      "uni-duesseldorf.de"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Bielefeld",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Bielefeld",
+    "domain": "uni-bielefeld.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Dortmund",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Dortmund",
+    "domain": "uni-dortmund.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Duisburg-Essen",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Duisburg",
+    "domain": "uni-duisburg-essen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Paderborn",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Paderborn",
+    "domain": "uni-paderborn.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Siegen",
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Siegen",
+    "domain": "uni-siegen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Deutsche Universität für Verwaltungswissenschaften Speyer",
+    "country": "Germany",
+    "state": "Rheinland-Pfalz",
+    "city": "für Verwaltungswissenschaften Speyer",
+    "domain": "uni-speyer.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "European Management School",
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Mainz",
+    "domain": "ems-mainz.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Kaiserslautern",
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Kaiserslautern",
+    "domain": "fh-kl.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Mainz",
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Mainz",
+    "domain": "fh-mainz.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Trier, Hochschule für Technik, Wirtschaft und Gestaltung",
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Trier",
+    "domain": "fh-trier.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Johannes-Gutenberg Universität Mainz",
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Mainz",
+    "domain": "uni-mainz.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Katholische Fachhochschule Mainz",
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Mainz",
+    "domain": "kfh-mainz.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Universitat Kaiserslautern",
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Kaiserslautern",
+    "domain": "rptu.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Theologische Fakultät Trier",
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Trier",
+    "domain": "uni-trier.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Kaiserslautern",
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Kaiserslautern",
+    "domain": "uni-kl.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "AKAD Hochschulen für Berufstätige, Fachhochschule Leipzig",
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Leipzig",
+    "domain": "akad.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Deutsche Telekom Fachhochschule Leipzig",
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Leipzig",
+    "domain": "fh-telekom-leipzig.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Evangelische Hochschule für Soziale Arbeit Dresden (FH)",
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Dresden",
+    "domain": "ehs-dresden.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Handelshochschule Leipzig",
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Leipzig",
+    "domain": "hhl.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule für Musik Carl Maria von Weber",
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Carl Maria von Weber",
+    "domain": "hfmdd.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule für Musik und Theater „Felix Mendelssohn Bartholdy“ Leipzig",
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "",
+    "domain": "hmt-leipzig.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule für Technik und Wirtschaft Dresden (FH)",
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Dresden",
+    "domain": "htw-dresden.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule für Technik, Wirtschaft und Kultur Leipzig (FH)",
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "für Technik",
+    "domain": "htwk-leipzig.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Universität Chemnitz",
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Chemnitz",
+    "domain": "tu-chemnitz.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Universität Dresden",
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Dresden",
+    "domain": "tu-dresden.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Leipzig",
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Leipzig",
+    "domain": "uni-leipzig.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule Magdeburg-Stendal (FH)",
+    "country": "Germany",
+    "state": "Saxony-Anhalt",
+    "city": "Magdeburg",
+    "domain": "hs-magdeburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Martin-Luther Universität Halle-Wittenberg",
+    "country": "Germany",
+    "state": "Saxony-Anhalt",
+    "city": "Halle",
+    "domain": "uni-halle.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Otto-von-Guericke Universität Magdeburg",
+    "country": "Germany",
+    "state": "Saxony-Anhalt",
+    "city": "Magdeburg",
+    "domain": "uni-magdeburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universitat Magdeburg",
+    "country": "Germany",
+    "state": "Saxony-Anhalt",
+    "city": "Magdeburg",
+    "domain": "ovgu.de",
+    "aliases": [
+      "uni-magdeburg.de"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Christian-Albrechts-Universität Kiel",
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Kiel",
+    "domain": "uni-kiel.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Fachhochschule Flensburg",
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Flensburg",
+    "domain": "fh-flensburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Kiel",
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Kiel",
+    "domain": "fh-kiel.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Musikhochschule Lübeck",
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Lübeck",
+    "domain": "mh-luebeck.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universitat Lubeck",
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Lubeck",
+    "domain": "uni-luebeck.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universität Flensburg",
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Flensburg",
+    "domain": "uni-flensburg.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Bauhaus Universität Weimar",
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Weimar",
+    "domain": "uni-weimar.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Erfurt",
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Erfurt",
+    "domain": "fh-erfurt.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Fachhochschule Jena",
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Jena",
+    "domain": "fh-jena.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Friedrich-Schiller Universität Jena",
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Jena",
+    "domain": "uni-jena.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "IU Internationale Hochschule GmbH",
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "GmbH",
+    "domain": "iubh-fernstudium.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Philosophisch-Theologisches Studium Erfurt, Staatlich anerkannte Wissenschaftliche Hochschule",
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Erfurt",
+    "domain": "uni-erfurt.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pädagogische Hochschule Erfurt/Mühlhausen",
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Erfurt/Mühlhausen",
+    "domain": "ph-erfurt.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Technische Universität Ilmenau",
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Ilmenau",
+    "domain": "tu-ilmenau.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Duale Hochschule Baden-Wuerttemberg Mannheim",
+    "country": "Germany",
+    "state": "null",
+    "city": "Baden",
+    "domain": "dhbw-mannheim.de",
+    "aliases": [
+      "mannheim.dhbw.de"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Duale Hochschule Baden-Württemberg Center for Advanced Studies (CAS)",
+    "country": "Germany",
+    "state": "null",
+    "city": "Baden",
+    "domain": "cas.dhbw.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Duale Hochschule Baden-Württemberg Heidenheim",
+    "country": "Germany",
+    "state": "null",
+    "city": "Baden",
+    "domain": "heidenheim.dhbw.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Duale Hochschule Baden-Württemberg Heilbronn",
+    "country": "Germany",
+    "state": "null",
+    "city": "Baden",
+    "domain": "heilbronn.dhbw.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Duale Hochschule Baden-Württemberg Karlsruhe",
+    "country": "Germany",
+    "state": "null",
+    "city": "Baden",
+    "domain": "dhbw-karlsruhe.de",
+    "aliases": [
+      "karlsruhe.dhbw.de"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Duale Hochschule Baden-Württemberg Lörrach",
+    "country": "Germany",
+    "state": "null",
+    "city": "Baden",
+    "domain": "dhbw-loerrach.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Duale Hochschule Baden-Württemberg Mosbach",
+    "country": "Germany",
+    "state": "null",
+    "city": "Baden",
+    "domain": "dhbw-mosbach.de",
+    "aliases": [
+      "mosbach.dhbw.de"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Duale Hochschule Baden-Württemberg Ravensburg",
+    "country": "Germany",
+    "state": "null",
+    "city": "Baden",
+    "domain": "ravensburg.dhbw.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Duale Hochschule Baden-Württemberg Stuttgart",
+    "country": "Germany",
+    "state": "null",
+    "city": "Baden",
+    "domain": "dhbw-stuttgart.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Duale Hochschule Baden-Württemberg Villingen-Schwenningen",
+    "country": "Germany",
+    "state": "null",
+    "city": "Baden",
+    "domain": "dhbw-vs.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hochschule Hannover",
+    "country": "Germany",
+    "state": "null",
+    "city": "Hannover",
+    "domain": "hs-hannover.de",
+    "aliases": [
+      "stud.hs-hannover.de"
+    ],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Staatliche Studienakademie Bautzen",
+    "country": "Germany",
+    "state": "null",
+    "city": "",
+    "domain": "ba-bautzen.de",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

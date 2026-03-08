@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Lahti Polytechnic",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Lahti",
+    "domain": "lamk.fi",
+    "aliases": [
+      "student.lamk.fi"
+    ],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Oulu Polytechnic",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Oulu",
+    "domain": "oamk.fi",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Scandinavian Art and Business Institute",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Scandinavian Art and Business",
+    "domain": "sabi.eu.com",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "South Carelian Polytechnic",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "South Carelian",
+    "domain": "scp.fi",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Tampere Polytechnic",
+    "country": "Finland",
+    "state": "Finland",
+    "city": "Tampere",
+    "domain": "tpu.fi",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

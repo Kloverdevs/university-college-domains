@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Columbus University",
+    "country": "Panama",
+    "state": "Panama",
+    "city": "Columbus",
+    "domain": "columbus.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Floret Global University",
+    "country": "Panama",
+    "state": "Panama",
+    "city": "Floret Global",
+    "domain": "floret.edu.pa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Instituto de Enseñanza Superior Oteima",
+    "country": "Panama",
+    "state": "Panama",
+    "city": "Panama",
+    "domain": "institutoteima.ac.pa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Abierta y a Distancia de Panama",
+    "country": "Panama",
+    "state": "Panama",
+    "city": "Panama",
+    "domain": "unadp.ac.pa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Autonoma de Chiriqui",
+    "country": "Panama",
+    "state": "Panama",
+    "city": "Chiriqui",
+    "domain": "unachi.ac.pa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Católica Santa María La Antigua",
+    "country": "Panama",
+    "state": "Panama",
+    "city": "Panama",
+    "domain": "usma.ac.pa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Especializada de Las Americas",
+    "country": "Panama",
+    "state": "Panama",
+    "city": "Especializada de Las Americas",
+    "domain": "udelas.ac.pa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Interamericana de Educacion a Distancia de Panama",
+    "country": "Panama",
+    "state": "Panama",
+    "city": "Panama",
+    "domain": "uniedpa.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Latina de Panamá",
+    "country": "Panama",
+    "state": "Panama",
+    "city": "Latina de Panamá",
+    "domain": "ulat.ac.pa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Latinoamericana de Ciencia y Tecnologia, Panamá",
+    "country": "Panama",
+    "state": "Panama",
+    "city": "Panama",
+    "domain": "ulacit.ac.pa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnológica Oteima",
+    "country": "Panama",
+    "state": "Panama",
+    "city": "Tecnológica Oteima",
+    "domain": "oteima.ac.pa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad Tecnológica de Panamá",
+    "country": "Panama",
+    "state": "Panama",
+    "city": "Tecnológica de Panamá",
+    "domain": "utp.ac.pa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Cartago",
+    "country": "Panama",
+    "state": "Panama",
+    "city": "Cartago",
+    "domain": "ucapanama.org",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad de Panamá",
+    "country": "Panama",
+    "state": "Panama",
+    "city": "Panamá",
+    "domain": "up.ac.pa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Universidad del Istmo",
+    "country": "Panama",
+    "state": "Panama",
+    "city": "Istmo",
+    "domain": "udi.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Victoria International University",
+    "country": "Panama",
+    "state": "Panama",
+    "city": "Victoria International",
+    "domain": "viu.edu.pa",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "West Coast University (WCU)",
+    "country": "Panama",
+    "state": "Panama",
+    "city": "West Coast",
+    "domain": "westcoastuniversity-edu.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]

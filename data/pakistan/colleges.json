@@ -1,0 +1,1142 @@
+[
+  {
+    "name": "Asian Management Institute",
+    "country": "Pakistan",
+    "state": "Khyber Pakhtunkhwa",
+    "city": "",
+    "domain": "ami.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "COMSATS Institute of Information Technology, Abbottabad",
+    "country": "Pakistan",
+    "state": "Khyber Pakhtunkhwa",
+    "city": "COMSATS",
+    "domain": "ciit-atd.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Management Sciences, Peshawar",
+    "country": "Pakistan",
+    "state": "Khyber Pakhtunkhwa",
+    "city": "Peshawar",
+    "domain": "imsciences.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "ABACUS College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Abdul Kasim College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Air War College Institute",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Al-Khair College of Commerce",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Allied College of Commerce",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "American International College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "aic.edu",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Arqum College of Science and Arts",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Asia Pacific Institute of Information Technology Pakistan (APIIT PAK)",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Asia Pacific",
+    "domain": "apiit.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "CIT College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "COMSATS Institute of Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "COMSATS",
+    "domain": "ciit.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "COMSATS Institute of Information Technology, Wah",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "COMSATS",
+    "domain": "ciit-wah.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "COSMIQ Institute of Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "COSMIQ",
+    "domain": "cosmiq.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Central College of Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College Swiss Switzerland",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College of Administration and Computer Science",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College of Advance Professional Studies",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College of Business Administration",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College of Computer and Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College of Computer and Management Studies",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College of Education",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College of Global Technologies",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College of Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College of Management Science",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College of Management and Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College of Physicians and Surgeons Pakistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "iom.edu.np",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College of Professional Studies",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College of Technical Education",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "College of Tourism and Hotel Management - COTHM",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Comstech Degree College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Comstech Law College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "D.G. College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Dawood College of Engineering and Technology, Karachi",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Edycare College of Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Excelsior College of Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Forman Christian College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "fccollege.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Private"
+  },
+  {
+    "name": "Forward Degree College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "kpbte.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gandhara Institute of Medical Sciences",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Gandhara",
+    "domain": "gandhara.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Gangdara Institute Of Science & Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Gangdara",
+    "domain": "gist.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Ghulam Ishaq Khan Institute of Science & Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Ghulam Ishaq Khan",
+    "domain": "giki.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Global College of Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Government College, Lahore",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Hahnamann Honoeopathic Medical College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Hahnamann Honoeopathic Medical",
+    "domain": "pakistanhomoeopathy.com",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Heritage International Colleges",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Higher Education College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Imperial College of Business Studies",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "imperial.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Business & Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Pakistan",
+    "domain": "biztek.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Business Administration (IBA)",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Pakistan",
+    "domain": "iba.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Business Management",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Pakistan",
+    "domain": "iobm.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Industrial Electronics Engineering",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Pakistan",
+    "domain": "iiee.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Space Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Pakistan",
+    "domain": "ist.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "International College of Commerce",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamabad Law College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamia College of Commerce",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Islamia College, Peshawar",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "KASB Institute of Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "KASB",
+    "domain": "kasbit.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Khyber College of Commerce",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kinnaird College for Women, Lahore",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Kynat College of Commerce",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "LIONS College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Leads Law College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Michigan International College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Murray College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "murraycollege.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "NICON College of Computer Sciences",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National College of Arts",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Pakistan",
+    "domain": "nca.edu.pk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "National College of Arts, Lahore",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National College of Business Administration and Economics",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "ncbae.edu.pk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National College of Commerce",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National College of Computer Sciences",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Group of Textile Colleges",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Textile College and Management Institute",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "National Textile College of Professional Sciences and IT",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Newports Institute of Communication & Economics",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Newports",
+    "domain": "newports.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Nuclear Institute for Agriculture and Biology (NIAB)",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Nuclear",
+    "domain": "niab.org.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Opstech College of Computer Science",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pak-AIMS (American Institute of Management Sciences)",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Pak-AIMS (American",
+    "domain": "pakaims.edu",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan College of Science and Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan Institute of Engineering and Applied Sciences (PIEAS)",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Pakistan",
+    "domain": "pieas.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Pakistan Mission Law College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Pioneer College of Commerce",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Quaid-e-Azam College of Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Quaid-e-Azam College, Mian Channu",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Raees ul Ahrar College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Shaheed Zulifkar Ali Bhutto Institute of Science and Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Shaheed Zulifkar Ali Bhutto",
+    "domain": "szabist.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Shibly College of Commerce",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Softlogix College of Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "St. Thomas' Theological College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Textile Institute of Pakistan",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "Textile",
+    "domain": "tip.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "The Millennium Universal College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "londoninternational.ac.uk",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The National College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "The Superior College",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "The Superior",
+    "domain": "superior.edu.pk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "UK College of Information Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "UK College of Technology",
+    "country": "Pakistan",
+    "state": "Pakistan",
+    "city": "",
+    "domain": "",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Barani Institute of Information Technology",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "Barani",
+    "domain": "biit.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Barani Institute of Management Sciences",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "Barani",
+    "domain": "bims.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "COMSATS Institute of Information Technology, Attock",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "COMSATS",
+    "domain": "ciit-attock.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "COMSATS Institute of Information Technology, Lahore",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "COMSATS",
+    "domain": "ciitlahore.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Management Sciences, Lahore (IMS)",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "",
+    "domain": "pakaims.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Punjab Institute of Computer science",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "Punjab",
+    "domain": "pics.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Sir Syed Institute Of Technology Islamabad",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "Sir Syed",
+    "domain": "ssms.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Wah Medical College",
+    "country": "Pakistan",
+    "state": "Panjab",
+    "city": "Wah Medical",
+    "domain": "wahmedicalcollege.edu.pk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Faisalabad Institute of Textile and Fashion Design",
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Faisalabad",
+    "domain": "fitfd.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "The Global College Lahore",
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "The Global",
+    "domain": "global.edu.pk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "College of Business Management (CBM)",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "",
+    "domain": "cbm.iobm.edu.pk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Dadabhoy Institute of Higher Education",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Dadabhoy",
+    "domain": "dadabhoy.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Dawood College of Engineering and Technology",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Dawood",
+    "domain": "dcet.edu.pk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Indus Institute of Higher Education",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Indus",
+    "domain": "indus.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Institute of Business Administration Sukkur",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Sukkur",
+    "domain": "iba-suk.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Karachi Institute Of Economics And Technology",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Karachi",
+    "domain": "pafkiet.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Karachi Institute of Information Technology",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Karachi",
+    "domain": "kiit.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  },
+  {
+    "name": "Karachi Medical and Dental College",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Karachi",
+    "domain": "kmdc.edu.pk",
+    "aliases": [],
+    "type": "College",
+    "control": "Public"
+  },
+  {
+    "name": "Preston Institute of Management Sciences and Technology (PIMSAT)",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Preston",
+    "domain": "pimsat-khi.edu.pk",
+    "aliases": [],
+    "type": "Institute",
+    "control": "Public"
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Academy of Public Administration of Belarus",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Belarus",
+    "domain": "pac.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Academy of the Ministry of Internal Affairs of the Republic of Belarus",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Belarus",
+    "domain": "academy.mia.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Belarusian-Russian University",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Belarusian-Russian",
+    "domain": "bru.mogilev.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Belarussian National Technical University",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Belarussian National Technical",
+    "domain": "bntu.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Belarussian State Academy of Music",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Belarus",
+    "domain": "bgam.edu.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Belarussian State Agrarian Technical University",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Belarussian State Agrarian Technical",
+    "domain": "batu.edu.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Belarussian State Agricultural Academy",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Belarus",
+    "domain": "baa.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Belarussian State Economic University",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Belarussian State Economic",
+    "domain": "bseu.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Belarussian State Medical University",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Belarussian State Medical",
+    "domain": "bsmu.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Belarussian State Pedagogical University M. Tanka",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Belarussian State Pedagogical",
+    "domain": "bspu.unibel.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Belarussian State Technological University",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Belarussian State Technological",
+    "domain": "bstu.unibel.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Belarussian State University",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Belarussian State",
+    "domain": "bsu.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Belarussian State University of Culture and Arts",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Culture and Arts",
+    "domain": "buk.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Belarussian State University of Informatics and Radioelectronics",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Informatics and Radioelectronics",
+    "domain": "bsuir.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Belarussian State University of Transport",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Transport",
+    "domain": "belsut.gomel.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Brest State Technical University",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Brest State Technical",
+    "domain": "bstu.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Brest State University",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Brest State",
+    "domain": "brsu.brest.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "European Humanities University",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "European Humanities",
+    "domain": "data.minsk.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gomel State Medical University",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Gomel State Medical",
+    "domain": "meduniver.gomel.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gomel State Technical University Pavel Sukhoi",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Gomel State Technical",
+    "domain": "gstu.gomel.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Gomel State University Francisk Scarnia",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Gomel State",
+    "domain": "gsu.unibel.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Grodno State Agrarian University",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Grodno State Agrarian",
+    "domain": "uni-agro.grodno.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Grodno State Medical University",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Grodno State Medical",
+    "domain": "grsmu.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Grodno State University Yanka Kupaly",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Grodno State",
+    "domain": "grsu.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "International Sakharov Environmental University",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "International Sakharov Environmental",
+    "domain": "iseu.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Minsk State Linguistic University",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Minsk State Linguistic",
+    "domain": "mslu.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Mogilev State University A.A. Kuleshov",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Mogilev State",
+    "domain": "msu.mogilev.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Polotsk State University",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Polotsk State",
+    "domain": "psu.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vitebsk State Academy of Veterinary Medicine",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Belarus",
+    "domain": "vsavm.com",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vitebsk State Medical University",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Vitebsk State Medical",
+    "domain": "vgmu.vitebsk.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vitebsk State Technological University",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Vitebsk State Technological",
+    "domain": "vstu.vitebsk.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  },
+  {
+    "name": "Vitebsk State University",
+    "country": "Belarus",
+    "state": "Belarus",
+    "city": "Vitebsk State",
+    "domain": "vsu.by",
+    "aliases": [],
+    "type": "University",
+    "control": "Public"
+  }
+]
